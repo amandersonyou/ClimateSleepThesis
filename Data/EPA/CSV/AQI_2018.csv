@@ -1,0 +1,1057 @@
+State,County,State_Couinty,Year,Median AQI,Days CO,Days NO2,Days Ozone,Days SO2,Days PM2.5,Days PM10
+Alabama,Baldwin,Alabama Baldwin,2018,35,0,0,214,0,56,0
+Alabama,Clay,Alabama Clay,2018,27,0,0,0,0,110,0
+Alabama,Colbert,Alabama Colbert,2018,35,0,0,209,0,68,0
+Alabama,DeKalb,Alabama DeKalb,2018,35,0,0,317,0,33,0
+Alabama,Elmore,Alabama Elmore,2018,33,0,0,222,0,0,0
+Alabama,Etowah,Alabama Etowah,2018,41,0,0,179,0,145,0
+Alabama,Houston,Alabama Houston,2018,35,0,0,211,0,66,0
+Alabama,Jefferson,Alabama Jefferson,2018,51,0,1,106,32,223,3
+Alabama,Lawrence,Alabama Lawrence,2018,23,0,0,0,0,118,0
+Alabama,Madison,Alabama Madison,2018,41,0,0,130,0,234,1
+Alabama,Mobile,Alabama Mobile,2018,38,0,0,150,13,202,0
+Alabama,Montgomery,Alabama Montgomery,2018,52,0,0,43,0,281,0
+Alabama,Morgan,Alabama Morgan,2018,37,0,0,176,0,188,0
+Alabama,Russell,Alabama Russell,2018,39,0,0,115,0,249,0
+Alabama,Shelby,Alabama Shelby,2018,31,0,0,232,131,0,0
+Alabama,Sumter,Alabama Sumter,2018,29,0,0,222,13,130,0
+Alabama,Tuscaloosa,Alabama Tuscaloosa,2018,37,0,0,195,0,125,0
+Alaska,Aleutians East ,Alaska Aleutians East ,2018,10,0,0,0,0,120,0
+Alaska,Anchorage ,Alaska Anchorage ,2018,24,2,0,0,0,259,104
+Alaska,Bethel ,Alaska Bethel ,2018,15,0,0,0,0,142,60
+Alaska,Denali ,Alaska Denali ,2018,35,0,0,363,0,1,0
+Alaska,Fairbanks North Star ,Alaska Fairbanks North Star ,2018,34,0,28,113,2,217,5
+Alaska,Juneau ,Alaska Juneau ,2018,23,0,0,0,0,348,4
+Alaska,Kenai Peninsula ,Alaska Kenai Peninsula ,2018,8,0,0,0,0,120,0
+Alaska,Matanuska-Susitna ,Alaska Matanuska-Susitna ,2018,27,0,0,221,0,122,22
+Arizona,Apache,Arizona Apache,2018,12,0,0,0,0,32,326
+Arizona,Cochise,Arizona Cochise,2018,44,0,0,313,0,18,34
+Arizona,Coconino,Arizona Coconino,2018,45,0,0,358,0,7,0
+Arizona,Gila,Arizona Gila,2018,71,0,0,161,188,0,16
+Arizona,La Paz,Arizona La Paz,2018,44,0,0,351,0,7,6
+Arizona,Maricopa,Arizona Maricopa,2018,71,0,15,184,0,61,105
+Arizona,Mohave,Arizona Mohave,2018,18,0,0,0,0,33,330
+Arizona,Navajo,Arizona Navajo,2018,44,0,0,353,0,2,8
+Arizona,Pima,Arizona Pima,2018,49,0,0,255,0,31,79
+Arizona,Pinal,Arizona Pinal,2018,67,0,0,131,0,23,211
+Arizona,Santa Cruz,Arizona Santa Cruz,2018,31,0,0,0,0,220,145
+Arizona,Yavapai,Arizona Yavapai,2018,43,0,0,363,0,2,0
+Arizona,Yuma,Arizona Yuma,2018,45,0,0,235,0,33,97
+Arkansas,Arkansas,Arkansas Arkansas,2018,33,0,0,0,0,118,0
+Arkansas,Ashley,Arkansas Ashley,2018,29,0,0,0,0,121,0
+Arkansas,Clark,Arkansas Clark,2018,31,0,0,361,0,0,0
+Arkansas,Craighead,Arkansas Craighead,2018,35,0,0,0,0,90,0
+Arkansas,Crittenden,Arkansas Crittenden,2018,40,0,7,187,0,171,0
+Arkansas,Garland,Arkansas Garland,2018,31,0,0,0,0,121,0
+Arkansas,Jackson,Arkansas Jackson,2018,31,0,0,0,0,122,0
+Arkansas,Newton,Arkansas Newton,2018,35,0,0,352,0,12,0
+Arkansas,Polk,Arkansas Polk,2018,38,0,0,311,0,52,0
+Arkansas,Pulaski,Arkansas Pulaski,2018,43,0,1,146,0,218,0
+Arkansas,Union,Arkansas Union,2018,37,0,0,0,0,365,0
+Arkansas,Washington,Arkansas Washington,2018,42,0,0,216,0,149,0
+California,Alameda,California Alameda,2018,51,0,10,72,0,283,0
+California,Amador,California Amador,2018,40,0,0,364,0,0,0
+California,Butte,California Butte,2018,54,0,0,203,0,161,1
+California,Calaveras,California Calaveras,2018,53,0,0,141,0,223,0
+California,Colusa,California Colusa,2018,42,0,0,176,0,155,34
+California,Contra Costa,California Contra Costa,2018,48,0,1,107,1,256,0
+California,Del Norte,California Del Norte,2018,25,0,0,0,0,180,0
+California,El Dorado,California El Dorado,2018,45,0,0,353,0,3,9
+California,Fresno,California Fresno,2018,74,0,3,231,0,121,10
+California,Glenn,California Glenn,2018,36,0,0,154,0,136,73
+California,Humboldt,California Humboldt,2018,34,0,2,251,0,94,18
+California,Imperial,California Imperial,2018,62,0,7,129,0,100,129
+California,Inyo,California Inyo,2018,48,0,0,311,0,20,34
+California,Kern,California Kern,2018,84,0,0,246,0,106,13
+California,Kings,California Kings,2018,69,0,0,186,0,123,56
+California,Lake,California Lake,2018,33,0,0,344,0,11,2
+California,Los Angeles,California Los Angeles,2018,76,0,32,175,0,157,1
+California,Madera,California Madera,2018,56,0,0,210,0,120,35
+California,Marin,California Marin,2018,36,0,22,135,0,208,0
+California,Mariposa,California Mariposa,2018,50,0,0,265,0,100,0
+California,Mendocino,California Mendocino,2018,37,0,0,151,0,209,4
+California,Merced,California Merced,2018,51,0,1,196,0,167,1
+California,Mono,California Mono,2018,23,0,0,0,0,218,147
+California,Monterey,California Monterey,2018,38,0,1,212,0,93,59
+California,Napa,California Napa,2018,39,1,1,165,0,196,1
+California,Nevada,California Nevada,2018,44,0,0,327,0,36,0
+California,Orange,California Orange,2018,50,0,25,192,0,145,3
+California,Placer,California Placer,2018,50,0,1,297,0,65,2
+California,Plumas,California Plumas,2018,35,0,0,0,0,350,0
+California,Riverside,California Riverside,2018,87,0,1,232,0,89,43
+California,Sacramento,California Sacramento,2018,54,0,1,202,0,157,5
+California,San Benito,California San Benito,2018,41,0,0,321,0,43,1
+California,San Bernardino,California San Bernardino,2018,88,0,20,215,0,126,4
+California,San Diego,California San Diego,2018,64,0,1,202,0,162,0
+California,San Francisco,California San Francisco,2018,37,1,34,126,0,203,1
+California,San Joaquin,California San Joaquin,2018,54,0,1,154,0,204,6
+California,San Luis Obispo,California San Luis Obispo,2018,49,0,0,234,0,92,39
+California,San Mateo,California San Mateo,2018,36,0,22,138,0,205,0
+California,Santa Barbara,California Santa Barbara,2018,47,0,0,266,0,86,13
+California,Santa Clara,California Santa Clara,2018,44,0,7,166,0,192,0
+California,Santa Cruz,California Santa Cruz,2018,36,0,0,221,0,144,0
+California,Shasta,California Shasta,2018,43,0,0,343,0,21,1
+California,Siskiyou,California Siskiyou,2018,41,0,0,241,0,124,0
+California,Solano,California Solano,2018,42,0,3,184,0,178,0
+California,Sonoma,California Sonoma,2018,36,0,2,280,0,82,1
+California,Stanislaus,California Stanislaus,2018,54,0,2,203,0,151,9
+California,Sutter,California Sutter,2018,54,0,0,166,0,198,1
+California,Tehama,California Tehama,2018,45,0,0,239,0,126,0
+California,Trinity,California Trinity,2018,44,0,0,0,0,291,0
+California,Tulare,California Tulare,2018,77,0,0,233,0,124,8
+California,Tuolumne,California Tuolumne,2018,43,0,0,348,0,0,0
+California,Ventura,California Ventura,2018,52,0,2,213,0,138,12
+California,Yolo,California Yolo,2018,43,0,0,249,0,114,2
+Colorado,Adams,Colorado Adams,2018,49,0,59,146,0,95,65
+Colorado,Alamosa,Colorado Alamosa,2018,19,0,0,0,0,25,335
+Colorado,Arapahoe,Colorado Arapahoe,2018,45,0,0,354,0,11,0
+Colorado,Archuleta,Colorado Archuleta,2018,38,0,0,331,0,0,34
+Colorado,Boulder,Colorado Boulder,2018,46,0,0,285,0,77,0
+Colorado,Chaffee,Colorado Chaffee,2018,58,0,0,164,0,0,0
+Colorado,Clear Creek,Colorado Clear Creek,2018,51,0,0,291,0,0,0
+Colorado,Delta,Colorado Delta,2018,35,0,1,213,0,43,40
+Colorado,Denver,Colorado Denver,2018,51,0,147,142,0,76,0
+Colorado,Douglas,Colorado Douglas,2018,46,0,0,302,0,62,0
+Colorado,El Paso,Colorado El Paso,2018,46,0,0,329,0,36,0
+Colorado,Fremont,Colorado Fremont,2018,15,0,0,0,0,0,20
+Colorado,Garfield,Colorado Garfield,2018,48,0,0,362,0,2,1
+Colorado,Grand,Colorado Grand,2018,47,0,0,166,0,0,0
+Colorado,Gunnison,Colorado Gunnison,2018,47,0,0,354,0,0,11
+Colorado,Jackson,Colorado Jackson,2018,7,0,0,0,0,116,0
+Colorado,Jefferson,Colorado Jefferson,2018,46,0,0,365,0,0,0
+Colorado,La Plata,Colorado La Plata,2018,45,0,0,330,0,32,3
+Colorado,Larimer,Colorado Larimer,2018,50,0,0,322,0,43,0
+Colorado,Mesa,Colorado Mesa,2018,46,1,0,301,0,62,1
+Colorado,Moffat,Colorado Moffat,2018,42,0,0,331,0,0,0
+Colorado,Montezuma,Colorado Montezuma,2018,44,0,0,356,0,3,0
+Colorado,Montrose,Colorado Montrose,2018,42,0,0,326,0,0,0
+Colorado,Park,Colorado Park,2018,51,0,0,323,0,1,0
+Colorado,Pitkin,Colorado Pitkin,2018,14,0,0,0,0,31,92
+Colorado,Prowers,Colorado Prowers,2018,16,0,0,0,0,0,359
+Colorado,Pueblo,Colorado Pueblo,2018,23,0,0,0,0,84,39
+Colorado,Rio Blanco,Colorado Rio Blanco,2018,45,0,0,329,0,36,0
+Colorado,Routt,Colorado Routt,2018,15,0,0,0,0,0,355
+Colorado,San Juan,Colorado San Juan,2018,8,0,0,0,0,118,0
+Colorado,San Miguel,Colorado San Miguel,2018,46,0,0,181,0,0,57
+Colorado,Teller,Colorado Teller,2018,58,0,0,160,0,0,0
+Colorado,Weld,Colorado Weld,2018,50,0,0,264,0,100,1
+Connecticut,Fairfield,Connecticut Fairfield,2018,41,0,21,196,0,148,0
+Connecticut,Hartford,Connecticut Hartford,2018,37,0,24,193,0,145,3
+Connecticut,Litchfield,Connecticut Litchfield,2018,36,2,0,327,0,34,0
+Connecticut,Middlesex,Connecticut Middlesex,2018,40,0,0,208,0,0,0
+Connecticut,New Haven,Connecticut New Haven,2018,40,0,29,205,0,131,0
+Connecticut,New London,Connecticut New London,2018,35,0,0,189,0,126,0
+Connecticut,Tolland,Connecticut Tolland,2018,38,0,0,213,0,0,0
+Connecticut,Windham,Connecticut Windham,2018,34,0,0,358,0,0,0
+Country Of Mexico,BAJA CALIFORNIA NORTE,Country Of Mexico BAJA CALIFORNIA NORTE,2018,73,0,0,0,0,99,53
+Country Of Mexico,SONORA,Country Of Mexico SONORA,2018,38,0,0,362,0,0,0
+Delaware,Kent,Delaware Kent,2018,38,0,0,277,0,88,0
+Delaware,New Castle,Delaware New Castle,2018,42,0,4,230,1,130,0
+Delaware,Sussex,Delaware Sussex,2018,40,0,0,295,0,70,0
+District Of Columbia,District of Columbia,District Of Columbia District of Columbia,2018,44,0,16,184,0,165,0
+Florida,Alachua,Florida Alachua,2018,33,0,0,293,0,71,0
+Florida,Baker,Florida Baker,2018,31,0,0,360,0,0,0
+Florida,Bay,Florida Bay,2018,37,0,0,190,0,134,0
+Florida,Brevard,Florida Brevard,2018,37,0,0,284,0,81,0
+Florida,Broward,Florida Broward,2018,40,0,10,162,0,193,0
+Florida,Citrus,Florida Citrus,2018,32,0,0,0,20,339,0
+Florida,Collier,Florida Collier,2018,36,0,0,246,0,119,0
+Florida,Columbia,Florida Columbia,2018,34,0,0,218,0,141,0
+Florida,Duval,Florida Duval,2018,41,0,1,149,0,200,15
+Florida,Escambia,Florida Escambia,2018,37,0,0,342,0,23,0
+Florida,Flagler,Florida Flagler,2018,32,0,0,345,0,0,0
+Florida,Hamilton,Florida Hamilton,2018,31,0,0,0,52,307,0
+Florida,Highlands,Florida Highlands,2018,31,0,0,351,0,0,0
+Florida,Hillsborough,Florida Hillsborough,2018,42,0,0,166,14,183,2
+Florida,Holmes,Florida Holmes,2018,35,0,0,196,0,150,0
+Florida,Indian River,Florida Indian River,2018,36,0,0,356,0,0,0
+Florida,Lake,Florida Lake,2018,33,0,0,363,0,0,0
+Florida,Lee,Florida Lee,2018,35,0,0,294,0,71,0
+Florida,Leon,Florida Leon,2018,36,0,0,149,0,206,0
+Florida,Liberty,Florida Liberty,2018,31,0,0,284,0,0,0
+Florida,Manatee,Florida Manatee,2018,34,0,0,365,0,0,0
+Florida,Marion,Florida Marion,2018,35,0,0,229,0,136,0
+Florida,Martin,Florida Martin,2018,37,0,0,232,0,133,0
+Florida,Miami-Dade,Florida Miami-Dade,2018,41,0,17,139,0,208,1
+Florida,Nassau,Florida Nassau,2018,30,0,0,0,95,259,0
+Florida,Okaloosa,Florida Okaloosa,2018,33,0,0,345,0,0,8
+Florida,Orange,Florida Orange,2018,36,0,0,285,0,80,0
+Florida,Osceola,Florida Osceola,2018,33,0,0,365,0,0,0
+Florida,Palm Beach,Florida Palm Beach,2018,38,0,0,219,0,132,14
+Florida,Pasco,Florida Pasco,2018,35,0,0,365,0,0,0
+Florida,Pinellas,Florida Pinellas,2018,38,0,0,220,0,142,3
+Florida,Polk,Florida Polk,2018,35,0,0,275,1,89,0
+Florida,Putnam,Florida Putnam,2018,14,0,0,0,49,0,296
+Florida,Santa Rosa,Florida Santa Rosa,2018,38,0,0,221,0,142,0
+Florida,Sarasota,Florida Sarasota,2018,37,0,0,231,0,134,0
+Florida,Seminole,Florida Seminole,2018,36,0,0,303,0,62,0
+Florida,St. Lucie,Florida St. Lucie,2018,33,0,0,360,0,0,0
+Florida,Volusia,Florida Volusia,2018,36,0,0,274,0,91,0
+Florida,Wakulla,Florida Wakulla,2018,34,3,0,224,0,126,0
+Georgia,Bibb,Georgia Bibb,2018,35,0,0,168,10,187,0
+Georgia,Charlton,Georgia Charlton,2018,20,0,0,0,0,114,0
+Georgia,Chatham,Georgia Chatham,2018,38,0,0,99,37,229,0
+Georgia,Chattooga,Georgia Chattooga,2018,35,0,0,245,0,0,0
+Georgia,Clarke,Georgia Clarke,2018,39,0,0,151,0,181,0
+Georgia,Clayton,Georgia Clayton,2018,33,0,0,0,0,120,0
+Georgia,Cobb,Georgia Cobb,2018,39,0,0,225,0,61,0
+Georgia,Coffee,Georgia Coffee,2018,22,0,0,0,0,116,0
+Georgia,Columbia,Georgia Columbia,2018,36,0,0,245,0,0,0
+Georgia,Dawson,Georgia Dawson,2018,35,0,0,245,0,0,0
+Georgia,DeKalb,Georgia DeKalb,2018,40,0,36,147,0,182,0
+Georgia,Dougherty,Georgia Dougherty,2018,30,0,0,0,0,356,0
+Georgia,Douglas,Georgia Douglas,2018,37,0,0,242,0,0,0
+Georgia,Floyd,Georgia Floyd,2018,41,0,0,0,3,362,0
+Georgia,Fulton,Georgia Fulton,2018,44,0,18,113,0,234,0
+Georgia,Glynn,Georgia Glynn,2018,34,0,0,225,0,47,0
+Georgia,Gwinnett,Georgia Gwinnett,2018,43,0,0,122,0,239,0
+Georgia,Hall,Georgia Hall,2018,30,0,0,0,0,322,0
+Georgia,Henry,Georgia Henry,2018,34,0,0,186,0,168,0
+Georgia,Houston,Georgia Houston,2018,34,0,0,0,0,322,0
+Georgia,Lowndes,Georgia Lowndes,2018,37,0,0,0,0,315,0
+Georgia,Murray,Georgia Murray,2018,37,0,0,222,0,49,0
+Georgia,Muscogee,Georgia Muscogee,2018,34,0,0,178,0,186,0
+Georgia,Pike,Georgia Pike,2018,33,0,0,288,0,0,0
+Georgia,Richmond,Georgia Richmond,2018,40,0,0,107,26,222,9
+Georgia,Rockdale,Georgia Rockdale,2018,36,0,0,243,0,0,0
+Georgia,Sumter,Georgia Sumter,2018,34,0,0,241,0,0,0
+Georgia,Walker,Georgia Walker,2018,35,0,0,0,0,347,0
+Georgia,Washington,Georgia Washington,2018,28,0,0,0,0,121,0
+Hawaii,Hawaii,Hawaii Hawaii,2018,87,0,0,0,221,144,0
+Hawaii,Honolulu,Hawaii Honolulu,2018,30,0,2,240,41,74,8
+Hawaii,Kauai,Hawaii Kauai,2018,15,0,166,0,0,189,0
+Hawaii,Maui,Hawaii Maui,2018,19,0,0,0,0,361,0
+Idaho,Ada,Idaho Ada,2018,40,3,0,267,0,91,4
+Idaho,Bannock,Idaho Bannock,2018,30,0,0,0,143,162,60
+Idaho,Benewah,Idaho Benewah,2018,42,0,0,0,0,361,0
+Idaho,Blaine,Idaho Blaine,2018,13,0,0,0,0,363,0
+Idaho,Boise,Idaho Boise,2018,40,0,0,0,0,365,0
+Idaho,Bonner,Idaho Bonner,2018,29,0,0,0,0,318,45
+Idaho,Bonneville,Idaho Bonneville,2018,27,0,0,0,0,352,0
+Idaho,Butte,Idaho Butte,2018,40,0,0,354,0,9,0
+Idaho,Canyon,Idaho Canyon,2018,28,0,0,0,0,290,75
+Idaho,Caribou,Idaho Caribou,2018,3,0,0,0,363,0,0
+Idaho,Custer,Idaho Custer,2018,5,0,0,0,0,90,0
+Idaho,Franklin,Idaho Franklin,2018,19,0,0,0,0,319,0
+Idaho,Idaho,Idaho Idaho,2018,39,0,0,231,0,134,0
+Idaho,Jerome,Idaho Jerome,2018,18,0,0,0,0,320,0
+Idaho,Kootenai,Idaho Kootenai,2018,25,0,0,0,0,331,0
+Idaho,Latah,Idaho Latah,2018,10,0,0,0,0,365,0
+Idaho,Lemhi,Idaho Lemhi,2018,29,0,0,0,0,360,0
+Idaho,Nez Perce,Idaho Nez Perce,2018,19,0,0,0,0,365,0
+Idaho,Shoshone,Idaho Shoshone,2018,43,0,0,0,0,358,7
+Idaho,Twin Falls,Idaho Twin Falls,2018,29,0,0,0,0,355,0
+Idaho,Valley,Idaho Valley,2018,22,0,0,0,0,353,0
+Illinois,Adams,Illinois Adams,2018,35,0,0,245,0,0,0
+Illinois,Champaign,Illinois Champaign,2018,42,0,0,222,0,143,0
+Illinois,Clark,Illinois Clark,2018,32,0,0,359,0,0,0
+Illinois,Cook,Illinois Cook,2018,54,0,48,120,0,189,8
+Illinois,DuPage,Illinois DuPage,2018,45,0,0,135,0,226,0
+Illinois,Effingham,Illinois Effingham,2018,39,0,0,245,0,0,0
+Illinois,Hamilton,Illinois Hamilton,2018,40,0,0,170,0,192,0
+Illinois,Jersey,Illinois Jersey,2018,42,0,0,195,0,161,0
+Illinois,Jo Daviess,Illinois Jo Daviess,2018,33,0,0,344,0,0,0
+Illinois,Kane,Illinois Kane,2018,38,0,0,310,0,54,0
+Illinois,La Salle,Illinois La Salle,2018,1,0,0,0,362,0,0
+Illinois,Lake,Illinois Lake,2018,35,0,0,352,0,0,0
+Illinois,Macon,Illinois Macon,2018,51,0,0,98,103,164,0
+Illinois,Macoupin,Illinois Macoupin,2018,34,0,88,244,32,0,0
+Illinois,Madison,Illinois Madison,2018,46,0,0,206,0,152,7
+Illinois,McHenry,Illinois McHenry,2018,42,0,0,240,0,122,0
+Illinois,McLean,Illinois McLean,2018,44,0,0,167,0,198,0
+Illinois,Monroe,Illinois Monroe,2018,3,0,0,0,365,0,0
+Illinois,Peoria,Illinois Peoria,2018,43,0,0,192,0,173,0
+Illinois,Randolph,Illinois Randolph,2018,41,0,0,185,0,178,0
+Illinois,Rock Island,Illinois Rock Island,2018,40,0,0,231,0,134,0
+Illinois,Saint Clair,Illinois Saint Clair,2018,44,2,21,146,0,195,0
+Illinois,Sangamon,Illinois Sangamon,2018,43,0,0,197,0,166,0
+Illinois,Tazewell,Illinois Tazewell,2018,1,0,0,0,137,0,0
+Illinois,Wabash,Illinois Wabash,2018,1,0,0,0,363,0,0
+Illinois,Will,Illinois Will,2018,43,0,0,216,0,149,0
+Illinois,Winnebago,Illinois Winnebago,2018,35,0,0,346,0,16,0
+Indiana,Allen,Indiana Allen,2018,43,0,0,216,0,149,0
+Indiana,Bartholomew,Indiana Bartholomew,2018,40,0,0,242,0,123,0
+Indiana,Boone,Indiana Boone,2018,34,0,0,365,0,0,0
+Indiana,Brown,Indiana Brown,2018,33,0,0,363,0,0,0
+Indiana,Carroll,Indiana Carroll,2018,32,0,0,359,0,0,0
+Indiana,Clark,Indiana Clark,2018,36,0,0,305,0,52,0
+Indiana,Daviess,Indiana Daviess,2018,0,0,0,0,325,0,0
+Indiana,Delaware,Indiana Delaware,2018,35,0,0,317,0,44,0
+Indiana,Dubois,Indiana Dubois,2018,31,0,0,0,0,116,3
+Indiana,Elkhart,Indiana Elkhart,2018,38,0,0,194,0,169,0
+Indiana,Floyd,Indiana Floyd,2018,34,0,0,323,13,23,0
+Indiana,Gibson,Indiana Gibson,2018,1,0,0,0,363,0,0
+Indiana,Greene,Indiana Greene,2018,37,0,0,322,0,39,0
+Indiana,Hamilton,Indiana Hamilton,2018,40,0,0,227,0,138,0
+Indiana,Hendricks,Indiana Hendricks,2018,33,0,0,365,0,0,0
+Indiana,Henry,Indiana Henry,2018,31,0,0,0,0,116,0
+Indiana,Howard,Indiana Howard,2018,39,0,0,214,0,151,0
+Indiana,Huntington,Indiana Huntington,2018,31,0,0,358,0,0,0
+Indiana,Jackson,Indiana Jackson,2018,32,0,0,341,0,0,0
+Indiana,Knox,Indiana Knox,2018,35,0,0,357,0,0,0
+Indiana,LaPorte,Indiana LaPorte,2018,36,0,0,335,0,28,0
+Indiana,Lake,Indiana Lake,2018,45,0,15,113,1,227,9
+Indiana,Madison,Indiana Madison,2018,41,0,0,211,0,154,0
+Indiana,Marion,Indiana Marion,2018,49,0,6,124,0,235,0
+Indiana,Monroe,Indiana Monroe,2018,36,0,0,0,0,335,0
+Indiana,Morgan,Indiana Morgan,2018,34,0,0,342,23,0,0
+Indiana,Perry,Indiana Perry,2018,35,0,0,350,0,0,0
+Indiana,Pike,Indiana Pike,2018,1,0,0,0,361,0,0
+Indiana,Porter,Indiana Porter,2018,41,0,0,211,9,129,16
+Indiana,Posey,Indiana Posey,2018,34,0,0,360,0,0,0
+Indiana,Shelby,Indiana Shelby,2018,34,0,0,361,0,0,0
+Indiana,Spencer,Indiana Spencer,2018,31,0,0,0,0,121,0
+Indiana,St. Joseph,Indiana St. Joseph,2018,42,0,3,183,0,179,0
+Indiana,Sullivan,Indiana Sullivan,2018,33,0,0,0,0,181,0
+Indiana,Tippecanoe,Indiana Tippecanoe,2018,34,0,0,0,0,345,0
+Indiana,Vanderburgh,Indiana Vanderburgh,2018,41,0,0,199,0,166,0
+Indiana,Vigo,Indiana Vigo,2018,42,0,0,202,0,163,0
+Indiana,Wabash,Indiana Wabash,2018,35,0,0,362,0,0,0
+Indiana,Warrick,Indiana Warrick,2018,35,0,0,365,0,0,0
+Indiana,Whitley,Indiana Whitley,2018,31,0,0,0,0,348,0
+Iowa,Black Hawk,Iowa Black Hawk,2018,42,0,0,0,0,365,0
+Iowa,Bremer,Iowa Bremer,2018,37,0,0,245,0,0,0
+Iowa,Cerro Gordo,Iowa Cerro Gordo,2018,16,0,0,0,0,0,115
+Iowa,Clinton,Iowa Clinton,2018,43,0,0,145,2,218,0
+Iowa,Harrison,Iowa Harrison,2018,39,0,0,245,0,0,0
+Iowa,Johnson,Iowa Johnson,2018,38,0,0,0,0,362,0
+Iowa,Lee,Iowa Lee,2018,34,0,0,0,0,121,0
+Iowa,Linn,Iowa Linn,2018,44,0,0,150,3,211,1
+Iowa,Montgomery,Iowa Montgomery,2018,39,0,0,149,0,216,0
+Iowa,Muscatine,Iowa Muscatine,2018,41,0,0,0,3,361,1
+Iowa,Palo Alto,Iowa Palo Alto,2018,42,0,0,160,0,205,0
+Iowa,Polk,Iowa Polk,2018,40,0,5,225,0,135,0
+Iowa,Pottawattamie,Iowa Pottawattamie,2018,33,0,0,0,0,114,10
+Iowa,Scott,Iowa Scott,2018,52,0,1,66,0,204,94
+Iowa,Van Buren,Iowa Van Buren,2018,38,0,0,178,0,180,1
+Iowa,Woodbury,Iowa Woodbury,2018,33,0,0,0,0,122,0
+Kansas,Chase,Kansas Chase,2018,23,0,0,0,0,116,0
+Kansas,Ford,Kansas Ford,2018,17,0,0,0,0,0,354
+Kansas,Johnson,Kansas Johnson,2018,36,0,0,274,0,89,0
+Kansas,Leavenworth,Kansas Leavenworth,2018,33,0,0,362,0,0,0
+Kansas,Neosho,Kansas Neosho,2018,37,0,0,303,0,50,6
+Kansas,Sedgwick,Kansas Sedgwick,2018,41,0,18,231,0,55,61
+Kansas,Shawnee,Kansas Shawnee,2018,42,0,0,181,0,184,0
+Kansas,Sherman,Kansas Sherman,2018,14,0,0,0,0,0,350
+Kansas,Sumner,Kansas Sumner,2018,36,0,1,312,0,36,16
+Kansas,Trego,Kansas Trego,2018,38,0,1,324,1,38,1
+Kansas,Wyandotte,Kansas Wyandotte,2018,42,0,19,180,0,165,1
+Kentucky,Bell,Kentucky Bell,2018,39,0,0,226,0,30,0
+Kentucky,Boone,Kentucky Boone,2018,38,0,0,243,0,0,0
+Kentucky,Boyd,Kentucky Boyd,2018,38,0,14,159,2,190,0
+Kentucky,Bullitt,Kentucky Bullitt,2018,38,0,0,233,0,0,0
+Kentucky,Campbell,Kentucky Campbell,2018,39,0,11,160,3,178,0
+Kentucky,Carter,Kentucky Carter,2018,33,0,0,217,0,64,0
+Kentucky,Christian,Kentucky Christian,2018,39,0,0,213,0,67,0
+Kentucky,Daviess,Kentucky Daviess,2018,40,0,17,144,4,192,0
+Kentucky,Edmonson,Kentucky Edmonson,2018,38,1,0,195,1,168,0
+Kentucky,Fayette,Kentucky Fayette,2018,40,0,13,111,1,239,1
+Kentucky,Greenup,Kentucky Greenup,2018,30,0,0,238,122,0,0
+Kentucky,Hancock,Kentucky Hancock,2018,38,0,0,125,0,0,0
+Kentucky,Hardin,Kentucky Hardin,2018,40,0,0,121,0,240,0
+Kentucky,Henderson,Kentucky Henderson,2018,43,0,0,122,51,192,0
+Kentucky,Jefferson,Kentucky Jefferson,2018,47,0,18,144,0,203,0
+Kentucky,Jessamine,Kentucky Jessamine,2018,32,0,0,237,119,0,0
+Kentucky,Livingston,Kentucky Livingston,2018,39,0,0,240,0,0,17
+Kentucky,McCracken,Kentucky McCracken,2018,42,0,1,133,0,230,0
+Kentucky,Morgan,Kentucky Morgan,2018,34,0,0,364,0,0,0
+Kentucky,Oldham,Kentucky Oldham,2018,38,0,0,243,0,0,0
+Kentucky,Perry,Kentucky Perry,2018,38,0,0,122,0,242,0
+Kentucky,Pike,Kentucky Pike,2018,35,0,0,146,0,213,0
+Kentucky,Pulaski,Kentucky Pulaski,2018,38,0,0,218,0,64,0
+Kentucky,Simpson,Kentucky Simpson,2018,38,0,0,243,0,0,0
+Kentucky,Trigg,Kentucky Trigg,2018,35,0,0,348,0,0,0
+Kentucky,Warren,Kentucky Warren,2018,39,0,0,103,0,249,0
+Kentucky,Washington,Kentucky Washington,2018,35,0,0,359,0,0,0
+Louisiana,Ascension,Louisiana Ascension,2018,31,0,7,357,0,0,0
+Louisiana,Bossier,Louisiana Bossier,2018,35,0,0,288,0,73,4
+Louisiana,Caddo,Louisiana Caddo,2018,37,0,0,291,0,70,0
+Louisiana,Calcasieu,Louisiana Calcasieu,2018,44,0,4,111,7,243,0
+Louisiana,East Baton Rouge,Louisiana East Baton Rouge,2018,42,0,6,159,5,194,1
+Louisiana,Iberville,Louisiana Iberville,2018,36,0,1,324,0,40,0
+Louisiana,Jefferson,Louisiana Jefferson,2018,40,0,5,168,0,192,0
+Louisiana,Lafayette,Louisiana Lafayette,2018,40,0,0,197,0,168,0
+Louisiana,Lafourche,Louisiana Lafourche,2018,36,0,0,259,0,103,0
+Louisiana,Livingston,Louisiana Livingston,2018,39,0,0,195,0,170,0
+Louisiana,Orleans,Louisiana Orleans,2018,35,0,44,0,0,315,6
+Louisiana,Ouachita,Louisiana Ouachita,2018,32,0,0,313,0,50,0
+Louisiana,Pointe Coupee,Louisiana Pointe Coupee,2018,31,0,0,356,0,0,0
+Louisiana,Rapides,Louisiana Rapides,2018,31,0,0,0,0,119,0
+Louisiana,St. Bernard,Louisiana St. Bernard,2018,42,0,0,182,8,174,1
+Louisiana,St. Charles,Louisiana St. Charles,2018,4,0,0,0,365,0,0
+Louisiana,St. James,Louisiana St. James,2018,27,0,0,364,1,0,0
+Louisiana,St. John the Baptist,Louisiana St. John the Baptist,2018,31,0,0,359,0,0,0
+Louisiana,St. Martin,Louisiana St. Martin,2018,33,0,0,352,0,0,0
+Louisiana,St. Tammany,Louisiana St. Tammany,2018,35,0,0,268,0,97,0
+Louisiana,Tangipahoa,Louisiana Tangipahoa,2018,28,0,0,0,0,125,0
+Louisiana,Terrebonne,Louisiana Terrebonne,2018,27,0,0,0,0,119,0
+Louisiana,West Baton Rouge,Louisiana West Baton Rouge,2018,38,0,10,149,4,202,0
+Maine,Androscoggin,Maine Androscoggin,2018,31,0,0,190,0,169,2
+Maine,Aroostook,Maine Aroostook,2018,37,0,0,219,0,145,1
+Maine,Cumberland,Maine Cumberland,2018,37,0,13,243,0,107,2
+Maine,Hancock,Maine Hancock,2018,37,0,0,355,0,10,0
+Maine,Kennebec,Maine Kennebec,2018,30,0,114,217,1,25,3
+Maine,Knox,Maine Knox,2018,36,0,0,219,0,0,0
+Maine,Oxford,Maine Oxford,2018,34,0,0,176,0,178,0
+Maine,Penobscot,Maine Penobscot,2018,32,0,0,197,0,164,4
+Maine,Washington,Maine Washington,2018,36,0,0,327,0,12,0
+Maine,York,Maine York,2018,40,0,0,227,0,0,0
+Maryland,Allegany,Maryland Allegany,2018,13,0,0,0,365,0,0
+Maryland,Anne Arundel,Maryland Anne Arundel,2018,35,0,0,237,95,0,14
+Maryland,Baltimore,Maryland Baltimore,2018,42,0,15,228,0,122,0
+Maryland,Baltimore (City),Maryland Baltimore (City),2018,43,0,25,151,0,188,0
+Maryland,Calvert,Maryland Calvert,2018,39,0,0,243,0,0,0
+Maryland,Carroll,Maryland Carroll,2018,41,0,0,240,0,0,0
+Maryland,Cecil,Maryland Cecil,2018,40,0,0,160,0,198,0
+Maryland,Charles,Maryland Charles,2018,39,0,0,235,0,0,0
+Maryland,Dorchester,Maryland Dorchester,2018,38,0,0,314,0,51,0
+Maryland,Frederick,Maryland Frederick,2018,41,0,0,245,0,0,0
+Maryland,Garrett,Maryland Garrett,2018,37,0,0,313,0,49,0
+Maryland,Harford,Maryland Harford,2018,39,0,0,226,0,132,0
+Maryland,Howard,Maryland Howard,2018,35,0,77,0,0,288,0
+Maryland,Kent,Maryland Kent,2018,39,0,0,224,0,137,0
+Maryland,Montgomery,Maryland Montgomery,2018,42,0,0,185,0,162,0
+Maryland,Prince George's,Maryland Prince George's,2018,39,0,4,288,0,73,0
+Maryland,Washington,Maryland Washington,2018,38,0,0,200,0,156,0
+Massachusetts,Barnstable,Massachusetts Barnstable,2018,36,0,0,355,0,5,0
+Massachusetts,Berkshire,Massachusetts Berkshire,2018,33,0,0,80,0,285,0
+Massachusetts,Bristol,Massachusetts Bristol,2018,40,0,0,276,0,89,0
+Massachusetts,Dukes,Massachusetts Dukes,2018,37,0,0,352,0,8,0
+Massachusetts,Essex,Massachusetts Essex,2018,38,0,4,260,0,101,0
+Massachusetts,Franklin,Massachusetts Franklin,2018,36,0,0,280,0,85,0
+Massachusetts,Hampden,Massachusetts Hampden,2018,38,0,19,232,0,114,0
+Massachusetts,Hampshire,Massachusetts Hampshire,2018,37,0,5,258,0,100,0
+Massachusetts,Middlesex,Massachusetts Middlesex,2018,35,0,7,269,0,89,0
+Massachusetts,Norfolk,Massachusetts Norfolk,2018,32,0,19,334,0,0,0
+Massachusetts,Plymouth,Massachusetts Plymouth,2018,36,0,0,279,0,85,0
+Massachusetts,Suffolk,Massachusetts Suffolk,2018,44,0,13,58,0,294,0
+Massachusetts,Worcester,Massachusetts Worcester,2018,38,0,8,273,0,84,0
+Michigan,Allegan,Michigan Allegan,2018,40,0,0,229,0,57,0
+Michigan,Bay,Michigan Bay,2018,28,0,0,0,0,356,0
+Michigan,Benzie,Michigan Benzie,2018,38,0,0,250,0,0,0
+Michigan,Berrien,Michigan Berrien,2018,40,0,0,245,0,0,0
+Michigan,Cass,Michigan Cass,2018,40,0,0,240,0,0,0
+Michigan,Chippewa,Michigan Chippewa,2018,34,0,0,111,0,160,0
+Michigan,Clinton,Michigan Clinton,2018,39,0,0,244,0,0,0
+Michigan,Genesee,Michigan Genesee,2018,38,0,0,214,0,148,0
+Michigan,Huron,Michigan Huron,2018,38,0,0,241,0,0,0
+Michigan,Ingham,Michigan Ingham,2018,37,0,0,191,0,151,0
+Michigan,Kalamazoo,Michigan Kalamazoo,2018,40,0,0,170,0,186,0
+Michigan,Kent,Michigan Kent,2018,39,0,0,227,0,138,0
+Michigan,Keweenaw,Michigan Keweenaw,2018,9,0,0,0,0,114,0
+Michigan,Lenawee,Michigan Lenawee,2018,38,0,0,221,0,123,0
+Michigan,Macomb,Michigan Macomb,2018,39,0,0,249,0,50,0
+Michigan,Manistee,Michigan Manistee,2018,33,0,0,206,0,59,0
+Michigan,Mason,Michigan Mason,2018,37,0,0,252,0,0,0
+Michigan,Missaukee,Michigan Missaukee,2018,36,0,2,339,0,24,0
+Michigan,Monroe,Michigan Monroe,2018,1,0,0,0,304,0,61
+Michigan,Muskegon,Michigan Muskegon,2018,40,0,0,240,0,0,0
+Michigan,Oakland,Michigan Oakland,2018,40,0,0,220,0,58,0
+Michigan,Ottawa,Michigan Ottawa,2018,36,0,0,235,76,52,2
+Michigan,Schoolcraft,Michigan Schoolcraft,2018,31,0,0,245,0,106,0
+Michigan,St. Clair,Michigan St. Clair,2018,40,0,0,145,120,100,0
+Michigan,Tuscola,Michigan Tuscola,2018,35,0,0,356,0,0,0
+Michigan,Washtenaw,Michigan Washtenaw,2018,40,0,0,234,0,131,0
+Michigan,Wayne,Michigan Wayne,2018,52,0,7,81,23,222,32
+Michigan,Wexford,Michigan Wexford,2018,35,0,0,356,0,0,0
+Minnesota,Anoka,Minnesota Anoka,2018,40,0,6,216,0,142,1
+Minnesota,Becker,Minnesota Becker,2018,31,0,0,203,0,155,0
+Minnesota,Beltrami,Minnesota Beltrami,2018,23,0,0,0,0,352,0
+Minnesota,Carlton,Minnesota Carlton,2018,26,0,0,159,0,195,0
+Minnesota,Cass,Minnesota Cass,2018,23,0,0,0,0,320,0
+Minnesota,Cook,Minnesota Cook,2018,18,0,0,0,0,353,0
+Minnesota,Crow Wing,Minnesota Crow Wing,2018,27,0,0,167,0,181,0
+Minnesota,Dakota,Minnesota Dakota,2018,31,0,64,0,0,301,0
+Minnesota,Goodhue,Minnesota Goodhue,2018,38,0,0,231,0,0,0
+Minnesota,Hennepin,Minnesota Hennepin,2018,44,4,12,60,0,159,130
+Minnesota,Lake,Minnesota Lake,2018,32,0,0,159,0,86,120
+Minnesota,Lyon,Minnesota Lyon,2018,32,0,0,166,0,199,0
+Minnesota,Mille Lacs,Minnesota Mille Lacs,2018,30,0,0,126,0,0,0
+Minnesota,Olmsted,Minnesota Olmsted,2018,38,0,0,148,0,213,0
+Minnesota,Ramsey,Minnesota Ramsey,2018,34,0,0,0,0,324,41
+Minnesota,Saint Louis,Minnesota Saint Louis,2018,35,0,0,281,0,74,10
+Minnesota,Scott,Minnesota Scott,2018,35,0,0,291,0,66,0
+Minnesota,Stearns,Minnesota Stearns,2018,34,0,0,186,0,179,0
+Minnesota,Washington,Minnesota Washington,2018,44,0,0,81,1,215,68
+Minnesota,Winona,Minnesota Winona,2018,20,0,0,0,0,113,0
+Minnesota,Wright,Minnesota Wright,2018,37,0,0,203,0,162,0
+Mississippi,Bolivar,Mississippi Bolivar,2018,41,0,0,163,0,149,0
+Mississippi,DeSoto,Mississippi DeSoto,2018,40,0,0,127,0,238,0
+Mississippi,Forrest,Mississippi Forrest,2018,37,0,0,0,0,359,0
+Mississippi,Grenada,Mississippi Grenada,2018,27,0,0,0,0,105,0
+Mississippi,Hancock,Mississippi Hancock,2018,35,0,0,168,0,195,0
+Mississippi,Harrison,Mississippi Harrison,2018,38,0,0,171,0,193,0
+Mississippi,Hinds,Mississippi Hinds,2018,44,0,1,146,0,218,0
+Mississippi,Jackson,Mississippi Jackson,2018,38,0,1,166,1,195,0
+Mississippi,Lauderdale,Mississippi Lauderdale,2018,37,0,0,237,0,0,0
+Mississippi,Lee,Mississippi Lee,2018,36,0,0,243,0,0,0
+Mississippi,Yalobusha,Mississippi Yalobusha,2018,29,0,0,325,0,0,0
+Missouri,Andrew,Missouri Andrew,2018,42,0,0,245,0,0,0
+Missouri,Boone,Missouri Boone,2018,40,0,0,245,0,0,0
+Missouri,Buchanan,Missouri Buchanan,2018,36,0,0,0,0,304,59
+Missouri,Callaway,Missouri Callaway,2018,40,0,0,245,0,0,0
+Missouri,Cass,Missouri Cass,2018,38,0,0,211,0,153,0
+Missouri,Cedar,Missouri Cedar,2018,39,0,0,180,0,183,0
+Missouri,Clay,Missouri Clay,2018,39,0,0,220,0,143,0
+Missouri,Clinton,Missouri Clinton,2018,42,0,0,245,0,0,0
+Missouri,Franklin,Missouri Franklin,2018,3,0,0,0,365,0,0
+Missouri,Greene,Missouri Greene,2018,39,0,0,198,0,161,6
+Missouri,Iron,Missouri Iron,2018,21,0,0,0,365,0,0
+Missouri,Jackson,Missouri Jackson,2018,36,0,60,0,0,256,49
+Missouri,Jasper,Missouri Jasper,2018,36,0,0,226,0,0,139
+Missouri,Jefferson,Missouri Jefferson,2018,36,0,0,197,24,115,29
+Missouri,Lincoln,Missouri Lincoln,2018,41,0,0,245,0,0,0
+Missouri,Monroe,Missouri Monroe,2018,35,0,0,365,0,0,0
+Missouri,New Madrid,Missouri New Madrid,2018,4,0,0,0,365,0,0
+Missouri,Perry,Missouri Perry,2018,39,0,0,245,0,0,0
+Missouri,Saint Charles,Missouri Saint Charles,2018,36,0,0,242,123,0,0
+Missouri,Saint Louis,Missouri Saint Louis,2018,44,0,26,175,0,164,0
+Missouri,Sainte Genevieve,Missouri Sainte Genevieve,2018,40,0,0,245,0,0,0
+Missouri,St. Louis City,Missouri St. Louis City,2018,48,0,21,137,0,189,18
+Missouri,Stoddard,Missouri Stoddard,2018,24,0,0,0,0,117,0
+Missouri,Taney,Missouri Taney,2018,21,0,0,0,0,119,0
+Montana,Cascade,Montana Cascade,2018,25,0,0,0,0,360,0
+Montana,Fergus,Montana Fergus,2018,40,0,0,327,0,37,1
+Montana,Flathead,Montana Flathead,2018,41,0,0,186,0,160,19
+Montana,Gallatin,Montana Gallatin,2018,25,0,8,0,0,357,0
+Montana,Lake,Montana Lake,2018,8,0,0,0,0,118,0
+Montana,Lewis and Clark,Montana Lewis and Clark,2018,43,0,0,253,0,112,0
+Montana,Lincoln,Montana Lincoln,2018,47,0,0,0,0,362,3
+Montana,Missoula,Montana Missoula,2018,48,0,0,111,0,252,2
+Montana,Phillips,Montana Phillips,2018,36,0,1,311,0,48,0
+Montana,Powder River,Montana Powder River,2018,38,0,0,265,0,79,18
+Montana,Powell,Montana Powell,2018,9,0,0,0,0,113,0
+Montana,Ravalli,Montana Ravalli,2018,18,0,0,0,0,351,0
+Montana,Richland,Montana Richland,2018,40,0,0,322,0,41,1
+Montana,Roosevelt,Montana Roosevelt,2018,13,0,0,0,0,105,0
+Montana,Rosebud,Montana Rosebud,2018,38,0,0,301,0,57,3
+Montana,Sanders,Montana Sanders,2018,28,0,0,0,0,341,24
+Montana,Sheridan,Montana Sheridan,2018,15,0,0,0,0,112,0
+Montana,Silver Bow,Montana Silver Bow,2018,20,0,0,0,0,200,163
+Montana,Yellowstone,Montana Yellowstone,2018,27,0,0,0,26,338,0
+Nebraska,Cass,Nebraska Cass,2018,15,0,0,0,0,0,337
+Nebraska,Douglas,Nebraska Douglas,2018,43,0,0,191,12,150,12
+Nebraska,Hall,Nebraska Hall,2018,23,0,0,0,0,111,0
+Nebraska,Knox,Nebraska Knox,2018,34,0,0,357,0,0,0
+Nebraska,Lancaster,Nebraska Lancaster,2018,31,0,0,229,77,59,0
+Nebraska,Sarpy,Nebraska Sarpy,2018,35,0,0,0,0,349,0
+Nebraska,Scotts Bluff,Nebraska Scotts Bluff,2018,22,0,0,0,0,116,0
+Nebraska,Thomas,Nebraska Thomas,2018,16,0,0,0,0,114,0
+Nebraska,Washington,Nebraska Washington,2018,29,0,0,0,0,116,0
+Nevada,Carson City,Nevada Carson City,2018,44,0,0,311,0,54,0
+Nevada,Churchill,Nevada Churchill,2018,44,0,0,332,0,0,0
+Nevada,Clark,Nevada Clark,2018,61,0,50,226,0,76,13
+Nevada,Douglas,Nevada Douglas,2018,15,0,0,0,0,362,0
+Nevada,Elko,Nevada Elko,2018,19,0,0,77,0,15,254
+Nevada,Lyon,Nevada Lyon,2018,40,0,0,362,0,0,0
+Nevada,Nye,Nevada Nye,2018,18,0,0,0,0,0,365
+Nevada,Washoe,Nevada Washoe,2018,48,0,8,281,0,59,17
+Nevada,White Pine,Nevada White Pine,2018,44,0,0,349,0,6,0
+New Hampshire,Belknap,New Hampshire Belknap,2018,32,0,0,206,0,77,0
+New Hampshire,Cheshire,New Hampshire Cheshire,2018,35,0,0,272,0,93,0
+New Hampshire,Coos,New Hampshire Coos,2018,44,0,0,227,0,44,0
+New Hampshire,Grafton,New Hampshire Grafton,2018,36,0,0,259,0,106,0
+New Hampshire,Hillsborough,New Hampshire Hillsborough,2018,36,1,0,350,0,14,0
+New Hampshire,Merrimack,New Hampshire Merrimack,2018,27,0,0,213,152,0,0
+New Hampshire,Rockingham,New Hampshire Rockingham,2018,37,0,0,318,0,47,0
+New Jersey,Atlantic,New Jersey Atlantic,2018,37,0,0,250,0,115,0
+New Jersey,Bergen,New Jersey Bergen,2018,45,1,69,96,0,199,0
+New Jersey,Camden,New Jersey Camden,2018,44,1,9,161,0,194,0
+New Jersey,Cumberland,New Jersey Cumberland,2018,38,0,15,173,0,177,0
+New Jersey,Essex,New Jersey Essex,2018,38,2,57,164,0,141,0
+New Jersey,Gloucester,New Jersey Gloucester,2018,39,0,0,232,0,44,0
+New Jersey,Hudson,New Jersey Hudson,2018,42,0,90,126,0,149,0
+New Jersey,Hunterdon,New Jersey Hunterdon,2018,38,0,0,230,0,122,0
+New Jersey,Mercer,New Jersey Mercer,2018,40,0,0,234,0,131,0
+New Jersey,Middlesex,New Jersey Middlesex,2018,38,0,23,234,0,108,0
+New Jersey,Monmouth,New Jersey Monmouth,2018,33,0,0,245,0,0,0
+New Jersey,Morris,New Jersey Morris,2018,34,0,12,331,0,22,0
+New Jersey,Ocean,New Jersey Ocean,2018,35,0,0,220,0,129,0
+New Jersey,Passaic,New Jersey Passaic,2018,37,0,0,223,0,54,0
+New Jersey,Union,New Jersey Union,2018,42,1,72,0,0,292,0
+New Jersey,Warren,New Jersey Warren,2018,35,0,38,158,0,161,0
+New Mexico,Bernalillo,New Mexico Bernalillo,2018,53,0,1,257,0,51,56
+New Mexico,Catron,New Mexico Catron,2018,8,0,0,0,0,117,0
+New Mexico,Chaves,New Mexico Chaves,2018,21,0,0,0,0,118,0
+New Mexico,Dona Ana,New Mexico Dona Ana,2018,57,0,3,258,0,50,54
+New Mexico,Eddy,New Mexico Eddy,2018,47,0,7,354,0,4,0
+New Mexico,Lea,New Mexico Lea,2018,45,0,3,302,0,60,0
+New Mexico,Lincoln,New Mexico Lincoln,2018,11,0,0,0,0,116,0
+New Mexico,Los Alamos,New Mexico Los Alamos,2018,10,0,0,0,0,120,0
+New Mexico,Luna,New Mexico Luna,2018,16,0,0,0,0,0,357
+New Mexico,Rio Arriba,New Mexico Rio Arriba,2018,46,0,0,360,0,2,0
+New Mexico,San Juan,New Mexico San Juan,2018,47,0,2,363,0,0,0
+New Mexico,Sandoval,New Mexico Sandoval,2018,45,0,0,350,0,1,3
+New Mexico,Santa Fe,New Mexico Santa Fe,2018,44,0,0,353,0,12,0
+New Mexico,Socorro,New Mexico Socorro,2018,13,0,0,0,0,112,0
+New Mexico,Taos,New Mexico Taos,2018,23,0,0,0,0,365,0
+New Mexico,Valencia,New Mexico Valencia,2018,45,0,0,359,0,0,0
+New York,Albany,New York Albany,2018,38,0,0,216,0,149,0
+New York,Bronx,New York Bronx,2018,39,0,80,169,0,116,0
+New York,Chautauqua,New York Chautauqua,2018,36,0,0,336,4,22,0
+New York,Dutchess,New York Dutchess,2018,31,0,0,348,16,0,0
+New York,Erie,New York Erie,2018,40,0,17,204,0,144,0
+New York,Essex,New York Essex,2018,41,0,0,363,0,2,0
+New York,Franklin,New York Franklin,2018,0,0,0,0,341,0,0
+New York,Hamilton,New York Hamilton,2018,33,0,0,352,5,0,0
+New York,Herkimer,New York Herkimer,2018,36,0,0,245,3,0,0
+New York,Jefferson,New York Jefferson,2018,33,0,0,329,0,0,0
+New York,Kings,New York Kings,2018,25,0,0,0,0,365,0
+New York,Monroe,New York Monroe,2018,36,0,6,205,0,154,0
+New York,Nassau,New York Nassau,2018,21,0,0,0,7,358,0
+New York,New York,New York New York,2018,41,0,0,142,0,223,0
+New York,Niagara,New York Niagara,2018,34,0,0,320,0,0,0
+New York,Oneida,New York Oneida,2018,18,0,0,0,0,364,0
+New York,Onondaga,New York Onondaga,2018,35,0,0,310,1,54,0
+New York,Orange,New York Orange,2018,35,0,0,261,0,104,0
+New York,Oswego,New York Oswego,2018,32,0,0,350,0,0,0
+New York,Putnam,New York Putnam,2018,31,0,0,337,15,0,0
+New York,Queens,New York Queens,2018,39,0,66,170,0,129,0
+New York,Richmond,New York Richmond,2018,37,0,0,132,0,231,0
+New York,Rockland,New York Rockland,2018,35,0,0,302,0,63,0
+New York,Saratoga,New York Saratoga,2018,31,0,0,361,0,0,0
+New York,Seneca,New York Seneca,2018,0,0,0,0,364,0,0
+New York,St. Lawrence,New York St. Lawrence,2018,14,0,0,0,359,0,0
+New York,Steuben,New York Steuben,2018,32,1,0,295,0,65,0
+New York,Suffolk,New York Suffolk,2018,39,0,0,287,0,78,0
+New York,Tompkins,New York Tompkins,2018,33,0,0,353,11,0,0
+New York,Wayne,New York Wayne,2018,38,0,0,239,0,0,0
+New York,Westchester,New York Westchester,2018,34,0,0,289,0,76,0
+North Carolina,Alexander,North Carolina Alexander,2018,40,0,0,233,0,0,0
+North Carolina,Avery,North Carolina Avery,2018,38,0,0,345,0,11,0
+North Carolina,Beaufort,North Carolina Beaufort,2018,0,0,0,0,299,0,0
+North Carolina,Brunswick,North Carolina Brunswick,2018,0,0,0,0,329,0,0
+North Carolina,Buncombe,North Carolina Buncombe,2018,35,0,0,193,3,169,0
+North Carolina,Caldwell,North Carolina Caldwell,2018,39,0,0,244,0,0,0
+North Carolina,Carteret,North Carolina Carteret,2018,38,0,0,222,0,0,0
+North Carolina,Caswell,North Carolina Caswell,2018,40,0,0,232,0,0,0
+North Carolina,Catawba,North Carolina Catawba,2018,32,0,0,0,0,352,0
+North Carolina,Cumberland,North Carolina Cumberland,2018,38,0,0,194,0,145,10
+North Carolina,Davidson,North Carolina Davidson,2018,37,0,0,0,0,353,0
+North Carolina,Durham,North Carolina Durham,2018,42,0,0,160,0,197,1
+North Carolina,Edgecombe,North Carolina Edgecombe,2018,33,0,0,187,0,167,0
+North Carolina,Forsyth,North Carolina Forsyth,2018,44,0,7,193,0,165,0
+North Carolina,Graham,North Carolina Graham,2018,43,0,0,195,0,0,0
+North Carolina,Granville,North Carolina Granville,2018,42,0,0,233,0,0,0
+North Carolina,Guilford,North Carolina Guilford,2018,40,0,0,211,0,128,16
+North Carolina,Haywood,North Carolina Haywood,2018,44,0,0,197,148,20,0
+North Carolina,Hyde,North Carolina Hyde,2018,19,0,0,0,0,109,0
+North Carolina,Jackson,North Carolina Jackson,2018,41,0,0,163,0,74,0
+North Carolina,Johnston,North Carolina Johnston,2018,39,0,0,161,0,193,0
+North Carolina,Lee,North Carolina Lee,2018,45,0,0,127,0,83,0
+North Carolina,Lenoir,North Carolina Lenoir,2018,36,0,0,222,0,0,56
+North Carolina,Lincoln,North Carolina Lincoln,2018,41,0,0,225,0,0,0
+North Carolina,Macon,North Carolina Macon,2018,31,0,0,356,0,0,0
+North Carolina,Martin,North Carolina Martin,2018,34,0,0,224,0,0,65
+North Carolina,Mecklenburg,North Carolina Mecklenburg,2018,44,1,5,200,0,153,1
+North Carolina,Mitchell,North Carolina Mitchell,2018,20,0,0,0,0,355,0
+North Carolina,Montgomery,North Carolina Montgomery,2018,35,0,0,258,0,105,0
+North Carolina,New Hanover,North Carolina New Hanover,2018,30,0,0,201,0,128,0
+North Carolina,Person,North Carolina Person,2018,33,0,0,232,124,0,0
+North Carolina,Pitt,North Carolina Pitt,2018,35,0,0,189,0,156,0
+North Carolina,Rockingham,North Carolina Rockingham,2018,38,0,0,233,57,0,0
+North Carolina,Rowan,North Carolina Rowan,2018,35,0,0,336,0,0,0
+North Carolina,Swain,North Carolina Swain,2018,36,0,0,177,0,186,0
+North Carolina,Union,North Carolina Union,2018,44,0,0,189,0,0,0
+North Carolina,Wake,North Carolina Wake,2018,44,1,0,150,0,210,0
+North Carolina,Yancey,North Carolina Yancey,2018,44,0,0,230,0,0,0
+North Dakota,Billings,North Dakota Billings,2018,38,0,0,304,0,57,0
+North Dakota,Burke,North Dakota Burke,2018,34,0,0,327,2,31,1
+North Dakota,Burleigh,North Dakota Burleigh,2018,37,2,7,184,0,166,4
+North Dakota,Cass,North Dakota Cass,2018,35,0,9,239,0,103,9
+North Dakota,Dunn,North Dakota Dunn,2018,34,0,1,285,0,62,1
+North Dakota,McKenzie,North Dakota McKenzie,2018,37,0,0,300,1,51,3
+North Dakota,Mercer,North Dakota Mercer,2018,36,0,4,292,10,58,1
+North Dakota,Oliver,North Dakota Oliver,2018,36,0,0,300,1,56,3
+North Dakota,Ward,North Dakota Ward,2018,31,0,0,224,0,124,12
+North Dakota,Williams,North Dakota Williams,2018,38,0,0,207,60,95,3
+Ohio,Adams,Ohio Adams,2018,23,0,0,0,26,333,0
+Ohio,Allen,Ohio Allen,2018,39,0,0,215,9,141,0
+Ohio,Ashtabula,Ohio Ashtabula,2018,31,0,0,243,122,0,0
+Ohio,Athens,Ohio Athens,2018,28,0,0,0,0,94,0
+Ohio,Belmont,Ohio Belmont,2018,17,1,253,0,1,104,6
+Ohio,Butler,Ohio Butler,2018,41,0,0,284,10,65,6
+Ohio,Clark,Ohio Clark,2018,44,0,0,160,3,202,0
+Ohio,Clermont,Ohio Clermont,2018,40,0,0,222,0,134,0
+Ohio,Clinton,Ohio Clinton,2018,41,0,0,245,0,0,0
+Ohio,Columbiana,Ohio Columbiana,2018,1,0,0,0,240,0,63
+Ohio,Cuyahoga,Ohio Cuyahoga,2018,45,0,8,177,2,166,12
+Ohio,Delaware,Ohio Delaware,2018,39,0,0,244,0,0,0
+Ohio,Fayette,Ohio Fayette,2018,35,0,0,364,0,0,0
+Ohio,Franklin,Ohio Franklin,2018,43,0,20,182,0,161,2
+Ohio,Gallia,Ohio Gallia,2018,4,0,0,0,365,0,0
+Ohio,Geauga,Ohio Geauga,2018,42,0,0,245,0,0,0
+Ohio,Greene,Ohio Greene,2018,41,0,0,175,0,188,0
+Ohio,Hamilton,Ohio Hamilton,2018,51,0,23,126,0,216,0
+Ohio,Harrison,Ohio Harrison,2018,3,103,0,0,0,40,2
+Ohio,Jefferson,Ohio Jefferson,2018,47,0,0,93,27,245,0
+Ohio,Knox,Ohio Knox,2018,40,0,0,245,0,0,0
+Ohio,Lake,Ohio Lake,2018,38,0,0,208,6,151,0
+Ohio,Lawrence,Ohio Lawrence,2018,36,0,0,180,1,184,0
+Ohio,Licking,Ohio Licking,2018,40,0,0,245,0,0,0
+Ohio,Lorain,Ohio Lorain,2018,37,0,0,171,0,194,0
+Ohio,Lucas,Ohio Lucas,2018,41,0,0,195,22,148,0
+Ohio,Madison,Ohio Madison,2018,41,0,0,244,0,0,0
+Ohio,Mahoning,Ohio Mahoning,2018,36,0,0,143,0,221,1
+Ohio,Medina,Ohio Medina,2018,38,0,0,185,0,180,0
+Ohio,Miami,Ohio Miami,2018,40,0,0,245,0,0,0
+Ohio,Montgomery,Ohio Montgomery,2018,43,4,0,181,0,178,0
+Ohio,Morgan,Ohio Morgan,2018,1,0,0,0,293,0,0
+Ohio,Noble,Ohio Noble,2018,34,0,0,317,0,26,0
+Ohio,Portage,Ohio Portage,2018,38,0,0,225,0,54,0
+Ohio,Preble,Ohio Preble,2018,42,0,0,180,0,185,0
+Ohio,Scioto,Ohio Scioto,2018,14,0,0,0,57,109,199
+Ohio,Stark,Ohio Stark,2018,45,1,0,167,0,197,0
+Ohio,Summit,Ohio Summit,2018,41,0,0,163,0,202,0
+Ohio,Trumbull,Ohio Trumbull,2018,39,0,0,226,0,127,0
+Ohio,Warren,Ohio Warren,2018,43,0,0,195,0,163,0
+Ohio,Washington,Ohio Washington,2018,39,0,0,245,0,0,0
+Ohio,Wood,Ohio Wood,2018,38,0,0,245,0,0,0
+Oklahoma,Adair,Oklahoma Adair,2018,38,0,0,246,0,112,7
+Oklahoma,Bryan,Oklahoma Bryan,2018,38,0,0,301,0,0,0
+Oklahoma,Canadian,Oklahoma Canadian,2018,36,0,0,360,0,0,0
+Oklahoma,Carter,Oklahoma Carter,2018,31,0,0,0,0,356,0
+Oklahoma,Choctaw,Oklahoma Choctaw,2018,37,0,0,272,0,0,0
+Oklahoma,Cleveland,Oklahoma Cleveland,2018,45,0,0,190,0,175,0
+Oklahoma,Comanche,Oklahoma Comanche,2018,40,0,0,298,0,67,0
+Oklahoma,Creek,Oklahoma Creek,2018,36,0,0,344,0,0,0
+Oklahoma,Custer,Oklahoma Custer,2018,16,0,0,0,0,0,364
+Oklahoma,Dewey,Oklahoma Dewey,2018,40,0,0,251,0,111,0
+Oklahoma,Garfield,Oklahoma Garfield,2018,0,0,0,0,357,0,0
+Oklahoma,Jefferson,Oklahoma Jefferson,2018,43,0,0,267,0,0,0
+Oklahoma,Kay,Oklahoma Kay,2018,41,0,0,123,8,234,0
+Oklahoma,Le Flore,Oklahoma Le Flore,2018,25,0,0,0,0,32,2
+Oklahoma,Love,Oklahoma Love,2018,43,0,0,272,0,0,0
+Oklahoma,Mayes,Oklahoma Mayes,2018,32,0,0,261,104,0,0
+Oklahoma,McClain,Oklahoma McClain,2018,38,0,0,321,0,0,0
+Oklahoma,Muskogee,Oklahoma Muskogee,2018,19,0,0,0,32,0,333
+Oklahoma,Nowata,Oklahoma Nowata,2018,41,0,0,194,0,160,0
+Oklahoma,Oklahoma,Oklahoma Oklahoma,2018,45,0,11,189,0,161,4
+Oklahoma,Osage,Oklahoma Osage,2018,36,0,0,359,0,0,0
+Oklahoma,Ottawa,Oklahoma Ottawa,2018,44,0,0,139,0,224,2
+Oklahoma,Pittsburg,Oklahoma Pittsburg,2018,40,0,0,213,0,151,0
+Oklahoma,Sequoyah,Oklahoma Sequoyah,2018,35,0,6,209,0,148,0
+Oklahoma,Tulsa,Oklahoma Tulsa,2018,50,0,2,141,0,221,1
+Oklahoma,Washington,Oklahoma Washington,2018,43,0,0,2,0,6,0
+Oregon,Baker,Oregon Baker,2018,22,0,0,0,0,257,0
+Oregon,Benton,Oregon Benton,2018,14,0,0,0,0,269,0
+Oregon,Clackamas,Oregon Clackamas,2018,33,0,0,111,0,101,0
+Oregon,Columbia,Oregon Columbia,2018,24,0,0,132,0,139,0
+Oregon,Crook,Oregon Crook,2018,24,0,0,0,0,302,0
+Oregon,Deschutes,Oregon Deschutes,2018,18,0,0,0,0,271,0
+Oregon,Douglas,Oregon Douglas,2018,18,0,0,0,0,246,0
+Oregon,Grant,Oregon Grant,2018,25,0,0,0,0,269,0
+Oregon,Harney,Oregon Harney,2018,25,0,0,0,0,296,0
+Oregon,Jackson,Oregon Jackson,2018,42,0,0,85,0,218,0
+Oregon,Jefferson,Oregon Jefferson,2018,37,0,0,0,0,92,0
+Oregon,Josephine,Oregon Josephine,2018,30,0,0,0,0,300,0
+Oregon,Klamath,Oregon Klamath,2018,32,0,0,0,0,299,0
+Oregon,Lake,Oregon Lake,2018,24,0,0,0,0,294,0
+Oregon,Lane,Oregon Lane,2018,36,0,0,101,0,261,3
+Oregon,Linn,Oregon Linn,2018,24,0,0,0,0,273,0
+Oregon,Marion,Oregon Marion,2018,31,0,0,139,0,132,0
+Oregon,Multnomah,Oregon Multnomah,2018,32,3,40,241,0,81,0
+Oregon,Umatilla,Oregon Umatilla,2018,33,0,0,94,0,160,0
+Oregon,Union,Oregon Union,2018,20,0,0,0,0,286,15
+Oregon,Wallowa,Oregon Wallowa,2018,18,0,0,0,0,264,0
+Oregon,Wasco,Oregon Wasco,2018,30,0,0,76,0,186,5
+Oregon,Washington,Oregon Washington,2018,30,0,54,144,0,167,0
+Pennsylvania,Adams,Pennsylvania Adams,2018,40,0,0,258,0,107,0
+Pennsylvania,Allegheny,Pennsylvania Allegheny,2018,54,0,0,88,25,252,0
+Pennsylvania,Armstrong,Pennsylvania Armstrong,2018,38,0,0,227,0,133,0
+Pennsylvania,Beaver,Pennsylvania Beaver,2018,45,0,2,207,0,156,0
+Pennsylvania,Berks,Pennsylvania Berks,2018,40,0,0,239,0,126,0
+Pennsylvania,Blair,Pennsylvania Blair,2018,38,0,0,239,4,119,0
+Pennsylvania,Bradford,Pennsylvania Bradford,2018,35,0,2,246,0,108,0
+Pennsylvania,Bucks,Pennsylvania Bucks,2018,33,0,0,333,0,0,0
+Pennsylvania,Cambria,Pennsylvania Cambria,2018,38,0,4,189,1,168,1
+Pennsylvania,Centre,Pennsylvania Centre,2018,40,0,1,225,0,139,0
+Pennsylvania,Chester,Pennsylvania Chester,2018,38,0,0,193,0,166,0
+Pennsylvania,Clearfield,Pennsylvania Clearfield,2018,33,0,0,343,0,0,0
+Pennsylvania,Cumberland,Pennsylvania Cumberland,2018,36,0,0,0,0,365,0
+Pennsylvania,Dauphin,Pennsylvania Dauphin,2018,39,0,0,217,0,147,1
+Pennsylvania,Delaware,Pennsylvania Delaware,2018,49,0,1,86,0,278,0
+Pennsylvania,Elk,Pennsylvania Elk,2018,34,0,0,351,0,0,0
+Pennsylvania,Erie,Pennsylvania Erie,2018,38,0,7,198,0,159,1
+Pennsylvania,Fayette,Pennsylvania Fayette,2018,37,0,1,141,0,86,0
+Pennsylvania,Franklin,Pennsylvania Franklin,2018,32,0,0,353,0,0,0
+Pennsylvania,Greene,Pennsylvania Greene,2018,36,0,0,273,0,87,0
+Pennsylvania,Indiana,Pennsylvania Indiana,2018,35,0,0,349,7,0,0
+Pennsylvania,Lackawanna,Pennsylvania Lackawanna,2018,36,0,19,200,0,146,0
+Pennsylvania,Lancaster,Pennsylvania Lancaster,2018,44,0,0,183,0,182,0
+Pennsylvania,Lawrence,Pennsylvania Lawrence,2018,32,0,0,358,0,0,0
+Pennsylvania,Lebanon,Pennsylvania Lebanon,2018,39,0,0,187,0,178,0
+Pennsylvania,Lehigh,Pennsylvania Lehigh,2018,38,0,0,232,0,131,2
+Pennsylvania,Luzerne,Pennsylvania Luzerne,2018,32,0,0,354,0,0,11
+Pennsylvania,Lycoming,Pennsylvania Lycoming,2018,31,0,0,344,0,0,1
+Pennsylvania,Mercer,Pennsylvania Mercer,2018,40,0,0,279,0,86,0
+Pennsylvania,Monroe,Pennsylvania Monroe,2018,35,0,0,331,0,24,0
+Pennsylvania,Montgomery,Pennsylvania Montgomery,2018,37,0,0,216,0,136,0
+Pennsylvania,Northampton,Pennsylvania Northampton,2018,41,0,1,206,0,158,0
+Pennsylvania,Philadelphia,Pennsylvania Philadelphia,2018,46,0,7,139,0,219,0
+Pennsylvania,Somerset,Pennsylvania Somerset,2018,33,0,0,357,0,0,0
+Pennsylvania,Susquehanna,Pennsylvania Susquehanna,2018,24,0,0,0,0,88,0
+Pennsylvania,Tioga,Pennsylvania Tioga,2018,35,0,1,286,0,60,0
+Pennsylvania,Warren,Pennsylvania Warren,2018,7,0,0,0,365,0,0
+Pennsylvania,Washington,Pennsylvania Washington,2018,45,0,1,184,0,180,0
+Pennsylvania,Westmoreland,Pennsylvania Westmoreland,2018,36,0,0,263,0,101,0
+Pennsylvania,York,Pennsylvania York,2018,40,0,9,214,0,142,0
+Puerto Rico,Adjuntas,Puerto Rico Adjuntas,2018,14,0,0,0,0,27,0
+Puerto Rico,Bayamon,Puerto Rico Bayamon,2018,46,10,0,0,42,253,0
+Puerto Rico,Caguas,Puerto Rico Caguas,2018,9,177,0,0,0,24,0
+Puerto Rico,Catano,Puerto Rico Catano,2018,32,0,0,39,63,245,2
+Puerto Rico,Fajardo,Puerto Rico Fajardo,2018,19,0,0,0,0,24,0
+Puerto Rico,Guayama,Puerto Rico Guayama,2018,3,0,0,0,342,0,0
+Puerto Rico,Guaynabo,Puerto Rico Guaynabo,2018,10,100,111,0,0,90,1
+Puerto Rico,Ponce,Puerto Rico Ponce,2018,50,8,0,0,0,302,47
+Rhode Island,Kent,Rhode Island Kent,2018,32,0,0,170,0,184,0
+Rhode Island,Providence,Rhode Island Providence,2018,42,0,20,193,0,151,1
+Rhode Island,Washington,Rhode Island Washington,2018,31,0,0,188,0,173,0
+South Carolina,Aiken,South Carolina Aiken,2018,38,0,0,228,0,0,0
+South Carolina,Anderson,South Carolina Anderson,2018,33,0,0,261,0,0,0
+South Carolina,Berkeley,South Carolina Berkeley,2018,31,0,0,262,0,0,0
+South Carolina,Charleston,South Carolina Charleston,2018,36,0,3,201,0,154,1
+South Carolina,Chesterfield,South Carolina Chesterfield,2018,35,0,0,225,0,116,3
+South Carolina,Colleton,South Carolina Colleton,2018,31,0,0,234,0,130,0
+South Carolina,Darlington,South Carolina Darlington,2018,37,0,0,231,0,0,0
+South Carolina,Edgefield,South Carolina Edgefield,2018,35,0,0,256,0,99,0
+South Carolina,Florence,South Carolina Florence,2018,29,0,0,0,0,359,0
+South Carolina,Georgetown,South Carolina Georgetown,2018,15,0,0,0,0,0,326
+South Carolina,Greenville,South Carolina Greenville,2018,39,0,13,208,0,144,0
+South Carolina,Horry,South Carolina Horry,2018,36,0,0,289,0,0,0
+South Carolina,Lexington,South Carolina Lexington,2018,32,0,0,0,3,352,10
+South Carolina,Oconee,South Carolina Oconee,2018,37,0,0,311,0,53,0
+South Carolina,Pickens,South Carolina Pickens,2018,38,0,0,273,0,0,0
+South Carolina,Richland,South Carolina Richland,2018,37,0,2,274,0,89,0
+South Carolina,Spartanburg,South Carolina Spartanburg,2018,40,0,0,154,0,211,0
+South Carolina,York,South Carolina York,2018,36,0,0,286,5,71,0
+South Dakota,Brookings,South Dakota Brookings,2018,36,0,0,292,0,51,22
+South Dakota,Brown,South Dakota Brown,2018,24,0,0,0,0,109,12
+South Dakota,Codington,South Dakota Codington,2018,31,0,0,0,0,275,90
+South Dakota,Custer,South Dakota Custer,2018,41,0,0,349,0,15,1
+South Dakota,Hughes,South Dakota Hughes,2018,13,0,0,0,0,354,0
+South Dakota,Jackson,South Dakota Jackson,2018,41,0,0,315,0,47,3
+South Dakota,Meade,South Dakota Meade,2018,29,0,0,311,0,0,51
+South Dakota,Minnehaha,South Dakota Minnehaha,2018,37,0,11,269,0,82,3
+South Dakota,Pennington,South Dakota Pennington,2018,30,0,37,0,0,148,180
+South Dakota,Union,South Dakota Union,2018,39,0,0,246,0,84,35
+Tennessee,Anderson,Tennessee Anderson,2018,33,0,0,229,131,0,0
+Tennessee,Blount,Tennessee Blount,2018,40,0,0,270,0,95,0
+Tennessee,Claiborne,Tennessee Claiborne,2018,34,0,0,355,0,0,0
+Tennessee,Davidson,Tennessee Davidson,2018,43,0,22,121,0,222,0
+Tennessee,DeKalb,Tennessee DeKalb,2018,33,0,0,348,0,0,0
+Tennessee,Dyer,Tennessee Dyer,2018,29,0,0,0,0,356,0
+Tennessee,Hamilton,Tennessee Hamilton,2018,43,0,0,167,0,198,0
+Tennessee,Jefferson,Tennessee Jefferson,2018,42,0,0,244,0,0,0
+Tennessee,Knox,Tennessee Knox,2018,43,0,0,163,0,201,0
+Tennessee,Lawrence,Tennessee Lawrence,2018,27,0,0,0,0,352,0
+Tennessee,Loudon,Tennessee Loudon,2018,35,0,0,204,0,161,0
+Tennessee,Madison,Tennessee Madison,2018,26,0,0,0,0,351,0
+Tennessee,Maury,Tennessee Maury,2018,27,0,0,0,0,331,0
+Tennessee,McMinn,Tennessee McMinn,2018,29,0,0,0,0,356,0
+Tennessee,Montgomery,Tennessee Montgomery,2018,30,0,0,0,0,354,0
+Tennessee,Putnam,Tennessee Putnam,2018,27,0,0,0,0,352,0
+Tennessee,Roane,Tennessee Roane,2018,27,0,0,0,0,355,0
+Tennessee,Sevier,Tennessee Sevier,2018,43,0,0,364,0,0,0
+Tennessee,Shelby,Tennessee Shelby,2018,40,0,16,232,0,117,0
+Tennessee,Sullivan,Tennessee Sullivan,2018,44,0,0,158,123,84,0
+Tennessee,Sumner,Tennessee Sumner,2018,38,0,0,208,0,138,0
+Tennessee,Williamson,Tennessee Williamson,2018,39,0,0,245,0,0,0
+Tennessee,Wilson,Tennessee Wilson,2018,38,0,0,191,0,0,0
+Texas,Bell,Texas Bell,2018,36,0,0,365,0,0,0
+Texas,Bexar,Texas Bexar,2018,43,0,6,199,2,157,1
+Texas,Bowie,Texas Bowie,2018,35,0,0,0,0,297,0
+Texas,Brazoria,Texas Brazoria,2018,31,0,12,353,0,0,0
+Texas,Brewster,Texas Brewster,2018,39,0,0,314,0,49,0
+Texas,Cameron,Texas Cameron,2018,41,0,0,127,0,238,0
+Texas,Collin,Texas Collin,2018,37,0,0,361,0,0,0
+Texas,Culberson,Texas Culberson,2018,23,0,0,0,0,115,0
+Texas,Dallas,Texas Dallas,2018,44,0,21,185,0,158,1
+Texas,Denton,Texas Denton,2018,40,0,12,300,0,53,0
+Texas,Ector,Texas Ector,2018,30,0,0,0,0,337,0
+Texas,El Paso,Texas El Paso,2018,55,0,26,190,0,147,2
+Texas,Ellis,Texas Ellis,2018,38,0,8,213,0,144,0
+Texas,Fayette,Texas Fayette,2018,25,0,0,0,0,330,0
+Texas,Freestone,Texas Freestone,2018,0,0,0,0,347,0,0
+Texas,Galveston,Texas Galveston,2018,33,0,5,295,2,62,1
+Texas,Gregg,Texas Gregg,2018,34,0,3,343,18,0,0
+Texas,Harris,Texas Harris,2018,51,0,31,131,2,198,3
+Texas,Harrison,Texas Harrison,2018,36,0,1,196,22,146,0
+Texas,Hidalgo,Texas Hidalgo,2018,41,0,0,114,0,249,0
+Texas,Hood,Texas Hood,2018,33,0,0,362,0,0,0
+Texas,Howard,Texas Howard,2018,7,0,0,0,362,0,0
+Texas,Hunt,Texas Hunt,2018,32,0,3,362,0,0,0
+Texas,Hutchinson,Texas Hutchinson,2018,20,0,0,0,358,0,0
+Texas,Jefferson,Texas Jefferson,2018,45,0,0,162,19,184,0
+Texas,Johnson,Texas Johnson,2018,35,0,0,354,0,0,0
+Texas,Kaufman,Texas Kaufman,2018,35,0,2,260,0,103,0
+Texas,Kleberg,Texas Kleberg,2018,35,0,0,0,0,342,0
+Texas,Lubbock,Texas Lubbock,2018,25,0,0,0,0,303,0
+Texas,Maverick,Texas Maverick,2018,28,0,0,0,0,342,0
+Texas,McLennan,Texas McLennan,2018,35,1,0,267,0,44,0
+Texas,Milam,Texas Milam,2018,0,0,0,0,350,0,0
+Texas,Montgomery,Texas Montgomery,2018,40,0,0,264,0,101,0
+Texas,Navarro,Texas Navarro,2018,40,0,4,213,66,82,0
+Texas,Nueces,Texas Nueces,2018,38,0,0,170,0,195,0
+Texas,Orange,Texas Orange,2018,44,0,0,140,23,202,0
+Texas,Parker,Texas Parker,2018,35,0,0,359,0,0,0
+Texas,Polk,Texas Polk,2018,31,0,0,365,0,0,0
+Texas,Potter,Texas Potter,2018,27,0,0,0,131,234,0
+Texas,Randall,Texas Randall,2018,43,0,0,362,0,0,0
+Texas,Robertson,Texas Robertson,2018,0,0,0,0,332,0,0
+Texas,Rockwall,Texas Rockwall,2018,31,0,0,304,0,0,0
+Texas,Rusk,Texas Rusk,2018,6,0,0,0,358,0,0
+Texas,Smith,Texas Smith,2018,33,0,3,361,0,0,0
+Texas,Tarrant,Texas Tarrant,2018,45,0,14,190,0,161,0
+Texas,Titus,Texas Titus,2018,0,0,0,0,353,0,0
+Texas,Travis,Texas Travis,2018,44,0,15,156,0,193,1
+Texas,Victoria,Texas Victoria,2018,28,0,0,279,0,0,0
+Texas,Webb,Texas Webb,2018,39,0,0,150,0,161,2
+Utah,Box Elder,Utah Box Elder,2018,46,0,5,286,0,74,0
+Utah,Cache,Utah Cache,2018,46,0,0,265,0,100,0
+Utah,Carbon,Utah Carbon,2018,46,0,3,361,0,0,0
+Utah,Davis,Utah Davis,2018,45,0,35,259,0,70,1
+Utah,Duchesne,Utah Duchesne,2018,46,0,1,327,0,37,0
+Utah,Garfield,Utah Garfield,2018,44,0,0,364,0,1,0
+Utah,Iron,Utah Iron,2018,43,0,0,320,0,45,0
+Utah,Salt Lake,Utah Salt Lake,2018,61,0,52,237,0,71,5
+Utah,San Juan,Utah San Juan,2018,44,0,0,352,0,4,0
+Utah,Tooele,Utah Tooele,2018,45,0,0,269,0,96,0
+Utah,Uintah,Utah Uintah,2018,50,0,0,346,0,19,0
+Utah,Utah,Utah Utah,2018,46,0,33,252,0,75,5
+Utah,Washington,Utah Washington,2018,44,0,1,332,0,32,0
+Utah,Wayne,Utah Wayne,2018,10,0,0,0,0,117,0
+Utah,Weber,Utah Weber,2018,48,0,50,248,0,59,8
+Vermont,Bennington,Vermont Bennington,2018,35,0,0,278,0,87,0
+Vermont,Chittenden,Vermont Chittenden,2018,38,0,0,280,0,85,0
+Vermont,Rutland,Vermont Rutland,2018,37,1,1,238,0,125,0
+Vermont,Windham,Vermont Windham,2018,9,0,0,0,0,117,0
+Virgin Islands,St Croix,Virgin Islands St Croix,2018,22,0,0,0,0,22,0
+Virgin Islands,St John,Virgin Islands St John,2018,24,0,0,0,0,2,0
+Virgin Islands,St Thomas,Virgin Islands St Thomas,2018,27,0,0,0,0,183,0
+Virginia,Albemarle,Virginia Albemarle,2018,36,0,0,213,0,97,0
+Virginia,Alexandria City,Virginia Alexandria City,2018,6,0,0,0,0,0,78
+Virginia,Arlington,Virginia Arlington,2018,35,0,102,220,0,43,0
+Virginia,Botetourt,Virginia Botetourt,2018,0,0,0,0,343,0,0
+Virginia,Bristol City,Virginia Bristol City,2018,27,0,0,0,0,116,0
+Virginia,Caroline,Virginia Caroline,2018,36,0,0,241,0,0,0
+Virginia,Carroll,Virginia Carroll,2018,9,0,0,0,0,0,59
+Virginia,Charles,Virginia Charles,2018,31,0,79,220,4,54,0
+Virginia,Chesterfield,Virginia Chesterfield,2018,34,0,0,208,0,67,0
+Virginia,Covington City,Virginia Covington City,2018,3,0,0,0,365,0,0
+Virginia,Fairfax,Virginia Fairfax,2018,42,0,36,141,0,188,0
+Virginia,Fauquier,Virginia Fauquier,2018,32,0,0,244,0,0,0
+Virginia,Frederick,Virginia Frederick,2018,35,0,0,198,0,154,0
+Virginia,Giles,Virginia Giles,2018,37,0,0,326,36,0,0
+Virginia,Hampton City,Virginia Hampton City,2018,36,1,8,212,0,141,0
+Virginia,Hanover,Virginia Hanover,2018,40,0,0,238,0,0,0
+Virginia,Henrico,Virginia Henrico,2018,36,0,4,245,0,116,0
+Virginia,Hopewell City,Virginia Hopewell City,2018,10,0,0,0,0,0,61
+Virginia,Loudoun,Virginia Loudoun,2018,34,0,86,235,0,44,0
+Virginia,Lynchburg City,Virginia Lynchburg City,2018,26,0,0,0,0,112,0
+Virginia,Madison,Virginia Madison,2018,38,0,0,337,0,19,0
+Virginia,Norfolk City,Virginia Norfolk City,2018,16,13,252,0,2,98,0
+Virginia,Prince Edward,Virginia Prince Edward,2018,31,0,0,347,0,0,0
+Virginia,Prince William,Virginia Prince William,2018,32,0,101,244,0,0,0
+Virginia,Richmond City,Virginia Richmond City,2018,33,0,62,0,0,302,0
+Virginia,Roanoke,Virginia Roanoke,2018,37,0,16,189,0,160,0
+Virginia,Rockbridge,Virginia Rockbridge,2018,31,0,0,203,0,65,0
+Virginia,Rockingham,Virginia Rockingham,2018,32,0,96,229,0,40,0
+Virginia,Salem City,Virginia Salem City,2018,26,0,0,0,0,113,0
+Virginia,Stafford,Virginia Stafford,2018,35,0,0,245,0,0,19
+Virginia,Suffolk City,Virginia Suffolk City,2018,39,0,0,245,0,0,0
+Virginia,Virginia Beach City,Virginia Virginia Beach City,2018,25,0,0,0,0,107,0
+Virginia,Winchester City,Virginia Winchester City,2018,8,0,0,0,0,0,60
+Virginia,Wythe,Virginia Wythe,2018,40,0,0,237,0,0,0
+Washington,Adams,Washington Adams,2018,13,0,0,0,0,350,0
+Washington,Asotin,Washington Asotin,2018,27,0,0,0,0,325,0
+Washington,Benton,Washington Benton,2018,34,0,0,129,0,189,47
+Washington,Chelan,Washington Chelan,2018,27,0,0,0,0,365,0
+Washington,Clallam,Washington Clallam,2018,38,0,0,182,0,183,0
+Washington,Clark,Washington Clark,2018,31,0,0,130,0,235,0
+Washington,Columbia,Washington Columbia,2018,17,0,0,0,0,307,0
+Washington,Cowlitz,Washington Cowlitz,2018,20,0,0,0,0,365,0
+Washington,Franklin,Washington Franklin,2018,17,0,0,0,0,360,0
+Washington,Garfield,Washington Garfield,2018,15,0,0,0,0,364,0
+Washington,Grant,Washington Grant,2018,20,0,30,0,0,335,0
+Washington,Grays Harbor,Washington Grays Harbor,2018,22,0,0,0,0,365,0
+Washington,Jefferson,Washington Jefferson,2018,19,0,0,0,0,359,0
+Washington,King,Washington King,2018,40,0,101,109,0,155,0
+Washington,Kitsap,Washington Kitsap,2018,12,0,0,0,0,349,0
+Washington,Kittitas,Washington Kittitas,2018,19,0,0,0,0,358,0
+Washington,Klickitat,Washington Klickitat,2018,20,0,0,0,0,257,0
+Washington,Lewis,Washington Lewis,2018,21,0,0,0,0,365,0
+Washington,Mason,Washington Mason,2018,21,0,0,0,0,365,0
+Washington,Okanogan,Washington Okanogan,2018,40,0,0,0,0,365,0
+Washington,Pierce,Washington Pierce,2018,42,0,17,240,0,108,0
+Washington,Skagit,Washington Skagit,2018,29,0,6,195,0,164,0
+Washington,Snohomish,Washington Snohomish,2018,25,0,0,0,0,365,0
+Washington,Spokane,Washington Spokane,2018,38,0,0,111,0,207,47
+Washington,Stevens,Washington Stevens,2018,35,0,0,0,0,297,68
+Washington,Thurston,Washington Thurston,2018,26,0,0,133,0,210,0
+Washington,Walla Walla,Washington Walla Walla,2018,20,0,0,0,0,293,72
+Washington,Whatcom,Washington Whatcom,2018,38,0,0,56,195,114,0
+Washington,Whitman,Washington Whitman,2018,17,0,0,0,0,365,0
+Washington,Yakima,Washington Yakima,2018,40,0,0,0,0,359,6
+West Virginia,Berkeley,West Virginia Berkeley,2018,37,0,0,221,0,60,0
+West Virginia,Brooke,West Virginia Brooke,2018,20,0,0,0,125,113,127
+West Virginia,Cabell,West Virginia Cabell,2018,37,0,0,217,0,65,0
+West Virginia,Gilmer,West Virginia Gilmer,2018,29,0,0,360,0,0,0
+West Virginia,Greenbrier,West Virginia Greenbrier,2018,38,0,0,232,0,0,0
+West Virginia,Hancock,West Virginia Hancock,2018,32,0,0,208,56,61,40
+West Virginia,Harrison,West Virginia Harrison,2018,27,0,0,0,0,117,0
+West Virginia,Kanawha,West Virginia Kanawha,2018,39,2,0,168,1,194,0
+West Virginia,Marion,West Virginia Marion,2018,28,0,0,0,0,117,0
+West Virginia,Marshall,West Virginia Marshall,2018,26,0,0,0,136,229,0
+West Virginia,Mason,West Virginia Mason,2018,1,0,0,0,347,0,0
+West Virginia,Mineral,West Virginia Mineral,2018,3,0,0,0,362,0,0
+West Virginia,Monongalia,West Virginia Monongalia,2018,34,0,0,224,66,51,0
+West Virginia,Ohio,West Virginia Ohio,2018,39,0,0,233,0,50,0
+West Virginia,Tucker,West Virginia Tucker,2018,34,0,0,359,0,6,0
+West Virginia,Wood,West Virginia Wood,2018,33,0,0,220,80,63,0
+Wisconsin,Ashland,Wisconsin Ashland,2018,35,0,0,332,0,28,0
+Wisconsin,Brown,Wisconsin Brown,2018,38,0,0,209,7,149,0
+Wisconsin,Columbia,Wisconsin Columbia,2018,39,0,0,246,0,0,0
+Wisconsin,Dane,Wisconsin Dane,2018,41,0,0,173,0,191,1
+Wisconsin,Dodge,Wisconsin Dodge,2018,41,0,0,251,0,114,0
+Wisconsin,Door,Wisconsin Door,2018,40,0,0,224,0,0,0
+Wisconsin,Eau Claire,Wisconsin Eau Claire,2018,41,0,0,190,0,175,0
+Wisconsin,Fond du Lac,Wisconsin Fond du Lac,2018,39,0,0,244,0,0,0
+Wisconsin,Forest,Wisconsin Forest,2018,36,0,0,321,0,44,0
+Wisconsin,Grant,Wisconsin Grant,2018,31,0,0,0,0,351,0
+Wisconsin,Jefferson,Wisconsin Jefferson,2018,39,0,0,243,0,0,0
+Wisconsin,Kenosha,Wisconsin Kenosha,2018,42,0,0,230,0,135,0
+Wisconsin,Kewaunee,Wisconsin Kewaunee,2018,42,0,0,240,0,0,0
+Wisconsin,La Crosse,Wisconsin La Crosse,2018,39,0,0,186,0,179,0
+Wisconsin,Manitowoc,Wisconsin Manitowoc,2018,40,0,0,239,0,0,0
+Wisconsin,Marathon,Wisconsin Marathon,2018,39,0,0,232,0,0,0
+Wisconsin,Milwaukee,Wisconsin Milwaukee,2018,43,0,17,184,0,164,0
+Wisconsin,Oneida,Wisconsin Oneida,2018,0,0,0,0,365,0,0
+Wisconsin,Outagamie,Wisconsin Outagamie,2018,41,0,0,187,44,134,0
+Wisconsin,Ozaukee,Wisconsin Ozaukee,2018,40,0,0,225,0,138,0
+Wisconsin,Racine,Wisconsin Racine,2018,42,0,0,236,0,0,0
+Wisconsin,Rock,Wisconsin Rock,2018,39,0,0,246,0,0,0
+Wisconsin,Sauk,Wisconsin Sauk,2018,39,0,0,209,0,153,3
+Wisconsin,Sheboygan,Wisconsin Sheboygan,2018,43,0,0,239,0,0,0
+Wisconsin,Taylor,Wisconsin Taylor,2018,38,0,0,266,0,99,0
+Wisconsin,Vilas,Wisconsin Vilas,2018,34,0,0,206,0,154,0
+Wisconsin,Walworth,Wisconsin Walworth,2018,40,0,0,237,0,0,0
+Wisconsin,Waukesha,Wisconsin Waukesha,2018,41,0,0,177,0,188,0
+Wyoming,Albany,Wyoming Albany,2018,48,0,1,296,0,8,60
+Wyoming,Big Horn,Wyoming Big Horn,2018,39,0,0,348,0,0,0
+Wyoming,Campbell,Wyoming Campbell,2018,42,0,1,231,0,17,116
+Wyoming,Carbon,Wyoming Carbon,2018,42,0,17,341,7,0,0
+Wyoming,Converse,Wyoming Converse,2018,40,0,2,329,0,5,29
+Wyoming,Fremont,Wyoming Fremont,2018,46,0,0,325,7,33,0
+Wyoming,Johnson,Wyoming Johnson,2018,39,0,1,215,0,0,12
+Wyoming,Laramie,Wyoming Laramie,2018,43,0,7,332,0,22,4
+Wyoming,Lincoln,Wyoming Lincoln,2018,16,0,0,0,0,0,365
+Wyoming,Natrona,Wyoming Natrona,2018,42,0,12,345,1,7,0
+Wyoming,Park,Wyoming Park,2018,31,0,0,122,0,66,24
+Wyoming,Platte,Wyoming Platte,2018,15,0,0,0,0,0,61
+Wyoming,Sheridan,Wyoming Sheridan,2018,45,0,0,303,0,57,5
+Wyoming,Sublette,Wyoming Sublette,2018,47,0,0,342,0,21,2
+Wyoming,Sweetwater,Wyoming Sweetwater,2018,48,0,3,287,8,5,62
+Wyoming,Teton,Wyoming Teton,2018,44,0,0,340,0,24,1
+Wyoming,Uinta,Wyoming Uinta,2018,44,0,2,354,0,0,9
+Wyoming,Weston,Wyoming Weston,2018,41,0,0,340,25,0,0
