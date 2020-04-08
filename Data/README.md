@@ -5,12 +5,18 @@ USA Counties Map with Air Pollutant Data.
 - Geojson files for 2015, 2016, 2017, 2018, 2019
   - Variables include:
     - Median Air Quality Index (AQI)
-    - Days CO
-    - Days NO2
-    - Days Ozone
-    - Days SO2
-    - Days PM2.5
-    - Days PM10
+      - Good AQI is a value between 0 and 50
+      - Moderate: 51-100
+      - Unhealthy for sensitive groups: 101-150
+      - Unhealthy: 151-200
+      - Very unhealthy: 201 and higher
+    - (From the EPA:) A daily index value is calculated for each air pollutant measured. The highest of those index values is the AQI value, and the pollutant responsible for the highest index value is the "Main Pollutant." These columns give the number of days each pollutant measured was the main pollutant. 
+      - Days CO
+      - Days NO2
+      - Days Ozone
+      - Days SO2
+      - Days PM2.5
+      - Days PM10
 
 
 
@@ -21,8 +27,8 @@ USA Counties Map with Air Pollutant Data.
 ### Air Pollutants
 
 - Geojson files for each air pollutant at a neighborhood UHF-42 level for 2009-2010
-  - Ozone
-  - Elemental Carbon
+  - **Ozone**: ground level is key trigger for those with respiratory issues
+  - **Elemental Carbon**: 
   - Nitrogen Dioxide
   - PM2.5
   - Sulfur Dioxide
