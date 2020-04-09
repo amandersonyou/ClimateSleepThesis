@@ -10,7 +10,6 @@ The quality of our sleep is a major pillar in which our general well being relie
 we need to be aware of how it impacts our sleep health in order to make adjustments and guide solutions for climate adaptation.
 
 
-
 ### Wireframe Option 1: Scrollytelling
 
 ![Wireframe](WirePNGs_Scroll/0_scrolly.png "Scrolly Wireframe")
