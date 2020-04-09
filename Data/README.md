@@ -74,8 +74,9 @@ USA Counties Map with Air Pollutant Data.
 
 
 
-# Asthma Rates 2017
+# Asthma Rates 2017 & 2018
 
+Note: confirm source as CDC
 USA State Map showing asthma prevelance percentages.
 
 - Geojson file for 2017 only
@@ -85,7 +86,9 @@ USA State Map showing asthma prevelance percentages.
     - Asthma prevalence percentages per state
     - Standard Error
 - CSV with asthma prevalence from 2001 - 2017
-  - percentages for total, adults, and children
+  - percentages for total, adults, and 
+  
+- CSV with asthma prevelance percentages by state and mortality for adults 2018
 
 
 
