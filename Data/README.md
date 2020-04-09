@@ -1,6 +1,6 @@
 # EPA Data
 
-USA Counties Map with Air Pollutant Data.
+USA Counties Map with Air Pollutant [Data](https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual).
 
 - Geojson files for 2015, 2016, 2017, 2018, 2019
   - Variables include:
@@ -23,6 +23,8 @@ USA Counties Map with Air Pollutant Data.
 
 
 # NYC Open Data
+
+[Air quality dataset](https://data.cityofnewyork.us/Environment/Air-Quality/c3uy-2p5r)
 
 ### Air Pollutants
 
@@ -76,7 +78,6 @@ USA Counties Map with Air Pollutant Data.
 
 # Asthma Rates 2017 & 2018
 
-Note: confirm source as CDC
 USA State Map showing asthma prevelance percentages.
 
 - Geojson file for 2017 only
@@ -86,9 +87,10 @@ USA State Map showing asthma prevelance percentages.
     - Asthma prevalence percentages per state
     - Standard Error
 - CSV with asthma prevalence from 2001 - 2017
-  - percentages for total, adults, and 
-  
+  - percentages for total, adults, and children
 - CSV with [CDC](https://www.cdc.gov/asthma/most_recent_data_states.htm) asthma prevelance percentages by state and mortality for adults 2018
+
+*Note: need to confirm source as CDC for 2017, confirmed for 2018*
 
 
 
