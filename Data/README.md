@@ -88,7 +88,7 @@ USA State Map showing asthma prevelance percentages.
 - CSV with asthma prevalence from 2001 - 2017
   - percentages for total, adults, and 
   
-- CSV with asthma prevelance percentages by state and mortality for adults 2018
+- CSV with [CDC](https://www.cdc.gov/asthma/most_recent_data_states.htm) asthma prevelance percentages by state and mortality for adults 2018
 
 
 
