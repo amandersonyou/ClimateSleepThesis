@@ -27,8 +27,8 @@ USA Counties Map with Air Pollutant Data.
 ### Air Pollutants
 
 - Geojson files for each air pollutant at a neighborhood UHF-42 level for 2009-2010
-  - **Ozone**: ground level is key trigger for those with respiratory issues
-  - **Elemental Carbon**: 
+  - Ozone
+  - Elemental Carbon
   - Nitrogen Dioxide
   - PM2.5
   - Sulfur Dioxide
@@ -86,6 +86,20 @@ USA State Map showing asthma prevelance percentages.
     - Standard Error
 - CSV with asthma prevalence from 2001 - 2017
   - percentages for total, adults, and children
+
+
+
+
+
+# 500 Cities Data
+
+- Asthma [rates](https://www.cdc.gov/500cities/definitions/health-outcomes.htm#CASTHMA) in US Adults (2017) showing annual number of state residents with current asthma and current asthma prevalence. 
+
+- [Rates](https://www.cdc.gov/500cities/definitions/unhealthy-behaviors.htm#SLEEP) of sleeping (2016) less than 7 hours on average during a 24-hour period among adults 18+
+
+  - Bar chart with confidence intervals showing annual prevalence percentages by state for both sleeping <7 hours and asthma prevelance.
+
+    
 
 
 
