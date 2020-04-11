@@ -5,6 +5,6 @@ var app = new Vue({
     el: '#app',
     data: {
         mapTitle: 'USA Air Quality: Elemental Carbon',
-        image: '..Assets/testing_img.png'
+        image: 'https://raw.githubusercontent.com/amandersonyou/ClimateSleepThesis/master/Assets/testing_img.png'
     }
 })

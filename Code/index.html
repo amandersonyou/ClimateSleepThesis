@@ -10,8 +10,10 @@
   <div class="nav-bar"></div>
 
   <div id="app">
-    <div class="product">
+    <div class="pollutantVis">
       <div class="map-image">
+        <!-- v-bind acts as "glue" to bind an attribute to an expression (in this case, src to image) 
+          can also bind using only a : and attributes like :href= :title= :class= :style=-->
         <img v-bind:src="image">
       </div>
 
