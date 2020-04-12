@@ -1,0 +1,31 @@
+<!-- Work in progress code following vue mastery tutorial -->
+<!DOCTYPE html>
+<html>
+<head>
+  <!-- <meta charset="UTF-8"> -->
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Amanda Anderson-You's Thesis</title>
+<link rel="stylesheet" type="text/css" href="style.css">
+</head>
+<body>
+  <div class="nav-bar"></div>
+
+  <div id="app">
+    <div class="pollutantVis">
+      <div class="map-image">
+        <!-- v-bind acts as "glue" to bind an attribute to an expression (in this case, src to image) 
+          can also bind using only a : and attributes like :href= :title= :class= :style=-->
+        <img v-bind:src="image">
+      </div>
+
+      <div class="map-story">
+          <h1>{{ mapTitle }} </h1>
+      </div>
+
+    </div>
+  </div>
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="script.js"></script>
+</body>
+</html>
