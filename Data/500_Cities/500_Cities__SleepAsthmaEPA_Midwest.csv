@@ -1,94 +1,94 @@
 ﻿StateDesc,CityName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017
-Illinois,Arlington Heights,33.3,9.6,36.2
-Illinois,Aurora,34.5,12.7,36.2
-Illinois,Bloomington,33.5,11.7,36.2
-Illinois,Bolingbrook,33.8,10.3,36.2
-Illinois,Champaign,34.1,12.3,36.2
-Illinois,Chicago,35.6,14.9,36.2
-Illinois,Cicero,34.7,9,36.2
-Illinois,Decatur,34.6,13.5,36.2
-Illinois,Elgin,34.2,9.8,36.2
-Illinois,Evanston,32.7,10.6,36.2
-Illinois,Joliet,34.7,12.6,36.2
-Illinois,Naperville,30.5,8.8,36.2
-Illinois,Palatine,31.9,8.5,36.2
-Illinois,Peoria,36.8,14.6,36.2
-Illinois,Rockford,35.4,13.9,36.2
-Illinois,Schaumburg,34.3,8.8,36.2
-Illinois,Springfield,36.7,14.5,36.2
-Illinois,Waukegan,34.2,12,36.2
-Iowa,Cedar Rapids,29.9,10.5,35.8
-Iowa,Davenport,31.9,11.5,35.8
-Iowa,Des Moines,30.7,11.1,35.8
-Iowa,Iowa City,28.2,11.6,35.8
-Iowa,Sioux City,29.8,11.8,35.8
-Iowa,Waterloo,35.6,12.9,35.8
-Missouri,Columbia,35.7,12.2,35.8
-Missouri,Independence,37,11.3,35.8
-Missouri,Kansas City,39,12.9,35.8
-Missouri,Lee's Summit,33.1,10.4,35.8
-Missouri,O'Fallon,32,9.3,35.8
-Missouri,Springfield,33.2,11.9,35.8
-Missouri,St. Joseph,36.5,11.7,35.8
-Missouri,St. Louis,34.1,15.4,35.8
-Wisconsin,Appleton,29.9,10.2,35.7
-Wisconsin,Green Bay,35.1,11.8,35.7
-Wisconsin,Kenosha,33.9,11.8,35.7
-Wisconsin,Madison,36.6,12.4,35.7
-Wisconsin,Milwaukee,37.7,15.4,35.7
-Wisconsin,Racine,38.2,12.8,35.7
-Wisconsin,Waukesha,33.1,10.4,35.7
-Indiana,Bloomington,30.6,11.6,35.5
-Indiana,Carmel,29.8,9.5,35.5
-Indiana,Evansville,33.7,13.5,35.5
-Indiana,Fishers,31.4,9.1,35.5
-Indiana,Fort Wayne,38,14.3,35.5
-Indiana,Gary,42.2,14.6,35.5
-Indiana,Hammond,40.5,12.5,35.5
-Indiana,Indianapolis,37.3,15.5,35.5
-Indiana,Lafayette,36.4,11,35.5
-Indiana,Muncie,40.1,13.8,35.5
-Indiana,South Bend,34.5,13.2,35.5
+Michigan,Detroit,48.5,17.4,35.4
+Ohio,Youngstown,45,14.3,35.5
+Michigan,Flint,44,17.5,35.4
+Michigan,Farmington Hills,43.8,10.8,35.4
 Ohio,Akron,43,13.8,35.5
-Ohio,Canton,42.2,14.1,35.5
-Ohio,Cincinnati,42.8,17.3,35.5
-Ohio,Cleveland,42.1,17.8,35.5
 Ohio,Columbus,43,14.7,35.5
+Ohio,Cincinnati,42.8,17.3,35.5
+Indiana,Gary,42.2,14.6,35.5
+Ohio,Canton,42.2,14.1,35.5
+Ohio,Cleveland,42.1,17.8,35.5
+Michigan,Dearborn,41.8,14.5,35.4
+Indiana,Hammond,40.5,12.5,35.5
+Indiana,Muncie,40.1,13.8,35.5
 Ohio,Dayton,40.1,17.5,35.5
 Ohio,Parma,39.4,10,35.5
-Ohio,Toledo,36.3,14.6,35.5
-Ohio,Youngstown,45,14.3,35.5
-Michigan,Ann Arbor,32.1,11.9,35.4
-Michigan,Dearborn,41.8,14.5,35.4
-Michigan,Detroit,48.5,17.4,35.4
-Michigan,Farmington Hills,43.8,10.8,35.4
-Michigan,Flint,44,17.5,35.4
-Michigan,Grand Rapids,37.6,13.9,35.4
-Michigan,Kalamazoo,39.2,14.8,35.4
-Michigan,Lansing,37.4,12.9,35.4
-Michigan,Livonia,35.7,11.2,35.4
-Michigan,Rochester Hills,33.2,11.9,35.4
-Michigan,Southfield,38.3,13.6,35.4
-Michigan,Sterling Heights,35.4,11.4,35.4
-Michigan,Troy,33.2,10.5,35.4
 Michigan,Warren,39.4,13.3,35.4
-Michigan,Westland,37.4,12.4,35.4
-Michigan,Wyoming,30.1,11.4,35.4
-North Dakota,Fargo,31.6,9.7,33.3
-Kansas,Kansas City,32.4,14.2,32.6
-Kansas,Lawrence,28.9,11.1,32.6
-Kansas,Olathe,26,10.1,32.6
-Kansas,Overland Park,30.6,9.9,32.6
-Kansas,Topeka,34.6,11.3,32.6
-Kansas,Wichita,38.5,13.2,32.6
-Minnesota,Bloomington,30.5,8.4,31.6
-Minnesota,Brooklyn Park,32.2,9.7,31.6
-Minnesota,Duluth,31.8,10.1,31.6
-Minnesota,Minneapolis,30.4,10.8,31.6
-Minnesota,Plymouth,28.8,8,31.6
-Minnesota,Rochester,31.1,8.8,31.6
+Michigan,Kalamazoo,39.2,14.8,35.4
 Minnesota,St. Paul,39.2,11.7,31.6
-South Dakota,Rapid City,26.8,10.4,31.6
-South Dakota,Sioux Falls,30.5,9.1,31.6
-Nebraska,Lincoln,30.1,10.8,28.6
+Missouri,Kansas City,39,12.9,35.8
+Kansas,Wichita,38.5,13.2,32.6
+Michigan,Southfield,38.3,13.6,35.4
+Wisconsin,Racine,38.2,12.8,35.7
+Indiana,Fort Wayne,38,14.3,35.5
+Wisconsin,Milwaukee,37.7,15.4,35.7
+Michigan,Grand Rapids,37.6,13.9,35.4
+Michigan,Lansing,37.4,12.9,35.4
+Michigan,Westland,37.4,12.4,35.4
+Indiana,Indianapolis,37.3,15.5,35.5
+Missouri,Independence,37,11.3,35.8
+Illinois,Peoria,36.8,14.6,36.2
+Illinois,Springfield,36.7,14.5,36.2
+Wisconsin,Madison,36.6,12.4,35.7
+Missouri,St. Joseph,36.5,11.7,35.8
 Nebraska,Omaha,36.5,12,28.6
+Indiana,Lafayette,36.4,11,35.5
+Ohio,Toledo,36.3,14.6,35.5
+Missouri,Columbia,35.7,12.2,35.8
+Michigan,Livonia,35.7,11.2,35.4
+Illinois,Chicago,35.6,14.9,36.2
+Iowa,Waterloo,35.6,12.9,35.8
+Illinois,Rockford,35.4,13.9,36.2
+Michigan,Sterling Heights,35.4,11.4,35.4
+Wisconsin,Green Bay,35.1,11.8,35.7
+Illinois,Cicero,34.7,9,36.2
+Illinois,Joliet,34.7,12.6,36.2
+Illinois,Decatur,34.6,13.5,36.2
+Kansas,Topeka,34.6,11.3,32.6
+Illinois,Aurora,34.5,12.7,36.2
+Indiana,South Bend,34.5,13.2,35.5
+Illinois,Schaumburg,34.3,8.8,36.2
+Illinois,Elgin,34.2,9.8,36.2
+Illinois,Waukegan,34.2,12,36.2
+Illinois,Champaign,34.1,12.3,36.2
+Missouri,St. Louis,34.1,15.4,35.8
+Wisconsin,Kenosha,33.9,11.8,35.7
+Illinois,Bolingbrook,33.8,10.3,36.2
+Indiana,Evansville,33.7,13.5,35.5
+Illinois,Bloomington,33.5,11.7,36.2
+Illinois,Arlington Heights,33.3,9.6,36.2
+Missouri,Springfield,33.2,11.9,35.8
+Michigan,Rochester Hills,33.2,11.9,35.4
+Michigan,Troy,33.2,10.5,35.4
+Missouri,Lee's Summit,33.1,10.4,35.8
+Wisconsin,Waukesha,33.1,10.4,35.7
+Illinois,Evanston,32.7,10.6,36.2
+Kansas,Kansas City,32.4,14.2,32.6
+Minnesota,Brooklyn Park,32.2,9.7,31.6
+Michigan,Ann Arbor,32.1,11.9,35.4
+Missouri,O'Fallon,32,9.3,35.8
+Illinois,Palatine,31.9,8.5,36.2
+Iowa,Davenport,31.9,11.5,35.8
+Minnesota,Duluth,31.8,10.1,31.6
+North Dakota,Fargo,31.6,9.7,33.3
+Indiana,Fishers,31.4,9.1,35.5
+Minnesota,Rochester,31.1,8.8,31.6
+Iowa,Des Moines,30.7,11.1,35.8
+Indiana,Bloomington,30.6,11.6,35.5
+Kansas,Overland Park,30.6,9.9,32.6
+Illinois,Naperville,30.5,8.8,36.2
+Minnesota,Bloomington,30.5,8.4,31.6
+South Dakota,Sioux Falls,30.5,9.1,31.6
+Minnesota,Minneapolis,30.4,10.8,31.6
+Michigan,Wyoming,30.1,11.4,35.4
+Nebraska,Lincoln,30.1,10.8,28.6
+Iowa,Cedar Rapids,29.9,10.5,35.8
+Wisconsin,Appleton,29.9,10.2,35.7
+Iowa,Sioux City,29.8,11.8,35.8
+Indiana,Carmel,29.8,9.5,35.5
+Kansas,Lawrence,28.9,11.1,32.6
+Minnesota,Plymouth,28.8,8,31.6
+Iowa,Iowa City,28.2,11.6,35.8
+South Dakota,Rapid City,26.8,10.4,31.6
+Kansas,Olathe,26,10.1,32.6
