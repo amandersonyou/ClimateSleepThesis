@@ -9,7 +9,8 @@ The thesis project Climate // Sleep focuses on the implications of the climate c
 The quality of our sleep is a major pillar in which our general well being relies on. As climate change continues to alter our environment, we need to be aware of how it impacts our sleep health in order to make adjustments and guide solutions for climate adaptation.
 
 ### Updated Final Wireframe:
-![FinalWireframe](FinalWireBoard.png "Final Wireframe")
+![FinalWireframe](UpdatedWire4.13.png "Final Wireframe")
+
 
 
 For reference, previous concepts:

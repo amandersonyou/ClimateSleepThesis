@@ -14,14 +14,17 @@ function preload() {
 }
 
 function setup() {
-    createCanvas(windowWidth, windowHeight)
-    background('#DBD3D1');
+    let c = createCanvas(1400, 1700)
+    // background(219, 211, 209, 178);
+    // background();
     noStroke();
     noLoop();
+    // strokeCap(ROUND);
 
     // colors
-    var asthmaHue = "#ff8a00"
-    var sleepHue = "#ee4343"
+    var asthmaHue = "#e17e7b"
+    var sleepHue = "#777a9e"
+    var rowHeight = 7.5
 
     var table_west = west
     var table_midwest = midwest
@@ -29,13 +32,10 @@ function setup() {
     var table_southeast = southeast
     var table_northeast = northeast
 
-    var rowHeight = 6
-
-
 // WEST
 x = 100
-y = 50
-middle = 20
+y = 150
+middle = 12
 fill(sleepHue)
 for (var r=0; r<table_west.getRowCount(); r++){
     var sleepVal = (table_west.getNum(r, 2)*3)
@@ -45,7 +45,7 @@ for (var r=0; r<table_west.getRowCount(); r++){
 
 // draw asthma bars per city
 x = 80
-y = 50
+y = 150
 fill(asthmaHue)
 for (var r=0; r<table_west.getRowCount(); r++){
     var asthmaVal = (table_west.getNum(r, 3)*3)
@@ -54,12 +54,12 @@ for (var r=0; r<table_west.getRowCount(); r++){
 }
 
 // center bar hue for avg median air quality
-x = 80
-y = 50
+x = 84
+y = 150
 for (var r=0; r<table_west.getRowCount(); r++){
     var aqiVal = table_west.getNum(r, 4)
-    fill(42,87,198, aqiVal)
-    rect(x, y, middle, rowHeight)
+    fill(36,102,129, aqiVal*2)
+    rect(x, y, middle, rowHeight-2, 20)
     y += rowHeight
 }
 
@@ -67,8 +67,8 @@ for (var r=0; r<table_west.getRowCount(); r++){
 
 // MIDWEST
 x = 350
-y = 50
-middle = 20
+y = 150
+
 fill(sleepHue)
 for (var r=0; r<table_midwest.getRowCount(); r++){
     var sleepVal = (table_midwest.getNum(r, 2)*3)
@@ -78,7 +78,7 @@ for (var r=0; r<table_midwest.getRowCount(); r++){
 
 // draw asthma bars per city
 x = 330
-y = 50
+y = 150
 fill(asthmaHue)
 for (var r=0; r<table_midwest.getRowCount(); r++){
     var asthmaVal = (table_midwest.getNum(r, 3)*3)
@@ -87,20 +87,19 @@ for (var r=0; r<table_midwest.getRowCount(); r++){
 }
 
 // center bar hue for avg median air quality
-x = 330
-y = 50
+x = 334
+y = 150
 for (var r=0; r<table_midwest.getRowCount(); r++){
     var aqiVal = table_midwest.getNum(r, 4)
-    fill(42,87,198, aqiVal)
-    rect(x, y, middle, rowHeight)
+    fill(36,102,129, aqiVal*2)
+    rect(x, y, middle, rowHeight-2, 20)
     y += rowHeight
 }
 
 
 // SOUTHWEST
 x = 600
-y = 50
-middle = 20
+y = 150
 fill(sleepHue)
 for (var r=0; r<table_southwest.getRowCount(); r++){
     var sleepVal = (table_southwest.getNum(r, 2)*3)
@@ -110,7 +109,7 @@ for (var r=0; r<table_southwest.getRowCount(); r++){
 
 // draw asthma bars per city
 x = 580
-y = 50
+y = 150
 fill(asthmaHue)
 for (var r=0; r<table_southwest.getRowCount(); r++){
     var asthmaVal = (table_southwest.getNum(r, 3)*3)
@@ -119,19 +118,18 @@ for (var r=0; r<table_southwest.getRowCount(); r++){
 }
 
 // center bar hue for avg median air quality
-x = 580
-y = 50
+x = 584
+y = 150
 for (var r=0; r<table_southwest.getRowCount(); r++){
     var aqiVal = table_southwest.getNum(r, 4)
-    fill(42,87,198, aqiVal)
-    rect(x, y, middle, rowHeight)
+    fill(36,102,129, aqiVal*2)
+    rect(x, y, middle, rowHeight-2, 20)
     y += rowHeight
 }
 
 // SOUTHEAST
 x = 850
-y = 50
-middle = 20
+y = 150
 fill(sleepHue)
 for (var r=0; r<table_southeast.getRowCount(); r++){
     var sleepVal = (table_southeast.getNum(r, 2)*3)
@@ -141,7 +139,7 @@ for (var r=0; r<table_southeast.getRowCount(); r++){
 
 // draw asthma bars per city
 x = 830
-y = 50
+y = 150
 fill(asthmaHue)
 for (var r=0; r<table_southeast.getRowCount(); r++){
     var asthmaVal = (table_southeast.getNum(r, 3)*3)
@@ -150,20 +148,19 @@ for (var r=0; r<table_southeast.getRowCount(); r++){
 }
 
 // center bar hue for avg median air quality
-x = 830
-y = 50
+x = 834
+y = 150
 for (var r=0; r<table_southeast.getRowCount(); r++){
     var aqiVal = table_southeast.getNum(r, 4)
-    fill(42,87,198, aqiVal)
-    rect(x, y, middle, rowHeight)
+    fill(36,102,129, aqiVal*2)
+    rect(x, y, middle, rowHeight-2, 20)
     y += rowHeight
 }
 
 
 // NORTHEAST
 x = 1100
-y = 50
-middle = 20
+y = 150
 fill(sleepHue)
 for (var r=0; r<table_northeast.getRowCount(); r++){
     var sleepVal = (table_northeast.getNum(r, 2)*3)
@@ -173,7 +170,7 @@ for (var r=0; r<table_northeast.getRowCount(); r++){
 
 // draw asthma bars per city
 x = 1080
-y = 50
+y = 150
 fill(asthmaHue)
 for (var r=0; r<table_northeast.getRowCount(); r++){
     var asthmaVal = (table_northeast.getNum(r, 3)*3)
@@ -182,14 +179,15 @@ for (var r=0; r<table_northeast.getRowCount(); r++){
 }
 
 // center bar hue for avg median air quality
-x = 1080
-y = 50
+x = 1084
+y = 150
 for (var r=0; r<table_northeast.getRowCount(); r++){
     var aqiVal = table_northeast.getNum(r, 4)
-    fill(42,87,198, aqiVal*2)
-    rect(x, y, middle, rowHeight)
+    fill(36,102,129, aqiVal*2)
+    rect(x, y, middle, rowHeight-2, 20)
     y += rowHeight
 }
 
+// saveCanvas(c, 'mainvis', 'png');
 }
 
