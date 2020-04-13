@@ -1,0 +1,159 @@
+﻿StateDesc,CityName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017
+Delaware,Wilmington,40.3,14.6,41.3
+District of Columbia,Washington,36.0,15.3,51.0
+Florida,Boca Raton,36.5,9.6,36.9
+Florida,Boynton Beach,34.1,10.3,36.9
+Florida,Cape Coral,34.6,8.8,36.9
+Florida,Clearwater,37.8,12.0,36.9
+Florida,Coral Springs,36.0,9.5,36.9
+Florida,Davie,35.9,8.6,36.9
+Florida,Deerfield Beach,37.0,11.1,36.9
+Florida,Deltona,38.1,9.2,36.9
+Florida,Fort Lauderdale,37.3,13.5,36.9
+Florida,Gainesville,34.5,12.2,36.9
+Florida,Hialeah,34.2,7.8,36.9
+Florida,Hollywood,36.5,11.3,36.9
+Florida,Jacksonville,37.7,14.4,36.9
+Florida,Lakeland,37.8,12.3,36.9
+Florida,Largo,41.1,10.4,36.9
+Florida,Lauderhill,43.6,12.6,36.9
+Florida,Melbourne,35.7,11.0,36.9
+Florida,Miami,35.5,12.7,36.9
+Florida,Miami Beach,40.2,7.4,36.9
+Florida,Miami Gardens,40.6,11.3,36.9
+Florida,Miramar,39.6,11.0,36.9
+Florida,Orlando,37.2,12.6,36.9
+Florida,Palm Bay,35.6,9.2,36.9
+Florida,Palm Coast,35.2,9.1,36.9
+Florida,Pembroke Pines,35.9,9.7,36.9
+Florida,Plantation,36.7,10.6,36.9
+Florida,Pompano Beach,37.3,13.0,36.9
+Florida,Port St. Lucie,38.6,9.5,36.9
+Florida,St. Petersburg,37.2,12.5,36.9
+Florida,Sunrise,37.9,11.8,36.9
+Florida,Tallahassee,34.0,12.4,36.9
+Florida,Tampa,36.5,14.3,36.9
+Florida,West Palm Beach,43.9,12.0,36.9
+Georgia,Albany,40.6,13.5,37.2
+Georgia,Athens,38.0,12.0,37.2
+Georgia,Atlanta,41.1,14.5,37.2
+Georgia,Augusta,42.6,12.9,37.2
+Georgia,Columbus,39.6,14.1,37.2
+Georgia,Johns Creek,40.6,7.8,37.2
+Georgia,Macon,38.8,13.3,37.2
+Georgia,Roswell,32.7,9.1,37.2
+Georgia,Sandy Springs,37.4,9.7,37.2
+Georgia,Savannah,41.5,14.1,37.2
+Georgia,Warner Robins,40.9,11.7,37.2
+Maryland,Baltimore,42.4,15.6,39.8
+North Carolina,Asheville,30.2,11.5,36.6
+North Carolina,Cary,31.8,9.9,36.6
+North Carolina,Charlotte,33.7,13.8,36.6
+North Carolina,Concord,34.2,12.2,36.6
+North Carolina,Durham,37.8,14.2,36.6
+North Carolina,Fayetteville,37.8,13.8,36.6
+North Carolina,Gastonia,36.7,12.6,36.6
+North Carolina,Greensboro,35.5,13.7,36.6
+North Carolina,Greenville,38.3,13.4,36.6
+North Carolina,High Point,36.1,13.9,36.6
+North Carolina,Jacksonville,37.6,11.9,36.6
+North Carolina,Raleigh,33.5,13.2,36.6
+North Carolina,Wilmington,33.1,13.2,36.6
+North Carolina,Winston-Salem,33.9,14.9,36.6
+South Carolina,Charleston,34.9,13.4,35.6
+South Carolina,Columbia,37.1,14.4,35.6
+South Carolina,Mount Pleasant,31.2,8.6,35.6
+South Carolina,North Charleston,40.6,12.8,35.6
+South Carolina,Rock Hill,30.4,13.8,35.6
+Virginia,Alexandria,37.6,10.5,29.7
+Virginia,Chesapeake,38.8,13.5,29.7
+Virginia,Hampton,40.1,15.0,29.7
+Virginia,Lynchburg,37.1,12.2,29.7
+Virginia,Newport News,40.4,13.4,29.7
+Virginia,Norfolk,42.4,17.0,29.7
+Virginia,Portsmouth,40.1,15.1,29.7
+Virginia,Richmond,39.8,15.9,29.7
+Virginia,Roanoke,41.0,13.2,29.7
+Virginia,Suffolk,38.3,13.2,29.7
+Virginia,Virginia Beach,31.9,11.5,29.7
+West Virginia,Charleston,33.3,13.5,31.6
+Alabama,Birmingham,39.0,15.0,38.3
+Alabama,Hoover,35.8,11.3,38.3
+Alabama,Huntsville,37.7,15.9,38.3
+Alabama,Mobile,40.2,17.0,38.3
+Alabama,Montgomery,38.3,14.7,38.3
+Alabama,Tuscaloosa,34.8,14.5,38.3
+Kentucky,Lexington,39.3,13.4,39.1
+Kentucky,Louisville,38.4,16.2,39.1
+Mississippi,Gulfport,38.5,13.1,35.8
+Mississippi,Jackson,34.9,13.7,36.4
+Tennessee,Chattanooga,40.1,15.6,36.9
+Tennessee,Clarksville,38.0,13.4,36.9
+Tennessee,Knoxville,37.9,13.7,36.9
+Tennessee,Memphis,40.5,15.7,36.9
+Tennessee,Murfreesboro,37.9,12.0,36.9
+Tennessee,Nashville,35.2,16.9,36.9
+Arkansas,Fayetteville,35.4,10.4,37.1
+Arkansas,Fort Smith,33.6,11.4,37.1
+Arkansas,Jonesboro,33.1,11.7,37.1
+Arkansas,Little Rock,37.4,12.3,37.1
+Arkansas,Springdale,34.4,10.1,37.1
+Louisiana,Baton Rouge,38.7,12.9,35.0
+Louisiana,Kenner,37.3,11.8,35.0
+Louisiana,Lafayette,37.6,13.8,35.0
+Louisiana,Lake Charles,41.8,12.8,35.0
+Louisiana,New Orleans,38.9,16.1,35.0
+Louisiana,Shreveport,36.3,13.2,35.0
+Oklahoma,Broken Arrow,31.4,11.0,35.4
+Oklahoma,Edmond,32.6,11.8,35.4
+Oklahoma,Lawton,34.5,13.1,35.4
+Oklahoma,Norman,34.0,12.6,35.4
+Oklahoma,Oklahoma City,34.8,14.3,35.4
+Oklahoma,Tulsa,30.9,14.2,35.4
+Texas,Abilene,33.3,11.3,32.9
+Texas,Allen,33.3,8.8,32.9
+Texas,Amarillo,35.3,11.5,32.9
+Texas,Arlington,33.9,10.4,32.9
+Texas,Austin,29.7,10.9,32.9
+Texas,Baytown,36.2,9.1,32.9
+Texas,Beaumont,36.4,12.7,32.9
+Texas,Brownsville,35.4,9.2,32.9
+Texas,Bryan,33.9,10.7,32.9
+Texas,Carrollton,32.1,9.2,32.9
+Texas,College Station,33.6,10.8,32.9
+Texas,Corpus Christi,34.2,10.0,32.9
+Texas,Dallas,35.4,13.6,32.9
+Texas,Denton,34.2,10.8,32.9
+Texas,Edinburg,36.0,8.7,32.9
+Texas,El Paso,37.3,9.6,32.9
+Texas,Fort Worth,34.7,13.4,32.9
+Texas,Frisco,33.0,8.5,32.9
+Texas,Garland,34.7,10.2,32.9
+Texas,Grand Prairie,35.9,9.9,32.9
+Texas,Houston,35.8,13.5,32.9
+Texas,Irving,34.3,9.7,32.9
+Texas,Killeen,36.2,10.3,32.9
+Texas,Laredo,35.7,9.3,32.9
+Texas,League City,32.9,8.9,32.9
+Texas,Lewisville,34.8,9.3,32.9
+Texas,Longview,35.4,11.1,32.9
+Texas,Lubbock,33.5,11.8,32.9
+Texas,McAllen,34.0,8.7,32.9
+Texas,McKinney,33.7,9.4,32.9
+Texas,Mesquite,32.7,11.5,32.9
+Texas,Midland,33.2,9.5,32.9
+Texas,Mission,33.5,8.7,32.9
+Texas,Missouri City,35.6,11.2,32.9
+Texas,Odessa,34.7,9.9,32.9
+Texas,Pasadena,33.2,8.8,32.9
+Texas,Pearland,32.5,9.0,32.9
+Texas,Pharr,33.1,8.6,32.9
+Texas,Plano,32.4,8.5,32.9
+Texas,Richardson,31.5,9.8,32.9
+Texas,Round Rock,33.8,9.1,32.9
+Texas,San Angelo,34.0,9.4,32.9
+Texas,San Antonio,33.7,11.2,32.9
+Texas,Sugar Land,32.6,7.8,32.9
+Texas,Tyler,35.8,11.6,32.9
+Texas,Waco,38.0,12.1,32.9
+Texas,Wichita Falls,32.9,12.3,32.9

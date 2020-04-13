@@ -1,0 +1,55 @@
+﻿StateDesc,CityName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017
+Connecticut,Bridgeport,39.8,14.7,38.4
+Connecticut,Danbury,38.5,12.1,38.4
+Connecticut,Hartford,38.3,15.4,38.4
+Connecticut,New Britain,38.7,14.0,38.4
+Connecticut,New Haven,35.8,15.0,38.4
+Connecticut,Norwalk,35.1,10.8,38.4
+Connecticut,Stamford,40.3,10.8,38.4
+Connecticut,Waterbury,41.8,14.0,38.4
+Maine,Portland,36.7,12.1,33.8
+Massachusetts,Boston,36.8,14.8,37.5
+Massachusetts,Brockton,44.3,15.0,37.5
+Massachusetts,Cambridge,35.4,11.7,37.5
+Massachusetts,Fall River,39.8,14.5,37.5
+Massachusetts,Lawrence,39.3,12.1,37.5
+Massachusetts,Lowell,37.9,12.7,37.5
+Massachusetts,Lynn,40.5,13.1,37.5
+Massachusetts,New Bedford,31.5,15.2,37.5
+Massachusetts,Newton,32.6,10.6,37.5
+Massachusetts,Quincy,33.5,10.9,37.5
+Massachusetts,Somerville,35.9,11.1,37.5
+Massachusetts,Springfield,38.7,13.9,37.5
+Massachusetts,Worcester,33.2,14.2,37.5
+New Hampshire,Manchester,36.3,12.7,36.0
+New Hampshire,Nashua,44.2,12.3,36.0
+Rhode Island,Cranston,37.7,12.3,34.3
+Rhode Island,Pawtucket,40.1,15.0,34.3
+Rhode Island,Providence,40.4,14.8,34.3
+Rhode Island,Warwick,34.3,12.5,34.3
+Vermont,Burlington,29.2,12.4,29.3
+New Jersey,Camden,45.4,13.5,38.4
+New Jersey,Clifton,43.0,8.8,38.4
+New Jersey,Elizabeth,43.7,10.7,38.4
+New Jersey,Jersey City,43.9,12.6,38.4
+New Jersey,Newark,50.1,14.2,38.4
+New Jersey,Passaic,42.4,9.9,38.4
+New Jersey,Paterson,45.3,12.5,38.4
+New Jersey,Trenton,46.0,13.3,38.4
+New Jersey,Union City,41.5,8.8,38.4
+New York,Albany,42.2,13.8,32.6
+New York,Buffalo,41.2,15.8,32.6
+New York,Mount Vernon,37.6,13.4,32.6
+New York,New Rochelle,37.4,11.3,32.6
+New York,New York,39.4,14.3,32.6
+New York,Rochester,40.3,15.9,32.6
+New York,Schenectady,40.9,13.3,32.6
+New York,Syracuse,38.0,16.6,32.6
+New York,Yonkers,30.9,12.1,32.6
+Pennsylvania,Allentown,39.5,12.1,40.7
+Pennsylvania,Bethlehem,39.2,11.6,40.7
+Pennsylvania,Erie,43.2,14.1,40.7
+Pennsylvania,Philadelphia,41.4,16.3,40.7
+Pennsylvania,Pittsburgh,40.8,15.2,40.7
+Pennsylvania,Reading,41.0,11.9,40.7
+Pennsylvania,Scranton,36.8,12.2,40.7
