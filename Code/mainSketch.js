@@ -18,8 +18,6 @@ function setup() {
     // background(219, 211, 209, 178);
     // background();
     noStroke();
-    noLoop();
-    // strokeCap(ROUND);
 
     // colors
     var asthmaHue = "#e17e7b"
