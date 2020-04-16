@@ -1,0 +1,93 @@
+body {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    color:#222323;
+    margin: 0px;
+    background-color:#dcd4d1;
+  }
+
+  .title {
+    font-family: 'Playfair Display', serif;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 350px;
+    color:#222323;
+  }
+
+  .intro {
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    color:#222323;
+  }
+
+  /* p {
+    font-family: 'News Cycle', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+  } */
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: bold;
+    text-align: left;
+  }
+
+  h3 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 22px;
+    font-weight: normal;
+    text-align: center;
+    color:#222323;
+  }
+
+  
+  /* .nav-bar {
+    background: linear-gradient(-90deg, #84CF6A, #16C0B0);
+    height: 60px;
+    margin-bottom: 15px;
+  } */
+
+  /* .product {
+    display: flex;
+    flex-flow: wrap;
+    padding: 1rem;
+  }
+
+  img {
+    border: 1px solid #d8d8d8;
+    width: 70%;
+    margin: 40px;
+    box-shadow: 0px .5px 1px #d8d8d8;
+  } */
+  
+  /* .product-image {
+    width: 80%;
+  }
+  
+  .product-image,
+  .product-info {
+    margin-top: 10px;
+    width: 50%;
+  }
+  
+  
+  button {
+    margin-top: 30px;
+    border: none;
+    background-color: #1E95EA;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 14px;
+  } 
+  
+  .disabledButton {
+    background-color: #d8d8d8;
+  } */
