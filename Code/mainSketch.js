@@ -1,3 +1,4 @@
+// version where data is divided into regions and vertical
 // require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.js
 
 var west

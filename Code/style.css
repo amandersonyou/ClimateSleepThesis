@@ -1,0 +1,141 @@
+body {
+    font-family: 'Barlow', sans-serif;
+    font-size: 16px;
+    font-weight: normal;
+    text-align: left;
+    color:#222323;
+    margin: 0px;
+    background-color:#dcd4d1;
+  }
+
+  .title {
+    font-family: 'Playfair Display', serif;
+    font-size: 70px;
+    font-weight: bold;
+    text-align: center;
+    margin-top: 350px;
+    margin-bottom: 500px;
+  }
+
+  .intro {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    /* background: #ddd; */
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    margin-bottom: 120px;
+  }
+
+  h2 {
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: normal;
+    text-align: left;
+  }
+
+  h3 {
+    font-family: 'Barlow', sans-serif;
+    font-size: 18px;
+    font-weight: normal;
+    text-align: left;
+  }
+
+  .layout{
+    display:grid;
+    grid-template-columns: 1.5fr 3fr;
+    grid-gap: 5em;
+    grid-auto-rows:minmax(100px, auto);
+    padding: 1em;
+  }
+
+  .description {
+    margin-left: 2em;
+    /* padding: 2em; */
+    /* background: #ddd; */
+    
+  }
+
+  .mapContainer {
+    /* background: #ddd; */
+    padding: 2em;
+    align-content: center;
+    justify-content: center;
+    /* margin-left: 100px; */
+    /* display: grid */
+  }
+  
+  .transition {
+    padding: 2em;
+    margin-bottom: 100px;
+  }
+
+  .factoid {
+    /* background: #ddd; */
+    padding: 2em;
+    font-family: 'Playfair Display', serif;
+    font-size: 40px;
+    font-weight: normal;
+    text-align: center;
+    text-justify: center;
+    margin-bottom: 100px;
+  }
+
+  .methodology {
+    display: grid;
+    grid-template-columns: 1fr 2fr 1fr;
+    /* background: #ddd; */
+    font-family: 'Barlow', sans-serif;
+    font-size: 20px;
+    font-weight: normal;
+    text-align: center;
+    margin-top: 200px;
+    margin-bottom: 100px;
+
+  }
+
+
+  /* .nav-bar {
+    background: linear-gradient(-90deg, #84CF6A, #16C0B0);
+    height: 60px;
+    margin-bottom: 15px;
+  } */
+
+  /* .product {
+    display: flex;
+    flex-flow: wrap;
+    padding: 1rem;
+  }
+
+  img {
+    border: 1px solid #d8d8d8;
+    width: 70%;
+    margin: 40px;
+    box-shadow: 0px .5px 1px #d8d8d8;
+  } */
+  
+  /* .product-image {
+    width: 80%;
+  }
+  
+  .product-image,
+  .product-info {
+    margin-top: 10px;
+    width: 50%;
+  }
+  
+  
+  button {
+    margin-top: 30px;
+    border: none;
+    background-color: #1E95EA;
+    color: white;
+    height: 40px;
+    width: 100px;
+    font-size: 14px;
+  } 
+  
+  .disabledButton {
+    background-color: #d8d8d8;
+  } */

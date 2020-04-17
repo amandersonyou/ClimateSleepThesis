@@ -1,34 +1,33 @@
 <!-- Work in progress code following fullstack d3 book -->
 <!DOCTYPE html>
 <html>
-<head>
-    <script src="https://d3js.org/d3.v4.min.js"></script>
+  <head>
+    <title>Climate vs. Sleep Map</title>
+    <link rel="stylesheet" href="style.css" type="text/css" />
+    <script src="https://d3js.org/d3.v5.min.js"></script>
+    <script src="https://d3js.org/d3-geo.v1.min.js"></script>
+    <script src="https://d3js.org/d3-geo-projection.v2.min.js"></script>
     <script src="https://d3js.org/topojson.v2.min.js"></script>
-    <style>
-      path {
-        fill: lightgray;
-        stroke: #000;
-      }
-      .graticule {
-        fill: none;
-        stroke: #ccc;
-        stroke-width: .5px;
-      }
-      .foreground {
-        fill: none;
-        stroke: #333;
-        stroke-width: 1.5px;
-      }
-    </style>
+    <!-- D3 goes here -->
+    <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
   </head>
 
   <body>
-    <svg width="960" height="600"></svg>
+    <!-- <div class='description'>
+      <p>Lorem ipsum dolor, sit amet consectetur adipisicing elit.</p>
+    </div>
+    <div class='mapContainer'>
+      <img src="/Assets/testing_img.png">
+    </div>
+ -->
+
+
+    <style>
+
+    </style>
+
     <script>
-        const svg = d3.select("svg")
-        const myProjection = d3.geoNaturalEarth1()
-        const path = d3.geoPath().projection(myProjection)
-        const graticule = d3.geoGraticule()
+
     </script>
   </body>
-  </html>
+</html>
