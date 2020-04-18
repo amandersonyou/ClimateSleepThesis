@@ -13,7 +13,8 @@ function preload() {
 }
 
 function setup() {
-    let c = createCanvas(3600, 700)
+    
+    let c = createCanvas(2520, 450)
     background('#DBD3D1');
     noStroke();
     noLoop();
@@ -27,13 +28,13 @@ function setup() {
     // var table_asthma = asthmaHigh
     var table_total = totalData
 
-    var bar_width = 7
+    var bar_width = 5
 
     // Top 15 records with highest lacking sleep percent prevelance
 
     
-    x = 50
-    y = 350
+    x = 10
+    y = 210
     fill(sleepHue)
     for (var r=0; r<table_total.getRowCount(); r++){
         var sleepVal = (table_total.getNum(r, 2)*4)
@@ -42,8 +43,8 @@ function setup() {
     }
     
     // draw asthma bars per city
-    x = 50
-    y = 350
+    x = 10
+    y = 210
     fill(asthmaHue)
     for (var r=0; r<table_total.getRowCount(); r++){
         var asthmaVal = (table_total.getNum(r, 3)*4)
@@ -51,8 +52,8 @@ function setup() {
         x += bar_width
     }
 
-    x = 50
-    y = 350
+    x = 10
+    y = 210
     for (var r=0; r<table_total.getRowCount(); r++){
         var aqiVal = (table_total.getNum(r, 4)*4)
         fill(36,102,129, 140)
@@ -89,5 +90,5 @@ function setup() {
     //     rect(x+bar_width, y, bar_width-25, -asthmaVal)
     //     x += bar_width
     // }
-// saveCanvas(c, 'FullData_AsthmaUp', 'png');
+// saveCanvas(c, 'totalAsthmaHigh', 'png');
 }

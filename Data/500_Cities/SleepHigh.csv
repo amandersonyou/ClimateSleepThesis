@@ -1,16 +1,16 @@
-﻿StateDesc,CityName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017
-New Jersey,Newark,50.1,14.2,38.4
-Michigan,Detroit,48.5,17.4,35.4
-New Jersey,Trenton,46,13.3,38.4
-New Jersey,Camden,45.4,13.5,38.4
-New Jersey,Paterson,45.3,12.5,38.4
-Ohio,Youngstown,45,14.3,35.5
-Massachusetts,Brockton,44.3,15,37.5
-New Hampshire,Nashua,44.2,12.3,36
-Michigan,Flint,44,17.5,35.4
-Florida,West Palm Beach,43.9,12,36.9
-New Jersey,Jersey City,43.9,12.6,38.4
-Michigan,Farmington Hills,43.8,10.8,35.4
-New Jersey,Elizabeth,43.7,10.7,38.4
-Florida,Lauderhill,43.6,12.6,36.9
-Pennsylvania,Erie,43.2,14.1,40.7
+﻿StateDesc,CityName,ComboName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017
+New Jersey,Newark,"Newark, New Jersey",50.1,14.2,38.4
+Michigan,Detroit,"Detroit, Michigan",48.5,17.4,35.4
+New Jersey,Trenton,"Trenton, New Jersey",46,13.3,38.4
+New Jersey,Camden,"Camden, New Jersey",45.4,13.5,38.4
+New Jersey,Paterson,"Paterson, New Jersey",45.3,12.5,38.4
+Ohio,Youngstown,"Youngstown, Ohio",45,14.3,35.5
+Massachusetts,Brockton,"Brockton, Massachusetts",44.3,15,37.5
+New Hampshire,Nashua,"Nashua, New Hampshire",44.2,12.3,36
+Michigan,Flint,"Flint, Michigan",44,17.5,35.4
+Florida,West Palm Beach,"West Palm Beach, Florida",43.9,12,36.9
+New Jersey,Jersey City,"Jersey City, New Jersey",43.9,12.6,38.4
+Michigan,Farmington Hills,"Farmington Hills, Michigan",43.8,10.8,35.4
+New Jersey,Elizabeth,"Elizabeth, New Jersey",43.7,10.7,38.4
+Florida,Lauderhill,"Lauderhill, Florida",43.6,12.6,36.9
+Pennsylvania,Erie,"Erie, Pennsylvania",43.2,14.1,40.7
