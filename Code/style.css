@@ -13,19 +13,24 @@ body {
     font-size: 70px;
     font-weight: bold;
     text-align: center;
-    margin-top: 350px;
-    margin-bottom: 500px;
+    margin-top: 250px;
+    margin-bottom: 400px;
   }
 
   .intro {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    /* background: #ddd; */
     font-family: 'Barlow', sans-serif;
     font-size: 20px;
     font-weight: normal;
     text-align: center;
     margin-bottom: 120px;
+    background-color: #222323;
+    color:#dcd4d1;;
+    padding: 20px;
+    /* background-color: #222323
+    color: #dcd4d1; */
+    /* color: #dcd4d1 */
   }
 
   h2 {
@@ -42,37 +47,37 @@ body {
     text-align: left;
   }
 
+  h4 {
+    font-family: 'Playfair Display', serif;
+    font-size: 24px;
+    font-weight: normal;
+    text-align: center;
+  }
+
   .layout{
     display:grid;
     grid-template-columns: 1.5fr 3fr;
     grid-gap: 5em;
     grid-auto-rows:minmax(100px, auto);
-    padding: 1em;
+    padding: 2em;
+    margin-left: 2em;
   }
 
   .description {
-    margin-left: 2em;
-    /* padding: 2em; */
-    /* background: #ddd; */
-    
+    margin-right: 60px;
   }
 
   .mapContainer {
-    /* background: #ddd; */
     padding: 2em;
-    align-content: center;
-    justify-content: center;
-    /* margin-left: 100px; */
-    /* display: grid */
+    text-align: center;
   }
   
   .transition {
-    padding: 2em;
+    margin-top: 100px;
     margin-bottom: 100px;
   }
 
   .factoid {
-    /* background: #ddd; */
     padding: 2em;
     font-family: 'Playfair Display', serif;
     font-size: 40px;
@@ -85,7 +90,6 @@ body {
   .methodology {
     display: grid;
     grid-template-columns: 1fr 2fr 1fr;
-    /* background: #ddd; */
     font-family: 'Barlow', sans-serif;
     font-size: 20px;
     font-weight: normal;
