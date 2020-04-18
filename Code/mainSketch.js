@@ -4,6 +4,8 @@ var sleepHigh
 var sleepLow
 var asthmaHigh
 var asthmaLow
+// var width = 420
+// var height = 500
 
 function preload() {
     sleepHigh = loadTable('/Data/500_Cities/SleepHigh.csv', 'csv', 'header');
@@ -15,12 +17,11 @@ function preload() {
 }
 
 function setup() {
-    let c = createCanvas(800, 800)
-    // background(219, 211, 209, 178);
-    // background();
+    let c = createCanvas(420, 475)
+    background(219, 211, 209, 178);
     noStroke();
-    textFont(myFont);
-    textSize(16);
+
+    
 
     // colors
     var asthmaHue = "#e17e7b"
@@ -28,6 +29,7 @@ function setup() {
     var rowHeight = 25
     var textColor = '#222323'
 
+    // tables
     var table_SH = sleepHigh
     var table_SL = sleepLow
     var table_AH = asthmaHigh
@@ -35,9 +37,19 @@ function setup() {
 
 
 // Sleep High
-x = 230
-y = 314
+x = 190
+y = 100
 
+// Labels 
+textFont(myFontTitle);
+textAlign(CENTER);
+textSize(22);
+text('Table Title', 210, y-50);
+
+
+
+textFont(myFont);
+textSize(16);
 for (var r=0; r<table_SH.getRowCount(); r++){
     fill(textColor);
     textAlign(RIGHT);
@@ -46,8 +58,8 @@ for (var r=0; r<table_SH.getRowCount(); r++){
     y += rowHeight
 }
 
-x = 300
-y = 300
+x = 260
+y = 85
 
 for (var r=0; r<table_SH.getRowCount(); r++){
     var sleepVal = (table_SH.getNum(r, 3)*3)
@@ -57,8 +69,8 @@ for (var r=0; r<table_SH.getRowCount(); r++){
 }
 
 // draw asthma bars per city
-x = 300
-y = 300
+x = 260
+y = 85
 fill(asthmaHue)
 for (var r=0; r<table_SH.getRowCount(); r++){
     var asthmaVal = (table_SH.getNum(r, 4)*3)
@@ -77,7 +89,7 @@ for (var r=0; r<table_SH.getRowCount(); r++){
 // }
 
 
-// saveCanvas(c, 'mainvis', 'png');
+// saveCanvas(c, 'miniVisSH', 'png');
 }
 
 
