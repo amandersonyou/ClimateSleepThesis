@@ -14,7 +14,8 @@ function setup() {
 }
 
 function draw() {
-    background(220,212,209, 220);
+    background(233, 228, 226)
+    // background(220,212,209, 220);
     for (let i = 0; i < 11; i ++) {
         let p = new Particle();
         particles.push(p);
