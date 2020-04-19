@@ -9,10 +9,13 @@
 <script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
 <script language="javascript" type="text/javascript" src="libraries/p5.dom.js"></script>
 <script language="javascript" type="text/javascript" src="particles.js"></script>
+<script language="javascript" type="text/javascript" src="script.js"></script>
 <link rel="stylesheet" type="text/css" href="style.css">
+
 </head>
 <body>
   <!-- <div class="nav-bar"></div> -->
+
 
   <div class='title'>
       <h1>climate & sleep</h1>
@@ -75,24 +78,40 @@
       <div class='factoid'>
           9 out of 10 Americans regularly breath polluted air
       </div>
+  </div>
 
+  
+      <!-- <div class='mainVisDescription'> -->
+  <div class= sleepSection">
+    <div class="stickyDescrip">
       <div class='description'>
-          <h2>Asthma & <br>Sleep Apnea</h2>
-          <h3>When you are asleep, you breathe less often, less deeply, and absorb less oxygen. For people who suffer from asthma, 
-            these changes can be a problem with symptoms worsening typically during early morning sleep. Asthma is a chronic condition 
-            affecting people of all ages that intermittently inflames and restricts the airways in the lungs making the airways swell. <br> <br>
-            Obstructive sleep apnea (OSA) is described as sleep disordered breathing characterized by intermittent upper airway obstruction 
-            or pauses in breathing for 10 seconds or longer.  This pause in breathing cuts off the oxygen supply to your body, and also 
-            impedes the removal of carbon dioxide. Your brain wakes briefly to re-open the airways and re-start breathing. OSA can result 
-            in neurocognitive and cardiovascular consequences, heart disease, insulin resistance, stroke, and hypertension.
-            <br> <br> Studies have shown that improving air quality may help both sleep and respiratory health and conceivably lower the pervasiveness 
-            and severity of asthma and obstructive sleep apnea.</h3>
-      </div>
-      <div class='mapContainer'>
-          <!-- <h4>500 Cities: Asthma & Lack of Sleep Prevelance</h4> -->
-            <img src="/Assets/LongMainVis.png">
-        </div>
+        <h2>Asthma & <br>Sleep Apnea</h2>
+        <h3>When you are asleep, you breathe less often, less deeply, and absorb less oxygen. For people who suffer from asthma, 
+          these changes can be a problem with symptoms worsening typically during early morning sleep. Asthma is a chronic condition 
+          affecting people of all ages that intermittently inflames and restricts the airways in the lungs making the airways swell. <br> <br>
+          Obstructive sleep apnea (OSA) is described as sleep disordered breathing characterized by intermittent upper airway obstruction 
+          or pauses in breathing for 10 seconds or longer.  This pause in breathing cuts off the oxygen supply to your body, and also 
+          impedes the removal of carbon dioxide. Your brain wakes briefly to re-open the airways and re-start breathing. OSA can result 
+          in neurocognitive and cardiovascular consequences, heart disease, insulin resistance, stroke, and hypertension.
+          <br> <br> Studies have shown that improving air quality may help both sleep and respiratory health and conceivably lower the pervasiveness 
+          and severity of asthma and obstructive sleep apnea.</h3>
+          <br><br>
+          <img src="/Assets/MV_Legend.png">
+          
+    </div>
+    <!-- <p> where is this?</p> -->
+  </div>
+<!-- <div class= sleepSection> -->
+    <div class='mainVisContainer'>
+        <p> </p>
+        <h4 style="text-align: right">500 Cities: Percent Prevelance of Asthma & Lack of Sleep in US Adults</h4>
+        <p> </p>
+          <img style="text-align:right" src="/Assets/Final_SleepAsthmaVis.png">
+    </div>
+</div>
+  
 
+<div class='layout'>
       <div class='transition'>
         <h3></h3>
       </div>
@@ -109,7 +128,7 @@
           <img src="/Assets/wire_vis4.png">
       </div>
   </div>
-
+</div>
 
   <div class='methodology'>
     <p></p>
@@ -144,6 +163,8 @@
 
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
   <script src="script.js"></script>
+  <!-- <script src="https://unpkg.com/intersection-observer"></script>
+  <script src="https://unpkg.com/scrollama"></script> -->
   <!-- <script src="particles.js"></script> -->
 </body>
 </html>

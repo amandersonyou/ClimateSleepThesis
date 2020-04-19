@@ -32,7 +32,7 @@ Virginia,Hampton,"Hampton, Virginia",40.1,15,29.7,0.252
 Connecticut,New Haven,"New Haven, Connecticut",35.8,15,38.4,0.538
 Rhode Island,Pawtucket,"Pawtucket, Rhode Island",40.1,15,34.3,0.403
 Illinois,Chicago,"Chicago, Illinois",35.6,14.9,36.2,0.466
-North Carolin,Winston-Salem,"Winston-Salem, North Carolin",33.9,14.9,36.6,0.479
+North Carolina,Winston-Salem,"Winston-Salem, North Carolina",33.9,14.9,36.6,0.479
 Massachusetts,Boston,"Boston, Massachusetts",36.8,14.8,37.5,0.508
 Michigan,Kalamazoo,"Kalamazoo, Michigan",39.2,14.8,35.4,0.439
 Nevada,North Las Vegas,"North Las Vegas, Nevada",37.4,14.8,38.1,0.528
@@ -68,18 +68,18 @@ Georgia,Savannah,"Savannah, Georgia",41.5,14.1,37.2,0.498
 Connecticut,New Britain,"New Britain, Connecticut",38.7,14,38.4,0.538
 Connecticut,Waterbury,"Waterbury, Connecticut",41.8,14,38.4,0.538
 Michigan,Grand Rapids,"Grand Rapids, Michigan",37.6,13.9,35.4,0.439
-North Carolin,High Point,"High Point, North Carolin",36.1,13.9,36.6,0.479
+North Carolina,High Point,"High Point, North Carolina",36.1,13.9,36.6,0.479
 Illinois,Rockford,"Rockford, Illinois",35.4,13.9,36.2,0.466
 Massachusetts,Springfield,"Springfield, Massachusetts",38.7,13.9,37.5,0.508
 Ohio,Akron,"Akron, Ohio",43,13.8,35.5,0.443
 New York,Albany,"Albany, New York",42.2,13.8,32.6,0.348
-North Carolin,Charlotte,"Charlotte, North Carolin",33.7,13.8,36.6,0.479
-North Carolin,Fayetteville,"Fayetteville, North Carolin",37.8,13.8,36.6,0.479
+North Carolina,Charlotte,"Charlotte, North Carolina",33.7,13.8,36.6,0.479
+North Carolina,Fayetteville,"Fayetteville, North Carolina",37.8,13.8,36.6,0.479
 Louisiana,Lafayette,"Lafayette, Louisiana",37.6,13.8,35,0.426
 Indiana,Muncie,"Muncie, Indiana",40.1,13.8,35.5,0.443
-South Carolin,Rock Hill,"Rock Hill, South Carolin",30.4,13.8,35.6,0.446
+South Carolina,Rock Hill,"Rock Hill, South Carolina",30.4,13.8,35.6,0.446
 Colorado,Denver,"Denver, Colorado",28.1,13.7,36.4,0.472
-North Carolin,Greensboro,"Greensboro, North Carolin",35.5,13.7,36.6,0.479
+North Carolina,Greensboro,"Greensboro, North Carolina",35.5,13.7,36.6,0.479
 Mississippi,Jackson,"Jackson, Mississippi",34.9,13.7,36.4,0.472
 Tennessee,Knoxville,"Knoxville, Tennessee",37.9,13.7,36.9,0.489
 California,Los Angeles,"Los Angeles, California",36.1,13.7,49.1,0.889
@@ -95,11 +95,11 @@ Indiana,Evansville,"Evansville, Indiana",33.7,13.5,35.5,0.443
 Florida,Fort Lauderdale,"Fort Lauderdale, Florida",37.3,13.5,36.9,0.489
 Texas,Houston,"Houston, Texas",35.8,13.5,32.9,0.357
 Washington,Tacoma,"Tacoma, Washington",33.5,13.5,27,0.164
-South Carolin,Charleston,"Charleston, South Carolin",34.9,13.4,35.6,0.446
+South Carolina,Charleston,"Charleston, South Carolina",34.9,13.4,35.6,0.446
 Tennessee,Clarksville,"Clarksville, Tennessee",38,13.4,36.9,0.489
 California,Compton,"Compton, California",37,13.4,49.1,0.889
 Texas,Fort Worth,"Fort Worth, Texas",34.7,13.4,32.9,0.357
-North Carolin,Greenville,"Greenville, North Carolin",38.3,13.4,36.6,0.479
+North Carolina,Greenville,"Greenville, North Carolina",38.3,13.4,36.6,0.479
 Kentucky,Lexington,"Lexington, Kentucky",39.3,13.4,39.1,0.561
 California,Long Beach,"Long Beach, California",37.2,13.4,49.1,0.889
 New York,Mount Vernon,"Mount Vernon, New York",37.6,13.4,32.6,0.348
@@ -111,13 +111,13 @@ California,San Francisco,"San Francisco, California",31.2,13.3,49.1,0.889
 New York,Schenectady,"Schenectady, New York",40.9,13.3,32.6,0.348
 New Jersey,Trenton,"Trenton, New Jersey",46,13.3,38.4,0.538
 Michigan,Warren,"Warren, Michigan",39.4,13.3,35.4,0.439
-North Carolin,Raleigh,"Raleigh, North Carolin",33.5,13.2,36.6,0.479
+North Carolina,Raleigh,"Raleigh, North Carolina",33.5,13.2,36.6,0.479
 Virginia,Roanoke,"Roanoke, Virginia",41,13.2,29.7,0.252
 Louisiana,Shreveport,"Shreveport, Louisiana",36.3,13.2,35,0.426
 Indiana,South Bend,"South Bend, Indiana",34.5,13.2,35.5,0.443
 Virginia,Suffolk,"Suffolk, Virginia",38.3,13.2,29.7,0.252
 Kansas,Wichita,"Wichita, Kansas",38.5,13.2,32.6,0.348
-North Carolin,Wilmington,"Wilmington, North Carolin",33.1,13.2,36.6,0.479
+North Carolina,Wilmington,"Wilmington, North Carolina",33.1,13.2,36.6,0.479
 Mississippi,Gulfport,"Gulfport, Mississippi",38.5,13.1,35.8,0.452
 Hawaii,Honolulu,"Honolulu, Hawaii",39.1,13.1,52.5,1
 Oklahoma,Lawton,"Lawton, Oklahoma",34.5,13.1,35.4,0.439
@@ -132,7 +132,7 @@ Missouri,Kansas City,"Kansas City, Missouri",39,12.9,35.8,0.452
 Michigan,Lansing,"Lansing, Michigan",37.4,12.9,35.4,0.439
 Iowa,Waterloo,"Waterloo, Iowa",35.6,12.9,35.8,0.452
 Louisiana,Lake Charles,"Lake Charles, Louisiana",41.8,12.8,35,0.426
-South Carolin,North Charleston,"North Charleston, South Carolin",40.6,12.8,35.6,0.446
+South Carolina,North Charleston,"North Charleston, South Carolina",40.6,12.8,35.6,0.446
 Wisconsin,Racine,"Racine, Wisconsin",38.2,12.8,35.7,0.449
 Illinois,Aurora,"Aurora, Illinois",34.5,12.7,36.2,0.466
 Texas,Beaumont,"Beaumont, Texas",36.4,12.7,32.9,0.357
@@ -143,7 +143,7 @@ Florida,Miami,"Miami, Florida",35.5,12.7,36.9,0.489
 Oregon,Salem,"Salem, Oregon",36.4,12.7,28.7,0.22
 Washington,Spokane,"Spokane, Washington",32.3,12.7,27,0.164
 California,Fresno,"Fresno, California",35.2,12.6,49.1,0.889
-North Carolin,Gastonia,"Gastonia, North Carolin",36.7,12.6,36.6,0.479
+North Carolina,Gastonia,"Gastonia, North Carolina",36.7,12.6,36.6,0.479
 New Jersey,Jersey City,"Jersey City, New Jersey",43.9,12.6,38.4,0.538
 Illinois,Joliet,"Joliet, Illinois",34.7,12.6,36.2,0.466
 Florida,Lauderhill,"Lauderhill, Florida",43.6,12.6,36.9,0.489
@@ -171,7 +171,7 @@ New Hampshire,Nashua,"Nashua, New Hampshire",44.2,12.3,36,0.459
 Texas,Wichita Falls,"Wichita Falls, Texas",32.9,12.3,32.9,0.357
 New Mexico,Albuquerque,"Albuquerque, New Mexico",32.1,12.2,31.9,0.325
 Missouri,Columbia,"Columbia, Missouri",35.7,12.2,35.8,0.452
-North Carolin,Concord,"Concord, North Carolin",34.2,12.2,36.6,0.479
+North Carolina,Concord,"Concord, North Carolina",34.2,12.2,36.6,0.479
 Florida,Gainesville,"Gainesville, Florida",34.5,12.2,36.9,0.489
 Virginia,Lynchburg,"Lynchburg, Virginia",37.1,12.2,29.7,0.252
 Pennsylvania,Scranton,"Scranton, Pennsylvania",36.8,12.2,40.7,0.613
@@ -197,7 +197,7 @@ Florida,West Palm Beach,"West Palm Beach, Florida",43.9,12,36.9,0.489
 Michigan,Ann Arbor,"Ann Arbor, Michigan",32.1,11.9,35.4,0.439
 California,Bakersfield,"Bakersfield, California",37.6,11.9,49.1,0.889
 Nevada,Henderson,"Henderson, Nevada",38.4,11.9,38.1,0.528
-North Carolin,Jacksonville,"Jacksonville, North Carolin",37.6,11.9,36.6,0.479
+North Carolina,Jacksonville,"Jacksonville, North Carolina",37.6,11.9,36.6,0.479
 Pennsylvania,Reading,"Reading, Pennsylvania",41,11.9,40.7,0.613
 Michigan,Rochester Hills,"Rochester Hills, Michigan",33.2,11.9,35.4,0.439
 Missouri,Springfield,"Springfield, Missouri",33.2,11.9,35.8,0.452
@@ -234,7 +234,7 @@ Colorado,Thornton,"Thornton, Colorado",30.4,11.6,36.4,0.472
 Texas,Tyler,"Tyler, Texas",35.8,11.6,32.9,0.357
 Arizona,Yuma,"Yuma, Arizona",31,11.6,47.2,0.826
 Texas,Amarillo,"Amarillo, Texas",35.3,11.5,32.9,0.357
-North Carolin,Asheville,"Asheville, North Carolin",30.2,11.5,36.6,0.479
+North Carolina,Asheville,"Asheville, North Carolina",30.2,11.5,36.6,0.479
 Iowa,Davenport,"Davenport, Iowa",31.9,11.5,35.8,0.452
 California,Lancaster,"Lancaster, California",37.3,11.5,49.1,0.889
 Texas,Mesquite,"Mesquite, Texas",32.7,11.5,32.9,0.357
@@ -367,7 +367,7 @@ California,Redlands,"Redlands, California",34.8,10,49.1,0.889
 California,Riverside,"Riverside, California",35.9,10,49.1,0.889
 California,Roseville,"Roseville, California",33.4,10,49.1,0.889
 California,Bellflower,"Bellflower, California",38,9.9,49.1,0.889
-North Carolin,Cary,"Cary, North Carolin",31.8,9.9,36.6,0.479
+North Carolina,Cary,"Cary, North Carolina",31.8,9.9,36.6,0.479
 California,Concord,"Concord, California",34.6,9.9,49.1,0.889
 California,Escondido,"Escondido, California",34.1,9.9,49.1,0.889
 Texas,Grand Prairie,"Grand Prairie, Texas",35.9,9.9,32.9,0.357
@@ -474,7 +474,7 @@ Texas,Mission,"Mission, Texas",33.5,8.7,32.9,0.357
 California,West Covina,"West Covina, California",35.8,8.7,49.1,0.889
 California,Carlsbad,"Carlsbad, California",36.5,8.6,49.1,0.889
 Florida,Davie,"Davie, Florida",35.9,8.6,36.9,0.489
-South Carolin,Mount Pleasant,"Mount Pleasant, South Carolin",31.2,8.6,35.6,0.446
+South Carolina,Mount Pleasant,"Mount Pleasant, South Carolina",31.2,8.6,35.6,0.446
 Texas,Pharr,"Pharr, Texas",33.1,8.6,32.9,0.357
 California,San Ramon,"San Ramon, California",32.6,8.6,49.1,0.889
 California,Chino Hills,"Chino Hills, California",36.2,8.5,49.1,0.889
