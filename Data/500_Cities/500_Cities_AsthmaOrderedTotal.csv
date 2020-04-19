@@ -1,0 +1,501 @@
+﻿StateDesc,CityName,ComboName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017,MedianAQI_Norm
+Ohio,Cleveland,"Cleveland, Ohio",42.1,17.8,35.5,0.443
+Ohio,Dayton,"Dayton, Ohio",40.1,17.5,35.5,0.443
+Michigan,Flint,"Flint, Michigan",44,17.5,35.4,0.439
+Michigan,Detroit,"Detroit, Michigan",48.5,17.4,35.4,0.439
+Ohio,Cincinnati,"Cincinnati, Ohio",42.8,17.3,35.5,0.443
+Alabama,Mobile,"Mobile, Alabama",40.2,17,38.3,0.534
+Virginia,Norfolk,"Norfolk, Virginia",42.4,17,29.7,0.252
+Tennessee,Nashville,"Nashville, Tennessee",35.2,16.9,36.9,0.489
+New York,Syracuse,"Syracuse, New York",38,16.6,32.6,0.348
+Pennsylvania,Philadelphia,"Philadelphia, Pennsylvania",41.4,16.3,40.7,0.613
+Kentucky,Louisville,"Louisville, Kentucky",38.4,16.2,39.1,0.561
+Louisiana,New Orleans,"New Orleans, Louisiana",38.9,16.1,35,0.426
+Alabama,Huntsville,"Huntsville, Alabama",37.7,15.9,38.3,0.534
+Virginia,Richmond,"Richmond, Virginia",39.8,15.9,29.7,0.252
+New York,Rochester,"Rochester, New York",40.3,15.9,32.6,0.348
+New York,Buffalo,"Buffalo, New York",41.2,15.8,32.6,0.348
+Tennessee,Memphis,"Memphis, Tennessee",40.5,15.7,36.9,0.489
+Maryland,Baltimore,"Baltimore, Maryland",42.4,15.6,39.8,0.584
+Tennessee,Chattanooga,"Chattanooga, Tennessee",40.1,15.6,36.9,0.489
+Indiana,Indianapolis,"Indianapolis, Indiana",37.3,15.5,35.5,0.443
+Connecticut,Hartford,"Hartford, Connecticut",38.3,15.4,38.4,0.538
+Wisconsin,Milwaukee,"Milwaukee, Wisconsin",37.7,15.4,35.7,0.449
+Missouri,St. Louis,"St. Louis, Missouri",34.1,15.4,35.8,0.452
+District of Columbia,Washington,"Washington, District of Columbia",36,15.3,51,0.951
+Massachusetts,New Bedford,"New Bedford, Massachusetts",31.5,15.2,37.5,0.508
+Pennsylvania,Pittsburgh,"Pittsburgh, Pennsylvania",40.8,15.2,40.7,0.613
+Virginia,Portsmouth,"Portsmouth, Virginia",40.1,15.1,29.7,0.252
+Alabama,Birmingham,"Birmingham, Alabama",39,15,38.3,0.534
+Massachusetts,Brockton,"Brockton, Massachusetts",44.3,15,37.5,0.508
+Virginia,Hampton,"Hampton, Virginia",40.1,15,29.7,0.252
+Connecticut,New Haven,"New Haven, Connecticut",35.8,15,38.4,0.538
+Rhode Island,Pawtucket,"Pawtucket, Rhode Island",40.1,15,34.3,0.403
+Illinois,Chicago,"Chicago, Illinois",35.6,14.9,36.2,0.466
+North Carolin,Winston-Salem,"Winston-Salem, North Carolin",33.9,14.9,36.6,0.479
+Massachusetts,Boston,"Boston, Massachusetts",36.8,14.8,37.5,0.508
+Michigan,Kalamazoo,"Kalamazoo, Michigan",39.2,14.8,35.4,0.439
+Nevada,North Las Vegas,"North Las Vegas, Nevada",37.4,14.8,38.1,0.528
+Rhode Island,Providence,"Providence, Rhode Island",40.4,14.8,34.3,0.403
+Connecticut,Bridgeport,"Bridgeport, Connecticut",39.8,14.7,38.4,0.538
+Ohio,Columbus,"Columbus, Ohio",43,14.7,35.5,0.443
+Alabama,Montgomery,"Montgomery, Alabama",38.3,14.7,38.3,0.534
+Indiana,Gary,"Gary, Indiana",42.2,14.6,35.5,0.443
+Illinois,Peoria,"Peoria, Illinois",36.8,14.6,36.2,0.466
+Ohio,Toledo,"Toledo, Ohio",36.3,14.6,35.5,0.443
+Delaware,Wilmington,"Wilmington, Delaware",40.3,14.6,41.3,0.633
+Georgia,Atlanta,"Atlanta, Georgia",41.1,14.5,37.2,0.498
+Michigan,Dearborn,"Dearborn, Michigan",41.8,14.5,35.4,0.439
+Massachusetts,Fall River,"Fall River, Massachusetts",39.8,14.5,37.5,0.508
+Illinois,Springfield,"Springfield, Illinois",36.7,14.5,36.2,0.466
+Alabama,Tuscaloosa,"Tuscaloosa, Alabama",34.8,14.5,38.3,0.534
+South Carolina,Columbia,"Columbia, South Carolina",37.1,14.4,35.6,0.446
+Florida,Jacksonville,"Jacksonville, Florida",37.7,14.4,36.9,0.489
+Indiana,Fort Wayne,"Fort Wayne, Indiana",38,14.3,35.5,0.443
+New York,New York,"New York, New York",39.4,14.3,32.6,0.348
+Oklahoma,Oklahoma City,"Oklahoma City, Oklahoma",34.8,14.3,35.4,0.439
+Florida,Tampa,"Tampa, Florida",36.5,14.3,36.9,0.489
+Ohio,Youngstown,"Youngstown, Ohio",45,14.3,35.5,0.443
+North Carolina,Durham,"Durham, North Carolina",37.8,14.2,36.6,0.479
+Kansas,Kansas City,"Kansas City, Kansas",32.4,14.2,32.6,0.348
+New Jersey,Newark,"Newark, New Jersey",50.1,14.2,38.4,0.538
+Oklahoma,Tulsa,"Tulsa, Oklahoma",30.9,14.2,35.4,0.439
+Massachusetts,Worcester,"Worcester, Massachusetts",33.2,14.2,37.5,0.508
+Ohio,Canton,"Canton, Ohio",42.2,14.1,35.5,0.443
+Georgia,Columbus,"Columbus, Georgia",39.6,14.1,37.2,0.498
+Pennsylvania,Erie,"Erie, Pennsylvania",43.2,14.1,40.7,0.613
+Georgia,Savannah,"Savannah, Georgia",41.5,14.1,37.2,0.498
+Connecticut,New Britain,"New Britain, Connecticut",38.7,14,38.4,0.538
+Connecticut,Waterbury,"Waterbury, Connecticut",41.8,14,38.4,0.538
+Michigan,Grand Rapids,"Grand Rapids, Michigan",37.6,13.9,35.4,0.439
+North Carolin,High Point,"High Point, North Carolin",36.1,13.9,36.6,0.479
+Illinois,Rockford,"Rockford, Illinois",35.4,13.9,36.2,0.466
+Massachusetts,Springfield,"Springfield, Massachusetts",38.7,13.9,37.5,0.508
+Ohio,Akron,"Akron, Ohio",43,13.8,35.5,0.443
+New York,Albany,"Albany, New York",42.2,13.8,32.6,0.348
+North Carolin,Charlotte,"Charlotte, North Carolin",33.7,13.8,36.6,0.479
+North Carolin,Fayetteville,"Fayetteville, North Carolin",37.8,13.8,36.6,0.479
+Louisiana,Lafayette,"Lafayette, Louisiana",37.6,13.8,35,0.426
+Indiana,Muncie,"Muncie, Indiana",40.1,13.8,35.5,0.443
+South Carolin,Rock Hill,"Rock Hill, South Carolin",30.4,13.8,35.6,0.446
+Colorado,Denver,"Denver, Colorado",28.1,13.7,36.4,0.472
+North Carolin,Greensboro,"Greensboro, North Carolin",35.5,13.7,36.6,0.479
+Mississippi,Jackson,"Jackson, Mississippi",34.9,13.7,36.4,0.472
+Tennessee,Knoxville,"Knoxville, Tennessee",37.9,13.7,36.9,0.489
+California,Los Angeles,"Los Angeles, California",36.1,13.7,49.1,0.889
+Texas,Dallas,"Dallas, Texas",35.4,13.6,32.9,0.357
+Nevada,Las Vegas,"Las Vegas, Nevada",40.9,13.6,38.1,0.528
+Michigan,Southfield,"Southfield, Michigan",38.3,13.6,35.4,0.439
+Georgia,Albany,"Albany, Georgia",40.6,13.5,37.2,0.498
+New Jersey,Camden,"Camden, New Jersey",45.4,13.5,38.4,0.538
+West Virginia,Charleston,"Charleston, West Virginia",33.3,13.5,31.6,0.315
+Virginia,Chesapeake,"Chesapeake, Virginia",38.8,13.5,29.7,0.252
+Illinois,Decatur,"Decatur, Illinois",34.6,13.5,36.2,0.466
+Indiana,Evansville,"Evansville, Indiana",33.7,13.5,35.5,0.443
+Florida,Fort Lauderdale,"Fort Lauderdale, Florida",37.3,13.5,36.9,0.489
+Texas,Houston,"Houston, Texas",35.8,13.5,32.9,0.357
+Washington,Tacoma,"Tacoma, Washington",33.5,13.5,27,0.164
+South Carolin,Charleston,"Charleston, South Carolin",34.9,13.4,35.6,0.446
+Tennessee,Clarksville,"Clarksville, Tennessee",38,13.4,36.9,0.489
+California,Compton,"Compton, California",37,13.4,49.1,0.889
+Texas,Fort Worth,"Fort Worth, Texas",34.7,13.4,32.9,0.357
+North Carolin,Greenville,"Greenville, North Carolin",38.3,13.4,36.6,0.479
+Kentucky,Lexington,"Lexington, Kentucky",39.3,13.4,39.1,0.561
+California,Long Beach,"Long Beach, California",37.2,13.4,49.1,0.889
+New York,Mount Vernon,"Mount Vernon, New York",37.6,13.4,32.6,0.348
+Virginia,Newport News,"Newport News, Virginia",40.4,13.4,29.7,0.252
+Georgia,Macon,"Macon, Georgia",38.8,13.3,37.2,0.498
+California,Oakland,"Oakland, California",36.5,13.3,49.1,0.889
+California,San Bernardino,"San Bernardino, California",39.9,13.3,49.1,0.889
+California,San Francisco,"San Francisco, California",31.2,13.3,49.1,0.889
+New York,Schenectady,"Schenectady, New York",40.9,13.3,32.6,0.348
+New Jersey,Trenton,"Trenton, New Jersey",46,13.3,38.4,0.538
+Michigan,Warren,"Warren, Michigan",39.4,13.3,35.4,0.439
+North Carolin,Raleigh,"Raleigh, North Carolin",33.5,13.2,36.6,0.479
+Virginia,Roanoke,"Roanoke, Virginia",41,13.2,29.7,0.252
+Louisiana,Shreveport,"Shreveport, Louisiana",36.3,13.2,35,0.426
+Indiana,South Bend,"South Bend, Indiana",34.5,13.2,35.5,0.443
+Virginia,Suffolk,"Suffolk, Virginia",38.3,13.2,29.7,0.252
+Kansas,Wichita,"Wichita, Kansas",38.5,13.2,32.6,0.348
+North Carolin,Wilmington,"Wilmington, North Carolin",33.1,13.2,36.6,0.479
+Mississippi,Gulfport,"Gulfport, Mississippi",38.5,13.1,35.8,0.452
+Hawaii,Honolulu,"Honolulu, Hawaii",39.1,13.1,52.5,1
+Oklahoma,Lawton,"Lawton, Oklahoma",34.5,13.1,35.4,0.439
+Massachusetts,Lynn,"Lynn, Massachusetts",40.5,13.1,37.5,0.508
+Oregon,Medford,"Medford, Oregon",32.9,13.1,28.7,0.22
+Arizona,Phoenix,"Phoenix, Arizona",34.3,13.1,47.2,0.826
+Oregon,Eugene,"Eugene, Oregon",31.2,13,28.7,0.22
+Florida,Pompano Beach,"Pompano Beach, Florida",37.3,13,36.9,0.489
+Georgia,Augusta,"Augusta, Georgia",42.6,12.9,37.2,0.498
+Louisiana,Baton Rouge,"Baton Rouge, Louisiana",38.7,12.9,35,0.426
+Missouri,Kansas City,"Kansas City, Missouri",39,12.9,35.8,0.452
+Michigan,Lansing,"Lansing, Michigan",37.4,12.9,35.4,0.439
+Iowa,Waterloo,"Waterloo, Iowa",35.6,12.9,35.8,0.452
+Louisiana,Lake Charles,"Lake Charles, Louisiana",41.8,12.8,35,0.426
+South Carolin,North Charleston,"North Charleston, South Carolin",40.6,12.8,35.6,0.446
+Wisconsin,Racine,"Racine, Wisconsin",38.2,12.8,35.7,0.449
+Illinois,Aurora,"Aurora, Illinois",34.5,12.7,36.2,0.466
+Texas,Beaumont,"Beaumont, Texas",36.4,12.7,32.9,0.357
+Washington,Bellingham,"Bellingham, Washington",33.7,12.7,27,0.164
+Massachusetts,Lowell,"Lowell, Massachusetts",37.9,12.7,37.5,0.508
+New Hampshire,Manchester,"Manchester, New Hampshire",36.3,12.7,36,0.459
+Florida,Miami,"Miami, Florida",35.5,12.7,36.9,0.489
+Oregon,Salem,"Salem, Oregon",36.4,12.7,28.7,0.22
+Washington,Spokane,"Spokane, Washington",32.3,12.7,27,0.164
+California,Fresno,"Fresno, California",35.2,12.6,49.1,0.889
+North Carolin,Gastonia,"Gastonia, North Carolin",36.7,12.6,36.6,0.479
+New Jersey,Jersey City,"Jersey City, New Jersey",43.9,12.6,38.4,0.538
+Illinois,Joliet,"Joliet, Illinois",34.7,12.6,36.2,0.466
+Florida,Lauderhill,"Lauderhill, Florida",43.6,12.6,36.9,0.489
+Oklahoma,Norman,"Norman, Oklahoma",34,12.6,35.4,0.439
+Florida,Orlando,"Orlando, Florida",37.2,12.6,36.9,0.489
+Indiana,Hammond,"Hammond, Indiana",40.5,12.5,35.5,0.443
+New Jersey,Paterson,"Paterson, New Jersey",45.3,12.5,38.4,0.538
+Colorado,Pueblo,"Pueblo, Colorado",34.4,12.5,36.4,0.472
+California,Sacramento,"Sacramento, California",37.8,12.5,49.1,0.889
+Florida,St. Petersburg,"St. Petersburg, Florida",37.2,12.5,36.9,0.489
+Rhode Island,Warwick,"Warwick, Rhode Island",34.3,12.5,34.3,0.403
+Washington,Yakima,"Yakima, Washington",37.1,12.5,27,0.164
+Vermont,Burlington,"Burlington, Vermont",29.2,12.4,29.3,0.239
+California,Carson,"Carson, California",36.7,12.4,49.1,0.889
+Arizona,Glendale,"Glendale, Arizona",36.2,12.4,47.2,0.826
+Wisconsin,Madison,"Madison, Wisconsin",36.6,12.4,35.7,0.449
+California,Palmdale,"Palmdale, California",34.7,12.4,49.1,0.889
+Florida,Tallahassee,"Tallahassee, Florida",34,12.4,36.9,0.489
+Michigan,Westland,"Westland, Michigan",37.4,12.4,35.4,0.439
+Illinois,Champaign,"Champaign, Illinois",34.1,12.3,36.2,0.466
+Rhode Island,Cranston,"Cranston, Rhode Island",37.7,12.3,34.3,0.403
+Florida,Lakeland,"Lakeland, Florida",37.8,12.3,36.9,0.489
+Arkansas,Little Rock,"Little Rock, Arkansas",37.4,12.3,37.1,0.495
+New Hampshire,Nashua,"Nashua, New Hampshire",44.2,12.3,36,0.459
+Texas,Wichita Falls,"Wichita Falls, Texas",32.9,12.3,32.9,0.357
+New Mexico,Albuquerque,"Albuquerque, New Mexico",32.1,12.2,31.9,0.325
+Missouri,Columbia,"Columbia, Missouri",35.7,12.2,35.8,0.452
+North Carolin,Concord,"Concord, North Carolin",34.2,12.2,36.6,0.479
+Florida,Gainesville,"Gainesville, Florida",34.5,12.2,36.9,0.489
+Virginia,Lynchburg,"Lynchburg, Virginia",37.1,12.2,29.7,0.252
+Pennsylvania,Scranton,"Scranton, Pennsylvania",36.8,12.2,40.7,0.613
+Washington,Spokane Valley,"Spokane Valley, Washington",34.4,12.2,27,0.164
+Arizona,Tempe,"Tempe, Arizona",34.3,12.2,47.2,0.826
+Pennsylvania,Allentown,"Allentown, Pennsylvania",39.5,12.1,40.7,0.613
+Connecticut,Danbury,"Danbury, Connecticut",38.5,12.1,38.4,0.538
+Colorado,Greeley,"Greeley, Colorado",28.2,12.1,36.4,0.472
+Oregon,Gresham,"Gresham, Oregon",32.5,12.1,28.7,0.22
+Massachusetts,Lawrence,"Lawrence, Massachusetts",39.3,12.1,37.5,0.508
+Arizona,Mesa,"Mesa, Arizona",35.4,12.1,47.2,0.826
+Maine,Portland,"Portland, Maine",36.7,12.1,33.8,0.387
+Texas,Waco,"Waco, Texas",38,12.1,32.9,0.357
+New York,Yonkers,"Yonkers, New York",30.9,12.1,32.6,0.348
+Georgia,Athens,"Athens, Georgia",38,12,37.2,0.498
+Florida,Clearwater,"Clearwater, Florida",37.8,12,36.9,0.489
+Tennessee,Murfreesboro,"Murfreesboro, Tennessee",37.9,12,36.9,0.489
+Nebraska,Omaha,"Omaha, Nebraska",36.5,12,28.6,0.216
+Oregon,Portland,"Portland, Oregon",31.3,12,28.7,0.22
+Arizona,Tucson,"Tucson, Arizona",33.4,12,47.2,0.826
+Illinois,Waukegan,"Waukegan, Illinois",34.2,12,36.2,0.466
+Florida,West Palm Beach,"West Palm Beach, Florida",43.9,12,36.9,0.489
+Michigan,Ann Arbor,"Ann Arbor, Michigan",32.1,11.9,35.4,0.439
+California,Bakersfield,"Bakersfield, California",37.6,11.9,49.1,0.889
+Nevada,Henderson,"Henderson, Nevada",38.4,11.9,38.1,0.528
+North Carolin,Jacksonville,"Jacksonville, North Carolin",37.6,11.9,36.6,0.479
+Pennsylvania,Reading,"Reading, Pennsylvania",41,11.9,40.7,0.613
+Michigan,Rochester Hills,"Rochester Hills, Michigan",33.2,11.9,35.4,0.439
+Missouri,Springfield,"Springfield, Missouri",33.2,11.9,35.8,0.452
+Washington,Vancouver,"Vancouver, Washington",32.5,11.9,27,0.164
+California,Antioch,"Antioch, California",36.1,11.8,49.1,0.889
+Oklahoma,Edmond,"Edmond, Oklahoma",32.6,11.8,35.4,0.439
+Wisconsin,Green Bay,"Green Bay, Wisconsin",35.1,11.8,35.7,0.449
+Louisiana,Kenner,"Kenner, Louisiana",37.3,11.8,35,0.426
+Wisconsin,Kenosha,"Kenosha, Wisconsin",33.9,11.8,35.7,0.449
+Texas,Lubbock,"Lubbock, Texas",33.5,11.8,32.9,0.357
+Arizona,Peoria,"Peoria, Arizona",34.7,11.8,47.2,0.826
+Washington,Seattle,"Seattle, Washington",30.9,11.8,27,0.164
+Iowa,Sioux City,"Sioux City, Iowa",29.8,11.8,35.8,0.452
+Florida,Sunrise,"Sunrise, Florida",37.9,11.8,36.9,0.489
+Illinois,Bloomington,"Bloomington, Illinois",33.5,11.7,36.2,0.466
+Massachusetts,Cambridge,"Cambridge, Massachusetts",35.4,11.7,37.5,0.508
+California,Citrus Heights,"Citrus Heights, California",35.3,11.7,49.1,0.889
+Colorado,Fort Collins,"Fort Collins, Colorado",28.4,11.7,36.4,0.472
+California,Inglewood,"Inglewood, California",39.5,11.7,49.1,0.889
+Arkansas,Jonesboro,"Jonesboro, Arkansas",33.1,11.7,37.1,0.495
+Utah,Provo,"Provo, Utah",30.2,11.7,44.2,0.728
+Missouri,St. Joseph,"St. Joseph, Missouri",36.5,11.7,35.8,0.452
+Minnesota,St. Paul,"St. Paul, Minnesota",39.2,11.7,31.6,0.315
+Georgia,Warner Robins,"Warner Robins, Georgia",40.9,11.7,37.2,0.498
+Pennsylvania,Bethlehem,"Bethlehem, Pennsylvania",39.2,11.6,40.7,0.613
+Indiana,Bloomington,"Bloomington, Indiana",30.6,11.6,35.5,0.443
+Washington,Everett,"Everett, Washington",35.4,11.6,27,0.164
+California,Fairfield,"Fairfield, California",35.9,11.6,49.1,0.889
+Iowa,Iowa City,"Iowa City, Iowa",28.2,11.6,35.8,0.452
+Washington,Kennewick,"Kennewick, Washington",33.1,11.6,27,0.164
+California,Pomona,"Pomona, California",37.1,11.6,49.1,0.889
+California,Richmond,"Richmond, California",36.7,11.6,49.1,0.889
+Colorado,Thornton,"Thornton, Colorado",30.4,11.6,36.4,0.472
+Texas,Tyler,"Tyler, Texas",35.8,11.6,32.9,0.357
+Arizona,Yuma,"Yuma, Arizona",31,11.6,47.2,0.826
+Texas,Amarillo,"Amarillo, Texas",35.3,11.5,32.9,0.357
+North Carolin,Asheville,"Asheville, North Carolin",30.2,11.5,36.6,0.479
+Iowa,Davenport,"Davenport, Iowa",31.9,11.5,35.8,0.452
+California,Lancaster,"Lancaster, California",37.3,11.5,49.1,0.889
+Texas,Mesquite,"Mesquite, Texas",32.7,11.5,32.9,0.357
+Virginia,Virginia Beach,"Virginia Beach, Virginia",31.9,11.5,29.7,0.252
+Colorado,Aurora,"Aurora, Colorado",28.7,11.4,36.4,0.472
+Arizona,Avondale,"Avondale, Arizona",37.2,11.4,47.2,0.826
+Arkansas,Fort Smith,"Fort Smith, Arkansas",33.6,11.4,37.1,0.495
+California,Hawthorne,"Hawthorne, California",39.6,11.4,49.1,0.889
+Washington,Kent,"Kent, Washington",33.3,11.4,27,0.164
+Michigan,Sterling Heights,"Sterling Heights, Michigan",35.4,11.4,35.4,0.439
+Michigan,Wyoming,"Wyoming, Michigan",30.1,11.4,35.4,0.439
+Texas,Abilene,"Abilene, Texas",33.3,11.3,32.9,0.357
+Washington,Auburn,"Auburn, Washington",28.9,11.3,27,0.164
+California,Chico,"Chico, California",35,11.3,49.1,0.889
+Colorado,Colorado Springs,"Colorado Springs, Colorado",29.7,11.3,36.4,0.472
+Florida,Hollywood,"Hollywood, Florida",36.5,11.3,36.9,0.489
+Alabama,Hoover,"Hoover, Alabama",35.8,11.3,38.3,0.534
+Missouri,Independence,"Independence, Missouri",37,11.3,35.8,0.452
+California,Lynwood,"Lynwood, California",36,11.3,49.1,0.889
+Florida,Miami Gardens,"Miami Gardens, Florida",40.6,11.3,36.9,0.489
+California,Modesto,"Modesto, California",36.5,11.3,49.1,0.889
+New York,New Rochelle,"New Rochelle, New York",37.4,11.3,32.6,0.348
+Nevada,Reno,"Reno, Nevada",33.4,11.3,38.1,0.528
+California,Stockton,"Stockton, California",34.5,11.3,49.1,0.889
+Kansas,Topeka,"Topeka, Kansas",34.6,11.3,32.6,0.348
+California,Vallejo,"Vallejo, California",39.1,11.3,49.1,0.889
+Colorado,Westminster,"Westminster, Colorado",38.7,11.3,36.4,0.472
+Colorado,Arvada,"Arvada, Colorado",26.8,11.2,36.4,0.472
+Colorado,Boulder,"Boulder, Colorado",25.9,11.2,36.4,0.472
+Arizona,Chandler,"Chandler, Arizona",34.7,11.2,47.2,0.826
+California,El Cajon,"El Cajon, California",37.9,11.2,49.1,0.889
+Michigan,Livonia,"Livonia, Michigan",35.7,11.2,35.4,0.439
+Texas,Missouri City,"Missouri City, Texas",35.6,11.2,32.9,0.357
+Texas,San Antonio,"San Antonio, Texas",33.7,11.2,32.9,0.357
+Montana,Billings,"Billings, Montana",28.7,11.1,30.8,0.289
+Florida,Deerfield Beach,"Deerfield Beach, Florida",37,11.1,36.9,0.489
+Iowa,Des Moines,"Des Moines, Iowa",30.7,11.1,35.8,0.452
+Arizona,Gilbert,"Gilbert, Arizona",36.6,11.1,47.2,0.826
+Kansas,Lawrence,"Lawrence, Kansas",28.9,11.1,32.6,0.348
+Texas,Longview,"Longview, Texas",35.4,11.1,32.9,0.357
+Idaho,Nampa,"Nampa, Idaho",32.9,11.1,27.4,0.177
+Massachusetts,Somerville,"Somerville, Massachusetts",35.9,11.1,37.5,0.508
+Nevada,Sparks,"Sparks, Nevada",34.7,11.1,38.1,0.528
+Oregon,Bend,"Bend, Oregon",29.3,11,28.7,0.22
+Oklahoma,Broken Arrow,"Broken Arrow, Oklahoma",31.4,11,35.4,0.439
+California,Hemet,"Hemet, California",38.7,11,49.1,0.889
+Oregon,Hillsboro,"Hillsboro, Oregon",33.3,11,28.7,0.22
+Indiana,Lafayette,"Lafayette, Indiana",36.4,11,35.5,0.443
+Florida,Melbourne,"Melbourne, Florida",35.7,11,36.9,0.489
+Florida,Miramar,"Miramar, Florida",39.6,11,36.9,0.489
+California,San Diego,"San Diego, California",31.3,11,49.1,0.889
+Texas,Austin,"Austin, Texas",29.7,10.9,32.9,0.357
+Oregon,Beaverton,"Beaverton, Oregon",30.5,10.9,28.7,0.22
+Wyoming,Cheyenne,"Cheyenne, Wyoming",33.5,10.9,38.5,0.541
+Utah,Ogden,"Ogden, Utah",34.3,10.9,44.2,0.728
+California,Oxnard,"Oxnard, California",37.7,10.9,49.1,0.889
+Massachusetts,Quincy,"Quincy, Massachusetts",33.5,10.9,37.5,0.508
+Idaho,Boise City,"Boise City, Idaho",27.5,10.8,27.4,0.177
+California,Clovis,"Clovis, California",38.1,10.8,49.1,0.889
+Texas,College Station,"College Station, Texas",33.6,10.8,32.9,0.357
+Texas,Denton,"Denton, Texas",34.2,10.8,32.9,0.357
+Michigan,Farmington Hills,"Farmington Hills, Michigan",43.8,10.8,35.4,0.439
+California,Folsom,"Folsom, California",33.4,10.8,49.1,0.889
+Nebraska,Lincoln,"Lincoln, Nebraska",30.1,10.8,28.6,0.216
+Minnesota,Minneapolis,"Minneapolis, Minnesota",30.4,10.8,31.6,0.315
+California,Moreno Valley,"Moreno Valley, California",39.2,10.8,49.1,0.889
+Connecticut,Norwalk,"Norwalk, Connecticut",35.1,10.8,38.4,0.538
+California,Redding,"Redding, California",32.2,10.8,49.1,0.889
+Washington,Renton,"Renton, Washington",31,10.8,27,0.164
+New Mexico,Rio Rancho,"Rio Rancho, New Mexico",31,10.8,31.9,0.325
+Utah,Salt Lake City,"Salt Lake City, Utah",29.8,10.8,44.2,0.728
+California,Santa Maria,"Santa Maria, California",31,10.8,49.1,0.889
+Arizona,Scottsdale,"Scottsdale, Arizona",31.6,10.8,47.2,0.826
+Connecticut,Stamford,"Stamford, Connecticut",40.3,10.8,38.4,0.538
+Arizona,Surprise,"Surprise, Arizona",34.5,10.8,47.2,0.826
+California,Victorville,"Victorville, California",33.8,10.8,49.1,0.889
+Texas,Bryan,"Bryan, Texas",33.9,10.7,32.9,0.357
+New Jersey,Elizabeth,"Elizabeth, New Jersey",43.7,10.7,38.4,0.538
+California,Merced,"Merced, California",36.2,10.7,49.1,0.889
+Alaska,Anchorage,"Anchorage, Alaska",34.2,10.6,22,0
+Illinois,Evanston,"Evanston, Illinois",32.7,10.6,36.2,0.466
+Washington,Federal Way,"Federal Way, Washington",33.3,10.6,27,0.164
+California,Hesperia,"Hesperia, California",36.5,10.6,49.1,0.889
+Massachusetts,Newton,"Newton, Massachusetts",32.6,10.6,37.5,0.508
+California,Norwalk,"Norwalk, California",36.2,10.6,49.1,0.889
+Florida,Plantation,"Plantation, Florida",36.7,10.6,36.9,0.489
+California,Rialto,"Rialto, California",38.8,10.6,49.1,0.889
+New Mexico,Santa Fe,"Santa Fe, New Mexico",34.3,10.6,31.9,0.325
+California,Turlock,"Turlock, California",33.6,10.6,49.1,0.889
+Virginia,Alexandria,"Alexandria, Virginia",37.6,10.5,29.7,0.252
+Iowa,Cedar Rapids,"Cedar Rapids, Iowa",29.9,10.5,35.8,0.452
+California,Elk Grove,"Elk Grove, California",36.4,10.5,49.1,0.889
+California,Glendale,"Glendale, California",38.1,10.5,49.1,0.889
+Michigan,Troy,"Troy, Michigan",33.2,10.5,35.4,0.439
+Utah,West Valley City,"West Valley City, Utah",31,10.5,44.2,0.728
+Texas,Arlington,"Arlington, Texas",33.9,10.4,32.9,0.357
+Arkansas,Fayetteville,"Fayetteville, Arkansas",35.4,10.4,37.1,0.495
+Florida,Largo,"Largo, Florida",41.1,10.4,36.9,0.489
+New Mexico,Las Cruces,"Las Cruces, New Mexico",31.2,10.4,31.9,0.325
+Missouri,Lee's Summit,"Lee's Summit, Missouri",33.1,10.4,35.8,0.452
+California,Perris,"Perris, California",39.7,10.4,49.1,0.889
+South Dakota,Rapid City,"Rapid City, South Dakota",26.8,10.4,31.6,0.315
+California,Visalia,"Visalia, California",33.2,10.4,49.1,0.889
+Wisconsin,Waukesha,"Waukesha, Wisconsin",33.1,10.4,35.7,0.449
+California,Apple Valley,"Apple Valley, California",38.6,10.3,49.1,0.889
+Illinois,Bolingbrook,"Bolingbrook, Illinois",33.8,10.3,36.2,0.466
+Florida,Boynton Beach,"Boynton Beach, Florida",34.1,10.3,36.9,0.489
+Texas,Killeen,"Killeen, Texas",36.2,10.3,32.9,0.357
+Montana,Missoula,"Missoula, Montana",27.8,10.3,30.8,0.289
+California,Pasadena,"Pasadena, California",34.4,10.3,49.1,0.889
+California,Salinas,"Salinas, California",36.4,10.3,49.1,0.889
+California,Santa Rosa,"Santa Rosa, California",33.4,10.3,49.1,0.889
+Wisconsin,Appleton,"Appleton, Wisconsin",29.9,10.2,35.7,0.449
+Texas,Garland,"Garland, Texas",34.7,10.2,32.9,0.357
+California,Hayward,"Hayward, California",36.5,10.2,49.1,0.889
+Colorado,Lakewood,"Lakewood, Colorado",26.8,10.2,36.4,0.472
+California,Vista,"Vista, California",35.4,10.2,49.1,0.889
+Utah,West Jordan,"West Jordan, Utah",32.5,10.2,44.2,0.728
+California,Berkeley,"Berkeley, California",33.3,10.1,49.1,0.889
+Minnesota,Duluth,"Duluth, Minnesota",31.8,10.1,31.6,0.315
+California,Manteca,"Manteca, California",35.4,10.1,49.1,0.889
+Kansas,Olathe,"Olathe, Kansas",26,10.1,32.6,0.348
+Utah,Sandy,"Sandy, Utah",30.7,10.1,44.2,0.728
+Arkansas,Springdale,"Springdale, Arkansas",34.4,10.1,37.1,0.495
+California,Vacaville,"Vacaville, California",37.9,10.1,49.1,0.889
+Texas,Corpus Christi,"Corpus Christi, Texas",34.2,10,32.9,0.357
+California,Fontana,"Fontana, California",36.5,10,49.1,0.889
+Ohio,Parma,"Parma, Ohio",39.4,10,35.5,0.443
+California,Redlands,"Redlands, California",34.8,10,49.1,0.889
+California,Riverside,"Riverside, California",35.9,10,49.1,0.889
+California,Roseville,"Roseville, California",33.4,10,49.1,0.889
+California,Bellflower,"Bellflower, California",38,9.9,49.1,0.889
+North Carolin,Cary,"Cary, North Carolin",31.8,9.9,36.6,0.479
+California,Concord,"Concord, California",34.6,9.9,49.1,0.889
+California,Escondido,"Escondido, California",34.1,9.9,49.1,0.889
+Texas,Grand Prairie,"Grand Prairie, Texas",35.9,9.9,32.9,0.357
+Colorado,Loveland,"Loveland, Colorado",28.8,9.9,36.4,0.472
+Idaho,Meridian,"Meridian, Idaho",29.2,9.9,27.4,0.177
+California,Oceanside,"Oceanside, California",37.7,9.9,49.1,0.889
+Texas,Odessa,"Odessa, Texas",34.7,9.9,32.9,0.357
+Kansas,Overland Park,"Overland Park, Kansas",30.6,9.9,32.6,0.348
+New Jersey,Passaic,"Passaic, New Jersey",42.4,9.9,38.4,0.538
+California,Santa Ana,"Santa Ana, California",35.5,9.9,49.1,0.889
+California,Santa Clarita,"Santa Clarita, California",33.1,9.9,49.1,0.889
+California,Thousand Oaks,"Thousand Oaks, California",32.9,9.9,49.1,0.889
+California,Tracy,"Tracy, California",35.6,9.9,49.1,0.889
+California,Chula Vista,"Chula Vista, California",34.1,9.8,49.1,0.889
+Illinois,Elgin,"Elgin, Illinois",34.2,9.8,36.2,0.466
+California,Indio,"Indio, California",37.7,9.8,49.1,0.889
+Texas,Richardson,"Richardson, Texas",31.5,9.8,32.9,0.357
+California,San Jose,"San Jose, California",33.5,9.8,49.1,0.889
+California,San Marcos,"San Marcos, California",31.2,9.8,49.1,0.889
+Utah,St. George,"St. George, Utah",31,9.8,44.2,0.728
+Minnesota,Brooklyn Park,"Brooklyn Park, Minnesota",32.2,9.7,31.6,0.315
+North Dakota,Fargo,"Fargo, North Dakota",31.6,9.7,33.3,0.37
+Texas,Irving,"Irving, Texas",34.3,9.7,32.9,0.357
+Colorado,Longmont,"Longmont, Colorado",26.2,9.7,36.4,0.472
+California,Napa,"Napa, California",32.7,9.7,49.1,0.889
+Florida,Pembroke Pines,"Pembroke Pines, Florida",35.9,9.7,36.9,0.489
+California,San Buenaventura,"San Buenaventura, California",33.2,9.7,49.1,0.889
+California,San Leandro,"San Leandro, California",36.3,9.7,49.1,0.889
+Georgia,Sandy Springs,"Sandy Springs, Georgia",37.4,9.7,37.2,0.498
+California,Santa Barbara,"Santa Barbara, California",26.5,9.7,49.1,0.889
+California,Simi Valley,"Simi Valley, California",35.8,9.7,49.1,0.889
+Illinois,Arlington Heights,"Arlington Heights, Illinois",33.3,9.6,36.2,0.466
+Florida,Boca Raton,"Boca Raton, Florida",36.5,9.6,36.9,0.489
+California,Burbank,"Burbank, California",31.8,9.6,49.1,0.889
+Texas,El Paso,"El Paso, Texas",37.3,9.6,32.9,0.357
+California,Huntington Beach,"Huntington Beach, California",32,9.6,49.1,0.889
+Utah,Layton,"Layton, Utah",31.6,9.6,44.2,0.728
+California,Livermore,"Livermore, California",33.8,9.6,49.1,0.889
+California,South Gate,"South Gate, California",37.9,9.6,49.1,0.889
+California,Anaheim,"Anaheim, California",36.5,9.5,49.1,0.889
+Indiana,Carmel,"Carmel, Indiana",29.8,9.5,35.5,0.443
+Florida,Coral Springs,"Coral Springs, Florida",36,9.5,36.9,0.489
+California,Costa Mesa,"Costa Mesa, California",33.6,9.5,49.1,0.889
+Texas,Midland,"Midland, Texas",33.2,9.5,32.9,0.357
+California,Murrieta,"Murrieta, California",34.2,9.5,49.1,0.889
+California,Ontario,"Ontario, California",37.4,9.5,49.1,0.889
+Florida,Port St. Lucie,"Port St. Lucie, Florida",38.6,9.5,36.9,0.489
+California,Rancho Cucamonga,"Rancho Cucamonga, California",34.2,9.5,49.1,0.889
+California,Alameda,"Alameda, California",33.8,9.4,49.1,0.889
+California,Chino,"Chino, California",39.7,9.4,49.1,0.889
+California,Corona,"Corona, California",38.1,9.4,49.1,0.889
+California,El Monte,"El Monte, California",36.9,9.4,49.1,0.889
+Texas,McKinney,"McKinney, Texas",33.7,9.4,32.9,0.357
+California,Menifee,"Menifee, California",36.5,9.4,49.1,0.889
+Texas,San Angelo,"San Angelo, Texas",34,9.4,32.9,0.357
+California,Santa Clara,"Santa Clara, California",33,9.4,49.1,0.889
+California,Buena Park,"Buena Park, California",33.9,9.3,49.1,0.889
+California,Fullerton,"Fullerton, California",34.7,9.3,49.1,0.889
+Texas,Laredo,"Laredo, Texas",35.7,9.3,32.9,0.357
+Texas,Lewisville,"Lewisville, Texas",34.8,9.3,32.9,0.357
+California,Newport Beach,"Newport Beach, California",29.6,9.3,49.1,0.889
+Missouri,O'Fallon,"O'Fallon, Missouri",32,9.3,35.8,0.452
+California,Santa Monica,"Santa Monica, California",31.8,9.3,49.1,0.889
+California,Tustin,"Tustin, California",35,9.3,49.1,0.889
+California,Upland,"Upland, California",36.1,9.3,49.1,0.889
+Washington,Bellevue,"Bellevue, Washington",28.7,9.2,27,0.164
+Texas,Brownsville,"Brownsville, Texas",35.4,9.2,32.9,0.357
+Texas,Carrollton,"Carrollton, Texas",32.1,9.2,32.9,0.357
+Florida,Deltona,"Deltona, Florida",38.1,9.2,36.9,0.489
+California,Downey,"Downey, California",35,9.2,49.1,0.889
+California,Orange,"Orange, California",32.3,9.2,49.1,0.889
+Utah,Orem,"Orem, Utah",30.3,9.2,44.2,0.728
+Florida,Palm Bay,"Palm Bay, Florida",35.6,9.2,36.9,0.489
+California,Redwood City,"Redwood City, California",37.4,9.2,49.1,0.889
+California,Temecula,"Temecula, California",37.2,9.2,49.1,0.889
+Texas,Baytown,"Baytown, Texas",36.2,9.1,32.9,0.357
+Indiana,Fishers,"Fishers, Indiana",31.4,9.1,35.5,0.443
+California,Lakewood,"Lakewood, California",36.5,9.1,49.1,0.889
+Florida,Palm Coast,"Palm Coast, Florida",35.2,9.1,36.9,0.489
+Georgia,Roswell,"Roswell, Georgia",32.7,9.1,37.2,0.498
+Texas,Round Rock,"Round Rock, Texas",33.8,9.1,32.9,0.357
+California,San Mateo,"San Mateo, California",31.2,9.1,49.1,0.889
+South Dakota,Sioux Falls,"Sioux Falls, South Dakota",30.5,9.1,31.6,0.315
+California,Whittier,"Whittier, California",33.7,9.1,49.1,0.889
+Illinois,Cicero,"Cicero, Illinois",34.7,9,36.2,0.466
+Texas,Pearland,"Pearland, Texas",32.5,9,32.9,0.357
+Colorado,Centennial,"Centennial, Colorado",28.7,8.9,36.4,0.472
+California,Garden Grove,"Garden Grove, California",35.6,8.9,49.1,0.889
+Texas,League City,"League City, Texas",32.9,8.9,32.9,0.357
+Texas,Allen,"Allen, Texas",33.3,8.8,32.9,0.357
+California,Baldwin Park,"Baldwin Park, California",37.9,8.8,49.1,0.889
+Florida,Cape Coral,"Cape Coral, Florida",34.6,8.8,36.9,0.489
+New Jersey,Clifton,"Clifton, New Jersey",43,8.8,38.4,0.538
+California,Lake Forest,"Lake Forest, California",35.2,8.8,49.1,0.889
+California,Mission Viejo,"Mission Viejo, California",31.8,8.8,49.1,0.889
+Illinois,Naperville,"Naperville, Illinois",30.5,8.8,36.2,0.466
+Texas,Pasadena,"Pasadena, Texas",33.2,8.8,32.9,0.357
+Minnesota,Rochester,"Rochester, Minnesota",31.1,8.8,31.6,0.315
+Illinois,Schaumburg,"Schaumburg, Illinois",34.3,8.8,36.2,0.466
+New Jersey,Union City,"Union City, New Jersey",41.5,8.8,38.4,0.538
+Texas,Edinburg,"Edinburg, Texas",36,8.7,32.9,0.357
+Texas,McAllen,"McAllen, Texas",34,8.7,32.9,0.357
+Texas,Mission,"Mission, Texas",33.5,8.7,32.9,0.357
+California,West Covina,"West Covina, California",35.8,8.7,49.1,0.889
+California,Carlsbad,"Carlsbad, California",36.5,8.6,49.1,0.889
+Florida,Davie,"Davie, Florida",35.9,8.6,36.9,0.489
+South Carolin,Mount Pleasant,"Mount Pleasant, South Carolin",31.2,8.6,35.6,0.446
+Texas,Pharr,"Pharr, Texas",33.1,8.6,32.9,0.357
+California,San Ramon,"San Ramon, California",32.6,8.6,49.1,0.889
+California,Chino Hills,"Chino Hills, California",36.2,8.5,49.1,0.889
+California,Fremont,"Fremont, California",35.1,8.5,49.1,0.889
+Texas,Frisco,"Frisco, Texas",33,8.5,32.9,0.357
+California,Irvine,"Irvine, California",31.3,8.5,49.1,0.889
+California,Mountain View,"Mountain View, California",33.8,8.5,49.1,0.889
+Illinois,Palatine,"Palatine, Illinois",31.9,8.5,36.2,0.466
+Texas,Plano,"Plano, Texas",32.4,8.5,32.9,0.357
+California,Pleasanton,"Pleasanton, California",32.4,8.5,49.1,0.889
+California,Sunnyvale,"Sunnyvale, California",32.6,8.5,49.1,0.889
+California,Torrance,"Torrance, California",34.4,8.5,49.1,0.889
+Minnesota,Bloomington,"Bloomington, Minnesota",30.5,8.4,31.6,0.315
+California,Union City,"Union City, California",36.1,8.4,49.1,0.889
+California,Redondo Beach,"Redondo Beach, California",31.3,8.3,49.1,0.889
+California,Westminster,"Westminster, California",34.3,8.3,49.1,0.889
+California,Daly City,"Daly City, California",34.7,8,49.1,0.889
+California,Milpitas,"Milpitas, California",30.1,8,49.1,0.889
+Minnesota,Plymouth,"Plymouth, Minnesota",28.8,8,31.6,0.315
+Florida,Hialeah,"Hialeah, Florida",34.2,7.8,36.9,0.489
+Georgia,Johns Creek,"Johns Creek, Georgia",40.6,7.8,37.2,0.498
+Texas,Sugar Land,"Sugar Land, Texas",32.6,7.8,32.9,0.357
+California,Alhambra,"Alhambra, California",35.2,7.7,49.1,0.889
+Florida,Miami Beach,"Miami Beach, Florida",40.2,7.4,36.9,0.489

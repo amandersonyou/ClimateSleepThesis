@@ -18,7 +18,7 @@ function preload() {
 
 function setup() {
     let c = createCanvas(420, 475)
-    background(219, 211, 209, 178);
+    // background(219, 211, 209, 178);
     noStroke();
 
     
@@ -44,7 +44,7 @@ y = 100
 textFont(myFontTitle);
 textAlign(CENTER);
 textSize(22);
-text('Table Title', 210, y-50);
+text('Highest Lack of Sleep Prevelance', 210, y-80);
 
 
 
