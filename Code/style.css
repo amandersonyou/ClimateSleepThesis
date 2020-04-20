@@ -62,7 +62,7 @@ body {
     grid-auto-rows:minmax(100px, auto);
     padding: 2em;
     /* background-color: azure */
-    margin-left: 3em;
+    margin-left: 1em;
   }
 
 
@@ -76,14 +76,14 @@ body {
     position: -webkit-sticky;
     position: sticky;
     top: 10px;
-    margin-left: 3em;
+    margin-left: 1em;
     /* background-color: fuchsia */
   }
 
   .mainVisContainer {
     padding: 2em;
     text-align: right;
-    margin-right: 100px;
+    margin-right: 50px;
   }
 
   .description {
