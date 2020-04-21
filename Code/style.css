@@ -52,23 +52,23 @@ body {
     font-family: 'Playfair Display', serif;
     font-size: 24px;
     font-weight: normal;
-    text-align: center;
+    text-align: left;
   }
 
   .layout{
     display:grid;
-    grid-template-columns: 1.5fr 3fr;
+    grid-template-columns: 1fr 2fr;
     grid-gap: 5em;
     grid-auto-rows:minmax(100px, auto);
     padding: 2em;
     /* background-color: azure */
-    margin-left: 1em;
+    margin-left: 5em;
   }
 
 
 .stickyDescrip{
     display:grid;
-    grid-template-columns: 1.5fr 3fr;
+    grid-template-columns: 1fr 2fr;
     margin-right: 60px;
     grid-gap: 5em;
     grid-auto-rows:minmax(100px, auto);
@@ -76,14 +76,15 @@ body {
     position: -webkit-sticky;
     position: sticky;
     top: 10px;
-    margin-left: 1em;
+    margin-left: 5em;
     /* background-color: fuchsia */
   }
 
   .mainVisContainer {
     padding: 2em;
+    /* margin-left: 20px; */
     text-align: right;
-    margin-right: 50px;
+    margin-right: 20px;
   }
 
   .description {
@@ -93,12 +94,12 @@ body {
 
   .mapContainer {
     padding: 2em;
-    text-align: center;
+    margin-left: 100px;
+    /* text-align: left; */
+    justify-content: center;
     
     /* background-color: azure */
   }
-
-
 
 
   h5{
@@ -137,6 +138,53 @@ body {
     margin-bottom: 100px;
 
   }
+
+
+  /***************** SLIDER TOOL CONTAINERS *****************/
+
+  .img-comp-container {
+    position: relative;
+    height: 700px;
+    margin:0px;
+    /* display: grid */
+    /* width: 75%; */
+    margin-bottom: 40px;
+    /* margin-left: 300px; */
+  }
+
+  .img-comp-img {
+    position: absolute;
+    width: auto;
+    height: auto;
+    overflow:hidden;
+  }
+
+  .img-comp-img img {
+    display:block;
+    vertical-align: middle;
+    justify-items: center;
+    /* border-radius: 35px; */
+  }
+
+  .img-comp-slider {
+    position: absolute;
+    z-index:9;
+    cursor: ew-resize;
+    /*set the appearance of the slider:*/
+    width: 40px;
+    height: 40px;
+    background-color: #222323;
+    opacity: .8;
+    border-radius: 50%;
+  }
+  
+   /* .comparison {
+    display: grid;
+    grid-template-columns: 1fr 3fr;
+    grid-column-gap: 0px;
+    margin-top: 50px;
+    } */
+
 
 
   /* .nav-bar {
