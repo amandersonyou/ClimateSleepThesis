@@ -9,6 +9,14 @@ body {
     background-color: #e9e4e2;
   }
 
+  .layout{
+    display: grid;
+    grid-template-columns: 1.5fr 2fr;
+    grid-gap: 1em;
+    padding: 2em;
+    margin-left: 3em;
+  }
+
   .title {
     font-family: 'Playfair Display', serif;
     font-size: 70px;
@@ -29,11 +37,9 @@ body {
     background-color: #222323;
     color:#e9e4e2;;
     padding: 20px;
-    /* background-color: #222323
-    color: #dcd4d1; */
-    /* color: #dcd4d1 */
   }
 
+  /* paragraph titles */
   h2 {
     font-family: 'Playfair Display', serif;
     font-size: 40px;
@@ -41,6 +47,7 @@ body {
     text-align: left;
   }
 
+  /* paragraph text content */
   h3 {
     font-family: 'Barlow', sans-serif;
     font-size: 18px;
@@ -48,57 +55,46 @@ body {
     text-align: left;
   }
 
+  /* visual titles */
   h4 {
     font-family: 'Playfair Display', serif;
     font-size: 24px;
     font-weight: normal;
     text-align: left;
+    /* background-color: crimson */
   }
 
-  .layout{
-    display:grid;
-    grid-template-columns: 1fr 2fr;
-    grid-gap: 5em;
-    grid-auto-rows:minmax(100px, auto);
-    padding: 2em;
-    /* background-color: azure */
-    margin-left: 5em;
-  }
-
-
+/* Asthma and Sleep visual description */
 .stickyDescrip{
     display:grid;
-    grid-template-columns: 1fr 2fr;
-    margin-right: 60px;
-    grid-gap: 5em;
+    grid-template-columns: 1.5fr 2fr;
+    margin-right: 50px;
+    grid-gap: 1em;
     grid-auto-rows:minmax(100px, auto);
     padding: 2em;
     position: -webkit-sticky;
     position: sticky;
     top: 10px;
-    margin-left: 5em;
+    margin-left: 3em;
     /* background-color: fuchsia */
   }
 
+  /* scrolling Asthma/Sleep visualization png */
   .mainVisContainer {
+    display: grid;
+    grid-template-columns: 1.5fr 2fr;
     padding: 2em;
-    /* margin-left: 20px; */
     text-align: right;
     margin-right: 20px;
   }
 
   .description {
-    margin-right: 60px;
-    /* background-color: aqua */
+    margin-right: 30px;
   }
 
-  .mapContainer {
+  .visContainer {
     padding: 2em;
-    margin-left: 100px;
-    /* text-align: left; */
-    justify-content: center;
-    
-    /* background-color: azure */
+    margin-left: 50px;
   }
 
 
@@ -121,8 +117,8 @@ body {
     font-weight: normal;
     text-align: center;
     text-justify: center;
-    margin-left: 200px;
-    margin-right: 200px;
+    margin-left: 100px;
+    margin-right: 100px;
     margin-top: 100px;
     margin-bottom: 100px;
   }

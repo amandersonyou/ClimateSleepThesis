@@ -8,6 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@200;400;500;600&family=News+Cycle&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
 <script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
 <script language="javascript" type="text/javascript" src="libraries/p5.dom.js"></script>
+<script language="javascript" type="text/javascript" src="500Cities_SleepOrdered.js"></script>
 <script language="javascript" type="text/javascript" src="particles.js"></script>
 <script language="javascript" type="text/javascript" src="script.js"></script>
 <script language="javascript" type="text/javascript" src="slider.js"></script>
@@ -43,29 +44,18 @@
             quality of life, and economic growth. (NCA 2018). Among these changes are more frequent and intense extreme weather 
             and changes in average climate conditions such as rising temperatures. Air quality suffers as concentrations of 
             pollutants such as ozone are amplified with stagnant, warmer temperatures, and irritants like pollen enjoy longer and 
-            more productive seasons (EPA).<br><br> When evaluating the implications of the climate crisis, the vulnerability of sleep 
+            more productive seasons (EPA). When evaluating the implications of the climate crisis, the vulnerability of sleep 
             quality is a factor that is perhaps not widely considered, however, <b>these factors contribute to sleep loss, a 
-            recognized public health epidemic.</b> Lack of sleep is linked to chronic diseases and conditions such as diabetes, heart 
+            recognized public health epidemic.</b> <br> <br>Lack of sleep is linked to chronic diseases and conditions such as diabetes, heart 
             disease, obesity, and depression. Sleeping is a basic human need; healthy sleep necessitates sufficient duration, 
             quality, timing, and regularity with the absence of sleep disturbances or disorders (NHLBI).</h3>
+        </div>
+
+      <div class='visContainer'>
+          <!-- <h4>Median Air Quality Index vs. Insufficient Sleep in Adults (2018)</h4> -->
+          <img src="/Assets/SleepHealth.svg">
+
       </div>
-
-<!-- slider tool -->
-
-<div class='mapContainer'>
-    <h4>Median Air Quality Index vs. Insufficient Sleep in Adults (2018)</h4>
-
-<!-- <div class="comparison"> -->
-    <div class="img-comp-container">
-      <div class="img-comp-img">
-        <img src="/Assets/scrap/Asset4.png" width="800" height="500">
-      </div>
-    <div class="img-comp-img img-comp-overlay">
-      <img src="/Assets/scrap/Asset3.png" width="800" height="500">
-    </div>
-  </div>
-<!-- </div> -->
-</div>
 
 
       <div class='transition'>
@@ -89,7 +79,7 @@
             pulmonary diseases and respiratory infections, including pneumonia. The climate crisis will continue to worsen these existing 
             air pollution levels. </h3>
       </div>
-      <div class='mapContainer'>
+      <div class='visContainer'>
         <h4>Pollutant: Ozone</h4>
           <img src="/Assets/scrap/countyExample.png">
       </div>
@@ -101,7 +91,7 @@
       <div class='factoid'>
           50 to 70 million Americans suffer from sleep disorders with insomnia being the most commonly reported.
       </div>
-  </div>
+    </div>
 
   
       <!-- <div class='mainVisDescription'> -->
@@ -127,9 +117,13 @@
 <!-- <div class= sleepSection> -->
     <div class='mainVisContainer'>
         <p> </p>
-        <h4 style="text-align: right">500 Cities: Percent Prevelance of Asthma & Lack of Sleep in US Adults</h4>
+        <h4 style="text-align: left">Percentage Prevelance of Asthma & Lack of Sleep in US Adults</h4>
         <p> </p>
-          <img style="text-align:right" src="/Assets/Final_SleepAsthmaVis.png">
+        <!-- <button type="button" onclick="myFunction()">Sort by Sleep</button>
+        <button type="button" onclick="myFunction()">Sort by Asthma</button> -->
+
+          <img style="text-align:right" src="/Assets/Main_SleepOrdered.png">
+          <!-- <img style="text-align:right" src="/Assets/Main_AsthmaOrdered.png"> -->
     </div>
 </div>
   
@@ -151,7 +145,7 @@
 
 <!-- slider tool -->
 
-<div class='mapContainer'>
+<div class='visContainer'>
     <h4> NYC Open Data Air Quality & Asthma Health Factors</h4>
 
 <div class="comparison">
@@ -165,13 +159,8 @@
   </div>
 </div>
 </div>
-
-      <!-- <div class='mapContainer'>
-          <h4> NYC Open Data Air Quality & Asthma Health Factors</h4>
-          <img src="/Assets/scrap/wire_vis4.png">
-      </div> -->
   </div>
-</div>
+<!-- </div> -->
 
   <div class='methodology'>
     <p></p>
@@ -209,6 +198,9 @@
   <script>initComparisons();</script>
   <!-- <script src="https://unpkg.com/intersection-observer"></script>
   <script src="https://unpkg.com/scrollama"></script> -->
+
   <script src="particles.js"></script>
+  <!-- <script src="500Cities_AsthmaOrdered.js"></script>
+  <script src="500Cities_SleepOrdered.js"></script> -->
 </body>
 </html>
