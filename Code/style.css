@@ -11,7 +11,7 @@ body {
 
   .layout{
     display: grid;
-    grid-template-columns: 1.5fr 2fr;
+    grid-template-columns: 1fr 2fr;
     grid-gap: 1em;
     padding: 2em;
     margin-left: 3em;
@@ -67,7 +67,7 @@ body {
 /* Asthma and Sleep visual description */
 .stickyDescrip{
     display:grid;
-    grid-template-columns: 1.5fr 2fr;
+    grid-template-columns: 1fr 2fr;
     margin-right: 50px;
     grid-gap: 1em;
     grid-auto-rows:minmax(100px, auto);
@@ -95,6 +95,7 @@ body {
 
   .visContainer {
     padding: 2em;
+    margin-top: 30px;
     margin-left: 30px;
   }
 
@@ -107,8 +108,8 @@ body {
   }
   
   .transition {
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 200px;
   }
 
   .factoid {
@@ -120,8 +121,8 @@ body {
     text-justify: center;
     margin-left: 100px;
     margin-right: 100px;
-    margin-top: 100px;
-    margin-bottom: 100px;
+    margin-top: 200px;
+    margin-bottom: 200px;
   }
 
   .methodology {
