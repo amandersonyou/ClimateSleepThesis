@@ -86,6 +86,7 @@ body {
     padding: 2em;
     text-align: right;
     margin-right: 20px;
+    margin-left: 100px;
   }
 
   .description {
@@ -94,7 +95,7 @@ body {
 
   .visContainer {
     padding: 2em;
-    margin-left: 50px;
+    margin-left: 30px;
   }
 
 
@@ -210,16 +211,15 @@ body {
   .product-info {
     margin-top: 10px;
     width: 50%;
-  }
-  
+  } */
   
   button {
     margin-top: 30px;
     border: none;
-    background-color: #1E95EA;
-    color: white;
+    background-color: #222323;
+    color: #e9e4e2;
     height: 40px;
-    width: 100px;
+    width: 120px;
     font-size: 14px;
   } 
   

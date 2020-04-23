@@ -8,7 +8,7 @@
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@200;400;500;600&family=News+Cycle&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
 <script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
 <script language="javascript" type="text/javascript" src="libraries/p5.dom.js"></script>
-<script language="javascript" type="text/javascript" src="500Cities_SleepOrdered.js"></script>
+<!-- <script language="javascript" type="text/javascript" src="500Cities_SleepOrdered.js"></script> -->
 <script language="javascript" type="text/javascript" src="particles.js"></script>
 <script language="javascript" type="text/javascript" src="script.js"></script>
 <script language="javascript" type="text/javascript" src="slider.js"></script>
@@ -53,7 +53,7 @@
 
       <div class='visContainer'>
           <!-- <h4>Median Air Quality Index vs. Insufficient Sleep in Adults (2018)</h4> -->
-          <img src="/Assets/SleepHealth.svg">
+          <img src="/Assets/SleepHealthMoons.svg">
 
       </div>
 
@@ -109,21 +109,27 @@
           <br> <br> Studies have shown that improving air quality may help both sleep and respiratory health and conceivably lower the pervasiveness 
           and severity of asthma and obstructive sleep apnea.</h3>
           <br><br>
-          <img src="/Assets/MV_Legend.png">
+          <img src="/Assets/500Cities_Legend.png">
+          <br><br>
+          <script>
+            function changeImage()
+            {
+              <img src="/Assets/Main_AsthmaOrdered.png">
+            }
+          </script>
+          <p></p>
+          <button type="Button" onclick="changeImage();">Sort by Asthma</button>
+          <button type="Button" onclick="changeImage();">Sort by Sleep</button>
+
           
     </div>
-    <!-- <p> where is this?</p> -->
   </div>
-<!-- <div class= sleepSection> -->
     <div class='mainVisContainer'>
         <p> </p>
-        <h4 style="text-align: left">Percentage Prevelance of Asthma & Lack of Sleep in US Adults</h4>
-        <p> </p>
-        <!-- <button type="button" onclick="myFunction()">Sort by Sleep</button>
-        <button type="button" onclick="myFunction()">Sort by Asthma</button> -->
+        <h4 style="text-align: left">Percentage Prevelance of Asthma & Insufficient Sleep in US Adults</h4>
+        <p></p>
 
-          <img style="text-align:right" src="/Assets/Main_SleepOrdered.png">
-          <!-- <img style="text-align:right" src="/Assets/Main_AsthmaOrdered.png"> -->
+         <img style="text-align:right" src="/Assets/Main_SleepOrdered.png">
     </div>
 </div>
   
@@ -196,11 +202,6 @@
   <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
   <script src="script.js"></script>
   <script>initComparisons();</script>
-  <!-- <script src="https://unpkg.com/intersection-observer"></script>
-  <script src="https://unpkg.com/scrollama"></script> -->
-
   <script src="particles.js"></script>
-  <!-- <script src="500Cities_AsthmaOrdered.js"></script>
-  <script src="500Cities_SleepOrdered.js"></script> -->
 </body>
 </html>
