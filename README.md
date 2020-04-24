@@ -1,6 +1,19 @@
-# Thesis Topic: 
+# Title: Climate & Sleep
 
-Climate change impacts sleep health through deterioration in air quality, rising temperatures, and increasing climate anxiety.
+### Exploring the relationship between climate change and sleep health.
+
+Masters Thesis in Data Visualization from Parsons School of Design, May 2020
+By: Amanda Anderson-You
+
+### Abstract: 
+The thesis project Sleep and the Climate Crisis focuses on the implications of the climate crisis on one of our most fundamental human needs: sleep. As global heating continues to increase and threaten life as we know it, humans are required to evaluate how these changes are impacting their daily lives and adapt accordingly. The Centers for Disease Control and Prevention (CDC) states that adults between the ages of 18 and 60 are recommended to sleep for 7 hours or more a night. Not only is this amount of sleep important, but the quality of one’s sleep is also critical. This thesis evaluates how three factors of the climate crisis coincide with sleep health and investigates what those effects are as they relate to children and adults in the United States. Inspired by Rifkin et al.’s systematic review of the literature and conceptual framework on this topic, I have chosen to research and visualize the relationships between sleep health and the climate crisis by focusing on air quality changes, rising temperatures, and extreme weather climate anxiety. I will be utilizing data from United States government agencies such as the CDC, the National Centers for Environmental Information (NCEI) and the Environmental Protection Agency (EPA) in order to explore the most recent as well as historical data. This project aims to increase understanding of current climate circumstances to improve social well-being. I hope that those who engage with it are able to more easily process the direct links of how global heating impacts our sleep quality. More specifically, I aim to provide visual tools of understanding to the community of people who are working in the fields of climate crisis or sleep health. The climate crisis is inevitable, and the more we’re aware of its impacts on our basic needs, the more adaptable we can become. 
+
+
+![PreviewImage](preview.png "Project Preview")
+
+
+
+
 
 ### POV: 
 
