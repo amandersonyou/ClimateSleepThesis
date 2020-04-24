@@ -1,16 +1,167 @@
+<!-- Work in progress code following vue mastery tutorial -->
 <!DOCTYPE html>
 <html>
 <head>
 <meta charset="UTF-8">
 <meta name="viewport" content="width=device-width, initial-scale=1">
-<title>Amanda Anderson-You's MainVis</title>
+<title>Amanda Anderson-You's Thesis</title>
 <link href="https://fonts.googleapis.com/css2?family=Barlow:wght@200;400;500;600&family=News+Cycle&family=Playfair+Display:wght@400;700&display=swap" rel="stylesheet">
 <script language="javascript" type="text/javascript" src="libraries/p5.min.js"></script>
 <script language="javascript" type="text/javascript" src="libraries/p5.dom.js"></script>
-<script language="javascript" type="text/javascript" src="500Cities_legend.js"></script>
-<!-- <link rel="stylesheet" type="text/css" href="style.css"> -->
+<!-- <script language="javascript" type="text/javascript" src="500Cities_SleepOrdered.js"></script> -->
+<script language="javascript" type="text/javascript" src="particles.js"></script>
+<script language="javascript" type="text/javascript" src="script.js"></script>
+<script language="javascript" type="text/javascript" src="slider.js"></script>
+<link rel="stylesheet" type="text/css" href="style.css">
+
 </head>
 <body>
+  <!-- <div class="nav-bar"></div> -->
 
+
+  <div class='title'>
+      <h1>climate & sleep</h1>
+  </div>
+
+
+  <div class='intro'>
+    <p></p>
+    <p>The climate crisis threatens on one of our most fundamental human needs: sleep. As global heating continues to increase 
+      and alter life as we know it, humans are required to evaluate how these changes are impacting their daily existence 
+      and adapt accordingly. Not only is the amount of sleep obtained important, but the quality of one’s sleep is also critical. 
+      Here, I investigate poor air quality as a factor of the climate crisis and demonstrate how it coincides with sleep health 
+      to determine what the effects are as they relate to children and adults in the United States. Utilizing data from United 
+      States government agencies such as the Centers for Disease Control and Prevention (CDC), the National Centers for Environmental 
+      Information (NCEI) and the Environmental Protection Agency (EPA), I explore both recent and historical data. This project aims 
+      to increase understanding of current climate circumstances to improve social well-being.</p>
+  </div>
+
+  <div class='layout'>
+      <div class='description'>
+          <h2>Climate Crisis <br> & Sleep Health</h2>
+          <h3>Climate change not only creates new risks, it also builds upon and makes visible, existing vulnerabilities within 
+            communities across the country. These risks and vulnerabilities continue to grow and impact human health, safety, 
+            quality of life, and economic growth. (NCA 2018). Among these changes are more frequent and intense extreme weather 
+            and changes in average climate conditions such as rising temperatures. Air quality suffers as concentrations of 
+            pollutants such as ozone are amplified with stagnant, warmer temperatures, and irritants like pollen enjoy longer and 
+            more productive seasons (EPA). When evaluating the implications of the climate crisis, the vulnerability of sleep 
+            quality is a factor that is perhaps not widely considered, however, <b>these factors contribute to sleep loss, a 
+            recognized public health epidemic.</b> <br> <br>Lack of sleep is linked to chronic diseases and conditions such as diabetes, heart 
+            disease, obesity, and depression. Sleeping is a basic human need; healthy sleep necessitates sufficient duration, 
+            quality, timing, and regularity with the absence of sleep disturbances or disorders (NHLBI).</h3>
+      </div>
+
+      <div class='visContainer'>
+          <!-- <h4>Median Air Quality Index vs. Insufficient Sleep in Adults (2018)</h4> -->
+          <!-- <br><br> -->
+          <img src="/Assets/SleepHealthMoons.svg">
+
+      </div>
+
+
+      <div class='transition'>
+        <h3>Climate change affects air quality in a multitude of ways, whether through excessive periods of drought with dust and 
+          high temperatures, increasing wildfire frequency and ground-level ozone pollution, or through shifts in the growing season. 
+          <b>The frequency and severity of respiratory illnesses such as asthma are expected to increase as a result of the climate crisis.</b>
+          These increases are due to changes in weather which contributes to the concentrations of both ozone and particulate matter in 
+          the air, both of which adversely affect human health.</h3>
+      </div>
+      <div class='factoid'>
+          More than one third of Americans report insufficient sleep.
+      </div>
+
+      <div class='description'>
+          <h2>Air Pollutants</h2>
+          <h3>Air pollution is the result of the release of harmful or excessive quantities of gaseous substances such as nitrogen dioxide, 
+            ozone, and particulate matter (PM) into the atmosphere. According to the 2018 National Climate Assessment, <b>more than 100 million 
+            people in the USA reside where air pollution exceeds health-based air quality standards.</b> <br><br>The World Health Organization reported 
+            in 2018 that <b>9 out of 10 people worldwide breathe polluted air, and an estimated 7 million people die every year due to exposure 
+            to fine particles in polluted air</b> that lead to many diseases such as stroke, heart disease, lung cancer, chronic obstructive 
+            pulmonary diseases and respiratory infections, including pneumonia. The climate crisis will continue to worsen these existing 
+            air pollution levels. </h3>
+      </div>
+      <div class='visContainer'>
+        <!-- <h4>Pollutant: Ozone</h4> -->
+          <img src="/Assets/scrap/AQI_ScatterMock.svg">
+      </div>
+      <div class='transition'>
+          <h3>The frequency and severity of respiratory illnesses such as asthma are expected to increase as a result of the climate crisis. 
+            These increases are due to changes in weather which contributes to the concentrations of both ozone and particulate matter in 
+            the air, both of which adversely affect human health.</h3>
+      </div>
+      <div class='factoid'>
+          50 to 70 million Americans suffer from sleep disorders with insomnia being the most commonly reported.
+      </div>
+
+      <div class='description'>
+        <h2>Asthma & Sleep Section</h2>
+        <h3>Air pollution is the result of the release of harmful or excessive quantities of gaseous substances such as nitrogen dioxide, 
+          ozone, and particulate matter (PM) into the atmosphere. According to the 2018 National Climate Assessment, <b>more than 100 million 
+          people in the USA reside where air pollution exceeds health-based air quality standards.</b> <br><br>The World Health Organization reported 
+          in 2018 that <b>9 out of 10 people worldwide breathe polluted air, and an estimated 7 million people die every year due to exposure 
+          to fine particles in polluted air</b> that lead to many diseases such as stroke, heart disease, lung cancer, chronic obstructive 
+          pulmonary diseases and respiratory infections, including pneumonia. The climate crisis will continue to worsen these existing 
+          air pollution levels. </h3>
+    </div>
+</div>
+
+<div class='fullStretch'>
+  <!-- <div class="visContainer"> -->
+    <img src="/Assets/AsthmaSleep.svg"> 
+  <!-- </div> -->
+</div>
+
+
+<div class='layout'>
+    <div class='transition'>
+      <h3>Do I say something here?</h3>
+    </div>
+    <div class='factoid'>
+        Nearly 25 million Americans, or approximately 8% of the population, have asthma.
+  </div>
+
+    <div class='description'>
+        <h2>NYC Case Study:<br>Air Quality & Asthma</h2>
+        <h3>New York City Open Data provides a comprehensive database with information regarding external pollutants as well as hospital
+            and health related records relating to asthma. The data is available at a neighborhood level for comparison of levels of 
+            pollution as well as ozone and particulate matter 2.5 attributable emergency department visits, hospitalizations, and mortalities.</h3>
+    </div>
+
+<!-- slider tool -->
+
+<div class='visContainer'>
+    <h4> NYC Open Data Air Quality & Asthma Health Factors</h4>
+
+<div class="comparison">
+    <div class="img-comp-container">
+      <div class="img-comp-img">
+        <img src="/Assets/scrap/nycRed.png" width="800" height="700">
+      </div>
+    <div class="img-comp-img img-comp-overlay">
+      <img src="/Assets/scrap/nycBlue.png" width="800" height="700">
+    </div>
+  </div>
+</div>
+</div>
+  </div>
+<!-- </div> -->
+
+  <div class='methodology'>
+    <p></p>
+    <p>please visit my GitHub for <a href="https://github.com/amandersonyou/ClimateSleepThesis">methodology</a> and
+     <a href="https://github.com/amandersonyou/ClimateSleepThesis/blob/master/Research/Sources.md">sources</a></p>
+      <!-- <br>
+      <p></p>
+      <p>link to GitHub || link to portfolio</p> -->
+  </div>
+
+
+
+
+
+  <script src="https://cdn.jsdelivr.net/npm/vue/dist/vue.js"></script>
+  <script src="script.js"></script>
+  <script>initComparisons();</script>
+  <script src="particles.js"></script>
 </body>
 </html>
