@@ -1,106 +1,106 @@
-﻿StateDesc,CityName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017
-Florida,West Palm Beach,43.9,12,36.9
-Florida,Lauderhill,43.6,12.6,36.9
-Georgia,Augusta,42.6,12.9,37.2
-Maryland,Baltimore,42.4,15.6,39.8
-Virginia,Norfolk,42.4,17,29.7
-Louisiana,Lake Charles,41.8,12.8,35
-Georgia,Savannah,41.5,14.1,37.2
-Georgia,Atlanta,41.1,14.5,37.2
-Florida,Largo,41.1,10.4,36.9
-Virginia,Roanoke,41,13.2,29.7
-Georgia,Warner Robins,40.9,11.7,37.2
-Georgia,Albany,40.6,13.5,37.2
-Georgia,Johns Creek,40.6,7.8,37.2
-Florida,Miami Gardens,40.6,11.3,36.9
-South Carolina,North Charleston,40.6,12.8,35.6
-Tennessee,Memphis,40.5,15.7,36.9
-Virginia,Newport News,40.4,13.4,29.7
-Delaware,Wilmington,40.3,14.6,41.3
-Alabama,Mobile,40.2,17,38.3
-Florida,Miami Beach,40.2,7.4,36.9
-Tennessee,Chattanooga,40.1,15.6,36.9
-Virginia,Hampton,40.1,15,29.7
-Virginia,Portsmouth,40.1,15.1,29.7
-Virginia,Richmond,39.8,15.9,29.7
-Georgia,Columbus,39.6,14.1,37.2
-Florida,Miramar,39.6,11,36.9
-Kentucky,Lexington,39.3,13.4,39.1
-Alabama,Birmingham,39,15,38.3
-Louisiana,New Orleans,38.9,16.1,35
-Georgia,Macon,38.8,13.3,37.2
-Virginia,Chesapeake,38.8,13.5,29.7
-Louisiana,Baton Rouge,38.7,12.9,35
-Florida,Port St. Lucie,38.6,9.5,36.9
-Mississippi,Gulfport,38.5,13.1,35.8
-Kentucky,Louisville,38.4,16.2,39.1
-Alabama,Montgomery,38.3,14.7,38.3
-North Carolina,Greenville,38.3,13.4,36.6
-Virginia,Suffolk,38.3,13.2,29.7
-Florida,Deltona,38.1,9.2,36.9
-Georgia,Athens,38,12,37.2
-Tennessee,Clarksville,38,13.4,36.9
-Florida,Sunrise,37.9,11.8,36.9
-Tennessee,Knoxville,37.9,13.7,36.9
-Tennessee,Murfreesboro,37.9,12,36.9
-Florida,Clearwater,37.8,12,36.9
-Florida,Lakeland,37.8,12.3,36.9
-North Carolina,Durham,37.8,14.2,36.6
-North Carolina,Fayetteville,37.8,13.8,36.6
-Alabama,Huntsville,37.7,15.9,38.3
-Florida,Jacksonville,37.7,14.4,36.9
-North Carolina,Jacksonville,37.6,11.9,36.6
-Louisiana,Lafayette,37.6,13.8,35
-Virginia,Alexandria,37.6,10.5,29.7
-Georgia,Sandy Springs,37.4,9.7,37.2
-Arkansas,Little Rock,37.4,12.3,37.1
-Florida,Fort Lauderdale,37.3,13.5,36.9
-Florida,Pompano Beach,37.3,13,36.9
-Louisiana,Kenner,37.3,11.8,35
-Florida,Orlando,37.2,12.6,36.9
-Florida,St. Petersburg,37.2,12.5,36.9
-South Carolina,Columbia,37.1,14.4,35.6
-Virginia,Lynchburg,37.1,12.2,29.7
-Florida,Deerfield Beach,37,11.1,36.9
-Florida,Plantation,36.7,10.6,36.9
-North Carolina,Gastonia,36.7,12.6,36.6
-Florida,Boca Raton,36.5,9.6,36.9
-Florida,Hollywood,36.5,11.3,36.9
-Florida,Tampa,36.5,14.3,36.9
-Louisiana,Shreveport,36.3,13.2,35
-North Carolina,High Point,36.1,13.9,36.6
-District of Columbia,Washington,36,15.3,51
-Florida,Coral Springs,36,9.5,36.9
-Florida,Davie,35.9,8.6,36.9
-Florida,Pembroke Pines,35.9,9.7,36.9
-Alabama,Hoover,35.8,11.3,38.3
-Florida,Melbourne,35.7,11,36.9
-Florida,Palm Bay,35.6,9.2,36.9
-Florida,Miami,35.5,12.7,36.9
-North Carolina,Greensboro,35.5,13.7,36.6
-Arkansas,Fayetteville,35.4,10.4,37.1
-Florida,Palm Coast,35.2,9.1,36.9
-Tennessee,Nashville,35.2,16.9,36.9
-Mississippi,Jackson,34.9,13.7,36.4
-South Carolina,Charleston,34.9,13.4,35.6
-Alabama,Tuscaloosa,34.8,14.5,38.3
-Florida,Cape Coral,34.6,8.8,36.9
-Florida,Gainesville,34.5,12.2,36.9
-Arkansas,Springdale,34.4,10.1,37.1
-Florida,Hialeah,34.2,7.8,36.9
-North Carolina,Concord,34.2,12.2,36.6
-Florida,Boynton Beach,34.1,10.3,36.9
-Florida,Tallahassee,34,12.4,36.9
-North Carolina,Winston-Salem,33.9,14.9,36.6
-North Carolina,Charlotte,33.7,13.8,36.6
-Arkansas,Fort Smith,33.6,11.4,37.1
-North Carolina,Raleigh,33.5,13.2,36.6
-West Virginia,Charleston,33.3,13.5,31.6
-Arkansas,Jonesboro,33.1,11.7,37.1
-North Carolina,Wilmington,33.1,13.2,36.6
-Georgia,Roswell,32.7,9.1,37.2
-Virginia,Virginia Beach,31.9,11.5,29.7
-North Carolina,Cary,31.8,9.9,36.6
-South Carolina,Mount Pleasant,31.2,8.6,35.6
-South Carolina,Rock Hill,30.4,13.8,35.6
-North Carolina,Asheville,30.2,11.5,36.6
+﻿StateDesc,CityName,ComboName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017,MedianAQI_Norm
+Florida,West Palm Beach,"West Palm Beach, Florida",43.9,12,36.9,0.489
+Florida,Lauderhill,"Lauderhill, Florida",43.6,12.6,36.9,0.489
+Georgia,Augusta,"Augusta, Georgia",42.6,12.9,37.2,0.498
+Maryland,Baltimore,"Baltimore, Maryland",42.4,15.6,39.8,0.584
+Virginia,Norfolk,"Norfolk, Virginia",42.4,17,29.7,0.252
+Louisiana,Lake Charles,"Lake Charles, Louisiana",41.8,12.8,35,0.426
+Georgia,Savannah,"Savannah, Georgia",41.5,14.1,37.2,0.498
+Georgia,Atlanta,"Atlanta, Georgia",41.1,14.5,37.2,0.498
+Florida,Largo,"Largo, Florida",41.1,10.4,36.9,0.489
+Virginia,Roanoke,"Roanoke, Virginia",41,13.2,29.7,0.252
+Georgia,Warner Robins,"Warner Robins, Georgia",40.9,11.7,37.2,0.498
+Georgia,Albany,"Albany, Georgia",40.6,13.5,37.2,0.498
+Georgia,Johns Creek,"Johns Creek, Georgia",40.6,7.8,37.2,0.498
+Florida,Miami Gardens,"Miami Gardens, Florida",40.6,11.3,36.9,0.489
+South Carolina,North Charleston,"North Charleston, South Carolina",40.6,12.8,35.6,0.446
+Tennessee,Memphis,"Memphis, Tennessee",40.5,15.7,36.9,0.489
+Virginia,Newport News,"Newport News, Virginia",40.4,13.4,29.7,0.252
+Delaware,Wilmington,"Wilmington, Delaware",40.3,14.6,41.3,0.633
+Florida,Miami Beach,"Miami Beach, Florida",40.2,7.4,36.9,0.489
+Alabama,Mobile,"Mobile, Alabama",40.2,17,38.3,0.534
+Tennessee,Chattanooga,"Chattanooga, Tennessee",40.1,15.6,36.9,0.489
+Virginia,Hampton,"Hampton, Virginia",40.1,15,29.7,0.252
+Virginia,Portsmouth,"Portsmouth, Virginia",40.1,15.1,29.7,0.252
+Virginia,Richmond,"Richmond, Virginia",39.8,15.9,29.7,0.252
+Georgia,Columbus,"Columbus, Georgia",39.6,14.1,37.2,0.498
+Florida,Miramar,"Miramar, Florida",39.6,11,36.9,0.489
+Kentucky,Lexington,"Lexington, Kentucky",39.3,13.4,39.1,0.561
+Alabama,Birmingham,"Birmingham, Alabama",39,15,38.3,0.534
+Louisiana,New Orleans,"New Orleans, Louisiana",38.9,16.1,35,0.426
+Virginia,Chesapeake,"Chesapeake, Virginia",38.8,13.5,29.7,0.252
+Georgia,Macon,"Macon, Georgia",38.8,13.3,37.2,0.498
+Louisiana,Baton Rouge,"Baton Rouge, Louisiana",38.7,12.9,35,0.426
+Florida,Port St. Lucie,"Port St. Lucie, Florida",38.6,9.5,36.9,0.489
+Mississippi,Gulfport,"Gulfport, Mississippi",38.5,13.1,35.8,0.452
+Kentucky,Louisville,"Louisville, Kentucky",38.4,16.2,39.1,0.561
+North Carolina,Greenville,"Greenville, North Carolina",38.3,13.4,36.6,0.479
+Alabama,Montgomery,"Montgomery, Alabama",38.3,14.7,38.3,0.534
+Virginia,Suffolk,"Suffolk, Virginia",38.3,13.2,29.7,0.252
+Florida,Deltona,"Deltona, Florida",38.1,9.2,36.9,0.489
+Georgia,Athens,"Athens, Georgia",38,12,37.2,0.498
+Tennessee,Clarksville,"Clarksville, Tennessee",38,13.4,36.9,0.489
+Tennessee,Knoxville,"Knoxville, Tennessee",37.9,13.7,36.9,0.489
+Tennessee,Murfreesboro,"Murfreesboro, Tennessee",37.9,12,36.9,0.489
+Florida,Sunrise,"Sunrise, Florida",37.9,11.8,36.9,0.489
+Florida,Clearwater,"Clearwater, Florida",37.8,12,36.9,0.489
+North Carolina,Durham,"Durham, North Carolina",37.8,14.2,36.6,0.479
+North Carolina,Fayetteville,"Fayetteville, North Carolina",37.8,13.8,36.6,0.479
+Florida,Lakeland,"Lakeland, Florida",37.8,12.3,36.9,0.489
+Alabama,Huntsville,"Huntsville, Alabama",37.7,15.9,38.3,0.534
+Florida,Jacksonville,"Jacksonville, Florida",37.7,14.4,36.9,0.489
+Virginia,Alexandria,"Alexandria, Virginia",37.6,10.5,29.7,0.252
+North Carolina,Jacksonville,"Jacksonville, North Carolina",37.6,11.9,36.6,0.479
+Louisiana,Lafayette,"Lafayette, Louisiana",37.6,13.8,35,0.426
+Arkansas,Little Rock,"Little Rock, Arkansas",37.4,12.3,37.1,0.495
+Georgia,Sandy Springs,"Sandy Springs, Georgia",37.4,9.7,37.2,0.498
+Florida,Fort Lauderdale,"Fort Lauderdale, Florida",37.3,13.5,36.9,0.489
+Louisiana,Kenner,"Kenner, Louisiana",37.3,11.8,35,0.426
+Florida,Pompano Beach,"Pompano Beach, Florida",37.3,13,36.9,0.489
+Florida,Orlando,"Orlando, Florida",37.2,12.6,36.9,0.489
+Florida,St. Petersburg,"St. Petersburg, Florida",37.2,12.5,36.9,0.489
+South Carolina,Columbia,"Columbia, South Carolina",37.1,14.4,35.6,0.446
+Virginia,Lynchburg,"Lynchburg, Virginia",37.1,12.2,29.7,0.252
+Florida,Deerfield Beach,"Deerfield Beach, Florida",37,11.1,36.9,0.489
+North Carolina,Gastonia,"Gastonia, North Carolina",36.7,12.6,36.6,0.479
+Florida,Plantation,"Plantation, Florida",36.7,10.6,36.9,0.489
+Florida,Boca Raton,"Boca Raton, Florida",36.5,9.6,36.9,0.489
+Florida,Hollywood,"Hollywood, Florida",36.5,11.3,36.9,0.489
+Florida,Tampa,"Tampa, Florida",36.5,14.3,36.9,0.489
+Louisiana,Shreveport,"Shreveport, Louisiana",36.3,13.2,35,0.426
+North Carolina,High Point,"High Point, North Carolina",36.1,13.9,36.6,0.479
+Florida,Coral Springs,"Coral Springs, Florida",36,9.5,36.9,0.489
+District of Columbia,Washington,"Washington, District of Columbia",36,15.3,51,0.951
+Florida,Davie,"Davie, Florida",35.9,8.6,36.9,0.489
+Florida,Pembroke Pines,"Pembroke Pines, Florida",35.9,9.7,36.9,0.489
+Alabama,Hoover,"Hoover, Alabama",35.8,11.3,38.3,0.534
+Florida,Melbourne,"Melbourne, Florida",35.7,11,36.9,0.489
+Florida,Palm Bay,"Palm Bay, Florida",35.6,9.2,36.9,0.489
+North Carolina,Greensboro,"Greensboro, North Carolina",35.5,13.7,36.6,0.479
+Florida,Miami,"Miami, Florida",35.5,12.7,36.9,0.489
+Arkansas,Fayetteville,"Fayetteville, Arkansas",35.4,10.4,37.1,0.495
+Tennessee,Nashville,"Nashville, Tennessee",35.2,16.9,36.9,0.489
+Florida,Palm Coast,"Palm Coast, Florida",35.2,9.1,36.9,0.489
+South Carolina,Charleston,"Charleston, South Carolina",34.9,13.4,35.6,0.446
+Mississippi,Jackson,"Jackson, Mississippi",34.9,13.7,36.4,0.472
+Alabama,Tuscaloosa,"Tuscaloosa, Alabama",34.8,14.5,38.3,0.534
+Florida,Cape Coral,"Cape Coral, Florida",34.6,8.8,36.9,0.489
+Florida,Gainesville,"Gainesville, Florida",34.5,12.2,36.9,0.489
+Arkansas,Springdale,"Springdale, Arkansas",34.4,10.1,37.1,0.495
+North Carolina,Concord,"Concord, North Carolina",34.2,12.2,36.6,0.479
+Florida,Hialeah,"Hialeah, Florida",34.2,7.8,36.9,0.489
+Florida,Boynton Beach,"Boynton Beach, Florida",34.1,10.3,36.9,0.489
+Florida,Tallahassee,"Tallahassee, Florida",34,12.4,36.9,0.489
+North Carolina,Winston-Salem,"Winston-Salem, North Carolina",33.9,14.9,36.6,0.479
+North Carolina,Charlotte,"Charlotte, North Carolina",33.7,13.8,36.6,0.479
+Arkansas,Fort Smith,"Fort Smith, Arkansas",33.6,11.4,37.1,0.495
+North Carolina,Raleigh,"Raleigh, North Carolina",33.5,13.2,36.6,0.479
+West Virginia,Charleston,"Charleston, West Virginia",33.3,13.5,31.6,0.315
+Arkansas,Jonesboro,"Jonesboro, Arkansas",33.1,11.7,37.1,0.495
+North Carolina,Wilmington,"Wilmington, North Carolina",33.1,13.2,36.6,0.479
+Georgia,Roswell,"Roswell, Georgia",32.7,9.1,37.2,0.498
+Virginia,Virginia Beach,"Virginia Beach, Virginia",31.9,11.5,29.7,0.252
+North Carolina,Cary,"Cary, North Carolina",31.8,9.9,36.6,0.479
+South Carolina,Mount Pleasant,"Mount Pleasant, South Carolina",31.2,8.6,35.6,0.446
+South Carolina,Rock Hill,"Rock Hill, South Carolina",30.4,13.8,35.6,0.446
+North Carolina,Asheville,"Asheville, North Carolina",30.2,11.5,36.6,0.479

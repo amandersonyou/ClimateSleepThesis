@@ -1,180 +1,180 @@
-﻿StateDesc,CityName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017
-Nevada,Las Vegas,40.9,13.6,38.1
-California,San Bernardino,39.9,13.3,49.1
-California,Chino,39.7,9.4,49.1
-California,Perris,39.7,10.4,49.1
-California,Hawthorne,39.6,11.4,49.1
-California,Inglewood,39.5,11.7,49.1
-California,Moreno Valley,39.2,10.8,49.1
-Hawaii,Honolulu,39.1,13.1,52.5
-California,Vallejo,39.1,11.3,49.1
-California,Rialto,38.8,10.6,49.1
-California,Hemet,38.7,11,49.1
-Colorado,Westminster,38.7,11.3,36.4
-California,Apple Valley,38.6,10.3,49.1
-Nevada,Henderson,38.4,11.9,38.1
-California,Clovis,38.1,10.8,49.1
-California,Corona,38.1,9.4,49.1
-California,Glendale,38.1,10.5,49.1
-California,Bellflower,38,9.9,49.1
-California,Baldwin Park,37.9,8.8,49.1
-California,El Cajon,37.9,11.2,49.1
-California,South Gate,37.9,9.6,49.1
-California,Vacaville,37.9,10.1,49.1
-California,Sacramento,37.8,12.5,49.1
-California,Indio,37.7,9.8,49.1
-California,Oceanside,37.7,9.9,49.1
-California,Oxnard,37.7,10.9,49.1
-California,Bakersfield,37.6,11.9,49.1
-California,Ontario,37.4,9.5,49.1
-California,Redwood City,37.4,9.2,49.1
-Nevada,North Las Vegas,37.4,14.8,38.1
-California,Lancaster,37.3,11.5,49.1
-California,Long Beach,37.2,13.4,49.1
-California,Temecula,37.2,9.2,49.1
-California,Pomona,37.1,11.6,49.1
-Washington,Yakima,37.1,12.5,27
-California,Compton,37,13.4,49.1
-California,El Monte,36.9,9.4,49.1
-California,Carson,36.7,12.4,49.1
-California,Richmond,36.7,11.6,49.1
-California,Anaheim,36.5,9.5,49.1
-California,Carlsbad,36.5,8.6,49.1
-California,Fontana,36.5,10,49.1
-California,Hayward,36.5,10.2,49.1
-California,Hesperia,36.5,10.6,49.1
-California,Lakewood,36.5,9.1,49.1
-California,Menifee,36.5,9.4,49.1
-California,Modesto,36.5,11.3,49.1
-California,Oakland,36.5,13.3,49.1
-California,Elk Grove,36.4,10.5,49.1
-California,Salinas,36.4,10.3,49.1
-Oregon,Salem,36.4,12.7,28.7
-California,San Leandro,36.3,9.7,49.1
-California,Chino Hills,36.2,8.5,49.1
-California,Merced,36.2,10.7,49.1
-California,Norwalk,36.2,10.6,49.1
-California,Antioch,36.1,11.8,49.1
-California,Los Angeles,36.1,13.7,49.1
-California,Union City,36.1,8.4,49.1
-California,Upland,36.1,9.3,49.1
-California,Lynwood,36,11.3,49.1
-California,Fairfield,35.9,11.6,49.1
-California,Riverside,35.9,10,49.1
-California,Simi Valley,35.8,9.7,49.1
-California,West Covina,35.8,8.7,49.1
-California,Garden Grove,35.6,8.9,49.1
-California,Tracy,35.6,9.9,49.1
-California,Santa Ana,35.5,9.9,49.1
-California,Manteca,35.4,10.1,49.1
-California,Vista,35.4,10.2,49.1
-Washington,Everett,35.4,11.6,27
-California,Citrus Heights,35.3,11.7,49.1
-California,Alhambra,35.2,7.7,49.1
-California,Fresno,35.2,12.6,49.1
-California,Lake Forest,35.2,8.8,49.1
-California,Fremont,35.1,8.5,49.1
-California,Chico,35,11.3,49.1
-California,Downey,35,9.2,49.1
-California,Tustin,35,9.3,49.1
-California,Redlands,34.8,10,49.1
-California,Daly City,34.7,8,49.1
-California,Fullerton,34.7,9.3,49.1
-California,Palmdale,34.7,12.4,49.1
-Nevada,Sparks,34.7,11.1,38.1
-California,Concord,34.6,9.9,49.1
-California,Stockton,34.5,11.3,49.1
-California,Pasadena,34.4,10.3,49.1
-California,Torrance,34.4,8.5,49.1
-Colorado,Pueblo,34.4,12.5,36.4
-Washington,Spokane Valley,34.4,12.2,27
-California,Westminster,34.3,8.3,49.1
-Utah,Ogden,34.3,10.9,44.2
-California,Murrieta,34.2,9.5,49.1
-California,Rancho Cucamonga,34.2,9.5,49.1
-Alaska,Anchorage,34.2,10.6,22
-California,Chula Vista,34.1,9.8,49.1
-California,Escondido,34.1,9.9,49.1
-California,Buena Park,33.9,9.3,49.1
-California,Alameda,33.8,9.4,49.1
-California,Livermore,33.8,9.6,49.1
-California,Mountain View,33.8,8.5,49.1
-California,Victorville,33.8,10.8,49.1
-California,Whittier,33.7,9.1,49.1
-Washington,Bellingham,33.7,12.7,27
-California,Costa Mesa,33.6,9.5,49.1
-California,Turlock,33.6,10.6,49.1
-California,San Jose,33.5,9.8,49.1
-Wyoming,Cheyenne,33.5,10.9,38.5
-Washington,Tacoma,33.5,13.5,27
-California,Folsom,33.4,10.8,49.1
-California,Roseville,33.4,10,49.1
-California,Santa Rosa,33.4,10.3,49.1
-Nevada,Reno,33.4,11.3,38.1
-California,Berkeley,33.3,10.1,49.1
-Oregon,Hillsboro,33.3,11,28.7
-Washington,Federal Way,33.3,10.6,27
-Washington,Kent,33.3,11.4,27
-California,San Buenaventura (Ventura),33.2,9.7,49.1
-California,Visalia,33.2,10.4,49.1
-California,Santa Clarita,33.1,9.9,49.1
-Washington,Kennewick,33.1,11.6,27
-California,Santa Clara,33,9.4,49.1
-California,Thousand Oaks,32.9,9.9,49.1
-Oregon,Medford,32.9,13.1,28.7
-Idaho,Nampa,32.9,11.1,27.4
-California,Napa,32.7,9.7,49.1
-California,San Ramon,32.6,8.6,49.1
-California,Sunnyvale,32.6,8.5,49.1
-Utah,West Jordan,32.5,10.2,44.2
-Oregon,Gresham,32.5,12.1,28.7
-Washington,Vancouver,32.5,11.9,27
-California,Pleasanton,32.4,8.5,49.1
-California,Orange,32.3,9.2,49.1
-Washington,Spokane,32.3,12.7,27
-California,Redding,32.2,10.8,49.1
-California,Huntington Beach,32,9.6,49.1
-California,Burbank,31.8,9.6,49.1
-California,Mission Viejo,31.8,8.8,49.1
-California,Santa Monica,31.8,9.3,49.1
-Utah,Layton,31.6,9.6,44.2
-California,Irvine,31.3,8.5,49.1
-California,Redondo Beach,31.3,8.3,49.1
-California,San Diego,31.3,11,49.1
-Oregon,Portland,31.3,12,28.7
-California,San Francisco,31.2,13.3,49.1
-California,San Marcos,31.2,9.8,49.1
-California,San Mateo,31.2,9.1,49.1
-Oregon,Eugene,31.2,13,28.7
-California,Santa Maria,31,10.8,49.1
-Utah,St. George,31,9.8,44.2
-Utah,West Valley City,31,10.5,44.2
-Washington,Renton,31,10.8,27
-Washington,Seattle,30.9,11.8,27
-Utah,Sandy,30.7,10.1,44.2
-Oregon,Beaverton,30.5,10.9,28.7
-Colorado,Thornton,30.4,11.6,36.4
-Utah,Orem,30.3,9.2,44.2
-Utah,Provo,30.2,11.7,44.2
-California,Milpitas,30.1,8,49.1
-Utah,Salt Lake City,29.8,10.8,44.2
-Colorado,Colorado Springs,29.7,11.3,36.4
-California,Newport Beach,29.6,9.3,49.1
-Oregon,Bend,29.3,11,28.7
-Idaho,Meridian,29.2,9.9,27.4
-Washington,Auburn,28.9,11.3,27
-Colorado,Loveland,28.8,9.9,36.4
-Colorado,Aurora,28.7,11.4,36.4
-Colorado,Centennial,28.7,8.9,36.4
-Montana,Billings,28.7,11.1,30.8
-Washington,Bellevue,28.7,9.2,27
-Colorado,Fort Collins,28.4,11.7,36.4
-Colorado,Greeley,28.2,12.1,36.4
-Colorado,Denver,28.1,13.7,36.4
-Montana,Missoula,27.8,10.3,30.8
-Idaho,Boise City,27.5,10.8,27.4
-Colorado,Arvada,26.8,11.2,36.4
-Colorado,Lakewood,26.8,10.2,36.4
-California,Santa Barbara,26.5,9.7,49.1
-Colorado,Longmont,26.2,9.7,36.4
-Colorado,Boulder,25.9,11.2,36.4
+﻿StateDesc,CityName,ComboName,AVG_SleepValue_2016,AVG_AsthmaValue_2017,Avg_Median_AQI_2017,MedianAQI_Norm
+Nevada,Las Vegas,"Las Vegas, Nevada",40.9,13.6,38.1,0
+California,San Bernardino,"San Bernardino, California",39.9,13.3,49.1,0.889
+California,Chino,"Chino, California",39.7,9.4,49.1,0.889
+California,Perris,"Perris, California",39.7,10.4,49.1,0.889
+California,Hawthorne,"Hawthorne, California",39.6,11.4,49.1,0.889
+California,Inglewood,"Inglewood, California",39.5,11.7,49.1,0.889
+California,Moreno Valley,"Moreno Valley, California",39.2,10.8,49.1,0.889
+Hawaii,Honolulu,"Honolulu, Hawaii",39.1,13.1,52.5,0.889
+California,Vallejo,"Vallejo, California",39.1,11.3,49.1,0.889
+California,Rialto,"Rialto, California",38.8,10.6,49.1,0.889
+California,Hemet,"Hemet, California",38.7,11,49.1,0.889
+Colorado,Westminster,"Westminster, Colorado",38.7,11.3,36.4,0.889
+California,Apple Valley,"Apple Valley, California",38.6,10.3,49.1,0.889
+Nevada,Henderson,"Henderson, Nevada",38.4,11.9,38.1,0.889
+California,Clovis,"Clovis, California",38.1,10.8,49.1,0.889
+California,Corona,"Corona, California",38.1,9.4,49.1,0.889
+California,Glendale,"Glendale, California",38.1,10.5,49.1,0.889
+California,Bellflower,"Bellflower, California",38,9.9,49.1,0.889
+California,Baldwin Park,"Baldwin Park, California",37.9,8.8,49.1,0.889
+California,El Cajon,"El Cajon, California",37.9,11.2,49.1,0.889
+California,South Gate,"South Gate, California",37.9,9.6,49.1,0.889
+California,Vacaville,"Vacaville, California",37.9,10.1,49.1,0.889
+California,Sacramento,"Sacramento, California",37.8,12.5,49.1,0.889
+California,Indio,"Indio, California",37.7,9.8,49.1,0.889
+California,Oceanside,"Oceanside, California",37.7,9.9,49.1,0.889
+California,Oxnard,"Oxnard, California",37.7,10.9,49.1,0.889
+California,Bakersfield,"Bakersfield, California",37.6,11.9,49.1,0.889
+Nevada,North Las Vegas,"North Las Vegas, Nevada",37.4,14.8,38.1,0.889
+California,Ontario,"Ontario, California",37.4,9.5,49.1,0.889
+California,Redwood City,"Redwood City, California",37.4,9.2,49.1,0.889
+California,Lancaster,"Lancaster, California",37.3,11.5,49.1,0.889
+California,Long Beach,"Long Beach, California",37.2,13.4,49.1,0.889
+California,Temecula,"Temecula, California",37.2,9.2,49.1,0.889
+California,Pomona,"Pomona, California",37.1,11.6,49.1,0.889
+Washington,Yakima,"Yakima, Washington",37.1,12.5,27,0.889
+California,Compton,"Compton, California",37,13.4,49.1,0.889
+California,El Monte,"El Monte, California",36.9,9.4,49.1,0.889
+California,Carson,"Carson, California",36.7,12.4,49.1,0.889
+California,Richmond,"Richmond, California",36.7,11.6,49.1,0.889
+California,Anaheim,"Anaheim, California",36.5,9.5,49.1,0.889
+California,Carlsbad,"Carlsbad, California",36.5,8.6,49.1,0.889
+California,Fontana,"Fontana, California",36.5,10,49.1,0.889
+California,Hayward,"Hayward, California",36.5,10.2,49.1,0.889
+California,Hesperia,"Hesperia, California",36.5,10.6,49.1,0.889
+California,Lakewood,"Lakewood, California",36.5,9.1,49.1,0.889
+California,Menifee,"Menifee, California",36.5,9.4,49.1,0.889
+California,Modesto,"Modesto, California",36.5,11.3,49.1,0.889
+California,Oakland,"Oakland, California",36.5,13.3,49.1,0.889
+California,Elk Grove,"Elk Grove, California",36.4,10.5,49.1,0.889
+Oregon,Salem,"Salem, Oregon",36.4,12.7,28.7,0.889
+California,Salinas,"Salinas, California",36.4,10.3,49.1,0.889
+California,San Leandro,"San Leandro, California",36.3,9.7,49.1,0.889
+California,Chino Hills,"Chino Hills, California",36.2,8.5,49.1,0.889
+California,Merced,"Merced, California",36.2,10.7,49.1,0.889
+California,Norwalk,"Norwalk, California",36.2,10.6,49.1,0.889
+California,Antioch,"Antioch, California",36.1,11.8,49.1,0.889
+California,Los Angeles,"Los Angeles, California",36.1,13.7,49.1,0.889
+California,Union City,"Union City, California",36.1,8.4,49.1,0.889
+California,Upland,"Upland, California",36.1,9.3,49.1,0.889
+California,Lynwood,"Lynwood, California",36,11.3,49.1,0.889
+California,Fairfield,"Fairfield, California",35.9,11.6,49.1,0.889
+California,Riverside,"Riverside, California",35.9,10,49.1,0.889
+California,Simi Valley,"Simi Valley, California",35.8,9.7,49.1,0.889
+California,West Covina,"West Covina, California",35.8,8.7,49.1,0.889
+California,Garden Grove,"Garden Grove, California",35.6,8.9,49.1,0.889
+California,Tracy,"Tracy, California",35.6,9.9,49.1,0.889
+California,Santa Ana,"Santa Ana, California",35.5,9.9,49.1,0.889
+Washington,Everett,"Everett, Washington",35.4,11.6,27,0.889
+California,Manteca,"Manteca, California",35.4,10.1,49.1,0.889
+California,Vista,"Vista, California",35.4,10.2,49.1,0.889
+California,Citrus Heights,"Citrus Heights, California",35.3,11.7,49.1,0.889
+California,Alhambra,"Alhambra, California",35.2,7.7,49.1,0.889
+California,Fresno,"Fresno, California",35.2,12.6,49.1,0.889
+California,Lake Forest,"Lake Forest, California",35.2,8.8,49.1,0.889
+California,Fremont,"Fremont, California",35.1,8.5,49.1,0.889
+California,Chico,"Chico, California",35,11.3,49.1,0.889
+California,Downey,"Downey, California",35,9.2,49.1,0.889
+California,Tustin,"Tustin, California",35,9.3,49.1,0.889
+California,Redlands,"Redlands, California",34.8,10,49.1,0.889
+California,Daly City,"Daly City, California",34.7,8,49.1,0.889
+California,Fullerton,"Fullerton, California",34.7,9.3,49.1,0.889
+California,Palmdale,"Palmdale, California",34.7,12.4,49.1,0.889
+Nevada,Sparks,"Sparks, Nevada",34.7,11.1,38.1,0.889
+California,Concord,"Concord, California",34.6,9.9,49.1,0.889
+California,Stockton,"Stockton, California",34.5,11.3,49.1,0.889
+California,Pasadena,"Pasadena, California",34.4,10.3,49.1,0.889
+Colorado,Pueblo,"Pueblo, Colorado",34.4,12.5,36.4,0.889
+Washington,Spokane Valley,"Spokane Valley, Washington",34.4,12.2,27,0.889
+California,Torrance,"Torrance, California",34.4,8.5,49.1,0.889
+Utah,Ogden,"Ogden, Utah",34.3,10.9,44.2,0.889
+California,Westminster,"Westminster, California",34.3,8.3,49.1,0.889
+Alaska,Anchorage,"Anchorage, Alaska",34.2,10.6,22,0.889
+California,Murrieta,"Murrieta, California",34.2,9.5,49.1,0.889
+California,Rancho Cucamonga,"Rancho Cucamonga, California",34.2,9.5,49.1,0.889
+California,Chula Vista,"Chula Vista, California",34.1,9.8,49.1,0.889
+California,Escondido,"Escondido, California",34.1,9.9,49.1,0.889
+California,Buena Park,"Buena Park, California",33.9,9.3,49.1,0.889
+California,Alameda,"Alameda, California",33.8,9.4,49.1,0.889
+California,Livermore,"Livermore, California",33.8,9.6,49.1,0.889
+California,Mountain View,"Mountain View, California",33.8,8.5,49.1,0.889
+California,Victorville,"Victorville, California",33.8,10.8,49.1,0.889
+Washington,Bellingham,"Bellingham, Washington",33.7,12.7,27,0.889
+California,Whittier,"Whittier, California",33.7,9.1,49.1,0.889
+California,Costa Mesa,"Costa Mesa, California",33.6,9.5,49.1,0.889
+California,Turlock,"Turlock, California",33.6,10.6,49.1,0.889
+Wyoming,Cheyenne,"Cheyenne, Wyoming",33.5,10.9,38.5,0.889
+California,San Jose,"San Jose, California",33.5,9.8,49.1,0.889
+Washington,Tacoma,"Tacoma, Washington",33.5,13.5,27,0.889
+California,Folsom,"Folsom, California",33.4,10.8,49.1,0.889
+Nevada,Reno,"Reno, Nevada",33.4,11.3,38.1,0.889
+California,Roseville,"Roseville, California",33.4,10,49.1,0.889
+California,Santa Rosa,"Santa Rosa, California",33.4,10.3,49.1,0.889
+California,Berkeley,"Berkeley, California",33.3,10.1,49.1,0.889
+Washington,Federal Way,"Federal Way, Washington",33.3,10.6,27,0.889
+Oregon,Hillsboro,"Hillsboro, Oregon",33.3,11,28.7,0.889
+Washington,Kent,"Kent, Washington",33.3,11.4,27,0.889
+California,San Buenaventura,"San Buenaventura, California",33.2,9.7,49.1,0.889
+California,Visalia,"Visalia, California",33.2,10.4,49.1,0.889
+Washington,Kennewick,"Kennewick, Washington",33.1,11.6,27,0.889
+California,Santa Clarita,"Santa Clarita, California",33.1,9.9,49.1,0.889
+California,Santa Clara,"Santa Clara, California",33,9.4,49.1,0.889
+Oregon,Medford,"Medford, Oregon",32.9,13.1,28.7,0.889
+Idaho,Nampa,"Nampa, Idaho",32.9,11.1,27.4,0.472
+California,Thousand Oaks,"Thousand Oaks, California",32.9,9.9,49.1,0.472
+California,Napa,"Napa, California",32.7,9.7,49.1,0.472
+California,San Ramon,"San Ramon, California",32.6,8.6,49.1,0.472
+California,Sunnyvale,"Sunnyvale, California",32.6,8.5,49.1,0.472
+Oregon,Gresham,"Gresham, Oregon",32.5,12.1,28.7,0.472
+Washington,Vancouver,"Vancouver, Washington",32.5,11.9,27,0.472
+Utah,West Jordan,"West Jordan, Utah",32.5,10.2,44.2,0.472
+California,Pleasanton,"Pleasanton, California",32.4,8.5,49.1,0.472
+California,Orange,"Orange, California",32.3,9.2,49.1,0.472
+Washington,Spokane,"Spokane, Washington",32.3,12.7,27,0.472
+California,Redding,"Redding, California",32.2,10.8,49.1,0.472
+California,Huntington Beach,"Huntington Beach, California",32,9.6,49.1,0.472
+California,Burbank,"Burbank, California",31.8,9.6,49.1,0.472
+California,Mission Viejo,"Mission Viejo, California",31.8,8.8,49.1,1
+California,Santa Monica,"Santa Monica, California",31.8,9.3,49.1,0.177
+Utah,Layton,"Layton, Utah",31.6,9.6,44.2,0.177
+California,Irvine,"Irvine, California",31.3,8.5,49.1,0.177
+Oregon,Portland,"Portland, Oregon",31.3,12,28.7,0.289
+California,Redondo Beach,"Redondo Beach, California",31.3,8.3,49.1,0.289
+California,San Diego,"San Diego, California",31.3,11,49.1,0.528
+Oregon,Eugene,"Eugene, Oregon",31.2,13,28.7,0.528
+California,San Francisco,"San Francisco, California",31.2,13.3,49.1,0.528
+California,San Marcos,"San Marcos, California",31.2,9.8,49.1,0.528
+California,San Mateo,"San Mateo, California",31.2,9.1,49.1,0.528
+Washington,Renton,"Renton, Washington",31,10.8,27,0.22
+California,Santa Maria,"Santa Maria, California",31,10.8,49.1,0.22
+Utah,St. George,"St. George, Utah",31,9.8,44.2,0.22
+Utah,West Valley City,"West Valley City, Utah",31,10.5,44.2,0.22
+Washington,Seattle,"Seattle, Washington",30.9,11.8,27,0.22
+Utah,Sandy,"Sandy, Utah",30.7,10.1,44.2,0.22
+Oregon,Beaverton,"Beaverton, Oregon",30.5,10.9,28.7,0.22
+Colorado,Thornton,"Thornton, Colorado",30.4,11.6,36.4,0.22
+Utah,Orem,"Orem, Utah",30.3,9.2,44.2,0.728
+Utah,Provo,"Provo, Utah",30.2,11.7,44.2,0.728
+California,Milpitas,"Milpitas, California",30.1,8,49.1,0.728
+Utah,Salt Lake City,"Salt Lake City, Utah",29.8,10.8,44.2,0.728
+Colorado,Colorado Springs,"Colorado Springs, Colorado",29.7,11.3,36.4,0.728
+California,Newport Beach,"Newport Beach, California",29.6,9.3,49.1,0.728
+Oregon,Bend,"Bend, Oregon",29.3,11,28.7,0.728
+Idaho,Meridian,"Meridian, Idaho",29.2,9.9,27.4,0.728
+Washington,Auburn,"Auburn, Washington",28.9,11.3,27,0.728
+Colorado,Loveland,"Loveland, Colorado",28.8,9.9,36.4,0.164
+Colorado,Aurora,"Aurora, Colorado",28.7,11.4,36.4,0.164
+Washington,Bellevue,"Bellevue, Washington",28.7,9.2,27,0.164
+Montana,Billings,"Billings, Montana",28.7,11.1,30.8,0.164
+Colorado,Centennial,"Centennial, Colorado",28.7,8.9,36.4,0.164
+Colorado,Fort Collins,"Fort Collins, Colorado",28.4,11.7,36.4,0.164
+Colorado,Greeley,"Greeley, Colorado",28.2,12.1,36.4,0.164
+Colorado,Denver,"Denver, Colorado",28.1,13.7,36.4,0.164
+Montana,Missoula,"Missoula, Montana",27.8,10.3,30.8,0.164
+Idaho,Boise City,"Boise City, Idaho",27.5,10.8,27.4,0.164
+Colorado,Arvada,"Arvada, Colorado",26.8,11.2,36.4,0.164
+Colorado,Lakewood,"Lakewood, Colorado",26.8,10.2,36.4,0.164
+California,Santa Barbara,"Santa Barbara, California",26.5,9.7,49.1,0.164
+Colorado,Longmont,"Longmont, Colorado",26.2,9.7,36.4,0.164
+Colorado,Boulder,"Boulder, Colorado",25.9,11.2,36.4,0.541

@@ -82,11 +82,12 @@ body {
   /* scrolling Asthma/Sleep visualization png */
   .mainVisContainer {
     display: grid;
-    grid-template-columns: 1.5fr 2fr;
+    grid-template-columns: 1.5fr 3fr;
     padding: 2em;
     text-align: right;
     margin-right: 20px;
     margin-left: 100px;
+    background-color: aliceblue
   }
 
   .description {

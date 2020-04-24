@@ -31,8 +31,7 @@ function setup() {
     var table_total2 = totalData2
 
 
-
-// labels 
+//
 x = 220
 y = 50
     textFont(myFont);
