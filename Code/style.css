@@ -13,8 +13,8 @@ body {
     display: grid;
     grid-template-columns: 1fr 2fr;
     grid-gap: 1em;
-    padding: 2em;
-    margin-left: 3em;
+    padding: 1em;
+    margin-left: 2em;
   }
 
   .title {
@@ -64,15 +64,24 @@ body {
     /* background-color: crimson */
   }
 
+  .fullStretch {
+    display: grid;
+    grid-template-columns: 1fr, 7fr;
+  }
+
+  .legend {
+    position: sticky
+  }
+
 /* Asthma and Sleep visual description */
 .stickyDescrip{
     display:grid;
-    grid-template-columns: 1fr 2fr;
+    grid-template-columns: 1.5fr 2fr;
     margin-right: 50px;
     grid-gap: 1em;
     grid-auto-rows:minmax(100px, auto);
     padding: 2em;
-    position: -webkit-sticky;
+    /* position: -webkit-sticky; */
     position: sticky;
     top: 10px;
     margin-left: 3em;

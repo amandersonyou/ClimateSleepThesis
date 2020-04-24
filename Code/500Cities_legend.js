@@ -29,7 +29,7 @@ function setup() {
         var aqiVal = (table_total.getNum(r, 6));
         alphaCol = map(aqiVal, 0, 1, 0, 255);
         fill(36,102,129,(alphaCol))
-        ellipse(x, y-5, 18, 14);
+        ellipse(x, y-5, 14, 14);
         y += row_height
     }
 
@@ -62,7 +62,7 @@ function setup() {
         var aqiVal = (.2);
         alphaCol = map(aqiVal, 0, 1, 0, 255);
         fill(36,102,129,(alphaCol))
-        ellipse(x, y-5, 18, 14);
+        ellipse(x, y-5, 14, 14);
     } 
     x = 110
     y = 270
@@ -70,7 +70,7 @@ function setup() {
         var aqiVal = (.4);
         alphaCol = map(aqiVal, 0, 1, 0, 255);
         fill(36,102,129,(alphaCol))
-        ellipse(x, y-5, 18, 14);
+        ellipse(x, y-5, 14, 14);
     } 
     x = 140
     y = 270
@@ -78,7 +78,7 @@ function setup() {
         var aqiVal = (.6);
         alphaCol = map(aqiVal, 0, 1, 0, 255);
         fill(36,102,129,(alphaCol))
-        ellipse(x, y-5, 18, 14);
+        ellipse(x, y-5, 14, 14);
     } 
     x = 170
     y = 270
@@ -86,7 +86,7 @@ function setup() {
         var aqiVal = (.8);
         alphaCol = map(aqiVal, 0, 1, 0, 255);
         fill(36,102,129,(alphaCol))
-        ellipse(x, y-5, 18, 14);
+        ellipse(x, y-5, 14, 14);
     } 
     x = 200
     y = 270
@@ -94,7 +94,7 @@ function setup() {
         var aqiVal = (1);
         alphaCol = map(aqiVal, 0, 1, 0, 255);
         fill(36,102,129,(alphaCol))
-        ellipse(x, y-5, 18, 14);
+        ellipse(x, y-5, 14, 14);
     } 
     // saveCanvas(c, 'legend', 'png');
 }
