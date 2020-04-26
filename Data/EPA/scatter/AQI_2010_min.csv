@@ -1,0 +1,1096 @@
+State,County,Year,Max AQI,Median AQI,Region,Median_By_State
+Alaska,Aleutians East ,2010,34,8,1,20
+Alaska,Anchorage ,2010,127,32,1,20
+Alaska,Denali ,2010,49,33,1,20
+Alaska,Fairbanks North Star ,2010,172,36,1,20
+Alaska,Juneau ,2010,112,26,1,20
+Alaska,Kenai Peninsula ,2010,17,5,1,20
+Alaska,Matanuska-Susitna ,2010,118,13,1,20
+Alaska,Yukon-Koyukuk ,2010,79,5,1,20
+California,Alameda,2010,179,43,1,45
+California,Amador,2010,151,35,1,45
+California,Butte,2010,126,47,1,45
+California,Calaveras,2010,154,41,1,45
+California,Colusa,2010,119,38,1,45
+California,Contra Costa,2010,154,39,1,45
+California,Del Norte,2010,52,12,1,45
+California,El Dorado,2010,192,42,1,45
+California,Fresno,2010,209,70,1,45
+California,Glenn,2010,91,42,1,45
+California,Humboldt,2010,71,30,1,45
+California,Imperial,2010,140,53,1,45
+California,Inyo,2010,4466,44,1,45
+California,Kern,2010,202,79,1,45
+California,Kings,2010,208,70,1,45
+California,Lake,2010,74,35,1,45
+California,Los Angeles,2010,200,76,1,45
+California,Madera,2010,201,46,1,45
+California,Marin,2010,128,38,1,45
+California,Mariposa,2010,187,49,1,45
+California,Mendocino,2010,72,34,1,45
+California,Merced,2010,177,55,1,45
+California,Mono,2010,4240,18,1,45
+California,Monterey,2010,100,36,1,45
+California,Napa,2010,159,39,1,45
+California,Nevada,2010,154,44,1,45
+California,Orange,2010,177,56,1,45
+California,Placer,2010,200,50,1,45
+California,Plumas,2010,110,33,1,45
+California,Riverside,2010,217,87,1,45
+California,Sacramento,2010,207,49,1,45
+California,San Benito,2010,126,40,1,45
+California,San Bernardino,2010,219,81,1,45
+California,San Diego,2010,181,61,1,45
+California,San Francisco,2010,125,40,1,45
+California,San Joaquin,2010,174,45,1,45
+California,San Luis Obispo,2010,161,51,1,45
+California,San Mateo,2010,122,36,1,45
+California,Santa Barbara,2010,143,44,1,45
+California,Santa Clara,2010,164,42,1,45
+California,Santa Cruz,2010,95,34,1,45
+California,Shasta,2010,119,43,1,45
+California,Siskiyou,2010,90,33,1,45
+California,Solano,2010,136,39,1,45
+California,Sonoma,2010,93,32,1,45
+California,Stanislaus,2010,177,53,1,45
+California,Sutter,2010,170,44,1,45
+California,Tehama,2010,136,50,1,45
+California,Trinity,2010,35,10,1,45
+California,Tulare,2010,197,69,1,45
+California,Tuolumne,2010,147,41,1,45
+California,Ventura,2010,161,47,1,45
+California,Yolo,2010,109,38,1,45
+Colorado,Adams,2010,93,43,1,37
+Colorado,Alamosa,2010,166,20,1,37
+Colorado,Arapahoe,2010,122,47,1,37
+Colorado,Archuleta,2010,198,17,1,37
+Colorado,Boulder,2010,143,45,1,37
+Colorado,Chaffee,2010,101,50,1,37
+Colorado,Clear Creek,2010,161,74,1,37
+Colorado,Delta,2010,86,19,1,37
+Colorado,Denver,2010,108,49,1,37
+Colorado,Douglas,2010,136,45,1,37
+Colorado,El Paso,2010,151,45,1,37
+Colorado,Elbert,2010,54,17,1,37
+Colorado,Fremont,2010,29,14,1,37
+Colorado,Garfield,2010,150,51,1,37
+Colorado,Gunnison,2010,129,42,1,37
+Colorado,Jackson,2010,35,7,1,37
+Colorado,Jefferson,2010,143,46,1,37
+Colorado,La Plata,2010,183,48,1,37
+Colorado,Larimer,2010,140,51,1,37
+Colorado,Mesa,2010,120,47,1,37
+Colorado,Montezuma,2010,122,46,1,37
+Colorado,Park,2010,133,51,1,37
+Colorado,Pitkin,2010,164,49,1,37
+Colorado,Prowers,2010,91,24,1,37
+Colorado,Pueblo,2010,66,24,1,37
+Colorado,Rio Blanco,2010,108,45,1,37
+Colorado,Routt,2010,73,16,1,37
+Colorado,San Juan,2010,84,8,1,37
+Colorado,San Miguel,2010,200,19,1,37
+Colorado,Summit,2010,63,12,1,37
+Colorado,Teller,2010,105,51,1,37
+Colorado,Weld,2010,126,46,1,37
+Hawaii,Hawaii,2010,532,200,1,85
+Hawaii,Honolulu,2010,154,38,1,85
+Hawaii,Maui,2010,75,18,1,85
+Idaho,Ada,2010,136,49,1,27
+Idaho,Bannock,2010,144,29,1,27
+Idaho,Benewah,2010,131,32,1,27
+Idaho,Bonner,2010,106,9,1,27
+Idaho,Butte,2010,77,43,1,27
+Idaho,Canyon,2010,127,25,1,27
+Idaho,Caribou,2010,139,6,1,27
+Idaho,Cassia,2010,84,45,1,27
+Idaho,Custer,2010,35,8,1,27
+Idaho,Franklin,2010,158,53,1,27
+Idaho,Idaho,2010,55,10,1,27
+Idaho,Kootenai,2010,84,37,1,27
+Idaho,Latah,2010,66,10,1,27
+Idaho,Lemhi,2010,153,33,1,27
+Idaho,Nez Perce,2010,68,17,1,27
+Idaho,Power,2010,24,20,1,27
+Idaho,Shoshone,2010,155,44,1,27
+Idaho,Twin Falls,2010,131,24,1,27
+Montana,Cascade,2010,99,29,1,28
+Montana,Fergus,2010,53,10,1,28
+Montana,Flathead,2010,95,41,1,28
+Montana,Gallatin,2010,124,28,1,28
+Montana,Glacier,2010,74,41,1,28
+Montana,Lake,2010,62,12,1,28
+Montana,Lewis and Clark,2010,158,25,1,28
+Montana,Lincoln,2010,107,40,1,28
+Montana,Missoula,2010,181,56,1,28
+Montana,Powder River,2010,80,38,1,28
+Montana,Powell,2010,73,10,1,28
+Montana,Ravalli,2010,145,28,1,28
+Montana,Richland,2010,84,37,1,28
+Montana,Roosevelt,2010,72,15,1,28
+Montana,Rosebud,2010,108,33,1,28
+Montana,Sanders,2010,66,23,1,28
+Montana,Sheridan,2010,102,13,1,28
+Montana,Silver Bow,2010,139,31,1,28
+Montana,Yellowstone,2010,150,26,1,28
+Nevada,Carson City,2010,90,38,1,33
+Nevada,Churchill,2010,80,40,1,33
+Nevada,Clark,2010,147,54,1,33
+Nevada,Douglas,2010,36,8,1,33
+Nevada,Elko,2010,139,19,1,33
+Nevada,Lyon,2010,101,37,1,33
+Nevada,Mineral,2010,67,11,1,33
+Nevada,Nye,2010,82,27,1,33
+Nevada,Washoe,2010,122,47,1,33
+Nevada,White Pine,2010,122,45,1,33
+Oregon,Baker,2010,77,25,1,25
+Oregon,Benton,2010,68,15,1,25
+Oregon,Clackamas,2010,172,26,1,25
+Oregon,Columbia,2010,71,24,1,25
+Oregon,Crook,2010,102,20,1,25
+Oregon,Deschutes,2010,84,30,1,25
+Oregon,Douglas,2010,64,21,1,25
+Oregon,Grant,2010,137,25,1,25
+Oregon,Harney,2010,118,25,1,25
+Oregon,Jackson,2010,93,36,1,25
+Oregon,Jefferson,2010,167,25,1,25
+Oregon,Josephine,2010,103,22,1,25
+Oregon,Klamath,2010,143,26,1,25
+Oregon,Lake,2010,118,21,1,25
+Oregon,Lane,2010,127,38,1,25
+Oregon,Linn,2010,87,26,1,25
+Oregon,Marion,2010,126,27,1,25
+Oregon,Multnomah,2010,99,32,1,25
+Oregon,Umatilla,2010,93,37,1,25
+Oregon,Union,2010,106,25,1,25
+Oregon,Wallowa,2010,159,20,1,25
+Oregon,Wasco,2010,104,19,1,25
+Oregon,Washington,2010,113,30,1,25
+Oregon,Yamhill,2010,69,15,1,25
+Utah,Box Elder,2010,142,45,1,42
+Utah,Cache,2010,160,49,1,42
+Utah,Daggett,2010,90,47,1,42
+Utah,Davis,2010,152,40,1,42
+Utah,Garfield,2010,40,8,1,42
+Utah,Salt Lake,2010,501,49,1,42
+Utah,San Juan,2010,119,47,1,42
+Utah,Tooele,2010,159,47,1,42
+Utah,Uintah,2010,219,54,1,42
+Utah,Utah,2010,300,49,1,42
+Utah,Washington,2010,108,48,1,42
+Utah,Wayne,2010,25,9,1,42
+Utah,Weber,2010,161,49,1,42
+Washington,Adams,2010,76,18,1,24
+Washington,Asotin,2010,87,25,1,24
+Washington,Benton,2010,76,20,1,24
+Washington,Chelan,2010,121,22,1,24
+Washington,Clallam,2010,67,36,1,24
+Washington,Clark,2010,88,28,1,24
+Washington,Columbia,2010,63,18,1,24
+Washington,Cowlitz,2010,64,16,1,24
+Washington,Franklin,2010,72,20,1,24
+Washington,Grant,2010,80,20,1,24
+Washington,Grays Harbor,2010,72,16,1,24
+Washington,Jefferson,2010,61,18,1,24
+Washington,King,2010,122,36,1,24
+Washington,Kitsap,2010,89,18,1,24
+Washington,Kittitas,2010,99,20,1,24
+Washington,Klickitat,2010,61,17,1,24
+Washington,Lewis,2010,60,19,1,24
+Washington,Mason,2010,73,21,1,24
+Washington,Okanogan,2010,94,28,1,24
+Washington,Pend Oreille,2010,65,14,1,24
+Washington,Pierce,2010,97,40,1,24
+Washington,Skagit,2010,205,29,1,24
+Washington,Snohomish,2010,85,27,1,24
+Washington,Spokane,2010,103,38,1,24
+Washington,Stevens,2010,89,31,1,24
+Washington,Thurston,2010,80,25,1,24
+Washington,Walla Walla,2010,79,23,1,24
+Washington,Whatcom,2010,72,27,1,24
+Washington,Whitman,2010,63,18,1,24
+Washington,Yakima,2010,140,25,1,24
+Wyoming,Albany,2010,116,48,1,30
+Wyoming,Big Horn,2010,67,38,1,30
+Wyoming,Campbell,2010,124,46,1,30
+Wyoming,Carbon,2010,112,45,1,30
+Wyoming,Converse,2010,99,23,1,30
+Wyoming,Crook,2010,101,43,1,30
+Wyoming,Fremont,2010,112,48,1,30
+Wyoming,Johnson,2010,29,6,1,30
+Wyoming,Laramie,2010,45,19,1,30
+Wyoming,Lincoln,2010,88,17,1,30
+Wyoming,Natrona,2010,55,17,1,30
+Wyoming,Park,2010,52,16,1,30
+Wyoming,Platte,2010,59,12,1,30
+Wyoming,Sheridan,2010,95,21,1,30
+Wyoming,Sublette,2010,112,47,1,30
+Wyoming,Sweetwater,2010,112,45,1,30
+Wyoming,Teton,2010,90,44,1,30
+Wyoming,Uinta,2010,135,44,1,30
+Wyoming,Weston,2010,33,0,1,30
+Arizona,Apache,2010,45,14,2,46
+Arizona,Cochise,2010,112,45,2,46
+Arizona,Coconino,2010,136,46,2,46
+Arizona,Gila,2010,200,84,2,46
+Arizona,La Paz,2010,105,48,2,46
+Arizona,Maricopa,2010,165,61,2,46
+Arizona,Mohave,2010,38,14,2,46
+Arizona,Navajo,2010,112,44,2,46
+Arizona,Pima,2010,141,49,2,46
+Arizona,Pinal,2010,1657,69,2,46
+Arizona,Santa Cruz,2010,119,42,2,46
+Arizona,Yavapai,2010,122,42,2,46
+Arizona,Yuma,2010,147,40,2,46
+New Mexico,Bernalillo,2010,146,57,2,30
+New Mexico,Catron,2010,72,10,2,30
+New Mexico,Chaves,2010,72,20,2,30
+New Mexico,Dona Ana,2010,671,54,2,30
+New Mexico,Eddy,2010,101,38,2,30
+New Mexico,Grant,2010,126,45,2,30
+New Mexico,Lea,2010,64,35,2,30
+New Mexico,Lincoln,2010,127,11,2,30
+New Mexico,Los Alamos,2010,30,10,2,30
+New Mexico,Luna,2010,420,39,2,30
+New Mexico,McKinley,2010,31,12,2,30
+New Mexico,Rio Arriba,2010,41,9,2,30
+New Mexico,San Juan,2010,251,45,2,30
+New Mexico,Sandoval,2010,100,48,2,30
+New Mexico,Santa Fe,2010,101,44,2,30
+New Mexico,Socorro,2010,23,11,2,30
+New Mexico,Taos,2010,62,15,2,30
+New Mexico,Valencia,2010,87,43,2,30
+Oklahoma,Adair,2010,105,55,2,40
+Oklahoma,Caddo,2010,126,40,2,40
+Oklahoma,Canadian,2010,112,37,2,40
+Oklahoma,Carter,2010,71,29,2,40
+Oklahoma,Cherokee,2010,151,40,2,40
+Oklahoma,Cleveland,2010,112,45,2,40
+Oklahoma,Comanche,2010,136,45,2,40
+Oklahoma,Creek,2010,112,38,2,40
+Oklahoma,Dewey,2010,112,42,2,40
+Oklahoma,Ellis,2010,59,20,2,40
+Oklahoma,Jefferson,2010,119,40,2,40
+Oklahoma,Kay,2010,93,44,2,40
+Oklahoma,Lincoln,2010,77,33,2,40
+Oklahoma,Love,2010,108,43,2,40
+Oklahoma,Mayes,2010,101,42,2,40
+Oklahoma,McClain,2010,108,37,2,40
+Oklahoma,McCurtain,2010,101,38,2,40
+Oklahoma,Muskogee,2010,99,32,2,40
+Oklahoma,Oklahoma,2010,129,48,2,40
+Oklahoma,Osage,2010,105,39,2,40
+Oklahoma,Ottawa,2010,119,44,2,40
+Oklahoma,Pittsburg,2010,101,45,2,40
+Oklahoma,Sequoyah,2010,129,38,2,40
+Oklahoma,Tulsa,2010,126,56,2,40
+Texas,Bell,2010,115,37,2,38
+Texas,Bexar,2010,154,44,2,38
+Texas,Bowie,2010,70,48,2,38
+Texas,Brazoria,2010,172,36,2,38
+Texas,Brewster,2010,97,44,2,38
+Texas,Cameron,2010,105,42,2,38
+Texas,Collin,2010,154,38,2,38
+Texas,Culberson,2010,68,14,2,38
+Texas,Dallas,2010,150,48,2,38
+Texas,Denton,2010,143,44,2,38
+Texas,Ector,2010,68,31,2,38
+Texas,El Paso,2010,191,54,2,38
+Texas,Ellis,2010,115,43,2,38
+Texas,Fayette,2010,76,30,2,38
+Texas,Galveston,2010,164,39,2,38
+Texas,Gregg,2010,133,38,2,38
+Texas,Harris,2010,179,56,2,38
+Texas,Harrison,2010,126,44,2,38
+Texas,Hays,2010,133,34,2,38
+Texas,Hidalgo,2010,90,40,2,38
+Texas,Hood,2010,133,35,2,38
+Texas,Hunt,2010,126,36,2,38
+Texas,Jeff Davis,2010,54,16,2,38
+Texas,Jefferson,2010,164,51,2,38
+Texas,Johnson,2010,140,36,2,38
+Texas,Kaufman,2010,93,42,2,38
+Texas,Kleberg,2010,91,35,2,38
+Texas,Lubbock,2010,72,26,2,38
+Texas,Maverick,2010,79,29,2,38
+Texas,McLennan,2010,115,38,2,38
+Texas,Montgomery,2010,143,45,2,38
+Texas,Navarro,2010,105,43,2,38
+Texas,Nueces,2010,126,43,2,38
+Texas,Orange,2010,136,44,2,38
+Texas,Parker,2010,164,38,2,38
+Texas,Polk,2010,150,39,2,38
+Texas,Potter,2010,60,23,2,38
+Texas,Randall,2010,84,40,2,38
+Texas,Rockwall,2010,150,37,2,38
+Texas,Smith,2010,115,38,2,38
+Texas,Tarrant,2010,172,47,2,38
+Texas,Travis,2010,122,42,2,38
+Texas,Victoria,2010,112,32,2,38
+Texas,Webb,2010,100,40,2,38
+Texas,Wichita,2010,60,26,2,38
+Illinois,Adams,2010,122,37,3,38
+Illinois,Champaign,2010,87,34,3,38
+Illinois,Clark,2010,90,40,3,38
+Illinois,Cook,2010,140,60,3,38
+Illinois,DuPage,2010,110,46,3,38
+Illinois,Effingham,2010,105,44,3,38
+Illinois,Hamilton,2010,119,46,3,38
+Illinois,Jackson,2010,46,20,3,38
+Illinois,Jersey,2010,108,38,3,38
+Illinois,Jo Daviess,2010,105,37,3,38
+Illinois,Kane,2010,122,36,3,38
+Illinois,La Salle,2010,93,35,3,38
+Illinois,Lake,2010,156,37,3,38
+Illinois,Macon,2010,99,47,3,38
+Illinois,Macoupin,2010,119,37,3,38
+Illinois,Madison,2010,151,61,3,38
+Illinois,McHenry,2010,115,41,3,38
+Illinois,McLean,2010,112,40,3,38
+Illinois,Peoria,2010,105,51,3,38
+Illinois,Randolph,2010,97,36,3,38
+Illinois,Rock Island,2010,77,32,3,38
+Illinois,Saint Clair,2010,150,45,3,38
+Illinois,Sangamon,2010,119,38,3,38
+Illinois,Tazewell,2010,200,6,3,38
+Illinois,Wabash,2010,160,11,3,38
+Illinois,Will,2010,115,37,3,38
+Illinois,Winnebago,2010,117,36,3,38
+Indiana,Allen,2010,121,56,3,42
+Indiana,Boone,2010,122,45,3,42
+Indiana,Carroll,2010,119,45,3,42
+Indiana,Clark,2010,147,58,3,42
+Indiana,Daviess,2010,125,11,3,42
+Indiana,Delaware,2010,108,45,3,42
+Indiana,Dubois,2010,91,53,3,42
+Indiana,Elkhart,2010,110,44,3,42
+Indiana,Floyd,2010,174,52,3,42
+Indiana,Fountain,2010,46,7,3,42
+Indiana,Gibson,2010,122,21,3,42
+Indiana,Greene,2010,119,47,3,42
+Indiana,Hamilton,2010,122,44,3,42
+Indiana,Hancock,2010,105,45,3,42
+Indiana,Hendricks,2010,100,41,3,42
+Indiana,Henry,2010,107,46,3,42
+Indiana,Howard,2010,113,43,3,42
+Indiana,Huntington,2010,90,41,3,42
+Indiana,Jackson,2010,105,45,3,42
+Indiana,Jasper,2010,66,6,3,42
+Indiana,Johnson,2010,105,44,3,42
+Indiana,Knox,2010,112,42,3,42
+Indiana,LaPorte,2010,151,36,3,42
+Indiana,Lake,2010,133,63,3,42
+Indiana,Madison,2010,100,47,3,42
+Indiana,Marion,2010,152,61,3,42
+Indiana,Monroe,2010,89,49,3,42
+Indiana,Morgan,2010,135,33,3,42
+Indiana,Perry,2010,122,48,3,42
+Indiana,Pike,2010,179,16,3,42
+Indiana,Porter,2010,133,53,3,42
+Indiana,Posey,2010,105,43,3,42
+Indiana,Shelby,2010,93,44,3,42
+Indiana,Spencer,2010,86,52,3,42
+Indiana,St. Joseph,2010,128,52,3,42
+Indiana,Tippecanoe,2010,120,52,3,42
+Indiana,Vanderburgh,2010,122,56,3,42
+Indiana,Vigo,2010,178,57,3,42
+Indiana,Wabash,2010,105,38,3,42
+Indiana,Warrick,2010,122,29,3,42
+Indiana,Washington,2010,81,43,3,42
+Indiana,Wayne,2010,127,6,3,42
+Indiana,Whitley,2010,102,38,3,42
+Iowa,Black Hawk,2010,113,41,3,39
+Iowa,Bremer,2010,108,38,3,39
+Iowa,Cerro Gordo,2010,64,18,3,39
+Iowa,Clinton,2010,125,53,3,39
+Iowa,Delaware,2010,53,15,3,39
+Iowa,Harrison,2010,122,40,3,39
+Iowa,Johnson,2010,112,51,3,39
+Iowa,Lee,2010,115,43,3,39
+Iowa,Linn,2010,113,47,3,39
+Iowa,Montgomery,2010,112,43,3,39
+Iowa,Muscatine,2010,155,53,3,39
+Iowa,Palo Alto,2010,105,42,3,39
+Iowa,Polk,2010,116,41,3,39
+Iowa,Pottawattamie,2010,134,29,3,39
+Iowa,Scott,2010,117,56,3,39
+Iowa,Story,2010,90,36,3,39
+Iowa,Tama,2010,74,31,3,39
+Iowa,Van Buren,2010,108,36,3,39
+Iowa,Warren,2010,87,37,3,39
+Iowa,Woodbury,2010,127,34,3,39
+Kansas,Brown,2010,77,29,3,32
+Kansas,Chase,2010,138,23,3,32
+Kansas,Ford,2010,49,14,3,32
+Kansas,Johnson,2010,112,40,3,32
+Kansas,Leavenworth,2010,143,36,3,32
+Kansas,Linn,2010,97,38,3,32
+Kansas,Montgomery,2010,56,7,3,32
+Kansas,Neosho,2010,47,19,3,32
+Kansas,Riley,2010,136,38,3,32
+Kansas,Sedgwick,2010,122,44,3,32
+Kansas,Shawnee,2010,140,40,3,32
+Kansas,Sherman,2010,59,19,3,32
+Kansas,Sumner,2010,122,42,3,32
+Kansas,Trego,2010,108,42,3,32
+Kansas,Wyandotte,2010,103,43,3,32
+Michigan,Allegan,2010,122,42,3,38
+Michigan,Bay,2010,103,25,3,38
+Michigan,Benzie,2010,112,41,3,38
+Michigan,Berrien,2010,129,44,3,38
+Michigan,Cass,2010,108,45,3,38
+Michigan,Chippewa,2010,118,31,3,38
+Michigan,Clinton,2010,115,42,3,38
+Michigan,Genesee,2010,115,43,3,38
+Michigan,Huron,2010,126,40,3,38
+Michigan,Ingham,2010,112,40,3,38
+Michigan,Kalamazoo,2010,119,44,3,38
+Michigan,Kent,2010,126,36,3,38
+Michigan,Keweenaw,2010,55,10,3,38
+Michigan,Lenawee,2010,103,44,3,38
+Michigan,Macomb,2010,159,44,3,38
+Michigan,Manistee,2010,122,37,3,38
+Michigan,Mason,2010,126,39,3,38
+Michigan,Missaukee,2010,97,34,3,38
+Michigan,Monroe,2010,117,35,3,38
+Michigan,Muskegon,2010,129,41,3,38
+Michigan,Oakland,2010,140,43,3,38
+Michigan,Ottawa,2010,119,42,3,38
+Michigan,Schoolcraft,2010,164,32,3,38
+Michigan,St. Clair,2010,150,40,3,38
+Michigan,Tuscola,2010,100,36,3,38
+Michigan,Washtenaw,2010,119,38,3,38
+Michigan,Wayne,2010,140,54,3,38
+Michigan,Wexford,2010,100,35,3,38
+Minnesota,Anoka,2010,117,45,3,32
+Minnesota,Becker,2010,100,33,3,32
+Minnesota,Carlton,2010,101,18,3,32
+Minnesota,Cass,2010,38,17,3,32
+Minnesota,Cook,2010,72,20,3,32
+Minnesota,Crow Wing,2010,119,33,3,32
+Minnesota,Dakota,2010,125,37,3,32
+Minnesota,Goodhue,2010,101,38,3,32
+Minnesota,Hennepin,2010,128,34,3,32
+Minnesota,Lake,2010,123,27,3,32
+Minnesota,Lyon,2010,109,43,3,32
+Minnesota,Mille Lacs,2010,115,33,3,32
+Minnesota,Olmsted,2010,123,42,3,32
+Minnesota,Ramsey,2010,125,38,3,32
+Minnesota,Rock,2010,78,25,3,32
+Minnesota,Saint Louis,2010,101,38,3,32
+Minnesota,Scott,2010,120,36,3,32
+Minnesota,Stearns,2010,120,36,3,32
+Minnesota,Washington,2010,105,20,3,32
+Minnesota,Winona,2010,93,23,3,32
+Minnesota,Wright,2010,125,41,3,32
+Missouri,Andrew,2010,136,41,3,45
+Missouri,Boone,2010,101,40,3,45
+Missouri,Buchanan,2010,88,45,3,45
+Missouri,Callaway,2010,119,42,3,45
+Missouri,Cass,2010,100,45,3,45
+Missouri,Cedar,2010,133,46,3,45
+Missouri,Clay,2010,129,45,3,45
+Missouri,Clinton,2010,147,44,3,45
+Missouri,Greene,2010,126,46,3,45
+Missouri,Jackson,2010,136,51,3,45
+Missouri,Jasper,2010,140,39,3,45
+Missouri,Jefferson,2010,195,59,3,45
+Missouri,Lincoln,2010,151,44,3,45
+Missouri,Monroe,2010,115,37,3,45
+Missouri,Perry,2010,133,47,3,45
+Missouri,Saint Charles,2010,164,40,3,45
+Missouri,Saint Louis,2010,133,51,3,45
+Missouri,Sainte Genevieve,2010,129,41,3,45
+Missouri,St. Louis City,2010,159,57,3,45
+Missouri,Stoddard,2010,110,37,3,45
+Missouri,Taney,2010,93,41,3,45
+Nebraska,Cass,2010,176,21,3,30
+Nebraska,Dawson,2010,69,19,3,30
+Nebraska,Douglas,2010,200,48,3,30
+Nebraska,Garden,2010,60,14,3,30
+Nebraska,Hall,2010,76,26,3,30
+Nebraska,Knox,2010,90,36,3,30
+Nebraska,Lancaster,2010,108,29,3,30
+Nebraska,Sarpy,2010,125,44,3,30
+Nebraska,Scotts Bluff,2010,80,43,3,30
+Nebraska,Thomas,2010,86,16,3,30
+Nebraska,Washington,2010,106,33,3,30
+North Dakota,Billings,2010,90,37,3,32
+North Dakota,Burke,2010,105,38,3,32
+North Dakota,Burleigh,2010,89,38,3,32
+North Dakota,Cass,2010,124,39,3,32
+North Dakota,Dunn,2010,87,41,3,32
+North Dakota,McKenzie,2010,100,38,3,32
+North Dakota,Mercer,2010,141,38,3,32
+North Dakota,Oliver,2010,122,38,3,32
+North Dakota,Ward,2010,71,7,3,32
+North Dakota,Williams,2010,135,6,3,32
+Ohio,Adams,2010,98,28,3,43
+Ohio,Allen,2010,153,45,3,43
+Ohio,Ashtabula,2010,156,35,3,43
+Ohio,Athens,2010,119,36,3,43
+Ohio,Belmont,2010,103,9,3,43
+Ohio,Butler,2010,151,48,3,43
+Ohio,Clark,2010,136,51,3,43
+Ohio,Clermont,2010,154,53,3,43
+Ohio,Clinton,2010,133,49,3,43
+Ohio,Columbiana,2010,100,9,3,43
+Ohio,Crawford,2010,112,41,3,43
+Ohio,Cuyahoga,2010,154,63,3,43
+Ohio,Delaware,2010,133,44,3,43
+Ohio,Fayette,2010,129,40,3,43
+Ohio,Franklin,2010,156,51,3,43
+Ohio,Geauga,2010,154,46,3,43
+Ohio,Greene,2010,115,51,3,43
+Ohio,Hamilton,2010,172,68,3,43
+Ohio,Hancock,2010,39,22,3,43
+Ohio,Jefferson,2010,152,52,3,43
+Ohio,Knox,2010,122,42,3,43
+Ohio,Lake,2010,159,55,3,43
+Ohio,Lawrence,2010,152,53,3,43
+Ohio,Licking,2010,136,46,3,43
+Ohio,Lorain,2010,140,49,3,43
+Ohio,Lucas,2010,164,46,3,43
+Ohio,Madison,2010,126,47,3,43
+Ohio,Mahoning,2010,140,50,3,43
+Ohio,Medina,2010,161,44,3,43
+Ohio,Meigs,2010,149,9,3,43
+Ohio,Miami,2010,133,44,3,43
+Ohio,Montgomery,2010,140,54,3,43
+Ohio,Morgan,2010,200,10,3,43
+Ohio,Noble,2010,136,42,3,43
+Ohio,Portage,2010,126,40,3,43
+Ohio,Preble,2010,136,51,3,43
+Ohio,Scioto,2010,110,26,3,43
+Ohio,Stark,2010,156,56,3,43
+Ohio,Summit,2010,140,59,3,43
+Ohio,Trumbull,2010,159,47,3,43
+Ohio,Tuscarawas,2010,115,14,3,43
+Ohio,Warren,2010,150,55,3,43
+Ohio,Washington,2010,129,46,3,43
+Ohio,Wood,2010,105,44,3,43
+South Dakota,Brookings,2010,97,37,3,35
+South Dakota,Brown,2010,91,30,3,35
+South Dakota,Codington,2010,99,21,3,35
+South Dakota,Custer,2010,182,40,3,35
+South Dakota,Jackson,2010,74,37,3,35
+South Dakota,Meade,2010,67,37,3,35
+South Dakota,Minnehaha,2010,122,41,3,35
+South Dakota,Pennington,2010,92,28,3,35
+South Dakota,Union,2010,127,41,3,35
+Wisconsin,Ashland,2010,71,34,3,38
+Wisconsin,Brown,2010,127,41,3,38
+Wisconsin,Chippewa,2010,21,8,3,38
+Wisconsin,Columbia,2010,93,40,3,38
+Wisconsin,Dane,2010,125,48,3,38
+Wisconsin,Dodge,2010,125,42,3,38
+Wisconsin,Door,2010,172,37,3,38
+Wisconsin,Eau Claire,2010,93,30,3,38
+Wisconsin,Florence,2010,93,34,3,38
+Wisconsin,Fond du Lac,2010,101,39,3,38
+Wisconsin,Forest,2010,93,36,3,38
+Wisconsin,Grant,2010,124,37,3,38
+Wisconsin,Jefferson,2010,108,41,3,38
+Wisconsin,Kenosha,2010,159,44,3,38
+Wisconsin,Kewaunee,2010,159,39,3,38
+Wisconsin,La Crosse,2010,110,39,3,38
+Wisconsin,Manitowoc,2010,174,36,3,38
+Wisconsin,Marathon,2010,80,38,3,38
+Wisconsin,Milwaukee,2010,166,43,3,38
+Wisconsin,Oneida,2010,157,30,3,38
+Wisconsin,Outagamie,2010,108,38,3,38
+Wisconsin,Ozaukee,2010,161,40,3,38
+Wisconsin,Racine,2010,147,42,3,38
+Wisconsin,Rock,2010,101,41,3,38
+Wisconsin,Sauk,2010,111,38,3,38
+Wisconsin,Sheboygan,2010,166,41,3,38
+Wisconsin,St. Croix,2010,124,40,3,38
+Wisconsin,Taylor,2010,103,36,3,38
+Wisconsin,Vernon,2010,93,39,3,38
+Wisconsin,Vilas,2010,97,36,3,38
+Wisconsin,Walworth,2010,100,41,3,38
+Wisconsin,Washington,2010,97,39,3,38
+Wisconsin,Waukesha,2010,119,39,3,38
+Alabama,Baldwin,2010,150,43,4,46
+Alabama,Clay,2010,86,42,4,46
+Alabama,Colbert,2010,105,47,4,46
+Alabama,DeKalb,2010,101,43,4,46
+Alabama,Elmore,2010,112,43,4,46
+Alabama,Etowah,2010,104,54,4,46
+Alabama,Houston,2010,115,48,4,46
+Alabama,Jefferson,2010,166,59,4,46
+Alabama,Lawrence,2010,59,34,4,46
+Alabama,Madison,2010,136,44,4,46
+Alabama,Mobile,2010,140,40,4,46
+Alabama,Montgomery,2010,129,50,4,46
+Alabama,Morgan,2010,108,50,4,46
+Alabama,Russell,2010,108,47,4,46
+Alabama,Shelby,2010,156,46,4,46
+Alabama,Sumter,2010,119,39,4,46
+Alabama,Talladega,2010,76,48,4,46
+Alabama,Tuscaloosa,2010,89,55,4,46
+Alabama,Walker,2010,74,45,4,46
+Arkansas,Arkansas,2010,83,48,4,41
+Arkansas,Ashley,2010,72,45,4,41
+Arkansas,Clark,2010,126,35,4,41
+Arkansas,Crittenden,2010,164,42,4,41
+Arkansas,Faulkner,2010,78,45,4,41
+Arkansas,Garland,2010,72,45,4,41
+Arkansas,Jackson,2010,90,44,4,41
+Arkansas,Newton,2010,105,39,4,41
+Arkansas,Phillips,2010,75,46,4,41
+Arkansas,Polk,2010,136,43,4,41
+Arkansas,Pope,2010,93,44,4,41
+Arkansas,Pulaski,2010,133,55,4,41
+Arkansas,Sebastian,2010,84,46,4,41
+Arkansas,Union,2010,95,7,4,41
+Arkansas,Van Buren,2010,93,31,4,41
+Arkansas,Washington,2010,112,40,4,41
+Arkansas,White,2010,89,48,4,41
+Delaware,Kent,2010,166,43,4,47
+Delaware,New Castle,2010,156,50,4,47
+Delaware,Sussex,2010,182,47,4,47
+District Of Columbia,District of Columbia,2010,187,51,4,51
+Florida,Alachua,2010,101,41,4,40
+Florida,Baker,2010,97,36,4,40
+Florida,Bay,2010,140,43,4,40
+Florida,Brevard,2010,87,43,4,40
+Florida,Broward,2010,105,42,4,40
+Florida,Citrus,2010,65,32,4,40
+Florida,Collier,2010,92,39,4,40
+Florida,Columbia,2010,101,44,4,40
+Florida,Duval,2010,147,45,4,40
+Florida,Escambia,2010,156,47,4,40
+Florida,Hamilton,2010,75,39,4,40
+Florida,Highlands,2010,97,36,4,40
+Florida,Hillsborough,2010,154,52,4,40
+Florida,Holmes,2010,93,44,4,40
+Florida,Indian River,2010,90,39,4,40
+Florida,Lake,2010,136,41,4,40
+Florida,Lee,2010,101,41,4,40
+Florida,Leon,2010,158,47,4,40
+Florida,Liberty,2010,93,36,4,40
+Florida,Manatee,2010,101,37,4,40
+Florida,Marion,2010,112,42,4,40
+Florida,Martin,2010,77,38,4,40
+Florida,Miami-Dade,2010,150,44,4,40
+Florida,Nassau,2010,200,6,4,40
+Florida,Okaloosa,2010,147,37,4,40
+Florida,Orange,2010,133,44,4,40
+Florida,Osceola,2010,133,36,4,40
+Florida,Palm Beach,2010,119,42,4,40
+Florida,Pasco,2010,97,39,4,40
+Florida,Pinellas,2010,100,45,4,40
+Florida,Polk,2010,122,44,4,40
+Florida,Putnam,2010,89,16,4,40
+Florida,Santa Rosa,2010,156,45,4,40
+Florida,Sarasota,2010,133,49,4,40
+Florida,Seminole,2010,105,38,4,40
+Florida,St. Lucie,2010,93,39,4,40
+Florida,Volusia,2010,101,41,4,40
+Florida,Wakulla,2010,126,36,4,40
+Georgia,Bibb,2010,133,53,4,46
+Georgia,Charlton,2010,67,30,4,46
+Georgia,Chatham,2010,107,50,4,46
+Georgia,Chattooga,2010,97,41,4,46
+Georgia,Clarke,2010,147,46,4,46
+Georgia,Clayton,2010,86,53,4,46
+Georgia,Cobb,2010,156,50,4,46
+Georgia,Coffee,2010,83,36,4,46
+Georgia,Columbia,2010,108,44,4,46
+Georgia,Coweta,2010,100,45,4,46
+Georgia,Dawson,2010,151,43,4,46
+Georgia,DeKalb,2010,182,55,4,46
+Georgia,Dougherty,2010,156,48,4,46
+Georgia,Douglas,2010,133,45,4,46
+Georgia,Floyd,2010,155,56,4,46
+Georgia,Fulton,2010,161,54,4,46
+Georgia,Glynn,2010,93,35,4,46
+Georgia,Gwinnett,2010,119,47,4,46
+Georgia,Hall,2010,99,55,4,46
+Georgia,Henry,2010,159,46,4,46
+Georgia,Houston,2010,98,52,4,46
+Georgia,Lowndes,2010,159,53,4,46
+Georgia,Murray,2010,150,44,4,46
+Georgia,Muscogee,2010,245,47,4,46
+Georgia,Paulding,2010,150,45,4,46
+Georgia,Pike,2010,166,41,4,46
+Georgia,Richmond,2010,136,48,4,46
+Georgia,Rockdale,2010,150,36,4,46
+Georgia,Sumter,2010,108,42,4,46
+Georgia,Walker,2010,95,52,4,46
+Georgia,Washington,2010,90,40,4,46
+Georgia,Wilkinson,2010,178,51,4,46
+Kentucky,Bell,2010,115,47,4,44
+Kentucky,Boone,2010,136,42,4,44
+Kentucky,Boyd,2010,119,46,4,44
+Kentucky,Bullitt,2010,119,49,4,44
+Kentucky,Campbell,2010,133,48,4,44
+Kentucky,Carter,2010,115,44,4,44
+Kentucky,Christian,2010,122,49,4,44
+Kentucky,Daviess,2010,133,52,4,44
+Kentucky,Edmonson,2010,126,42,4,44
+Kentucky,Fayette,2010,115,48,4,44
+Kentucky,Franklin,2010,80,48,4,44
+Kentucky,Greenup,2010,122,36,4,44
+Kentucky,Hancock,2010,122,46,4,44
+Kentucky,Hardin,2010,115,47,4,44
+Kentucky,Henderson,2010,122,47,4,44
+Kentucky,Jefferson,2010,177,51,4,44
+Kentucky,Jessamine,2010,115,39,4,44
+Kentucky,Kenton,2010,115,43,4,44
+Kentucky,Livingston,2010,108,37,4,44
+Kentucky,Madison,2010,83,43,4,44
+Kentucky,Marshall,2010,31,16,4,44
+Kentucky,McCracken,2010,122,46,4,44
+Kentucky,Morgan,2010,133,41,4,44
+Kentucky,Ohio,2010,83,36,4,44
+Kentucky,Oldham,2010,161,48,4,44
+Kentucky,Perry,2010,115,40,4,44
+Kentucky,Pike,2010,105,43,4,44
+Kentucky,Pulaski,2010,100,43,4,44
+Kentucky,Simpson,2010,112,46,4,44
+Kentucky,Trigg,2010,147,44,4,44
+Kentucky,Warren,2010,105,44,4,44
+Kentucky,Washington,2010,126,41,4,44
+Louisiana,Ascension,2010,143,36,4,43
+Louisiana,Bossier,2010,161,44,4,43
+Louisiana,Caddo,2010,143,43,4,43
+Louisiana,Calcasieu,2010,147,47,4,43
+Louisiana,East Baton Rouge,2010,159,51,4,43
+Louisiana,Iberville,2010,140,43,4,43
+Louisiana,Jefferson,2010,169,48,4,43
+Louisiana,Lafayette,2010,129,53,4,43
+Louisiana,Lafourche,2010,129,42,4,43
+Louisiana,Livingston,2010,181,43,4,43
+Louisiana,Orleans,2010,140,41,4,43
+Louisiana,Ouachita,2010,101,41,4,43
+Louisiana,Pointe Coupee,2010,143,41,4,43
+Louisiana,Rapides,2010,76,34,4,43
+Louisiana,St. Bernard,2010,200,61,4,43
+Louisiana,St. Charles,2010,129,35,4,43
+Louisiana,St. James,2010,105,37,4,43
+Louisiana,St. John the Baptist,2010,115,38,4,43
+Louisiana,St. Tammany,2010,159,44,4,43
+Louisiana,Tangipahoa,2010,67,37,4,43
+Louisiana,Terrebonne,2010,67,35,4,43
+Louisiana,West Baton Rouge,2010,115,55,4,43
+Louisiana,Winn,2010,67,31,4,43
+Maryland,Anne Arundel,2010,185,48,4,46
+Maryland,Baltimore,2010,210,44,4,46
+Maryland,Baltimore (City),2010,187,49,4,46
+Maryland,Calvert,2010,182,47,4,46
+Maryland,Carroll,2010,150,46,4,46
+Maryland,Cecil,2010,161,44,4,46
+Maryland,Charles,2010,169,47,4,46
+Maryland,Dorchester,2010,182,40,4,46
+Maryland,Frederick,2010,169,49,4,46
+Maryland,Garrett,2010,150,44,4,46
+Maryland,Harford,2010,205,49,4,46
+Maryland,Kent,2010,169,44,4,46
+Maryland,Montgomery,2010,136,47,4,46
+Maryland,Prince George's,2010,172,50,4,46
+Maryland,Washington,2010,161,49,4,46
+Maryland,Worcester,2010,187,45,4,46
+Mississippi,Adams,2010,119,40,4,44
+Mississippi,Bolivar,2010,147,48,4,44
+Mississippi,DeSoto,2010,147,46,4,44
+Mississippi,Forrest,2010,76,48,4,44
+Mississippi,Grenada,2010,75,39,4,44
+Mississippi,Hancock,2010,108,42,4,44
+Mississippi,Harrison,2010,136,47,4,44
+Mississippi,Hinds,2010,108,46,4,44
+Mississippi,Jackson,2010,140,38,4,44
+Mississippi,Jones,2010,88,52,4,44
+Mississippi,Lauderdale,2010,108,47,4,44
+Mississippi,Lee,2010,105,47,4,44
+Mississippi,Yalobusha,2010,126,36,4,44
+North Carolina,Alamance,2010,91,43,4,43
+North Carolina,Alexander,2010,140,46,4,43
+North Carolina,Avery,2010,122,44,4,43
+North Carolina,Beaufort,2010,79,1,4,43
+North Carolina,Buncombe,2010,119,44,4,43
+North Carolina,Caldwell,2010,122,44,4,43
+North Carolina,Carteret,2010,101,37,4,43
+North Carolina,Caswell,2010,126,44,4,43
+North Carolina,Catawba,2010,88,45,4,43
+North Carolina,Chatham,2010,108,40,4,43
+North Carolina,Cumberland,2010,151,48,4,43
+North Carolina,Davidson,2010,89,45,4,43
+North Carolina,Davie,2010,140,48,4,43
+North Carolina,Duplin,2010,67,35,4,43
+North Carolina,Durham,2010,129,45,4,43
+North Carolina,Edgecombe,2010,136,46,4,43
+North Carolina,Forsyth,2010,169,52,4,43
+North Carolina,Franklin,2010,119,44,4,43
+North Carolina,Gaston,2010,94,44,4,43
+North Carolina,Graham,2010,119,48,4,43
+North Carolina,Granville,2010,136,48,4,43
+North Carolina,Guilford,2010,154,48,4,43
+North Carolina,Haywood,2010,122,49,4,43
+North Carolina,Hyde,2010,73,24,4,43
+North Carolina,Jackson,2010,136,49,4,43
+North Carolina,Johnston,2010,119,46,4,43
+North Carolina,Lenoir,2010,140,44,4,43
+North Carolina,Lincoln,2010,143,46,4,43
+North Carolina,Macon,2010,129,36,4,43
+North Carolina,Martin,2010,133,41,4,43
+North Carolina,McDowell,2010,77,40,4,43
+North Carolina,Mecklenburg,2010,177,54,4,43
+North Carolina,Mitchell,2010,67,40,4,43
+North Carolina,Montgomery,2010,129,41,4,43
+North Carolina,New Hanover,2010,144,44,4,43
+North Carolina,Person,2010,129,48,4,43
+North Carolina,Pitt,2010,136,44,4,43
+North Carolina,Robeson,2010,83,41,4,43
+North Carolina,Rockingham,2010,156,49,4,43
+North Carolina,Rowan,2010,169,51,4,43
+North Carolina,Swain,2010,97,43,4,43
+North Carolina,Union,2010,115,45,4,43
+North Carolina,Wake,2010,143,50,4,43
+North Carolina,Watauga,2010,71,35,4,43
+North Carolina,Wayne,2010,92,43,4,43
+North Carolina,Yancey,2010,129,48,4,43
+South Carolina,Abbeville,2010,100,41,4,41
+South Carolina,Aiken,2010,97,39,4,41
+South Carolina,Anderson,2010,126,41,4,41
+South Carolina,Berkeley,2010,108,35,4,41
+South Carolina,Charleston,2010,112,44,4,41
+South Carolina,Cherokee,2010,126,40,4,41
+South Carolina,Chesterfield,2010,126,42,4,41
+South Carolina,Colleton,2010,108,36,4,41
+South Carolina,Darlington,2010,112,41,4,41
+South Carolina,Edgefield,2010,97,39,4,41
+South Carolina,Florence,2010,89,43,4,41
+South Carolina,Georgetown,2010,85,22,4,41
+South Carolina,Greenville,2010,122,51,4,41
+South Carolina,Horry,2010,101,41,4,41
+South Carolina,Lexington,2010,139,48,4,41
+South Carolina,Oconee,2010,119,40,4,41
+South Carolina,Pickens,2010,129,41,4,41
+South Carolina,Richland,2010,136,47,4,41
+South Carolina,Spartanburg,2010,140,51,4,41
+South Carolina,York,2010,97,35,4,41
+Tennessee,Anderson,2010,126,44,4,39
+Tennessee,Blount,2010,147,47,4,39
+Tennessee,Bradley,2010,151,24,4,39
+Tennessee,Claiborne,2010,112,37,4,39
+Tennessee,Davidson,2010,133,50,4,39
+Tennessee,DeKalb,2010,119,38,4,39
+Tennessee,Hamilton,2010,157,49,4,39
+Tennessee,Humphreys,2010,85,6,4,39
+Tennessee,Jefferson,2010,140,46,4,39
+Tennessee,Knox,2010,133,44,4,39
+Tennessee,Lawrence,2010,72,46,4,39
+Tennessee,Loudon,2010,133,45,4,39
+Tennessee,Madison,2010,29,15,4,39
+Tennessee,McMinn,2010,133,18,4,39
+Tennessee,Meigs,2010,136,46,4,39
+Tennessee,Montgomery,2010,103,11,4,39
+Tennessee,Roane,2010,96,51,4,39
+Tennessee,Rutherford,2010,122,45,4,39
+Tennessee,Sevier,2010,147,50,4,39
+Tennessee,Shelby,2010,136,53,4,39
+Tennessee,Sullivan,2010,200,54,4,39
+Tennessee,Sumner,2010,156,49,4,39
+Tennessee,Union,2010,75,23,4,39
+Tennessee,Williamson,2010,126,45,4,39
+Tennessee,Wilson,2010,126,46,4,39
+Virginia,Albemarle,2010,129,45,4,36
+Virginia,Alexandria City,2010,166,42,4,36
+Virginia,Arlington,2010,166,42,4,36
+Virginia,Bristol City,2010,71,45,4,36
+Virginia,Caroline,2010,143,46,4,36
+Virginia,Carroll,2010,31,13,4,36
+Virginia,Charles,2010,147,41,4,36
+Virginia,Chesterfield,2010,182,45,4,36
+Virginia,Culpeper,2010,43,14,4,36
+Virginia,Fairfax,2010,174,45,4,36
+Virginia,Fauquier,2010,105,43,4,36
+Virginia,Frederick,2010,159,44,4,36
+Virginia,Fredericksburg City,2010,42,15,4,36
+Virginia,Giles,2010,119,43,4,36
+Virginia,Hampton City,2010,179,44,4,36
+Virginia,Hanover,2010,154,49,4,36
+Virginia,Henrico,2010,147,45,4,36
+Virginia,Hopewell City,2010,39,14,4,36
+Virginia,King William,2010,42,13,4,36
+Virginia,Loudoun,2010,166,41,4,36
+Virginia,Lynchburg City,2010,84,36,4,36
+Virginia,Madison,2010,140,43,4,36
+Virginia,Newport News City,2010,105,24,4,36
+Virginia,Norfolk City,2010,97,39,4,36
+Virginia,Page,2010,115,46,4,36
+Virginia,Prince Edward,2010,133,39,4,36
+Virginia,Prince William,2010,169,31,4,36
+Virginia,Richmond City,2010,92,23,4,36
+Virginia,Roanoke,2010,119,37,4,36
+Virginia,Roanoke City,2010,94,40,4,36
+Virginia,Rockbridge,2010,115,44,4,36
+Virginia,Rockingham,2010,129,41,4,36
+Virginia,Salem City,2010,77,41,4,36
+Virginia,Stafford,2010,156,46,4,36
+Virginia,Suffolk City,2010,161,47,4,36
+Virginia,Virginia Beach City,2010,108,36,4,36
+Virginia,Warren,2010,39,15,4,36
+Virginia,Winchester City,2010,40,14,4,36
+Virginia,Wythe,2010,105,44,4,36
+West Virginia,Berkeley,2010,159,48,4,42
+West Virginia,Brooke,2010,200,43,4,42
+West Virginia,Cabell,2010,119,40,4,42
+West Virginia,Gilmer,2010,84,32,4,42
+West Virginia,Greenbrier,2010,108,44,4,42
+West Virginia,Hancock,2010,146,47,4,42
+West Virginia,Harrison,2010,117,49,4,42
+West Virginia,Kanawha,2010,154,43,4,42
+West Virginia,Marion,2010,99,52,4,42
+West Virginia,Marshall,2010,129,53,4,42
+West Virginia,Monongalia,2010,143,40,4,42
+West Virginia,Ohio,2010,140,49,4,42
+West Virginia,Raleigh,2010,87,41,4,42
+West Virginia,Tucker,2010,136,38,4,42
+West Virginia,Wayne,2010,128,13,4,42
+West Virginia,Wood,2010,131,46,4,42
+Connecticut,Fairfield,2010,179,43,5,40
+Connecticut,Hartford,2010,159,35,5,40
+Connecticut,Litchfield,2010,154,38,5,40
+Connecticut,Middlesex,2010,151,44,5,40
+Connecticut,New Haven,2010,140,42,5,40
+Connecticut,New London,2010,126,37,5,40
+Connecticut,Tolland,2010,190,43,5,40
+Connecticut,Windham,2010,122,36,5,40
+Maine,Androscoggin,2010,158,34,5,34
+Maine,Aroostook,2010,101,33,5,34
+Maine,Cumberland,2010,177,37,5,34
+Maine,Hancock,2010,159,37,5,34
+Maine,Kennebec,2010,129,36,5,34
+Maine,Knox,2010,166,40,5,34
+Maine,Oxford,2010,54,34,5,34
+Maine,Penobscot,2010,90,34,5,34
+Maine,Piscataquis,2010,71,15,5,34
+Maine,Sagadahoc,2010,101,38,5,34
+Maine,Washington,2010,126,35,5,34
+Maine,York,2010,174,36,5,34
+Massachusetts,Barnstable,2010,151,39,5,39
+Massachusetts,Berkshire,2010,133,37,5,39
+Massachusetts,Bristol,2010,136,42,5,39
+Massachusetts,Dukes,2010,187,40,5,39
+Massachusetts,Essex,2010,156,40,5,39
+Massachusetts,Hampden,2010,164,42,5,39
+Massachusetts,Hampshire,2010,159,38,5,39
+Massachusetts,Middlesex,2010,129,35,5,39
+Massachusetts,Norfolk,2010,143,36,5,39
+Massachusetts,Plymouth,2010,85,30,5,39
+Massachusetts,Suffolk,2010,155,46,5,39
+Massachusetts,Worcester,2010,143,43,5,39
+New Hampshire,Belknap,2010,119,38,5,40
+New Hampshire,Cheshire,2010,106,37,5,40
+New Hampshire,Coos,2010,129,44,5,40
+New Hampshire,Grafton,2010,94,36,5,40
+New Hampshire,Hillsborough,2010,140,39,5,40
+New Hampshire,Merrimack,2010,200,51,5,40
+New Hampshire,Rockingham,2010,154,37,5,40
+New Jersey,Atlantic,2010,150,41,5,41
+New Jersey,Bergen,2010,150,38,5,41
+New Jersey,Camden,2010,172,45,5,41
+New Jersey,Cumberland,2010,143,41,5,41
+New Jersey,Essex,2010,164,41,5,41
+New Jersey,Gloucester,2010,179,40,5,41
+New Jersey,Hudson,2010,206,45,5,41
+New Jersey,Hunterdon,2010,169,43,5,41
+New Jersey,Mercer,2010,174,44,5,41
+New Jersey,Middlesex,2010,172,41,5,41
+New Jersey,Monmouth,2010,174,34,5,41
+New Jersey,Morris,2010,172,38,5,41
+New Jersey,Ocean,2010,172,43,5,41
+New Jersey,Passaic,2010,172,40,5,41
+New Jersey,Union,2010,108,49,5,41
+New Jersey,Warren,2010,149,29,5,41
+New York,Albany,2010,147,40,5,37
+New York,Bronx,2010,136,47,5,37
+New York,Chautauqua,2010,159,40,5,37
+New York,Chemung,2010,122,35,5,37
+New York,Dutchess,2010,166,34,5,37
+New York,Erie,2010,122,45,5,37
+New York,Essex,2010,159,41,5,37
+New York,Franklin,2010,67,11,5,37
+New York,Hamilton,2010,105,36,5,37
+New York,Herkimer,2010,105,36,5,37
+New York,Jefferson,2010,143,35,5,37
+New York,Kings,2010,106,37,5,37
+New York,Madison,2010,140,36,5,37
+New York,Monroe,2010,108,38,5,37
+New York,Nassau,2010,96,34,5,37
+New York,New York,2010,119,51,5,37
+New York,Niagara,2010,115,40,5,37
+New York,Oneida,2010,97,33,5,37
+New York,Onondaga,2010,140,33,5,37
+New York,Orange,2010,154,40,5,37
+New York,Oswego,2010,115,34,5,37
+New York,Putnam,2010,166,36,5,37
+New York,Queens,2010,169,44,5,37
+New York,Rensselaer,2010,122,36,5,37
+New York,Richmond,2010,208,42,5,37
+New York,Rockland,2010,156,39,5,37
+New York,Saratoga,2010,105,35,5,37
+New York,Schenectady,2010,122,31,5,37
+New York,Steuben,2010,100,35,5,37
+New York,Suffolk,2010,166,42,5,37
+New York,Tompkins,2010,122,37,5,37
+New York,Ulster,2010,115,37,5,37
+New York,Wayne,2010,112,35,5,37
+New York,Westchester,2010,150,37,5,37
+Pennsylvania,Adams,2010,166,49,5,44
+Pennsylvania,Allegheny,2010,200,66,5,44
+Pennsylvania,Armstrong,2010,156,51,5,44
+Pennsylvania,Beaver,2010,174,52,5,44
+Pennsylvania,Berks,2010,154,45,5,44
+Pennsylvania,Blair,2010,147,37,5,44
+Pennsylvania,Bucks,2010,190,47,5,44
+Pennsylvania,Cambria,2010,150,52,5,44
+Pennsylvania,Centre,2010,133,45,5,44
+Pennsylvania,Chester,2010,151,52,5,44
+Pennsylvania,Clearfield,2010,136,45,5,44
+Pennsylvania,Cumberland,2010,137,54,5,44
+Pennsylvania,Dauphin,2010,154,47,5,44
+Pennsylvania,Delaware,2010,151,51,5,44
+Pennsylvania,Elk,2010,115,37,5,44
+Pennsylvania,Erie,2010,143,42,5,44
+Pennsylvania,Franklin,2010,122,45,5,44
+Pennsylvania,Greene,2010,150,45,5,44
+Pennsylvania,Indiana,2010,159,38,5,44
+Pennsylvania,Lackawanna,2010,140,41,5,44
+Pennsylvania,Lancaster,2010,174,48,5,44
+Pennsylvania,Lawrence,2010,156,34,5,44
+Pennsylvania,Lehigh,2010,172,31,5,44
+Pennsylvania,Luzerne,2010,133,29,5,44
+Pennsylvania,Lycoming,2010,119,40,5,44
+Pennsylvania,Mercer,2010,140,47,5,44
+Pennsylvania,Monroe,2010,136,43,5,44
+Pennsylvania,Montgomery,2010,159,44,5,44
+Pennsylvania,Northampton,2010,172,52,5,44
+Pennsylvania,Perry,2010,133,29,5,44
+Pennsylvania,Philadelphia,2010,172,52,5,44
+Pennsylvania,Somerset,2010,126,37,5,44
+Pennsylvania,Tioga,2010,140,44,5,44
+Pennsylvania,Warren,2010,127,7,5,44
+Pennsylvania,Washington,2010,154,54,5,44
+Pennsylvania,Westmoreland,2010,174,52,5,44
+Pennsylvania,York,2010,156,50,5,44
+Rhode Island,Kent,2010,136,35,5,39
+Rhode Island,Providence,2010,151,40,5,39
+Rhode Island,Washington,2010,143,43,5,39
+Vermont,Bennington,2010,101,36,5,34
+Vermont,Chittenden,2010,159,37,5,34
+Vermont,Rutland,2010,109,30,5,34
+Puerto Rico,Bayamon,2010,77,9,6,15
+Puerto Rico,Catano,2010,107,24,6,15
+Puerto Rico,Fajardo,2010,85,19,6,15
+Puerto Rico,Guayama,2010,170,1,6,15
+Puerto Rico,Guayanilla,2010,81,13,6,15
+Puerto Rico,Guaynabo,2010,100,25,6,15
+Puerto Rico,Juncos,2010,40,15,6,15
+Puerto Rico,Ponce,2010,91,24,6,15
+Puerto Rico,Salinas,2010,50,6,6,15
+Puerto Rico,San Juan,2010,28,17,6,15
+Virgin Islands,St Croix,2010,156,10,6,15
+Virgin Islands,St John,2010,108,20,6,15

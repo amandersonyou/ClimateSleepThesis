@@ -1,4 +1,5 @@
 // p5 sketch showing increased health risks for insufficient sleep
+// data source: https://www.cdc.gov/sleep/data_statistics.html
 var data
 
 function preload() {

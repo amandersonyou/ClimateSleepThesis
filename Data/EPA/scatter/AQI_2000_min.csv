@@ -1,0 +1,1131 @@
+State,County,Year,Max AQI,Median AQI,Region,Median_By_State
+Alaska,Anchorage ,2000,95,28,1,23
+Alaska,Denali ,2000,106,28,1,23
+Alaska,Fairbanks North Star ,2000,169,32,1,23
+Alaska,Juneau ,2000,107,18,1,23
+Alaska,Ketchikan Gateway ,2000,93,13,1,23
+Alaska,Matanuska-Susitna ,2000,115,17,1,23
+California,Alameda,2000,209,39,1,48
+California,Amador,2000,192,44,1,48
+California,Butte,2000,174,44,1,48
+California,Calaveras,2000,200,38,1,48
+California,Colusa,2000,105,36,1,48
+California,Contra Costa,2000,172,43,1,48
+California,Del Norte,2000,53,14,1,48
+California,El Dorado,2000,208,50,1,48
+California,Fresno,2000,227,112,1,48
+California,Glenn,2000,126,40,1,48
+California,Humboldt,2000,76,28,1,48
+California,Imperial,2000,208,59,1,48
+California,Inyo,2000,10736,50,1,48
+California,Kern,2000,213,111,1,48
+California,Kings,2000,205,70,1,48
+California,Lake,2000,108,34,1,48
+California,Lassen,2000,63,28,1,48
+California,Los Angeles,2000,243,99,1,48
+California,Madera,2000,177,45,1,48
+California,Marin,2000,61,28,1,48
+California,Mariposa,2000,187,48,1,48
+California,Mendocino,2000,72,30,1,48
+California,Merced,2000,207,58,1,48
+California,Modoc,2000,107,25,1,48
+California,Mono,2000,10362,11,1,48
+California,Monterey,2000,129,36,1,48
+California,Napa,2000,77,31,1,48
+California,Nevada,2000,208,57,1,48
+California,Orange,2000,205,62,1,48
+California,Placer,2000,202,46,1,48
+California,Plumas,2000,127,41,1,48
+California,Riverside,2000,222,104,1,48
+California,Sacramento,2000,203,55,1,48
+California,San Benito,2000,147,40,1,48
+California,San Bernardino,2000,246,95,1,48
+California,San Diego,2000,201,74,1,48
+California,San Francisco,2000,132,36,1,48
+California,San Joaquin,2000,172,44,1,48
+California,San Luis Obispo,2000,143,51,1,48
+California,San Mateo,2000,129,33,1,48
+California,Santa Barbara,2000,154,48,1,48
+California,Santa Clara,2000,190,44,1,48
+California,Santa Cruz,2000,126,36,1,48
+California,Shasta,2000,154,44,1,48
+California,Sierra,2000,36,17,1,48
+California,Siskiyou,2000,101,36,1,48
+California,Solano,2000,153,37,1,48
+California,Sonoma,2000,122,37,1,48
+California,Stanislaus,2000,202,49,1,48
+California,Sutter,2000,166,43,1,48
+California,Tehama,2000,156,40,1,48
+California,Trinity,2000,46,13,1,48
+California,Tulare,2000,203,85,1,48
+California,Tuolumne,2000,197,49,1,48
+California,Ventura,2000,203,59,1,48
+California,Yolo,2000,159,40,1,48
+Colorado,Adams,2000,114,49,1,30
+Colorado,Alamosa,2000,142,19,1,30
+Colorado,Arapahoe,2000,151,43,1,30
+Colorado,Archuleta,2000,106,23,1,30
+Colorado,Boulder,2000,126,42,1,30
+Colorado,Delta,2000,73,25,1,30
+Colorado,Denver,2000,126,50,1,30
+Colorado,Douglas,2000,143,48,1,30
+Colorado,Eagle,2000,32,11,1,30
+Colorado,El Paso,2000,140,51,1,30
+Colorado,Elbert,2000,51,15,1,30
+Colorado,Fremont,2000,90,15,1,30
+Colorado,Garfield,2000,50,18,1,30
+Colorado,Gunnison,2000,122,49,1,30
+Colorado,Jackson,2000,48,10,1,30
+Colorado,Jefferson,2000,159,44,1,30
+Colorado,La Plata,2000,90,42,1,30
+Colorado,Larimer,2000,159,47,1,30
+Colorado,Mesa,2000,83,24,1,30
+Colorado,Montezuma,2000,140,45,1,30
+Colorado,Montrose,2000,75,25,1,30
+Colorado,Pitkin,2000,62,18,1,30
+Colorado,Prowers,2000,112,23,1,30
+Colorado,Pueblo,2000,79,30,1,30
+Colorado,Routt,2000,72,20,1,30
+Colorado,San Juan,2000,40,10,1,30
+Colorado,San Miguel,2000,62,19,1,30
+Colorado,Summit,2000,114,17,1,30
+Colorado,Teller,2000,81,21,1,30
+Colorado,Weld,2000,119,38,1,30
+Hawaii,Hawaii,2000,200,23,1,21
+Hawaii,Honolulu,2000,190,24,1,21
+Hawaii,Kauai,2000,36,15,1,21
+Hawaii,Maui,2000,64,21,1,21
+Idaho,Ada,2000,108,32,1,27
+Idaho,Bannock,2000,160,47,1,27
+Idaho,Benewah,2000,59,23,1,27
+Idaho,Bingham,2000,91,34,1,27
+Idaho,Bonner,2000,124,21,1,27
+Idaho,Bonneville,2000,88,27,1,27
+Idaho,Boundary,2000,44,18,1,27
+Idaho,Butte,2000,115,42,1,27
+Idaho,Canyon,2000,117,32,1,27
+Idaho,Caribou,2000,155,10,1,27
+Idaho,Custer,2000,79,8,1,27
+Idaho,Kootenai,2000,99,21,1,27
+Idaho,Lemhi,2000,170,25,1,27
+Idaho,Lewis,2000,52,30,1,27
+Idaho,Minidoka,2000,53,20,1,27
+Idaho,Nez Perce,2000,94,17,1,27
+Idaho,Power,2000,217,66,1,27
+Idaho,Shoshone,2000,89,17,1,27
+Idaho,Twin Falls,2000,78,26,1,27
+Montana,Cascade,2000,119,19,1,24
+Montana,Fergus,2000,86,12,1,24
+Montana,Flathead,2000,132,37,1,24
+Montana,Gallatin,2000,167,11,1,24
+Montana,Glacier,2000,88,16,1,24
+Montana,Jefferson,2000,200,27,1,24
+Montana,Lake,2000,159,23,1,24
+Montana,Lewis and Clark,2000,199,52,1,24
+Montana,Lincoln,2000,128,25,1,24
+Montana,Missoula,2000,229,24,1,24
+Montana,Powell,2000,64,13,1,24
+Montana,Ravalli,2000,250,17,1,24
+Montana,Roosevelt,2000,54,13,1,24
+Montana,Rosebud,2000,92,24,1,24
+Montana,Sanders,2000,93,20,1,24
+Montana,Sheridan,2000,61,14,1,24
+Montana,Silver Bow,2000,191,22,1,24
+Montana,Yellowstone,2000,153,57,1,24
+Nevada,Carson City,2000,97,44,1,40
+Nevada,Clark,2000,404,67,1,40
+Nevada,Douglas,2000,140,45,1,40
+Nevada,Elko,2000,66,17,1,40
+Nevada,Lander,2000,154,16,1,40
+Nevada,Washoe,2000,107,47,1,40
+Nevada,White Pine,2000,129,45,1,40
+Oregon,Benton,2000,107,23,1,29
+Oregon,Clackamas,2000,101,28,1,29
+Oregon,Columbia,2000,87,28,1,29
+Oregon,Deschutes,2000,111,26,1,29
+Oregon,Harney,2000,106,27,1,29
+Oregon,Jackson,2000,151,46,1,29
+Oregon,Josephine,2000,99,27,1,29
+Oregon,Klamath,2000,155,25,1,29
+Oregon,Lake,2000,138,20,1,29
+Oregon,Lane,2000,161,44,1,29
+Oregon,Linn,2000,122,26,1,29
+Oregon,Marion,2000,95,31,1,29
+Oregon,Multnomah,2000,176,38,1,29
+Oregon,Umatilla,2000,117,27,1,29
+Oregon,Union,2000,111,21,1,29
+Oregon,Wallowa,2000,44,13,1,29
+Oregon,Wasco,2000,103,33,1,29
+Oregon,Washington,2000,117,30,1,29
+Utah,Box Elder,2000,101,25,1,29
+Utah,Cache,2000,155,35,1,29
+Utah,Davis,2000,214,44,1,29
+Utah,Garfield,2000,53,9,1,29
+Utah,Grand,2000,52,17,1,29
+Utah,Salt Lake,2000,206,58,1,29
+Utah,San Juan,2000,129,45,1,29
+Utah,Tooele,2000,97,20,1,29
+Utah,Uintah,2000,23,5,1,29
+Utah,Utah,2000,200,53,1,29
+Utah,Washington,2000,42,13,1,29
+Utah,Wayne,2000,54,10,1,29
+Utah,Weber,2000,190,42,1,29
+Washington,Adams,2000,72,46,1,30
+Washington,Asotin,2000,74,22,1,30
+Washington,Benton,2000,138,19,1,30
+Washington,Chelan,2000,47,19,1,30
+Washington,Clallam,2000,96,25,1,30
+Washington,Clark,2000,134,32,1,30
+Washington,Cowlitz,2000,56,17,1,30
+Washington,Jefferson,2000,106,30,1,30
+Washington,King,2000,151,53,1,30
+Washington,Kitsap,2000,68,35,1,30
+Washington,Kittitas,2000,81,17,1,30
+Washington,Klickitat,2000,97,33,1,30
+Washington,Lewis,2000,98,29,1,30
+Washington,Pierce,2000,159,49,1,30
+Washington,Skagit,2000,72,27,1,30
+Washington,Snohomish,2000,129,40,1,30
+Washington,Spokane,2000,128,48,1,30
+Washington,Stevens,2000,155,23,1,30
+Washington,Thurston,2000,128,34,1,30
+Washington,Walla Walla,2000,131,20,1,30
+Washington,Whatcom,2000,79,30,1,30
+Washington,Whitman,2000,77,25,1,30
+Washington,Yakima,2000,124,14,1,30
+Wyoming,Albany,2000,172,50,1,26
+Wyoming,Campbell,2000,165,30,1,26
+Wyoming,Carbon,2000,88,17,1,26
+Wyoming,Converse,2000,62,20,1,26
+Wyoming,Fremont,2000,109,26,1,26
+Wyoming,Laramie,2000,57,21,1,26
+Wyoming,Lincoln,2000,108,15,1,26
+Wyoming,Natrona,2000,42,13,1,26
+Wyoming,Park,2000,85,13,1,26
+Wyoming,Platte,2000,81,14,1,26
+Wyoming,Sheridan,2000,124,30,1,26
+Wyoming,Sublette,2000,129,47,1,26
+Wyoming,Sweetwater,2000,172,24,1,26
+Wyoming,Teton,2000,100,44,1,26
+Arizona,Apache,2000,45,15,2,43
+Arizona,Cochise,2000,132,46,2,43
+Arizona,Coconino,2000,126,47,2,43
+Arizona,Gila,2000,166,62,2,43
+Arizona,Graham,2000,70,24,2,43
+Arizona,Maricopa,2000,174,97,2,43
+Arizona,Mohave,2000,65,31,2,43
+Arizona,Navajo,2000,37,12,2,43
+Arizona,Pima,2000,136,51,2,43
+Arizona,Pinal,2000,123,32,2,43
+Arizona,Santa Cruz,2000,106,50,2,43
+Arizona,Yavapai,2000,151,48,2,43
+Arizona,Yuma,2000,93,38,2,43
+New Mexico,Bernalillo,2000,147,55,2,28
+New Mexico,Catron,2000,77,15,2,28
+New Mexico,Chaves,2000,76,26,2,28
+New Mexico,Dona Ana,2000,187,66,2,28
+New Mexico,Eddy,2000,115,43,2,28
+New Mexico,Grant,2000,145,23,2,28
+New Mexico,Hidalgo,2000,44,0,2,28
+New Mexico,Lea,2000,59,26,2,28
+New Mexico,Los Alamos,2000,66,12,2,28
+New Mexico,Luna,2000,36,15,2,28
+New Mexico,Otero,2000,56,16,2,28
+New Mexico,Rio Arriba,2000,39,8,2,28
+New Mexico,San Juan,2000,165,57,2,28
+New Mexico,Sandoval,2000,133,49,2,28
+New Mexico,Santa Fe,2000,54,13,2,28
+New Mexico,Socorro,2000,45,17,2,28
+New Mexico,Taos,2000,54,23,2,28
+New Mexico,Valencia,2000,112,45,2,28
+Oklahoma,Caddo,2000,71,38,2,39
+Oklahoma,Canadian,2000,85,38,2,39
+Oklahoma,Carter,2000,81,38,2,39
+Oklahoma,Cherokee,2000,185,41,2,39
+Oklahoma,Cleveland,2000,154,39,2,39
+Oklahoma,Comanche,2000,169,44,2,39
+Oklahoma,Custer,2000,99,36,2,39
+Oklahoma,Garfield,2000,115,19,2,39
+Oklahoma,Jefferson,2000,166,46,2,39
+Oklahoma,Kay,2000,161,48,2,39
+Oklahoma,Latimer,2000,101,27,2,39
+Oklahoma,Lincoln,2000,72,40,2,39
+Oklahoma,Love,2000,205,47,2,39
+Oklahoma,Marshall,2000,192,46,2,39
+Oklahoma,Mayes,2000,93,21,2,39
+Oklahoma,McClain,2000,161,44,2,39
+Oklahoma,Muskogee,2000,109,24,2,39
+Oklahoma,Oklahoma,2000,154,51,2,39
+Oklahoma,Osage,2000,106,13,2,39
+Oklahoma,Ottawa,2000,110,48,2,39
+Oklahoma,Pawnee,2000,74,40,2,39
+Oklahoma,Payne,2000,71,44,2,39
+Oklahoma,Pittsburg,2000,92,38,2,39
+Oklahoma,Pottawatomie,2000,77,45,2,39
+Oklahoma,Seminole,2000,74,44,2,39
+Oklahoma,Tulsa,2000,219,58,2,39
+Texas,Bexar,2000,169,46,2,41
+Texas,Bowie,2000,93,55,2,41
+Texas,Brazoria,2000,216,30,2,41
+Texas,Brewster,2000,93,39,2,41
+Texas,Caldwell,2000,68,38,2,41
+Texas,Cameron,2000,101,31,2,41
+Texas,Collin,2000,201,44,2,41
+Texas,Culberson,2000,58,20,2,41
+Texas,Dallas,2000,204,58,2,41
+Texas,Denton,2000,206,35,2,41
+Texas,Ector,2000,63,31,2,41
+Texas,El Paso,2000,179,61,2,41
+Texas,Ellis,2000,203,64,2,41
+Texas,Galveston,2000,225,43,2,41
+Texas,Gregg,2000,195,45,2,41
+Texas,Harris,2000,241,64,2,41
+Texas,Hidalgo,2000,136,34,2,41
+Texas,Hood,2000,174,35,2,41
+Texas,Jefferson,2000,210,67,2,41
+Texas,Johnson,2000,172,35,2,41
+Texas,Kaufman,2000,133,27,2,41
+Texas,Lubbock,2000,101,28,2,41
+Texas,Marion,2000,205,44,2,41
+Texas,McLennan,2000,83,40,2,41
+Texas,Montgomery,2000,201,43,2,41
+Texas,Nueces,2000,161,38,2,41
+Texas,Orange,2000,172,38,2,41
+Texas,Parker,2000,179,36,2,41
+Texas,Potter,2000,64,26,2,41
+Texas,Rockwall,2000,185,33,2,41
+Texas,Smith,2000,161,42,2,41
+Texas,Tarrant,2000,200,56,2,41
+Texas,Travis,2000,187,52,2,41
+Texas,Victoria,2000,154,30,2,41
+Texas,Webb,2000,129,37,2,41
+Illinois,Adams,2000,129,36,3,40
+Illinois,Champaign,2000,161,41,3,40
+Illinois,Cook,2000,155,77,3,40
+Illinois,DuPage,2000,112,34,3,40
+Illinois,Effingham,2000,147,42,3,40
+Illinois,Hamilton,2000,156,43,3,40
+Illinois,Jackson,2000,51,19,3,40
+Illinois,Jersey,2000,154,43,3,40
+Illinois,Jo Daviess,2000,143,35,3,40
+Illinois,Kane,2000,115,35,3,40
+Illinois,La Salle,2000,109,25,3,40
+Illinois,Lake,2000,136,35,3,40
+Illinois,Macon,2000,147,43,3,40
+Illinois,Macoupin,2000,164,38,3,40
+Illinois,Madison,2000,202,73,3,40
+Illinois,McHenry,2000,136,34,3,40
+Illinois,McLean,2000,112,52,3,40
+Illinois,Peoria,2000,122,47,3,40
+Illinois,Randolph,2000,151,42,3,40
+Illinois,Rock Island,2000,100,33,3,40
+Illinois,Saint Clair,2000,161,58,3,40
+Illinois,Sangamon,2000,164,44,3,40
+Illinois,Tazewell,2000,200,13,3,40
+Illinois,Wabash,2000,199,14,3,40
+Illinois,Will,2000,151,44,3,40
+Illinois,Winnebago,2000,126,37,3,40
+Indiana,Allen,2000,182,42,3,43
+Indiana,Bartholomew,2000,58,19,3,43
+Indiana,Boone,2000,166,47,3,43
+Indiana,Clark,2000,156,54,3,43
+Indiana,Daviess,2000,136,21,3,43
+Indiana,DeKalb,2000,55,22,3,43
+Indiana,Dearborn,2000,200,26,3,43
+Indiana,Delaware,2000,134,58,3,43
+Indiana,Dubois,2000,133,59,3,43
+Indiana,Elkhart,2000,126,43,3,43
+Indiana,Floyd,2000,186,51,3,43
+Indiana,Fountain,2000,130,14,3,43
+Indiana,Gibson,2000,200,36,3,43
+Indiana,Greene,2000,174,48,3,43
+Indiana,Hamilton,2000,187,48,3,43
+Indiana,Hancock,2000,182,45,3,43
+Indiana,Hendricks,2000,204,67,3,43
+Indiana,Henry,2000,67,49,3,43
+Indiana,Howard,2000,101,58,3,43
+Indiana,Huntington,2000,169,48,3,43
+Indiana,Jackson,2000,164,47,3,43
+Indiana,Jasper,2000,114,14,3,43
+Indiana,Jefferson,2000,120,19,3,43
+Indiana,Johnson,2000,164,48,3,43
+Indiana,Knox,2000,154,41,3,43
+Indiana,LaPorte,2000,195,38,3,43
+Indiana,Lake,2000,164,68,3,43
+Indiana,Madison,2000,164,50,3,43
+Indiana,Marion,2000,182,66,3,43
+Indiana,Morgan,2000,169,49,3,43
+Indiana,Perry,2000,172,48,3,43
+Indiana,Pike,2000,156,19,3,43
+Indiana,Porter,2000,190,51,3,43
+Indiana,Posey,2000,169,54,3,43
+Indiana,Putnam,2000,55,20,3,43
+Indiana,Shelby,2000,179,49,3,43
+Indiana,Spencer,2000,120,27,3,43
+Indiana,St. Joseph,2000,166,42,3,43
+Indiana,Sullivan,2000,113,17,3,43
+Indiana,Tippecanoe,2000,111,56,3,43
+Indiana,Vanderburgh,2000,150,50,3,43
+Indiana,Vigo,2000,187,50,3,43
+Indiana,Wabash,2000,174,38,3,43
+Indiana,Warrick,2000,200,66,3,43
+Indiana,Wayne,2000,132,33,3,43
+Iowa,Black Hawk,2000,102,37,3,36
+Iowa,Bremer,2000,143,38,3,36
+Iowa,Cerro Gordo,2000,186,31,3,36
+Iowa,Clinton,2000,150,42,3,36
+Iowa,Delaware,2000,46,15,3,36
+Iowa,Emmet,2000,96,25,3,36
+Iowa,Harrison,2000,122,42,3,36
+Iowa,Johnson,2000,96,38,3,36
+Iowa,Lee,2000,90,0,3,36
+Iowa,Linn,2000,161,49,3,36
+Iowa,Muscatine,2000,200,52,3,36
+Iowa,Palo Alto,2000,133,42,3,36
+Iowa,Polk,2000,107,43,3,36
+Iowa,Pottawattamie,2000,94,36,3,36
+Iowa,Scott,2000,151,55,3,36
+Iowa,Story,2000,115,36,3,36
+Iowa,Van Buren,2000,122,38,3,36
+Iowa,Warren,2000,151,41,3,36
+Iowa,Woodbury,2000,95,33,3,36
+Kansas,Ford,2000,44,17,3,37
+Kansas,Johnson,2000,110,45,3,37
+Kansas,Linn,2000,177,44,3,37
+Kansas,Montgomery,2000,151,27,3,37
+Kansas,Neosho,2000,64,20,3,37
+Kansas,Sedgwick,2000,179,45,3,37
+Kansas,Shawnee,2000,97,46,3,37
+Kansas,Sherman,2000,63,21,3,37
+Kansas,Sumner,2000,156,44,3,37
+Kansas,Trego,2000,161,48,3,37
+Kansas,Wyandotte,2000,156,46,3,37
+Michigan,Allegan,2000,204,46,3,36
+Michigan,Alpena,2000,79,27,3,36
+Michigan,Bay,2000,84,35,3,36
+Michigan,Benzie,2000,203,40,3,36
+Michigan,Berrien,2000,182,46,3,36
+Michigan,Calhoun,2000,51,23,3,36
+Michigan,Cass,2000,166,44,3,36
+Michigan,Clinton,2000,147,39,3,36
+Michigan,Delta,2000,69,0,3,36
+Michigan,Genesee,2000,166,33,3,36
+Michigan,Grand Traverse,2000,92,29,3,36
+Michigan,Huron,2000,143,38,3,36
+Michigan,Ingham,2000,151,44,3,36
+Michigan,Kalamazoo,2000,143,44,3,36
+Michigan,Kent,2000,192,52,3,36
+Michigan,Keweenaw,2000,59,14,3,36
+Michigan,Lenawee,2000,154,44,3,36
+Michigan,Macomb,2000,161,34,3,36
+Michigan,Manistee,2000,205,37,3,36
+Michigan,Mason,2000,212,40,3,36
+Michigan,Missaukee,2000,182,21,3,36
+Michigan,Monroe,2000,112,55,3,36
+Michigan,Muskegon,2000,206,42,3,36
+Michigan,Oakland,2000,140,30,3,36
+Michigan,Ottawa,2000,190,43,3,36
+Michigan,Saginaw,2000,93,34,3,36
+Michigan,Schoolcraft,2000,64,13,3,36
+Michigan,St. Clair,2000,185,43,3,36
+Michigan,Tuscola,2000,161,33,3,36
+Michigan,Washtenaw,2000,161,42,3,36
+Michigan,Wayne,2000,156,73,3,36
+Michigan,Wexford,2000,36,29,3,36
+Minnesota,Anoka,2000,129,28,3,27
+Minnesota,Carlton,2000,95,4,3,27
+Minnesota,Crow Wing,2000,103,10,3,27
+Minnesota,Dakota,2000,126,37,3,27
+Minnesota,Douglas,2000,69,21,3,27
+Minnesota,Freeborn,2000,106,35,3,27
+Minnesota,Hennepin,2000,157,45,3,27
+Minnesota,Itasca,2000,125,17,3,27
+Minnesota,Kandiyohi,2000,94,31,3,27
+Minnesota,Koochiching,2000,3,1,3,27
+Minnesota,Lake,2000,112,30,3,27
+Minnesota,McLeod,2000,91,24,3,27
+Minnesota,Mille Lacs,2000,140,36,3,27
+Minnesota,Nicollet,2000,104,33,3,27
+Minnesota,Olmsted,2000,104,39,3,27
+Minnesota,Otter Tail,2000,74,31,3,27
+Minnesota,Pine,2000,24,3,3,27
+Minnesota,Ramsey,2000,143,42,3,27
+Minnesota,Saint Louis,2000,119,35,3,27
+Minnesota,Scott,2000,106,38,3,27
+Minnesota,Stearns,2000,113,16,3,27
+Minnesota,Washington,2000,122,32,3,27
+Minnesota,Wright,2000,117,34,3,27
+Missouri,Buchanan,2000,107,13,3,43
+Missouri,Cass,2000,185,46,3,43
+Missouri,Cedar,2000,179,49,3,43
+Missouri,Clay,2000,195,56,3,43
+Missouri,Greene,2000,151,54,3,43
+Missouri,Howell,2000,105,53,3,43
+Missouri,Iron,2000,200,36,3,43
+Missouri,Jackson,2000,123,50,3,43
+Missouri,Jasper,2000,145,52,3,43
+Missouri,Jefferson,2000,200,51,3,43
+Missouri,Lincoln,2000,53,14,3,43
+Missouri,Mercer,2000,22,5,3,43
+Missouri,Monroe,2000,147,40,3,43
+Missouri,Platte,2000,172,35,3,43
+Missouri,Saint Charles,2000,185,44,3,43
+Missouri,Saint Louis,2000,182,51,3,43
+Missouri,Sainte Genevieve,2000,204,54,3,43
+Missouri,St. Louis City,2000,166,66,3,43
+Missouri,Stoddard,2000,107,54,3,43
+Nebraska,Cass,2000,109,33,3,31
+Nebraska,Cedar,2000,91,31,3,31
+Nebraska,Cherry,2000,90,15,3,31
+Nebraska,Dawson,2000,88,34,3,31
+Nebraska,Deuel,2000,63,21,3,31
+Nebraska,Douglas,2000,131,50,3,31
+Nebraska,Hall,2000,112,31,3,31
+Nebraska,Lancaster,2000,93,32,3,31
+Nebraska,Lincoln,2000,73,25,3,31
+Nebraska,Sarpy,2000,84,35,3,31
+Nebraska,Scotts Bluff,2000,71,24,3,31
+Nebraska,Washington,2000,95,36,3,31
+North Dakota,Billings,2000,74,36,3,25
+North Dakota,Burke,2000,134,15,3,25
+North Dakota,Burleigh,2000,70,27,3,25
+North Dakota,Cass,2000,101,33,3,25
+North Dakota,Dunn,2000,69,31,3,25
+North Dakota,Grand Forks,2000,84,26,3,25
+North Dakota,McKenzie,2000,185,6,3,25
+North Dakota,McLean,2000,65,4,3,25
+North Dakota,Mercer,2000,153,34,3,25
+North Dakota,Morton,2000,139,34,3,25
+North Dakota,Oliver,2000,116,34,3,25
+North Dakota,Stark,2000,51,21,3,25
+North Dakota,Steele,2000,106,31,3,25
+North Dakota,Williams,2000,86,11,3,25
+Ohio,Adams,2000,119,27,3,42
+Ohio,Allen,2000,177,32,3,42
+Ohio,Ashtabula,2000,201,36,3,42
+Ohio,Athens,2000,93,45,3,42
+Ohio,Belmont,2000,200,39,3,42
+Ohio,Butler,2000,195,62,3,42
+Ohio,Clark,2000,209,42,3,42
+Ohio,Clermont,2000,187,44,3,42
+Ohio,Clinton,2000,205,50,3,42
+Ohio,Columbiana,2000,200,30,3,42
+Ohio,Crawford,2000,195,36,3,42
+Ohio,Cuyahoga,2000,174,71,3,42
+Ohio,Delaware,2000,177,45,3,42
+Ohio,Fayette,2000,201,39,3,42
+Ohio,Franklin,2000,179,62,3,42
+Ohio,Geauga,2000,190,45,3,42
+Ohio,Greene,2000,201,43,3,42
+Ohio,Hamilton,2000,187,68,3,42
+Ohio,Hancock,2000,44,25,3,42
+Ohio,Jefferson,2000,196,67,3,42
+Ohio,Knox,2000,207,45,3,42
+Ohio,Lake,2000,187,49,3,42
+Ohio,Lawrence,2000,164,46,3,42
+Ohio,Licking,2000,201,45,3,42
+Ohio,Lorain,2000,182,31,3,42
+Ohio,Lucas,2000,156,54,3,42
+Ohio,Madison,2000,203,48,3,42
+Ohio,Mahoning,2000,185,57,3,42
+Ohio,Medina,2000,182,43,3,42
+Ohio,Meigs,2000,143,20,3,42
+Ohio,Miami,2000,192,46,3,42
+Ohio,Monroe,2000,50,21,3,42
+Ohio,Montgomery,2000,192,62,3,42
+Ohio,Morgan,2000,200,17,3,42
+Ohio,Noble,2000,172,40,3,42
+Ohio,Ottawa,2000,44,22,3,42
+Ohio,Portage,2000,182,48,3,42
+Ohio,Preble,2000,164,48,3,42
+Ohio,Richland,2000,50,19,3,42
+Ohio,Sandusky,2000,51,22,3,42
+Ohio,Scioto,2000,151,30,3,42
+Ohio,Seneca,2000,77,18,3,42
+Ohio,Stark,2000,190,49,3,42
+Ohio,Summit,2000,185,68,3,42
+Ohio,Trumbull,2000,190,55,3,42
+Ohio,Tuscarawas,2000,139,21,3,42
+Ohio,Warren,2000,200,45,3,42
+Ohio,Washington,2000,179,42,3,42
+Ohio,Wood,2000,151,41,3,42
+Ohio,Wyandot,2000,64,19,3,42
+South Dakota,Brookings,2000,91,28,3,26
+South Dakota,Brown,2000,77,30,3,26
+South Dakota,Custer,2000,55,11,3,26
+South Dakota,Jackson,2000,65,15,3,26
+South Dakota,Minnehaha,2000,101,32,3,26
+South Dakota,Pennington,2000,247,39,3,26
+Wisconsin,Brown,2000,154,35,3,39
+Wisconsin,Columbia,2000,151,42,3,39
+Wisconsin,Dane,2000,122,33,3,39
+Wisconsin,Dodge,2000,154,40,3,39
+Wisconsin,Door,2000,177,37,3,39
+Wisconsin,Douglas,2000,89,28,3,39
+Wisconsin,Florence,2000,122,37,3,39
+Wisconsin,Fond du Lac,2000,150,40,3,39
+Wisconsin,Grant,2000,113,36,3,39
+Wisconsin,Green,2000,156,38,3,39
+Wisconsin,Jefferson,2000,164,47,3,39
+Wisconsin,Kenosha,2000,159,45,3,39
+Wisconsin,Kewaunee,2000,156,41,3,39
+Wisconsin,Manitowoc,2000,197,41,3,39
+Wisconsin,Marathon,2000,150,39,3,39
+Wisconsin,Milwaukee,2000,156,55,3,39
+Wisconsin,Oneida,2000,180,31,3,39
+Wisconsin,Outagamie,2000,136,37,3,39
+Wisconsin,Ozaukee,2000,164,43,3,39
+Wisconsin,Racine,2000,154,22,3,39
+Wisconsin,Rock,2000,172,49,3,39
+Wisconsin,Sauk,2000,147,42,3,39
+Wisconsin,Sheboygan,2000,200,42,3,39
+Wisconsin,St. Croix,2000,122,40,3,39
+Wisconsin,Taylor,2000,133,35,3,39
+Wisconsin,Vernon,2000,133,40,3,39
+Wisconsin,Vilas,2000,122,34,3,39
+Wisconsin,Walworth,2000,143,44,3,39
+Wisconsin,Washington,2000,147,40,3,39
+Wisconsin,Waukesha,2000,151,51,3,39
+Wisconsin,Winnebago,2000,147,40,3,39
+Wisconsin,Wood,2000,195,19,3,39
+Alabama,Baldwin,2000,205,54,4,49
+Alabama,Clay,2000,177,46,4,49
+Alabama,Colbert,2000,124,16,4,49
+Alabama,DeKalb,2000,159,51,4,49
+Alabama,Elmore,2000,166,50,4,49
+Alabama,Escambia,2000,123,57,4,49
+Alabama,Etowah,2000,141,59,4,49
+Alabama,Houston,2000,120,54,4,49
+Alabama,Jackson,2000,200,14,4,49
+Alabama,Jefferson,2000,208,83,4,49
+Alabama,Lawrence,2000,172,46,4,49
+Alabama,Madison,2000,187,48,4,49
+Alabama,Marengo,2000,49,21,4,49
+Alabama,Mobile,2000,187,54,4,49
+Alabama,Montgomery,2000,195,54,4,49
+Alabama,Morgan,2000,187,63,4,49
+Alabama,Pike,2000,46,22,4,49
+Alabama,Russell,2000,144,61,4,49
+Alabama,Shelby,2000,214,57,4,49
+Alabama,Sumter,2000,147,44,4,49
+Alabama,Talladega,2000,136,59,4,49
+Alabama,Tuscaloosa,2000,126,56,4,49
+Alabama,Walker,2000,112,56,4,49
+Arkansas,Arkansas,2000,101,56,4,50
+Arkansas,Ashley,2000,108,56,4,50
+Arkansas,Clark,2000,147,39,4,50
+Arkansas,Craighead,2000,90,55,4,50
+Arkansas,Crittenden,2000,177,42,4,50
+Arkansas,Faulkner,2000,84,56,4,50
+Arkansas,Garland,2000,99,51,4,50
+Arkansas,Jefferson,2000,82,56,4,50
+Arkansas,Marion,2000,76,42,4,50
+Arkansas,Miller,2000,91,52,4,50
+Arkansas,Mississippi,2000,86,57,4,50
+Arkansas,Montgomery,2000,119,34,4,50
+Arkansas,Newton,2000,129,43,4,50
+Arkansas,Phillips,2000,99,54,4,50
+Arkansas,Polk,2000,85,51,4,50
+Arkansas,Pope,2000,105,55,4,50
+Arkansas,Pulaski,2000,200,62,4,50
+Arkansas,Sebastian,2000,91,52,4,50
+Arkansas,Union,2000,145,26,4,50
+Arkansas,Washington,2000,97,50,4,50
+Arkansas,White,2000,83,56,4,50
+Delaware,Kent,2000,205,47,4,53
+Delaware,New Castle,2000,214,63,4,53
+Delaware,Sussex,2000,187,49,4,53
+District Of Columbia,District of Columbia,2000,197,59,4,59
+Florida,Alachua,2000,151,37,4,40
+Florida,Baker,2000,150,40,4,40
+Florida,Bay,2000,208,39,4,40
+Florida,Brevard,2000,147,41,4,40
+Florida,Broward,2000,151,43,4,40
+Florida,Citrus,2000,99,42,4,40
+Florida,Collier,2000,39,16,4,40
+Florida,Columbia,2000,67,31,4,40
+Florida,Duval,2000,172,52,4,40
+Florida,Escambia,2000,203,64,4,40
+Florida,Hamilton,2000,100,13,4,40
+Florida,Hillsborough,2000,200,75,4,40
+Florida,Holmes,2000,166,41,4,40
+Florida,Lake,2000,126,19,4,40
+Florida,Lee,2000,172,39,4,40
+Florida,Leon,2000,140,44,4,40
+Florida,Liberty,2000,150,41,4,40
+Florida,Manatee,2000,156,44,4,40
+Florida,Marion,2000,151,43,4,40
+Florida,Miami-Dade,2000,147,47,4,40
+Florida,Monroe,2000,53,16,4,40
+Florida,Nassau,2000,200,29,4,40
+Florida,Orange,2000,174,51,4,40
+Florida,Osceola,2000,133,39,4,40
+Florida,Palm Beach,2000,143,44,4,40
+Florida,Pasco,2000,159,43,4,40
+Florida,Pinellas,2000,161,55,4,40
+Florida,Polk,2000,178,47,4,40
+Florida,Putnam,2000,102,16,4,40
+Florida,Santa Rosa,2000,187,44,4,40
+Florida,Sarasota,2000,177,44,4,40
+Florida,Seminole,2000,166,42,4,40
+Florida,St. Lucie,2000,115,39,4,40
+Florida,Volusia,2000,164,42,4,40
+Florida,Wakulla,2000,72,39,4,40
+Georgia,Baldwin,2000,129,7,4,47
+Georgia,Bartow,2000,140,9,4,47
+Georgia,Bibb,2000,229,54,4,47
+Georgia,Charlton,2000,86,40,4,47
+Georgia,Chatham,2000,172,46,4,47
+Georgia,Chattooga,2000,69,19,4,47
+Georgia,Cherokee,2000,126,33,4,47
+Georgia,Clarke,2000,142,62,4,47
+Georgia,Clayton,2000,160,63,4,47
+Georgia,Cobb,2000,205,57,4,47
+Georgia,Coweta,2000,208,47,4,47
+Georgia,Dawson,2000,159,48,4,47
+Georgia,DeKalb,2000,233,67,4,47
+Georgia,Dougherty,2000,122,54,4,47
+Georgia,Douglas,2000,202,49,4,47
+Georgia,Fannin,2000,111,14,4,47
+Georgia,Fayette,2000,234,49,4,47
+Georgia,Floyd,2000,146,24,4,47
+Georgia,Fulton,2000,228,67,4,47
+Georgia,Glynn,2000,147,47,4,47
+Georgia,Gwinnett,2000,219,58,4,47
+Georgia,Hall,2000,149,60,4,47
+Georgia,Henry,2000,235,49,4,47
+Georgia,Houston,2000,150,68,4,47
+Georgia,Lowndes,2000,170,52,4,47
+Georgia,Murray,2000,185,67,4,47
+Georgia,Muscogee,2000,208,58,4,47
+Georgia,Paulding,2000,166,46,4,47
+Georgia,Pike,2000,222,42,4,47
+Georgia,Richmond,2000,206,59,4,47
+Georgia,Rockdale,2000,212,35,4,47
+Georgia,Spalding,2000,53,22,4,47
+Georgia,Sumter,2000,187,50,4,47
+Georgia,Walker,2000,134,58,4,47
+Georgia,Washington,2000,93,54,4,47
+Georgia,Wilkinson,2000,112,58,4,47
+Kentucky,Bell,2000,190,44,4,44
+Kentucky,Boone,2000,179,41,4,44
+Kentucky,Boyd,2000,150,51,4,44
+Kentucky,Bullitt,2000,161,44,4,44
+Kentucky,Campbell,2000,192,50,4,44
+Kentucky,Carter,2000,153,47,4,44
+Kentucky,Christian,2000,159,53,4,44
+Kentucky,Daviess,2000,119,43,4,44
+Kentucky,Edmonson,2000,182,44,4,44
+Kentucky,Fayette,2000,157,45,4,44
+Kentucky,Franklin,2000,122,56,4,44
+Kentucky,Graves,2000,210,46,4,44
+Kentucky,Greenup,2000,150,41,4,44
+Kentucky,Hancock,2000,143,41,4,44
+Kentucky,Hardin,2000,179,48,4,44
+Kentucky,Harlan,2000,113,24,4,44
+Kentucky,Henderson,2000,150,50,4,44
+Kentucky,Jefferson,2000,192,75,4,44
+Kentucky,Jessamine,2000,161,45,4,44
+Kentucky,Kenton,2000,195,45,4,44
+Kentucky,Livingston,2000,182,44,4,44
+Kentucky,Madison,2000,156,55,4,44
+Kentucky,Marshall,2000,53,22,4,44
+Kentucky,McCracken,2000,202,45,4,44
+Kentucky,McLean,2000,136,44,4,44
+Kentucky,Morgan,2000,147,43,4,44
+Kentucky,Oldham,2000,174,44,4,44
+Kentucky,Perry,2000,163,40,4,44
+Kentucky,Pike,2000,166,44,4,44
+Kentucky,Pulaski,2000,169,48,4,44
+Kentucky,Scott,2000,119,37,4,44
+Kentucky,Simpson,2000,172,45,4,44
+Kentucky,Trigg,2000,179,43,4,44
+Kentucky,Warren,2000,182,47,4,44
+Kentucky,Washington,2000,151,44,4,44
+Kentucky,Whitley,2000,89,20,4,44
+Louisiana,Ascension,2000,204,36,4,45
+Louisiana,Beauregard,2000,169,37,4,45
+Louisiana,Bossier,2000,201,46,4,45
+Louisiana,Caddo,2000,190,44,4,45
+Louisiana,Calcasieu,2000,174,52,4,45
+Louisiana,Concordia,2000,84,46,4,45
+Louisiana,East Baton Rouge,2000,217,62,4,45
+Louisiana,Grant,2000,150,42,4,45
+Louisiana,Iberville,2000,201,44,4,45
+Louisiana,Jefferson,2000,187,52,4,45
+Louisiana,Lafayette,2000,208,41,4,45
+Louisiana,Lafourche,2000,187,46,4,45
+Louisiana,Livingston,2000,213,47,4,45
+Louisiana,Orleans,2000,147,51,4,45
+Louisiana,Ouachita,2000,174,40,4,45
+Louisiana,Plaquemines,2000,64,53,4,45
+Louisiana,Pointe Coupee,2000,172,37,4,45
+Louisiana,Rapides,2000,97,50,4,45
+Louisiana,St. Bernard,2000,164,47,4,45
+Louisiana,St. Charles,2000,202,36,4,45
+Louisiana,St. James,2000,169,36,4,45
+Louisiana,St. John the Baptist,2000,192,38,4,45
+Louisiana,St. Mary,2000,190,35,4,45
+Louisiana,Tangipahoa,2000,114,50,4,45
+Louisiana,Terrebonne,2000,96,47,4,45
+Louisiana,West Baton Rouge,2000,209,57,4,45
+Maryland,Anne Arundel,2000,215,49,4,42
+Maryland,Baltimore,2000,204,50,4,42
+Maryland,Baltimore (City),2000,157,56,4,42
+Maryland,Calvert,2000,182,44,4,42
+Maryland,Carroll,2000,187,43,4,42
+Maryland,Cecil,2000,229,47,4,42
+Maryland,Charles,2000,207,45,4,42
+Maryland,Dorchester,2000,195,37,4,42
+Maryland,Frederick,2000,187,41,4,42
+Maryland,Harford,2000,212,38,4,42
+Maryland,Kent,2000,214,43,4,42
+Maryland,Montgomery,2000,156,45,4,42
+Maryland,Prince George's,2000,214,40,4,42
+Maryland,Washington,2000,172,46,4,42
+Maryland,Wicomico,2000,37,10,4,42
+Mississippi,Adams,2000,179,49,4,51
+Mississippi,Bolivar,2000,156,51,4,51
+Mississippi,DeSoto,2000,177,47,4,51
+Mississippi,Forrest,2000,115,54,4,51
+Mississippi,Hancock,2000,195,44,4,51
+Mississippi,Harrison,2000,197,55,4,51
+Mississippi,Hinds,2000,174,45,4,51
+Mississippi,Jackson,2000,208,45,4,51
+Mississippi,Jones,2000,123,60,4,51
+Mississippi,Lauderdale,2000,156,55,4,51
+Mississippi,Lee,2000,164,55,4,51
+Mississippi,Lowndes,2000,116,55,4,51
+Mississippi,Madison,2000,140,51,4,51
+Mississippi,Pearl River,2000,115,54,4,51
+Mississippi,Rankin,2000,110,53,4,51
+Mississippi,Scott,2000,111,52,4,51
+Mississippi,Warren,2000,156,49,4,51
+Mississippi,Yalobusha,2000,166,44,4,51
+North Carolina,Alamance,2000,104,56,4,49
+North Carolina,Alexander,2000,182,58,4,49
+North Carolina,Avery,2000,172,47,4,49
+North Carolina,Beaufort,2000,147,7,4,49
+North Carolina,Buncombe,2000,179,51,4,49
+North Carolina,Cabarrus,2000,118,56,4,49
+North Carolina,Caldwell,2000,164,51,4,49
+North Carolina,Camden,2000,147,42,4,49
+North Carolina,Carteret,2000,147,39,4,49
+North Carolina,Caswell,2000,192,52,4,49
+North Carolina,Catawba,2000,148,59,4,49
+North Carolina,Chatham,2000,147,47,4,49
+North Carolina,Cumberland,2000,182,47,4,49
+North Carolina,Davidson,2000,129,61,4,49
+North Carolina,Davie,2000,179,41,4,49
+North Carolina,Duplin,2000,164,49,4,49
+North Carolina,Durham,2000,182,59,4,49
+North Carolina,Edgecombe,2000,174,53,4,49
+North Carolina,Forsyth,2000,172,59,4,49
+North Carolina,Franklin,2000,179,48,4,49
+North Carolina,Gaston,2000,104,58,4,49
+North Carolina,Granville,2000,169,47,4,49
+North Carolina,Guilford,2000,185,59,4,49
+North Carolina,Harnett,2000,48,23,4,49
+North Carolina,Haywood,2000,174,59,4,49
+North Carolina,Henderson,2000,51,20,4,49
+North Carolina,Hyde,2000,69,34,4,49
+North Carolina,Jackson,2000,174,64,4,49
+North Carolina,Johnston,2000,197,50,4,49
+North Carolina,Lenoir,2000,182,50,4,49
+North Carolina,Lincoln,2000,197,40,4,49
+North Carolina,Macon,2000,156,42,4,49
+North Carolina,Martin,2000,159,49,4,49
+North Carolina,McDowell,2000,166,57,4,49
+North Carolina,Mecklenburg,2000,222,64,4,49
+North Carolina,Mitchell,2000,153,56,4,49
+North Carolina,Montgomery,2000,159,46,4,49
+North Carolina,New Hanover,2000,182,50,4,49
+North Carolina,Northampton,2000,151,32,4,49
+North Carolina,Onslow,2000,98,50,4,49
+North Carolina,Orange,2000,89,40,4,49
+North Carolina,Pasquotank,2000,105,45,4,49
+North Carolina,Person,2000,154,49,4,49
+North Carolina,Pitt,2000,204,42,4,49
+North Carolina,Robeson,2000,81,55,4,49
+North Carolina,Rockingham,2000,182,45,4,49
+North Carolina,Rowan,2000,200,58,4,49
+North Carolina,Swain,2000,119,48,4,49
+North Carolina,Union,2000,154,44,4,49
+North Carolina,Wake,2000,209,60,4,49
+North Carolina,Wayne,2000,111,58,4,49
+North Carolina,Yancey,2000,179,64,4,49
+South Carolina,Abbeville,2000,159,54,4,47
+South Carolina,Aiken,2000,197,41,4,47
+South Carolina,Anderson,2000,192,48,4,47
+South Carolina,Barnwell,2000,185,40,4,47
+South Carolina,Beaufort,2000,94,48,4,47
+South Carolina,Berkeley,2000,174,38,4,47
+South Carolina,Charleston,2000,174,54,4,47
+South Carolina,Cherokee,2000,195,47,4,47
+South Carolina,Chester,2000,150,50,4,47
+South Carolina,Chesterfield,2000,90,50,4,47
+South Carolina,Colleton,2000,179,48,4,47
+South Carolina,Darlington,2000,187,42,4,47
+South Carolina,Edgefield,2000,154,47,4,47
+South Carolina,Fairfield,2000,57,21,4,47
+South Carolina,Florence,2000,130,53,4,47
+South Carolina,Georgetown,2000,104,34,4,47
+South Carolina,Greenville,2000,197,58,4,47
+South Carolina,Greenwood,2000,98,55,4,47
+South Carolina,Horry,2000,51,40,4,47
+South Carolina,Lexington,2000,146,50,4,47
+South Carolina,Oconee,2000,151,42,4,47
+South Carolina,Pickens,2000,174,61,4,47
+South Carolina,Richland,2000,192,55,4,47
+South Carolina,Spartanburg,2000,187,57,4,47
+South Carolina,Union,2000,154,41,4,47
+South Carolina,Williamsburg,2000,140,45,4,47
+South Carolina,York,2000,156,50,4,47
+Tennessee,Anderson,2000,190,43,4,47
+Tennessee,Blount,2000,185,67,4,47
+Tennessee,Bradley,2000,166,29,4,47
+Tennessee,Claiborne,2000,197,44,4,47
+Tennessee,Davidson,2000,177,61,4,47
+Tennessee,DeKalb,2000,164,42,4,47
+Tennessee,Dickson,2000,105,34,4,47
+Tennessee,Dyer,2000,93,53,4,47
+Tennessee,Greene,2000,61,27,4,47
+Tennessee,Hamilton,2000,205,56,4,47
+Tennessee,Hawkins,2000,200,19,4,47
+Tennessee,Haywood,2000,187,51,4,47
+Tennessee,Humphreys,2000,200,11,4,47
+Tennessee,Jefferson,2000,187,47,4,47
+Tennessee,Knox,2000,218,66,4,47
+Tennessee,Lawrence,2000,156,54,4,47
+Tennessee,Madison,2000,96,53,4,47
+Tennessee,Maury,2000,110,56,4,47
+Tennessee,McMinn,2000,144,34,4,47
+Tennessee,Meigs,2000,197,58,4,47
+Tennessee,Montgomery,2000,174,45,4,47
+Tennessee,Polk,2000,173,34,4,47
+Tennessee,Putnam,2000,182,62,4,47
+Tennessee,Roane,2000,203,51,4,47
+Tennessee,Rutherford,2000,166,48,4,47
+Tennessee,Sevier,2000,206,67,4,47
+Tennessee,Shelby,2000,201,67,4,47
+Tennessee,Stewart,2000,76,9,4,47
+Tennessee,Sullivan,2000,210,80,4,47
+Tennessee,Sumner,2000,203,58,4,47
+Tennessee,Union,2000,101,26,4,47
+Tennessee,Williamson,2000,195,54,4,47
+Tennessee,Wilson,2000,182,51,4,47
+Virginia,Alexandria City,2000,174,42,4,37
+Virginia,Arlington,2000,182,43,4,37
+Virginia,Bristol City,2000,144,58,4,37
+Virginia,Caroline,2000,156,31,4,37
+Virginia,Carroll,2000,53,16,4,37
+Virginia,Charles,2000,140,46,4,37
+Virginia,Charlottesville City,2000,61,19,4,37
+Virginia,Chesapeake City,2000,108,50,4,37
+Virginia,Chesterfield,2000,159,51,4,37
+Virginia,Culpeper,2000,37,16,4,37
+Virginia,Fairfax,2000,203,56,4,37
+Virginia,Fauquier,2000,154,42,4,37
+Virginia,Frederick,2000,156,39,4,37
+Virginia,Fredericksburg City,2000,40,15,4,37
+Virginia,Giles,2000,161,45,4,37
+Virginia,Hampton City,2000,156,42,4,37
+Virginia,Henrico,2000,169,50,4,37
+Virginia,King William,2000,40,15,4,37
+Virginia,Loudoun,2000,169,38,4,37
+Virginia,Lynchburg City,2000,105,56,4,37
+Virginia,Madison,2000,169,43,4,37
+Virginia,Newport News City,2000,106,51,4,37
+Virginia,Norfolk City,2000,113,42,4,37
+Virginia,Northumberland,2000,41,13,4,37
+Virginia,Page,2000,185,47,4,37
+Virginia,Prince Edward,2000,147,36,4,37
+Virginia,Prince William,2000,169,32,4,37
+Virginia,Richmond City,2000,134,55,4,37
+Virginia,Roanoke,2000,177,37,4,37
+Virginia,Roanoke City,2000,111,15,4,37
+Virginia,Rockbridge,2000,136,45,4,37
+Virginia,Rockingham,2000,57,9,4,37
+Virginia,Salem City,2000,121,55,4,37
+Virginia,Stafford,2000,151,44,4,37
+Virginia,Suffolk City,2000,164,48,4,37
+Virginia,Virginia Beach City,2000,111,52,4,37
+Virginia,Warren,2000,42,17,4,37
+Virginia,Winchester City,2000,46,17,4,37
+Virginia,Wise,2000,40,19,4,37
+Virginia,Wythe,2000,154,47,4,37
+West Virginia,Berkeley,2000,132,55,4,53
+West Virginia,Brooke,2000,200,62,4,53
+West Virginia,Cabell,2000,150,46,4,53
+West Virginia,Gilmer,2000,151,34,4,53
+West Virginia,Greenbrier,2000,154,48,4,53
+West Virginia,Hancock,2000,200,102,4,53
+West Virginia,Harrison,2000,103,54,4,53
+West Virginia,Kanawha,2000,159,52,4,53
+West Virginia,Marion,2000,110,56,4,53
+West Virginia,Marshall,2000,151,65,4,53
+West Virginia,Mercer,2000,170,49,4,53
+West Virginia,Monongalia,2000,200,50,4,53
+West Virginia,Ohio,2000,200,47,4,53
+West Virginia,Raleigh,2000,102,52,4,53
+West Virginia,Summers,2000,93,34,4,53
+West Virginia,Tucker,2000,159,39,4,53
+West Virginia,Wayne,2000,180,57,4,53
+West Virginia,Wood,2000,197,56,4,53
+Connecticut,Fairfield,2000,220,44,5,41
+Connecticut,Hartford,2000,179,42,5,41
+Connecticut,Litchfield,2000,179,38,5,41
+Connecticut,Middlesex,2000,195,32,5,41
+Connecticut,New Haven,2000,217,54,5,41
+Connecticut,New London,2000,220,43,5,41
+Connecticut,Tolland,2000,182,39,5,41
+Connecticut,Windham,2000,209,35,5,41
+Maine,Androscoggin,2000,112,9,5,28
+Maine,Aroostook,2000,90,33,5,28
+Maine,Cumberland,2000,133,29,5,28
+Maine,Franklin,2000,28,9,5,28
+Maine,Hancock,2000,179,36,5,28
+Maine,Kennebec,2000,115,32,5,28
+Maine,Knox,2000,147,33,5,28
+Maine,MOBILE MONITORS,2000,129,38,5,28
+Maine,Oxford,2000,84,21,5,28
+Maine,Penobscot,2000,105,34,5,28
+Maine,Piscataquis,2000,93,32,5,28
+Maine,Sagadahoc,2000,154,39,5,28
+Maine,Washington,2000,66,17,5,28
+Maine,York,2000,159,32,5,28
+Massachusetts,Barnstable,2000,222,36,5,42
+Massachusetts,Berkshire,2000,161,42,5,42
+Massachusetts,Bristol,2000,200,42,5,42
+Massachusetts,Essex,2000,173,40,5,42
+Massachusetts,Hampden,2000,161,52,5,42
+Massachusetts,Hampshire,2000,164,36,5,42
+Massachusetts,Middlesex,2000,185,34,5,42
+Massachusetts,Norfolk,2000,88,36,5,42
+Massachusetts,Plymouth,2000,84,43,5,42
+Massachusetts,Suffolk,2000,147,58,5,42
+Massachusetts,Worcester,2000,174,40,5,42
+New Hampshire,Belknap,2000,76,37,5,33
+New Hampshire,Carroll,2000,108,32,5,33
+New Hampshire,Cheshire,2000,166,32,5,33
+New Hampshire,Coos,2000,126,37,5,33
+New Hampshire,Grafton,2000,122,33,5,33
+New Hampshire,Hillsborough,2000,161,37,5,33
+New Hampshire,Merrimack,2000,177,31,5,33
+New Hampshire,Rockingham,2000,136,35,5,33
+New Hampshire,Strafford,2000,105,31,5,33
+New Hampshire,Sullivan,2000,159,27,5,33
+New Jersey,Atlantic,2000,185,37,5,40
+New Jersey,Bergen,2000,159,31,5,40
+New Jersey,Burlington,2000,80,14,5,40
+New Jersey,Camden,2000,217,47,5,40
+New Jersey,Cumberland,2000,208,34,5,40
+New Jersey,Essex,2000,156,46,5,40
+New Jersey,Gloucester,2000,219,41,5,40
+New Jersey,Hudson,2000,195,47,5,40
+New Jersey,Hunterdon,2000,201,34,5,40
+New Jersey,Mercer,2000,216,41,5,40
+New Jersey,Middlesex,2000,207,42,5,40
+New Jersey,Monmouth,2000,214,28,5,40
+New Jersey,Morris,2000,209,41,5,40
+New Jersey,Ocean,2000,227,44,5,40
+New Jersey,Passaic,2000,179,43,5,40
+New Jersey,Union,2000,162,60,5,40
+New Jersey,Warren,2000,126,52,5,40
+New York,Albany,2000,159,35,5,36
+New York,Bronx,2000,195,58,5,36
+New York,Broome,2000,91,40,5,36
+New York,Chautauqua,2000,204,64,5,36
+New York,Chemung,2000,161,33,5,36
+New York,Columbia,2000,34,10,5,36
+New York,Dutchess,2000,182,35,5,36
+New York,Erie,2000,200,57,5,36
+New York,Essex,2000,195,42,5,36
+New York,Franklin,2000,14,6,5,36
+New York,Hamilton,2000,185,35,5,36
+New York,Herkimer,2000,166,33,5,36
+New York,Jefferson,2000,179,33,5,36
+New York,Kings,2000,161,25,5,36
+New York,Madison,2000,166,34,5,36
+New York,Monroe,2000,166,43,5,36
+New York,Nassau,2000,114,39,5,36
+New York,New York,2000,208,61,5,36
+New York,Niagara,2000,156,37,5,36
+New York,Oneida,2000,179,34,5,36
+New York,Onondaga,2000,179,33,5,36
+New York,Orange,2000,177,40,5,36
+New York,Putnam,2000,187,26,5,36
+New York,Queens,2000,213,48,5,36
+New York,Rensselaer,2000,29,3,5,36
+New York,Richmond,2000,214,41,5,36
+New York,Saratoga,2000,179,33,5,36
+New York,Schenectady,2000,159,32,5,36
+New York,St. Lawrence,2000,74,26,5,36
+New York,Steuben,2000,99,32,5,36
+New York,Suffolk,2000,216,42,5,36
+New York,Tompkins,2000,150,38,5,36
+New York,Ulster,2000,164,35,5,36
+New York,Wayne,2000,166,32,5,36
+New York,Westchester,2000,205,32,5,36
+Pennsylvania,Adams,2000,179,48,5,46
+Pennsylvania,Allegheny,2000,200,80,5,46
+Pennsylvania,Armstrong,2000,182,39,5,46
+Pennsylvania,Beaver,2000,200,72,5,46
+Pennsylvania,Berks,2000,197,44,5,46
+Pennsylvania,Blair,2000,177,40,5,46
+Pennsylvania,Bucks,2000,227,41,5,46
+Pennsylvania,Cambria,2000,182,44,5,46
+Pennsylvania,Centre,2000,197,40,5,46
+Pennsylvania,Chester,2000,154,38,5,46
+Pennsylvania,Clearfield,2000,197,44,5,46
+Pennsylvania,Cumberland,2000,148,52,5,46
+Pennsylvania,Dauphin,2000,190,51,5,46
+Pennsylvania,Delaware,2000,206,47,5,46
+Pennsylvania,Elk,2000,169,38,5,46
+Pennsylvania,Erie,2000,177,45,5,46
+Pennsylvania,Franklin,2000,179,47,5,46
+Pennsylvania,Greene,2000,202,58,5,46
+Pennsylvania,Lackawanna,2000,200,45,5,46
+Pennsylvania,Lancaster,2000,201,42,5,46
+Pennsylvania,Lawrence,2000,124,41,5,46
+Pennsylvania,Lehigh,2000,207,52,5,46
+Pennsylvania,Luzerne,2000,201,46,5,46
+Pennsylvania,Lycoming,2000,179,31,5,46
+Pennsylvania,Mercer,2000,200,41,5,46
+Pennsylvania,Montgomery,2000,228,43,5,46
+Pennsylvania,Northampton,2000,212,52,5,46
+Pennsylvania,Perry,2000,169,35,5,46
+Pennsylvania,Philadelphia,2000,212,57,5,46
+Pennsylvania,Schuylkill,2000,117,16,5,46
+Pennsylvania,Somerset,2000,90,31,5,46
+Pennsylvania,Tioga,2000,174,44,5,46
+Pennsylvania,Warren,2000,181,56,5,46
+Pennsylvania,Washington,2000,200,61,5,46
+Pennsylvania,Westmoreland,2000,174,44,5,46
+Pennsylvania,York,2000,201,47,5,46
+Rhode Island,Kent,2000,182,38,5,41
+Rhode Island,Providence,2000,207,46,5,41
+Rhode Island,Washington,2000,222,40,5,41
+Vermont,Bennington,2000,164,34,5,32
+Vermont,Chittenden,2000,133,36,5,32
+Vermont,Rutland,2000,121,24,5,32
+Vermont,Washington,2000,121,34,5,32
+Puerto Rico,Barceloneta,2000,71,15,6,26
+Puerto Rico,Bayamon,2000,200,23,6,26
+Puerto Rico,Carolina,2000,70,19,6,26
+Puerto Rico,Catano,2000,143,43,6,26
+Puerto Rico,Fajardo,2000,76,19,6,26
+Puerto Rico,Guayama,2000,78,25,6,26
+Puerto Rico,Guayanilla,2000,84,24,6,26
+Puerto Rico,Guaynabo,2000,77,37,6,26
+Puerto Rico,Humacao,2000,72,19,6,26
+Puerto Rico,Lares,2000,73,22,6,26
+Puerto Rico,Manati,2000,69,19,6,26
+Puerto Rico,Mayagnez,2000,65,31,6,26
+Puerto Rico,Ponce,2000,105,31,6,26
+Puerto Rico,Rio Grande,2000,71,16,6,26
+Puerto Rico,San Juan,2000,87,42,6,26
+Puerto Rico,Vieques,2000,52,32,6,26
+Virgin Islands,St Croix,2000,116,27,6,26
+Virgin Islands,St John,2000,95,25,6,26
+Virgin Islands,St Thomas,2000,83,27,6,26

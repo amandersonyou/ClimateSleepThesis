@@ -1,0 +1,1019 @@
+State,County,Year,Max AQI,Median AQI,Region,Median_By_State
+Alaska,Anchorage ,2019,136,27,1,26
+Alaska,Bethel ,2019,62,10,1,26
+Alaska,Denali ,2019,54,38,1,26
+Alaska,Fairbanks North Star ,2019,172,39,1,26
+Alaska,Juneau ,2019,79,25,1,26
+Alaska,Matanuska-Susitna ,2019,116,18,1,26
+California,Alameda,2019,150,40,1,40
+California,Amador,2019,54,36,1,40
+California,Butte,2019,102,40,1,40
+California,Calaveras,2019,78,37,1,40
+California,Colusa,2019,81,34,1,40
+California,Contra Costa,2019,194,41,1,40
+California,Del Norte,2019,45,29,1,40
+California,El Dorado,2019,84,38,1,40
+California,Fresno,2019,140,51,1,40
+California,Glenn,2019,71,40,1,40
+California,Humboldt,2019,64,30,1,40
+California,Imperial,2019,185,48,1,40
+California,Inyo,2019,247,48,1,40
+California,Kern,2019,166,44,1,40
+California,Kings,2019,130,49,1,40
+California,Lake,2019,33,8,1,40
+California,Los Angeles,2019,200,58,1,40
+California,Madera,2019,42,29,1,40
+California,Marin,2019,133,34,1,40
+California,Mariposa,2019,100,46,1,40
+California,Mendocino,2019,75,35,1,40
+California,Merced,2019,116,30,1,40
+California,Mono,2019,3852,28,1,40
+California,Monterey,2019,144,36,1,40
+California,Napa,2019,119,35,1,40
+California,Nevada,2019,122,45,1,40
+California,Orange,2019,122,44,1,40
+California,Placer,2019,129,47,1,40
+California,Plumas,2019,138,22,1,40
+California,Riverside,2019,185,73,1,40
+California,Sacramento,2019,122,40,1,40
+California,San Benito,2019,90,38,1,40
+California,San Bernardino,2019,192,70,1,40
+California,San Diego,2019,101,52,1,40
+California,San Francisco,2019,108,36,1,40
+California,San Joaquin,2019,137,36,1,40
+California,San Luis Obispo,2019,87,44,1,40
+California,San Mateo,2019,122,36,1,40
+California,Santa Barbara,2019,93,42,1,40
+California,Santa Clara,2019,136,41,1,40
+California,Santa Cruz,2019,70,35,1,40
+California,Shasta,2019,77,43,1,40
+California,Siskiyou,2019,77,38,1,40
+California,Solano,2019,119,39,1,40
+California,Sonoma,2019,154,35,1,40
+California,Stanislaus,2019,120,38,1,40
+California,Sutter,2019,110,37,1,40
+California,Tehama,2019,80,37,1,40
+California,Trinity,2019,113,15,1,40
+California,Tulare,2019,150,56,1,40
+California,Tuolumne,2019,71,39,1,40
+California,Ventura,2019,112,45,1,40
+California,Yolo,2019,90,40,1,40
+Colorado,Adams,2019,132,47,1,38
+Colorado,Arapahoe,2019,140,50,1,38
+Colorado,Archuleta,2019,394,23,1,38
+Colorado,Boulder,2019,119,49,1,38
+Colorado,Clear Creek,2019,112,48,1,38
+Colorado,Delta,2019,67,39,1,38
+Colorado,Denver,2019,153,51,1,38
+Colorado,Douglas,2019,154,49,1,38
+Colorado,El Paso,2019,100,48,1,38
+Colorado,Fremont,2019,29,11,1,38
+Colorado,Garfield,2019,74,43,1,38
+Colorado,Gilpin,2019,115,50,1,38
+Colorado,Gunnison,2019,101,48,1,38
+Colorado,Jefferson,2019,129,49,1,38
+Colorado,La Plata,2019,87,46,1,38
+Colorado,Larimer,2019,129,51,1,38
+Colorado,Mesa,2019,87,46,1,38
+Colorado,Montezuma,2019,97,47,1,38
+Colorado,Pitkin,2019,24,8,1,38
+Colorado,Prowers,2019,76,12,1,38
+Colorado,Pueblo,2019,35,19,1,38
+Colorado,Rio Blanco,2019,100,46,1,38
+Colorado,Routt,2019,60,12,1,38
+Colorado,San Miguel,2019,54,9,1,38
+Colorado,Weld,2019,125,45,1,38
+Hawaii,Hawaii,2019,74,18,1,20
+Hawaii,Honolulu,2019,90,34,1,20
+Hawaii,Kauai,2019,71,14,1,20
+Hawaii,Maui,2019,53,14,1,20
+Idaho,Ada,2019,77,37,1,22
+Idaho,Bannock,2019,59,24,1,22
+Idaho,Benewah,2019,152,38,1,22
+Idaho,Blaine,2019,41,14,1,22
+Idaho,Boise,2019,88,30,1,22
+Idaho,Bonner,2019,62,14,1,22
+Idaho,Bonneville,2019,57,30,1,22
+Idaho,Butte,2019,71,43,1,22
+Idaho,Canyon,2019,55,20,1,22
+Idaho,Caribou,2019,108,4,1,22
+Idaho,Franklin,2019,107,14,1,22
+Idaho,Idaho,2019,73,38,1,22
+Idaho,Jerome,2019,48,15,1,22
+Idaho,Kootenai,2019,75,21,1,22
+Idaho,Latah,2019,37,8,1,22
+Idaho,Lemhi,2019,133,18,1,22
+Idaho,Nez Perce,2019,85,18,1,22
+Idaho,Shoshone,2019,99,27,1,22
+Idaho,Twin Falls,2019,56,17,1,22
+Idaho,Valley,2019,91,15,1,22
+Montana,Cascade,2019,106,20,1,31
+Montana,Fergus,2019,84,40,1,31
+Montana,Flathead,2019,103,38,1,31
+Montana,Gallatin,2019,91,20,1,31
+Montana,Lewis and Clark,2019,144,43,1,31
+Montana,Lincoln,2019,95,36,1,31
+Montana,Missoula,2019,222,40,1,31
+Montana,Phillips,2019,71,39,1,31
+Montana,Powder River,2019,80,40,1,31
+Montana,Ravalli,2019,74,13,1,31
+Montana,Richland,2019,93,41,1,31
+Montana,Rosebud,2019,71,38,1,31
+Montana,Sanders,2019,60,25,1,31
+Montana,Silver Bow,2019,91,19,1,31
+Montana,Yellowstone,2019,67,15,1,31
+Nevada,Carson City,2019,97,45,1,33
+Nevada,Churchill,2019,80,42,1,33
+Nevada,Clark,2019,122,52,1,33
+Nevada,Douglas,2019,62,10,1,33
+Nevada,Elko,2019,61,9,1,33
+Nevada,Lyon,2019,71,39,1,33
+Nevada,Nye,2019,75,11,1,33
+Nevada,Washoe,2019,97,47,1,33
+Nevada,White Pine,2019,101,46,1,33
+Oregon,Baker,2019,60,26,1,30
+Oregon,Benton,2019,60,20,1,30
+Oregon,Clackamas,2019,90,36,1,30
+Oregon,Columbia,2019,84,29,1,30
+Oregon,Coos,2019,58,19,1,30
+Oregon,Crook,2019,85,17,1,30
+Oregon,Deschutes,2019,56,20,1,30
+Oregon,Grant,2019,103,47,1,30
+Oregon,Harney,2019,131,40,1,30
+Oregon,Jackson,2019,105,35,1,30
+Oregon,Jefferson,2019,81,33,1,30
+Oregon,Josephine,2019,88,36,1,30
+Oregon,Klamath,2019,92,33,1,30
+Oregon,Lake,2019,106,20,1,30
+Oregon,Lane,2019,117,37,1,30
+Oregon,Linn,2019,95,26,1,30
+Oregon,Marion,2019,74,33,1,30
+Oregon,Multnomah,2019,84,32,1,30
+Oregon,Umatilla,2019,80,38,1,30
+Oregon,Union,2019,56,24,1,30
+Oregon,Wallowa,2019,83,30,1,30
+Oregon,Washington,2019,87,31,1,30
+Utah,Box Elder,2019,121,43,1,46
+Utah,Cache,2019,137,46,1,46
+Utah,Carbon,2019,108,47,1,46
+Utah,Davis,2019,119,46,1,46
+Utah,Duchesne,2019,177,49,1,46
+Utah,Garfield,2019,80,44,1,46
+Utah,Iron,2019,84,43,1,46
+Utah,Salt Lake,2019,132,51,1,46
+Utah,San Juan,2019,93,46,1,46
+Utah,Tooele,2019,105,44,1,46
+Utah,Uintah,2019,205,50,1,46
+Utah,Utah,2019,97,47,1,46
+Utah,Washington,2019,93,46,1,46
+Utah,Weber,2019,108,44,1,46
+Washington,Adams,2019,69,12,1,24
+Washington,Asotin,2019,72,25,1,24
+Washington,Benton,2019,80,37,1,24
+Washington,Chelan,2019,76,20,1,24
+Washington,Clallam,2019,70,37,1,24
+Washington,Clark,2019,128,29,1,24
+Washington,Columbia,2019,55,15,1,24
+Washington,Cowlitz,2019,76,13,1,24
+Washington,Franklin,2019,56,15,1,24
+Washington,Garfield,2019,49,15,1,24
+Washington,Grant,2019,62,18,1,24
+Washington,Grays Harbor,2019,40,18,1,24
+Washington,Jefferson,2019,51,18,1,24
+Washington,King,2019,90,39,1,24
+Washington,Kitsap,2019,75,15,1,24
+Washington,Kittitas,2019,71,21,1,24
+Washington,Klickitat,2019,64,18,1,24
+Washington,Lewis,2019,62,18,1,24
+Washington,Mason,2019,70,20,1,24
+Washington,Okanogan,2019,87,26,1,24
+Washington,Pierce,2019,142,42,1,24
+Washington,San Juan,2019,39,16,1,24
+Washington,Skagit,2019,53,23,1,24
+Washington,Snohomish,2019,114,27,1,24
+Washington,Spokane,2019,87,36,1,24
+Washington,Stevens,2019,100,25,1,24
+Washington,Thurston,2019,71,29,1,24
+Washington,Walla Walla,2019,63,21,1,24
+Washington,Whatcom,2019,122,35,1,24
+Washington,Whitman,2019,53,17,1,24
+Washington,Yakima,2019,114,35,1,24
+Wyoming,Albany,2019,90,49,1,39
+Wyoming,Big Horn,2019,77,39,1,39
+Wyoming,Campbell,2019,79,39,1,39
+Wyoming,Carbon,2019,112,45,1,39
+Wyoming,Converse,2019,97,37,1,39
+Wyoming,Fremont,2019,122,47,1,39
+Wyoming,Johnson,2019,80,41,1,39
+Wyoming,Laramie,2019,74,43,1,39
+Wyoming,Lincoln,2019,56,10,1,39
+Wyoming,Natrona,2019,74,44,1,39
+Wyoming,Park,2019,77,38,1,39
+Wyoming,Platte,2019,108,11,1,39
+Wyoming,Sheridan,2019,90,42,1,39
+Wyoming,Sublette,2019,200,49,1,39
+Wyoming,Sweetwater,2019,133,43,1,39
+Wyoming,Teton,2019,87,44,1,39
+Wyoming,Uinta,2019,101,44,1,39
+Wyoming,Weston,2019,71,42,1,39
+Arizona,Apache,2019,39,11,2,44
+Arizona,Cochise,2019,97,47,2,44
+Arizona,Coconino,2019,80,46,2,44
+Arizona,Gila,2019,187,67,2,44
+Arizona,La Paz,2019,77,45,2,44
+Arizona,Maricopa,2019,147,62,2,44
+Arizona,Mohave,2019,69,15,2,44
+Arizona,Navajo,2019,112,45,2,44
+Arizona,Pima,2019,103,49,2,44
+Arizona,Pinal,2019,886,60,2,44
+Arizona,Santa Cruz,2019,120,29,2,44
+Arizona,Yavapai,2019,87,44,2,44
+Arizona,Yuma,2019,110,46,2,44
+New Mexico,Bernalillo,2019,108,54,2,43
+New Mexico,Dona Ana,2019,630,54,2,43
+New Mexico,Eddy,2019,174,50,2,43
+New Mexico,Lea,2019,140,47,2,43
+New Mexico,Luna,2019,617,14,2,43
+New Mexico,Rio Arriba,2019,90,45,2,43
+New Mexico,San Juan,2019,97,49,2,43
+New Mexico,Sandoval,2019,93,47,2,43
+New Mexico,Santa Fe,2019,101,47,2,43
+New Mexico,Taos,2019,70,18,2,43
+New Mexico,Valencia,2019,93,46,2,43
+Oklahoma,Adair,2019,86,40,2,36
+Oklahoma,Canadian,2019,105,40,2,36
+Oklahoma,Carter,2019,97,44,2,36
+Oklahoma,Choctaw,2019,90,39,2,36
+Oklahoma,Cleveland,2019,90,47,2,36
+Oklahoma,Comanche,2019,97,44,2,36
+Oklahoma,Creek,2019,101,38,2,36
+Oklahoma,Custer,2019,58,14,2,36
+Oklahoma,Dewey,2019,93,44,2,36
+Oklahoma,Garfield,2019,74,0,2,36
+Oklahoma,Johnston,2019,67,42,2,36
+Oklahoma,Kay,2019,106,40,2,36
+Oklahoma,Le Flore,2019,79,28,2,36
+Oklahoma,Mayes,2019,100,13,2,36
+Oklahoma,Muskogee,2019,169,12,2,36
+Oklahoma,Nowata,2019,118,43,2,36
+Oklahoma,Oklahoma,2019,119,47,2,36
+Oklahoma,Osage,2019,90,40,2,36
+Oklahoma,Ottawa,2019,99,41,2,36
+Oklahoma,Pittsburg,2019,105,44,2,36
+Oklahoma,Sequoyah,2019,67,38,2,36
+Oklahoma,Tulsa,2019,105,47,2,36
+Texas,Bell,2019,105,43,2,35
+Texas,Bexar,2019,169,50,2,35
+Texas,Bowie,2019,63,32,2,35
+Texas,Brazoria,2019,161,35,2,35
+Texas,Brewster,2019,93,44,2,35
+Texas,Cameron,2019,89,48,2,35
+Texas,Collin,2019,126,40,2,35
+Texas,Dallas,2019,112,45,2,35
+Texas,Denton,2019,133,42,2,35
+Texas,Ector,2019,80,30,2,35
+Texas,El Paso,2019,157,57,2,35
+Texas,Ellis,2019,97,40,2,35
+Texas,Freestone,2019,31,0,2,35
+Texas,Galveston,2019,136,41,2,35
+Texas,Gregg,2019,112,35,2,35
+Texas,Harris,2019,169,51,2,35
+Texas,Harrison,2019,113,38,2,35
+Texas,Hidalgo,2019,106,45,2,35
+Texas,Hood,2019,90,36,2,35
+Texas,Howard,2019,99,6,2,35
+Texas,Hunt,2019,97,36,2,35
+Texas,Hutchinson,2019,162,33,2,35
+Texas,Jefferson,2019,174,45,2,35
+Texas,Johnson,2019,119,39,2,35
+Texas,Kaufman,2019,93,41,2,35
+Texas,Kleberg,2019,87,35,2,35
+Texas,Lubbock,2019,103,25,2,35
+Texas,Maverick,2019,104,28,2,35
+Texas,McLennan,2019,80,36,2,35
+Texas,Milam,2019,1,0,2,35
+Texas,Montgomery,2019,143,42,2,35
+Texas,Navarro,2019,193,42,2,35
+Texas,Nueces,2019,107,46,2,35
+Texas,Orange,2019,111,43,2,35
+Texas,Parker,2019,90,38,2,35
+Texas,Polk,2019,74,31,2,35
+Texas,Potter,2019,110,21,2,35
+Texas,Randall,2019,112,44,2,35
+Texas,Robertson,2019,17,0,2,35
+Texas,Rockwall,2019,87,34,2,35
+Texas,Rusk,2019,129,9,2,35
+Texas,Smith,2019,133,37,2,35
+Texas,Tarrant,2019,119,43,2,35
+Texas,Titus,2019,54,0,2,35
+Texas,Travis,2019,115,45,2,35
+Texas,Victoria,2019,87,33,2,35
+Texas,Webb,2019,109,44,2,35
+Illinois,Adams,2019,93,44,3,37
+Illinois,Champaign,2019,93,44,3,37
+Illinois,Clark,2019,74,37,3,37
+Illinois,Cook,2019,133,54,3,37
+Illinois,DuPage,2019,174,44,3,37
+Illinois,Effingham,2019,84,42,3,37
+Illinois,Hamilton,2019,105,44,3,37
+Illinois,Jersey,2019,112,44,3,37
+Illinois,Jo Daviess,2019,74,39,3,37
+Illinois,Kane,2019,112,42,3,37
+Illinois,La Salle,2019,60,0,3,37
+Illinois,Lake,2019,115,41,3,37
+Illinois,Macon,2019,93,44,3,37
+Illinois,Macoupin,2019,87,38,3,37
+Illinois,Madison,2019,156,49,3,37
+Illinois,McHenry,2019,126,44,3,37
+Illinois,McLean,2019,100,45,3,37
+Illinois,Monroe,2019,33,1,3,37
+Illinois,Peoria,2019,101,43,3,37
+Illinois,Randolph,2019,71,42,3,37
+Illinois,Rock Island,2019,115,44,3,37
+Illinois,Saint Clair,2019,108,45,3,37
+Illinois,Sangamon,2019,87,42,3,37
+Illinois,Tazewell,2019,36,3,3,37
+Illinois,Wabash,2019,82,1,3,37
+Illinois,Will,2019,84,44,3,37
+Illinois,Winnebago,2019,102,43,3,37
+Indiana,Allen,2019,97,45,3,36
+Indiana,Bartholomew,2019,77,43,3,36
+Indiana,Boone,2019,90,39,3,36
+Indiana,Brown,2019,74,38,3,36
+Indiana,Carroll,2019,84,39,3,36
+Indiana,Clark,2019,101,41,3,36
+Indiana,Daviess,2019,14,1,3,36
+Indiana,Delaware,2019,71,37,3,36
+Indiana,Dubois,2019,70,33,3,36
+Indiana,Elkhart,2019,78,38,3,36
+Indiana,Floyd,2019,87,37,3,36
+Indiana,Gibson,2019,84,3,3,36
+Indiana,Greene,2019,87,41,3,36
+Indiana,Hamilton,2019,105,43,3,36
+Indiana,Hendricks,2019,93,37,3,36
+Indiana,Henry,2019,63,29,3,36
+Indiana,Howard,2019,108,42,3,36
+Indiana,Huntington,2019,84,35,3,36
+Indiana,Jackson,2019,80,37,3,36
+Indiana,Knox,2019,80,39,3,36
+Indiana,LaPorte,2019,126,40,3,36
+Indiana,Lake,2019,101,44,3,36
+Indiana,Madison,2019,101,43,3,36
+Indiana,Marion,2019,112,51,3,36
+Indiana,Monroe,2019,69,27,3,36
+Indiana,Morgan,2019,87,39,3,36
+Indiana,Perry,2019,80,40,3,36
+Indiana,Pike,2019,19,1,3,36
+Indiana,Porter,2019,115,43,3,36
+Indiana,Posey,2019,80,38,3,36
+Indiana,Shelby,2019,84,40,3,36
+Indiana,Spencer,2019,72,32,3,36
+Indiana,St. Joseph,2019,100,44,3,36
+Indiana,Sullivan,2019,78,33,3,36
+Indiana,Tippecanoe,2019,75,33,3,36
+Indiana,Vanderburgh,2019,90,41,3,36
+Indiana,Vigo,2019,93,44,3,36
+Indiana,Wabash,2019,97,40,3,36
+Indiana,Warrick,2019,93,39,3,36
+Indiana,Whitley,2019,90,28,3,36
+Iowa,Black Hawk,2019,83,30,3,35
+Iowa,Bremer,2019,90,39,3,35
+Iowa,Cerro Gordo,2019,38,15,3,35
+Iowa,Clinton,2019,89,43,3,35
+Iowa,Harrison,2019,97,40,3,35
+Iowa,Johnson,2019,91,34,3,35
+Iowa,Lee,2019,70,29,3,35
+Iowa,Linn,2019,80,39,3,35
+Iowa,Montgomery,2019,77,39,3,35
+Iowa,Muscatine,2019,92,32,3,35
+Iowa,Palo Alto,2019,93,41,3,35
+Iowa,Polk,2019,268,40,3,35
+Iowa,Pottawattamie,2019,70,31,3,35
+Iowa,Scott,2019,112,44,3,35
+Iowa,Van Buren,2019,97,39,3,35
+Iowa,Woodbury,2019,81,30,3,35
+Kansas,Ford,2019,54,12,3,34
+Kansas,Johnson,2019,77,40,3,34
+Kansas,Leavenworth,2019,77,37,3,34
+Kansas,Neosho,2019,119,43,3,34
+Kansas,Sedgwick,2019,95,40,3,34
+Kansas,Shawnee,2019,158,43,3,34
+Kansas,Sherman,2019,43,9,3,34
+Kansas,Sumner,2019,74,40,3,34
+Kansas,Trego,2019,99,36,3,34
+Kansas,Wyandotte,2019,137,41,3,34
+Michigan,Allegan,2019,97,40,3,37
+Michigan,Bay,2019,83,25,3,37
+Michigan,Benzie,2019,93,39,3,37
+Michigan,Berrien,2019,112,39,3,37
+Michigan,Cass,2019,90,42,3,37
+Michigan,Chippewa,2019,62,32,3,37
+Michigan,Clinton,2019,61,38,3,37
+Michigan,Genesee,2019,74,42,3,37
+Michigan,Huron,2019,74,39,3,37
+Michigan,Ingham,2019,75,37,3,37
+Michigan,Kalamazoo,2019,85,41,3,37
+Michigan,Kent,2019,87,38,3,37
+Michigan,Lenawee,2019,90,40,3,37
+Michigan,Macomb,2019,93,39,3,37
+Michigan,Manistee,2019,101,39,3,37
+Michigan,Mason,2019,64,38,3,37
+Michigan,Missaukee,2019,67,39,3,37
+Michigan,Monroe,2019,76,1,3,37
+Michigan,Muskegon,2019,97,40,3,37
+Michigan,Oakland,2019,122,39,3,37
+Michigan,Ottawa,2019,113,40,3,37
+Michigan,Schoolcraft,2019,71,37,3,37
+Michigan,St. Clair,2019,93,39,3,37
+Michigan,Tuscola,2019,77,37,3,37
+Michigan,Washtenaw,2019,88,39,3,37
+Michigan,Wayne,2019,138,52,3,37
+Michigan,Wexford,2019,74,40,3,37
+Minnesota,Anoka,2019,122,41,3,32
+Minnesota,Becker,2019,105,35,3,32
+Minnesota,Beltrami,2019,71,24,3,32
+Minnesota,Carlton,2019,80,31,3,32
+Minnesota,Cass,2019,70,16,3,32
+Minnesota,Cook,2019,47,18,3,32
+Minnesota,Crow Wing,2019,101,31,3,32
+Minnesota,Dakota,2019,76,30,3,32
+Minnesota,Goodhue,2019,97,42,3,32
+Minnesota,Hennepin,2019,84,43,3,32
+Minnesota,Lake,2019,71,32,3,32
+Minnesota,Lyon,2019,85,37,3,32
+Minnesota,Mille Lacs,2019,90,38,3,32
+Minnesota,Olmsted,2019,84,40,3,32
+Minnesota,Ramsey,2019,90,31,3,32
+Minnesota,Saint Louis,2019,84,35,3,32
+Minnesota,Scott,2019,93,40,3,32
+Minnesota,Stearns,2019,93,39,3,32
+Minnesota,Washington,2019,85,4,3,32
+Minnesota,Wright,2019,90,41,3,32
+Missouri,Andrew,2019,80,44,3,44
+Missouri,Boone,2019,71,42,3,44
+Missouri,Buchanan,2019,78,33,3,44
+Missouri,Callaway,2019,71,43,3,44
+Missouri,Cass,2019,93,43,3,44
+Missouri,Cedar,2019,80,42,3,44
+Missouri,Clay,2019,90,44,3,44
+Missouri,Clinton,2019,87,44,3,44
+Missouri,Franklin,2019,60,1,3,44
+Missouri,Greene,2019,77,42,3,44
+Missouri,Iron,2019,80,14,3,44
+Missouri,Jackson,2019,81,38,3,44
+Missouri,Jasper,2019,108,41,3,44
+Missouri,Jefferson,2019,77,42,3,44
+Missouri,Lincoln,2019,80,43,3,44
+Missouri,Monroe,2019,71,38,3,44
+Missouri,New Madrid,2019,200,149,3,44
+Missouri,Perry,2019,74,42,3,44
+Missouri,Saint Charles,2019,97,40,3,44
+Missouri,Saint Louis,2019,90,45,3,44
+Missouri,Sainte Genevieve,2019,58,41,3,44
+Missouri,St. Louis City,2019,105,49,3,44
+Nebraska,Cass,2019,46,12,3,28
+Nebraska,Douglas,2019,86,40,3,28
+Nebraska,Hall,2019,60,23,3,28
+Nebraska,Knox,2019,80,39,3,28
+Nebraska,Lancaster,2019,66,35,3,28
+Nebraska,Sarpy,2019,80,30,3,28
+Nebraska,Scotts Bluff,2019,70,20,3,28
+Nebraska,Washington,2019,75,26,3,28
+North Dakota,Billings,2019,84,36,3,36
+North Dakota,Burke,2019,67,36,3,36
+North Dakota,Burleigh,2019,90,33,3,36
+North Dakota,Cass,2019,156,36,3,36
+North Dakota,Dunn,2019,87,37,3,36
+North Dakota,McKenzie,2019,77,37,3,36
+North Dakota,Mercer,2019,71,38,3,36
+North Dakota,Oliver,2019,84,37,3,36
+North Dakota,Ward,2019,87,31,3,36
+North Dakota,Williams,2019,108,38,3,36
+Ohio,Adams,2019,45,20,3,37
+Ohio,Allen,2019,97,41,3,37
+Ohio,Ashtabula,2019,112,38,3,37
+Ohio,Athens,2019,56,27,3,37
+Ohio,Belmont,2019,64,16,3,37
+Ohio,Butler,2019,107,45,3,37
+Ohio,Clark,2019,101,46,3,37
+Ohio,Clermont,2019,140,44,3,37
+Ohio,Clinton,2019,100,44,3,37
+Ohio,Columbiana,2019,26,1,3,37
+Ohio,Cuyahoga,2019,105,50,3,37
+Ohio,Delaware,2019,84,42,3,37
+Ohio,Fayette,2019,74,39,3,37
+Ohio,Franklin,2019,101,47,3,37
+Ohio,Gallia,2019,105,6,3,37
+Ohio,Geauga,2019,119,44,3,37
+Ohio,Greene,2019,90,42,3,37
+Ohio,Hamilton,2019,119,52,3,37
+Ohio,Harrison,2019,59,2,3,37
+Ohio,Jefferson,2019,123,47,3,37
+Ohio,Knox,2019,93,43,3,37
+Ohio,Lake,2019,115,40,3,37
+Ohio,Lawrence,2019,77,41,3,37
+Ohio,Licking,2019,80,42,3,37
+Ohio,Lorain,2019,71,39,3,37
+Ohio,Lucas,2019,143,42,3,37
+Ohio,Madison,2019,93,43,3,37
+Ohio,Mahoning,2019,84,41,3,37
+Ohio,Medina,2019,78,39,3,37
+Ohio,Miami,2019,77,41,3,37
+Ohio,Montgomery,2019,94,45,3,37
+Ohio,Morgan,2019,21,1,3,37
+Ohio,Noble,2019,74,38,3,37
+Ohio,Portage,2019,87,38,3,37
+Ohio,Preble,2019,93,44,3,37
+Ohio,Scioto,2019,78,14,3,37
+Ohio,Stark,2019,100,47,3,37
+Ohio,Summit,2019,115,43,3,37
+Ohio,Trumbull,2019,100,42,3,37
+Ohio,Warren,2019,122,44,3,37
+Ohio,Washington,2019,87,42,3,37
+Ohio,Wood,2019,87,40,3,37
+South Dakota,Brookings,2019,126,47,3,35
+South Dakota,Brown,2019,77,24,3,35
+South Dakota,Codington,2019,83,27,3,35
+South Dakota,Custer,2019,84,40,3,35
+South Dakota,Hughes,2019,65,14,3,35
+South Dakota,Jackson,2019,61,41,3,35
+South Dakota,Meade,2019,80,37,3,35
+South Dakota,Minnehaha,2019,105,42,3,35
+South Dakota,Pennington,2019,117,35,3,35
+South Dakota,Union,2019,97,40,3,35
+Wisconsin,Ashland,2019,78,36,3,37
+Wisconsin,Brown,2019,97,37,3,37
+Wisconsin,Columbia,2019,71,39,3,37
+Wisconsin,Dane,2019,93,40,3,37
+Wisconsin,Dodge,2019,122,42,3,37
+Wisconsin,Door,2019,112,36,3,37
+Wisconsin,Eau Claire,2019,92,37,3,37
+Wisconsin,Fond du Lac,2019,100,38,3,37
+Wisconsin,Forest,2019,97,37,3,37
+Wisconsin,Grant,2019,104,29,3,37
+Wisconsin,Jefferson,2019,100,40,3,37
+Wisconsin,Kenosha,2019,119,42,3,37
+Wisconsin,Kewaunee,2019,90,38,3,37
+Wisconsin,La Crosse,2019,81,38,3,37
+Wisconsin,Manitowoc,2019,100,37,3,37
+Wisconsin,Marathon,2019,84,36,3,37
+Wisconsin,Milwaukee,2019,101,43,3,37
+Wisconsin,Oneida,2019,52,0,3,37
+Wisconsin,Outagamie,2019,119,38,3,37
+Wisconsin,Ozaukee,2019,108,39,3,37
+Wisconsin,Racine,2019,115,42,3,37
+Wisconsin,Rock,2019,77,40,3,37
+Wisconsin,Sauk,2019,107,37,3,37
+Wisconsin,Sheboygan,2019,108,39,3,37
+Wisconsin,Taylor,2019,85,37,3,37
+Wisconsin,Vilas,2019,90,31,3,37
+Wisconsin,Walworth,2019,112,40,3,37
+Wisconsin,Waukesha,2019,115,41,3,37
+Alabama,Baldwin,2019,80,40,4,40
+Alabama,Clay,2019,67,29,4,40
+Alabama,Colbert,2019,61,38,4,40
+Alabama,DeKalb,2019,77,39,4,40
+Alabama,Elmore,2019,100,41,4,40
+Alabama,Etowah,2019,90,43,4,40
+Alabama,Houston,2019,77,38,4,40
+Alabama,Jefferson,2019,200,51,4,40
+Alabama,Madison,2019,90,44,4,40
+Alabama,Mobile,2019,79,42,4,40
+Alabama,Montgomery,2019,122,51,4,40
+Alabama,Morgan,2019,87,41,4,40
+Alabama,Russell,2019,84,42,4,40
+Alabama,Shelby,2019,119,37,4,40
+Alabama,Sumter,2019,62,34,4,40
+Alabama,Tuscaloosa,2019,59,35,4,40
+Arkansas,Arkansas,2019,77,32,4,37
+Arkansas,Ashley,2019,62,34,4,37
+Arkansas,Benton,2019,83,35,4,37
+Arkansas,Clark,2019,61,33,4,37
+Arkansas,Craighead,2019,61,30,4,37
+Arkansas,Crittenden,2019,101,43,4,37
+Arkansas,Garland,2019,67,37,4,37
+Arkansas,Jackson,2019,73,35,4,37
+Arkansas,Newton,2019,129,37,4,37
+Arkansas,Polk,2019,119,40,4,37
+Arkansas,Pulaski,2019,79,45,4,37
+Arkansas,Union,2019,98,35,4,37
+Arkansas,Washington,2019,96,44,4,37
+Delaware,Kent,2019,83,43,4,43
+Delaware,New Castle,2019,136,44,4,43
+Delaware,Sussex,2019,93,43,4,43
+District Of Columbia,District of Columbia,2019,157,47,4,47
+Florida,Alachua,2019,80,38,4,38
+Florida,Baker,2019,77,37,4,38
+Florida,Bay,2019,85,40,4,38
+Florida,Brevard,2019,90,38,4,38
+Florida,Broward,2019,90,42,4,38
+Florida,Citrus,2019,80,33,4,38
+Florida,Collier,2019,90,39,4,38
+Florida,Columbia,2019,90,42,4,38
+Florida,Duval,2019,97,45,4,38
+Florida,Escambia,2019,101,39,4,38
+Florida,Flagler,2019,74,35,4,38
+Florida,Hamilton,2019,77,33,4,38
+Florida,Highlands,2019,84,38,4,38
+Florida,Hillsborough,2019,126,44,4,38
+Florida,Holmes,2019,84,42,4,38
+Florida,Indian River,2019,90,37,4,38
+Florida,Lake,2019,101,40,4,38
+Florida,Lee,2019,108,39,4,38
+Florida,Leon,2019,119,43,4,38
+Florida,Liberty,2019,74,35,4,38
+Florida,Manatee,2019,108,39,4,38
+Florida,Marion,2019,87,42,4,38
+Florida,Martin,2019,84,40,4,38
+Florida,Miami-Dade,2019,146,40,4,38
+Florida,Nassau,2019,71,30,4,38
+Florida,Okaloosa,2019,84,37,4,38
+Florida,Orange,2019,90,39,4,38
+Florida,Osceola,2019,122,37,4,38
+Florida,Palm Beach,2019,93,38,4,38
+Florida,Pasco,2019,97,40,4,38
+Florida,Pinellas,2019,100,43,4,38
+Florida,Polk,2019,100,40,4,38
+Florida,Putnam,2019,54,16,4,38
+Florida,Santa Rosa,2019,93,40,4,38
+Florida,Sarasota,2019,100,41,4,38
+Florida,Seminole,2019,110,40,4,38
+Florida,St. Lucie,2019,77,36,4,38
+Florida,Volusia,2019,80,39,4,38
+Florida,Wakulla,2019,84,39,4,38
+Georgia,Bibb,2019,137,40,4,40
+Georgia,Chatham,2019,87,40,4,40
+Georgia,Chattooga,2019,71,40,4,40
+Georgia,Clarke,2019,87,44,4,40
+Georgia,Clayton,2019,70,34,4,40
+Georgia,Cobb,2019,119,43,4,40
+Georgia,Coffee,2019,60,26,4,40
+Georgia,Columbia,2019,74,40,4,40
+Georgia,Dawson,2019,126,38,4,40
+Georgia,DeKalb,2019,159,45,4,40
+Georgia,Dougherty,2019,107,44,4,40
+Georgia,Douglas,2019,126,41,4,40
+Georgia,Floyd,2019,89,46,4,40
+Georgia,Fulton,2019,172,51,4,40
+Georgia,Glynn,2019,80,36,4,40
+Georgia,Gwinnett,2019,112,47,4,40
+Georgia,Hall,2019,88,38,4,40
+Georgia,Henry,2019,150,40,4,40
+Georgia,Houston,2019,152,43,4,40
+Georgia,Lowndes,2019,68,37,4,40
+Georgia,Murray,2019,93,44,4,40
+Georgia,Muscogee,2019,90,41,4,40
+Georgia,Pike,2019,93,37,4,40
+Georgia,Richmond,2019,87,47,4,40
+Georgia,Rockdale,2019,129,44,4,40
+Georgia,Sumter,2019,97,40,4,40
+Georgia,Walker,2019,82,36,4,40
+Georgia,Washington,2019,61,30,4,40
+Kentucky,Bell,2019,65,40,4,35
+Kentucky,Boone,2019,54,38,4,35
+Kentucky,Boyd,2019,66,34,4,35
+Kentucky,Bullitt,2019,58,39,4,35
+Kentucky,Campbell,2019,69,36,4,35
+Kentucky,Carter,2019,52,32,4,35
+Kentucky,Christian,2019,72,38,4,35
+Kentucky,Daviess,2019,156,38,4,35
+Kentucky,Edmonson,2019,77,41,4,35
+Kentucky,Fayette,2019,67,40,4,35
+Kentucky,Greenup,2019,49,1,4,35
+Kentucky,Hancock,2019,48,40,4,35
+Kentucky,Hardin,2019,61,33,4,35
+Kentucky,Henderson,2019,120,33,4,35
+Kentucky,Jefferson,2019,93,49,4,35
+Kentucky,Jessamine,2019,48,0,4,35
+Kentucky,Livingston,2019,58,33,4,35
+Kentucky,McCracken,2019,66,39,4,35
+Kentucky,Morgan,2019,80,38,4,35
+Kentucky,Oldham,2019,51,39,4,35
+Kentucky,Perry,2019,77,37,4,35
+Kentucky,Pike,2019,62,32,4,35
+Kentucky,Pulaski,2019,63,37,4,35
+Kentucky,Simpson,2019,58,40,4,35
+Kentucky,Trigg,2019,74,39,4,35
+Kentucky,Warren,2019,73,35,4,35
+Kentucky,Washington,2019,71,40,4,35
+Louisiana,Ascension,2019,101,34,4,35
+Louisiana,Bossier,2019,84,35,4,35
+Louisiana,Caddo,2019,80,37,4,35
+Louisiana,Calcasieu,2019,90,46,4,35
+Louisiana,East Baton Rouge,2019,108,42,4,35
+Louisiana,Iberville,2019,115,37,4,35
+Louisiana,Jefferson,2019,84,39,4,35
+Louisiana,Lafayette,2019,84,42,4,35
+Louisiana,Lafourche,2019,126,43,4,35
+Louisiana,Livingston,2019,97,42,4,35
+Louisiana,Orleans,2019,89,30,4,35
+Louisiana,Ouachita,2019,71,36,4,35
+Louisiana,Pointe Coupee,2019,112,34,4,35
+Louisiana,Rapides,2019,71,29,4,35
+Louisiana,St. Bernard,2019,87,44,4,35
+Louisiana,St. Charles,2019,76,3,4,35
+Louisiana,St. James,2019,97,30,4,35
+Louisiana,St. John the Baptist,2019,93,34,4,35
+Louisiana,St. Martin,2019,80,34,4,35
+Louisiana,St. Tammany,2019,84,38,4,35
+Louisiana,Tangipahoa,2019,63,30,4,35
+Louisiana,Terrebonne,2019,70,28,4,35
+Louisiana,West Baton Rouge,2019,84,37,4,35
+Maryland,Allegany,2019,152,7,4,39
+Maryland,Anne Arundel,2019,143,44,4,39
+Maryland,Baltimore,2019,150,43,4,39
+Maryland,Baltimore (City),2019,126,40,4,39
+Maryland,Calvert,2019,67,41,4,39
+Maryland,Carroll,2019,84,43,4,39
+Maryland,Cecil,2019,150,42,4,39
+Maryland,Charles,2019,71,42,4,39
+Maryland,Dorchester,2019,101,41,4,39
+Maryland,Frederick,2019,84,44,4,39
+Maryland,Garrett,2019,71,39,4,39
+Maryland,Harford,2019,133,44,4,39
+Maryland,Howard,2019,76,31,4,39
+Maryland,Kent,2019,93,38,4,39
+Maryland,Montgomery,2019,84,40,4,39
+Maryland,Prince George's,2019,122,44,4,39
+Maryland,Washington,2019,81,41,4,39
+Mississippi,Bolivar,2019,80,43,4,39
+Mississippi,DeSoto,2019,136,39,4,39
+Mississippi,Forrest,2019,75,35,4,39
+Mississippi,Hancock,2019,71,39,4,39
+Mississippi,Harrison,2019,97,42,4,39
+Mississippi,Hinds,2019,100,43,4,39
+Mississippi,Jackson,2019,105,40,4,39
+Mississippi,Lauderdale,2019,77,37,4,39
+Mississippi,Lee,2019,84,40,4,39
+Mississippi,Yalobusha,2019,71,34,4,39
+North Carolina,Alexander,2019,80,43,4,39
+North Carolina,Avery,2019,77,40,4,39
+North Carolina,Beaufort,2019,17,0,4,39
+North Carolina,Brunswick,2019,101,0,4,39
+North Carolina,Buncombe,2019,84,42,4,39
+North Carolina,Caldwell,2019,74,43,4,39
+North Carolina,Carteret,2019,80,44,4,39
+North Carolina,Caswell,2019,64,40,4,39
+North Carolina,Catawba,2019,71,34,4,39
+North Carolina,Cumberland,2019,84,44,4,39
+North Carolina,Davidson,2019,73,36,4,39
+North Carolina,Durham,2019,87,44,4,39
+North Carolina,Edgecombe,2019,71,41,4,39
+North Carolina,Forsyth,2019,90,45,4,39
+North Carolina,Graham,2019,97,45,4,39
+North Carolina,Granville,2019,87,44,4,39
+North Carolina,Guilford,2019,90,44,4,39
+North Carolina,Haywood,2019,108,45,4,39
+North Carolina,Jackson,2019,62,21,4,39
+North Carolina,Johnston,2019,87,43,4,39
+North Carolina,Lenoir,2019,87,43,4,39
+North Carolina,Lincoln,2019,97,45,4,39
+North Carolina,Macon,2019,87,37,4,39
+North Carolina,Martin,2019,74,41,4,39
+North Carolina,Mecklenburg,2019,136,46,4,39
+North Carolina,Mitchell,2019,59,24,4,39
+North Carolina,Montgomery,2019,71,40,4,39
+North Carolina,New Hanover,2019,80,38,4,39
+North Carolina,Northampton,2019,58,36,4,39
+North Carolina,Person,2019,92,43,4,39
+North Carolina,Pitt,2019,87,41,4,39
+North Carolina,Rockingham,2019,84,44,4,39
+North Carolina,Rowan,2019,100,44,4,39
+North Carolina,Swain,2019,90,39,4,39
+North Carolina,Union,2019,105,46,4,39
+North Carolina,Wake,2019,93,48,4,39
+North Carolina,Yancey,2019,87,45,4,39
+South Carolina,Aiken,2019,97,42,4,40
+South Carolina,Anderson,2019,108,44,4,40
+South Carolina,Berkeley,2019,100,40,4,40
+South Carolina,Charleston,2019,140,40,4,40
+South Carolina,Chesterfield,2019,90,44,4,40
+South Carolina,Colleton,2019,32,29,4,40
+South Carolina,Darlington,2019,100,44,4,40
+South Carolina,Edgefield,2019,88,42,4,40
+South Carolina,Florence,2019,70,32,4,40
+South Carolina,Georgetown,2019,52,14,4,40
+South Carolina,Greenville,2019,101,46,4,40
+South Carolina,Horry,2019,97,44,4,40
+South Carolina,Lexington,2019,66,31,4,40
+South Carolina,Oconee,2019,105,43,4,40
+South Carolina,Pickens,2019,93,46,4,40
+South Carolina,Richland,2019,136,44,4,40
+South Carolina,Spartanburg,2019,105,46,4,40
+South Carolina,York,2019,133,43,4,40
+Tennessee,Anderson,2019,87,39,4,37
+Tennessee,Blount,2019,101,42,4,37
+Tennessee,Claiborne,2019,80,38,4,37
+Tennessee,Davidson,2019,74,43,4,37
+Tennessee,DeKalb,2019,80,38,4,37
+Tennessee,Dyer,2019,60,26,4,37
+Tennessee,Hamilton,2019,97,46,4,37
+Tennessee,Jefferson,2019,90,44,4,37
+Tennessee,Knox,2019,84,42,4,37
+Tennessee,Lawrence,2019,60,25,4,37
+Tennessee,Loudon,2019,80,42,4,37
+Tennessee,Madison,2019,57,24,4,37
+Tennessee,Maury,2019,61,25,4,37
+Tennessee,McMinn,2019,65,29,4,37
+Tennessee,Montgomery,2019,63,26,4,37
+Tennessee,Putnam,2019,63,23,4,37
+Tennessee,Roane,2019,71,27,4,37
+Tennessee,Sevier,2019,87,45,4,37
+Tennessee,Shelby,2019,90,44,4,37
+Tennessee,Sullivan,2019,121,50,4,37
+Tennessee,Sumner,2019,87,40,4,37
+Tennessee,Williamson,2019,71,43,4,37
+Tennessee,Wilson,2019,74,41,4,37
+Virginia,Albemarle,2019,67,40,4,31
+Virginia,Alexandria City,2019,16,5,4,31
+Virginia,Arlington,2019,112,39,4,31
+Virginia,Botetourt,2019,71,0,4,31
+Virginia,Bristol City,2019,68,27,4,31
+Virginia,Caroline,2019,71,40,4,31
+Virginia,Carroll,2019,18,10,4,31
+Virginia,Charles,2019,84,37,4,31
+Virginia,Chesterfield,2019,87,39,4,31
+Virginia,Covington City,2019,121,7,4,31
+Virginia,Fairfax,2019,101,41,4,31
+Virginia,Fauquier,2019,64,37,4,31
+Virginia,Frederick,2019,93,38,4,31
+Virginia,Giles,2019,134,37,4,31
+Virginia,Hampton City,2019,84,39,4,31
+Virginia,Hanover,2019,74,43,4,31
+Virginia,Henrico,2019,100,37,4,31
+Virginia,Hopewell City,2019,16,9,4,31
+Virginia,Loudoun,2019,74,38,4,31
+Virginia,Lynchburg City,2019,55,26,4,31
+Virginia,Madison,2019,67,42,4,31
+Virginia,Norfolk City,2019,61,20,4,31
+Virginia,Prince Edward,2019,67,36,4,31
+Virginia,Prince William,2019,67,38,4,31
+Virginia,Richmond City,2019,76,33,4,31
+Virginia,Roanoke,2019,71,38,4,31
+Virginia,Rockbridge,2019,71,40,4,31
+Virginia,Rockingham,2019,65,39,4,31
+Virginia,Salem City,2019,60,26,4,31
+Virginia,Stafford,2019,67,39,4,31
+Virginia,Suffolk City,2019,97,44,4,31
+Virginia,Virginia Beach City,2019,62,28,4,31
+Virginia,Winchester City,2019,23,8,4,31
+Virginia,Wythe,2019,71,44,4,31
+West Virginia,Berkeley,2019,74,40,4,30
+West Virginia,Brooke,2019,112,18,4,30
+West Virginia,Cabell,2019,71,40,4,30
+West Virginia,Gilmer,2019,58,34,4,30
+West Virginia,Greenbrier,2019,84,43,4,30
+West Virginia,Hancock,2019,93,39,4,30
+West Virginia,Harrison,2019,55,28,4,30
+West Virginia,Kanawha,2019,93,42,4,30
+West Virginia,Marion,2019,55,28,4,30
+West Virginia,Marshall,2019,74,4,4,30
+West Virginia,Mason,2019,103,3,4,30
+West Virginia,Mineral,2019,161,3,4,30
+West Virginia,Monongalia,2019,74,39,4,30
+West Virginia,Ohio,2019,67,42,4,30
+West Virginia,Tucker,2019,61,39,4,30
+West Virginia,Wood,2019,87,38,4,30
+Connecticut,Fairfield,2019,119,43,5,41
+Connecticut,Hartford,2019,91,41,5,41
+Connecticut,Litchfield,2019,90,40,5,41
+Connecticut,Middlesex,2019,67,41,5,41
+Connecticut,New Haven,2019,147,41,5,41
+Connecticut,New London,2019,129,39,5,41
+Connecticut,Tolland,2019,100,44,5,41
+Connecticut,Windham,2019,97,39,5,41
+Maine,Androscoggin,2019,68,33,5,36
+Maine,Aroostook,2019,174,35,5,36
+Maine,Cumberland,2019,100,40,5,36
+Maine,Hancock,2019,105,38,5,36
+Maine,Kennebec,2019,64,33,5,36
+Maine,Knox,2019,84,37,5,36
+Maine,Oxford,2019,68,32,5,36
+Maine,Penobscot,2019,86,33,5,36
+Maine,Washington,2019,71,36,5,36
+Maine,York,2019,115,39,5,36
+Massachusetts,Barnstable,2019,93,39,5,40
+Massachusetts,Berkshire,2019,87,40,5,40
+Massachusetts,Bristol,2019,97,42,5,40
+Massachusetts,Dukes,2019,126,42,5,40
+Massachusetts,Essex,2019,122,40,5,40
+Massachusetts,Franklin,2019,87,39,5,40
+Massachusetts,Hampden,2019,93,41,5,40
+Massachusetts,Hampshire,2019,93,40,5,40
+Massachusetts,Middlesex,2019,80,40,5,40
+Massachusetts,Norfolk,2019,100,37,5,40
+Massachusetts,Plymouth,2019,90,39,5,40
+Massachusetts,Suffolk,2019,87,39,5,40
+Massachusetts,Worcester,2019,93,43,5,40
+New Hampshire,Belknap,2019,50,38,5,38
+New Hampshire,Cheshire,2019,68,38,5,38
+New Hampshire,Coos,2019,51,40,5,38
+New Hampshire,Grafton,2019,60,36,5,38
+New Hampshire,Hillsborough,2019,80,41,5,38
+New Hampshire,Merrimack,2019,72,33,5,38
+New Hampshire,Rockingham,2019,75,40,5,38
+New Jersey,Atlantic,2019,105,40,5,41
+New Jersey,Bergen,2019,150,46,5,41
+New Jersey,Camden,2019,105,44,5,41
+New Jersey,Cumberland,2019,105,41,5,41
+New Jersey,Essex,2019,100,41,5,41
+New Jersey,Gloucester,2019,100,37,5,41
+New Jersey,Hudson,2019,90,42,5,41
+New Jersey,Hunterdon,2019,108,40,5,41
+New Jersey,Mercer,2019,136,42,5,41
+New Jersey,Middlesex,2019,105,41,5,41
+New Jersey,Monmouth,2019,90,38,5,41
+New Jersey,Morris,2019,84,39,5,41
+New Jersey,Ocean,2019,97,40,5,41
+New Jersey,Passaic,2019,80,40,5,41
+New Jersey,Union,2019,100,43,5,41
+New Jersey,Warren,2019,103,38,5,41
+New York,Albany,2019,92,39,5,33
+New York,Bronx,2019,115,41,5,33
+New York,Chautauqua,2019,105,40,5,33
+New York,Dutchess,2019,90,37,5,33
+New York,Erie,2019,93,40,5,33
+New York,Essex,2019,80,44,5,33
+New York,Franklin,2019,1,0,5,33
+New York,Hamilton,2019,109,36,5,33
+New York,Herkimer,2019,45,30,5,33
+New York,Jefferson,2019,64,35,5,33
+New York,Kings,2019,66,27,5,33
+New York,Monroe,2019,90,37,5,33
+New York,Nassau,2019,68,21,5,33
+New York,New York,2019,136,42,5,33
+New York,Niagara,2019,80,37,5,33
+New York,Oneida,2019,55,17,5,33
+New York,Onondaga,2019,77,39,5,33
+New York,Orange,2019,74,38,5,33
+New York,Oswego,2019,67,36,5,33
+New York,Putnam,2019,101,37,5,33
+New York,Queens,2019,119,41,5,33
+New York,Richmond,2019,97,39,5,33
+New York,Rockland,2019,112,38,5,33
+New York,Saratoga,2019,58,35,5,33
+New York,Seneca,2019,115,0,5,33
+New York,St. Lawrence,2019,104,17,5,33
+New York,Steuben,2019,62,37,5,33
+New York,Suffolk,2019,150,43,5,33
+New York,Tompkins,2019,61,37,5,33
+New York,Wayne,2019,90,39,5,33
+New York,Westchester,2019,105,38,5,33
+Pennsylvania,Adams,2019,80,43,5,39
+Pennsylvania,Allegheny,2019,161,55,5,39
+Pennsylvania,Armstrong,2019,71,39,5,39
+Pennsylvania,Beaver,2019,132,45,5,39
+Pennsylvania,Berks,2019,165,43,5,39
+Pennsylvania,Blair,2019,90,42,5,39
+Pennsylvania,Bradford,2019,75,39,5,39
+Pennsylvania,Bucks,2019,136,39,5,39
+Pennsylvania,Cambria,2019,84,39,5,39
+Pennsylvania,Centre,2019,91,44,5,39
+Pennsylvania,Chester,2019,115,44,5,39
+Pennsylvania,Clearfield,2019,61,37,5,39
+Pennsylvania,Cumberland,2019,150,40,5,39
+Pennsylvania,Dauphin,2019,158,42,5,39
+Pennsylvania,Delaware,2019,131,44,5,39
+Pennsylvania,Elk,2019,80,39,5,39
+Pennsylvania,Erie,2019,93,37,5,39
+Pennsylvania,Fayette,2019,67,39,5,39
+Pennsylvania,Franklin,2019,80,39,5,39
+Pennsylvania,Greene,2019,58,35,5,39
+Pennsylvania,Indiana,2019,93,41,5,39
+Pennsylvania,Lackawanna,2019,80,39,5,39
+Pennsylvania,Lancaster,2019,157,46,5,39
+Pennsylvania,Lawrence,2019,54,32,5,39
+Pennsylvania,Lebanon,2019,142,43,5,39
+Pennsylvania,Lehigh,2019,119,40,5,39
+Pennsylvania,Luzerne,2019,77,37,5,39
+Pennsylvania,Lycoming,2019,67,37,5,39
+Pennsylvania,Mercer,2019,93,42,5,39
+Pennsylvania,Monroe,2019,80,38,5,39
+Pennsylvania,Montgomery,2019,129,35,5,39
+Pennsylvania,Northampton,2019,114,42,5,39
+Pennsylvania,Philadelphia,2019,136,43,5,39
+Pennsylvania,Somerset,2019,80,39,5,39
+Pennsylvania,Susquehanna,2019,70,24,5,39
+Pennsylvania,Tioga,2019,63,38,5,39
+Pennsylvania,Warren,2019,120,10,5,39
+Pennsylvania,Washington,2019,110,44,5,39
+Pennsylvania,Westmoreland,2019,93,39,5,39
+Pennsylvania,York,2019,93,41,5,39
+Rhode Island,Kent,2019,84,39,5,41
+Rhode Island,Providence,2019,84,43,5,41
+Rhode Island,Washington,2019,108,40,5,41
+Vermont,Bennington,2019,68,39,5,39
+Vermont,Chittenden,2019,80,40,5,39
+Vermont,Rutland,2019,77,39,5,39
+Puerto Rico,Adjuntas,2019,58,18,6,27
+Puerto Rico,Bayamon,2019,95,15,6,27
+Puerto Rico,Caguas,2019,67,9,6,27
+Puerto Rico,Catano,2019,396,88,6,27
+Puerto Rico,Fajardo,2019,66,21,6,27
+Puerto Rico,Guayama,2019,96,6,6,27
+Puerto Rico,Guaynabo,2019,105,22,6,27
+Puerto Rico,Mayagnez,2019,76,41,6,27
+Puerto Rico,Ponce,2019,136,39,6,27
+Puerto Rico,San Juan,2019,30,13,6,27
+Virgin Islands,St Croix,2019,71,18,6,22
+Virgin Islands,St Thomas,2019,91,25,6,22
