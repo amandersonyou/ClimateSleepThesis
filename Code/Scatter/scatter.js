@@ -1,4 +1,5 @@
 // Scatterplot for thesis project. Looks at county and state max and median AQI values from 1980-2019 at 10 year increments.
+// Data Source: https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual
 // require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.js
 
 var aqiData
@@ -12,31 +13,29 @@ function preload() {
 
 
 function setup() {
-    let c = createCanvas(1500, 1500)
+    let c = createCanvas(1500, 1310)
     background('#DBD3D1');
-    // noStroke();
     noLoop();
     ellipseMode();
 
-
-    var medianHue = (127,184,177); // seafoam green
-    var oaMedianHue = (75,139,167); // medium green blue
-    var maxHue = (227,84,43) // red-orange
-    var columnWidth = 15;
     var table = aqiData
     var regDia = 7;
     var featureDia = 13;
     y = 1300
 
 
-    // fill(0);
-    // stroke(0);
-    // strokeWeight(3);
     //bottom x axis line
     line(10, 1300, 1300, 1300);
     // y axis line
     line(10, 10, 10, 1300);
 
+    // background tints to be done in Ai
+    // 0-50 = good
+    // 51-100 = moderate
+    // 101-150 = unhealthy for sensitive groups
+    // 151-200 = unhealthy
+    // 201-300 = very unhealthy
+    // 301-500 = hazardous
 
 
 
@@ -76,6 +75,10 @@ from csv file: start row value is actual row -2, end row value is one less than 
 plotData("Alaska", 20, 0, 6);
 plotData("California", 40, 6, 59);
 plotData("Colorado", 60, 59, 84);
-plotData("Hawaii", 80, );
-// plotData("Idaho", 120, 95);
+plotData("Hawaii", 80, 84, 88);
+plotData("Idaho", 100, 88, 108);
+plotData("Montana", 120, 108, 123);
+
+
 }
+
