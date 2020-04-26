@@ -12,9 +12,9 @@ function preload() {
 
 
 function setup() {
-    let c = createCanvas(800, 800)
-    // background('#DBD3D1');
-    noStroke();
+    let c = createCanvas(1500, 1500)
+    background('#DBD3D1');
+    // noStroke();
     noLoop();
     ellipseMode();
 
@@ -24,42 +24,58 @@ function setup() {
     var maxHue = (227,84,43) // red-orange
     var columnWidth = 15;
     var table = aqiData
-    var regDia = 6;
-    var featureDia = 10;
+    var regDia = 7;
+    var featureDia = 13;
+    y = 1300
+
 
     // fill(0);
     // stroke(0);
     // strokeWeight(3);
-    // line(50, 1000, 1000, 1000);
-    // noStroke();
+    //bottom x axis line
+    line(10, 1300, 1300, 1300);
+    // y axis line
+    line(10, 10, 10, 1300);
 
-    // draw medians for just Alaska
-    x = 50
-    y = 800
-    fill(127,184,177)
-    for (var r=0; r<table.getRowCount(); r++){
-        if (table.getString(r, 0) == "Alaska")
-            var medianVal = (table.getNum(r, 4)*10);
-            fill(127,184,177)
-            ellipse(x, 1000 - medianVal, regDia, regDia);
-            // plot max value
-        if (table.getString(r, 0) == "Alaska")
-            var maxVal = (table.getNum(r, 3)*10);
-            fill(227,84,43);
-            ellipse(x, 1000 - maxVal, regDia, regDia);
-            
 
-    }
 
+
+function plotData(state, colX, startR, endR) {
+    strokeWeight(1);
+    noFill();
+    for (var r=startR; r<endR; r++){
+        if (table.getString(r, 0) == state)
+            var medianVal = (table.getNum(r, 4)*3);
+            console.log(medianVal);
+            stroke(127,184,177)
+            ellipse(colX, y - medianVal, regDia, regDia);
+    };
+    // plot max value
+    for (var r=startR; r<endR; r++){
+        if (table.getString(r, 0) == state)
+            var maxVal = (table.getNum(r, 3)*3);
+            console.log(maxVal);
+            stroke(227,84,43);
+            ellipse(colX, y - maxVal, regDia, regDia);
+    };
     // plot overall median
-    for (var r=1; r<2; r++){
-        if (table.getString(r, 0) == "Alaska")
-        var oaMed = (table.getNum(r, 6)*10);
-        fill(75,139,167);
-        ellipse(x, 1000 - oaMed, featureDia, featureDia);
-    }
+    // noStroke();
+    for (var r=startR; r<startR+1; r++){
+        stroke(75,139,167);
+        strokeWeight(2);
+        if (table.getString(r, 0) == state)
+        var oaMed = (table.getNum(r, 6)*3);
+        console.log(oaMed);
+        fill(75,139,167,120);
+        ellipse(colX, y - oaMed, featureDia, featureDia);
+    };
+}
 
-
-
-
+/* parameters: state name, x placement on graph (increase by 20 each state),
+from csv file: start row value is actual row -2, end row value is one less than last state shown */
+plotData("Alaska", 20, 0, 6);
+plotData("California", 40, 6, 59);
+plotData("Colorado", 60, 59, 84);
+plotData("Hawaii", 80, );
+// plotData("Idaho", 120, 95);
 }
