@@ -1,100 +1,84 @@
-// Scatterplot for thesis project. Looks at county and state max and median AQI values from 1980-2019 at 10 year increments.
+// 2019 Scatterplot for thesis project. Looks at county and state max and median AQI values from 1980-2019 at 10 year increments.
 // Data Source: https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual
 // require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.js
 
-var aqiData
 
+var aqiData
 
 function preload() {
     aqiData = loadTable('/Data/EPA/scatter/AQI_2019_min.csv', 'csv', 'header');
-    myFont = loadFont('/Assets/Barlow/Barlow-Light.ttf');
-    myFontTitle = loadFont('/Assets/Playfair_Display/PlayfairDisplay-VariableFont_wght.ttf');
 }
 
-
 function setup() {
-    let c = createCanvas(1500, 1310)
+    let c = createCanvas(1100, 1360)
     background('#DBD3D1');
     noLoop();
     ellipseMode();
+    stroke(75);
+    strokeWeight(.75);
 
     var table = aqiData
     var regDia = 7;
     var featureDia = 13;
-    y = 1300
+    y = 1250
+
+// Draw plot lines
+    //x axis
+    line(10, y, 1070, y);
+    // y axis
+    line(10, 10, 10, y);
+    // markers between regions (changes based on year and states recorded in csv)
+    line(230, y, 230, y+20);
+    line(310, y, 310, y+20);
+    line(550, y, 550, y+20);
+    line(850, y, 850, y+20);
+    line(1030, y, 1030, y+20);
+    
+    // tick mark lines on y-axis:
+    for (i = 1; i < 22; i++) {
+        line(5, (y-(60*i)), 10, (y-(60*i)));
+    }
+
+    // vertical lines behind the data
+    stroke(255);
+    for (i = 0; i < 54; i++) {
+        line(i*20, y, i*20, 10);
+    }
 
 
-    //bottom x axis line
-    line(10, 1300, 1300, 1300);
-    // y axis line
-    line(10, 10, 10, 1300);
-    // tick marks, every 20 AQI points by moving 60px (data multiplied by 3)
-    line(5, 1230, 10, 1230);
-    line(5, 1170, 10, 1170);
-    line(5, 1110, 10, 1110);
-    line(5, 1170, 10, 1170);
-    line(5, 1050, 10, 1050);
-    line(5, 990, 10, 990);
-    line(5, 930, 10, 930);
-    line(5, 870, 10, 870);
-    line(5, 810, 10, 810);
-    line(5, 750, 10, 750);
-    line(5, 690, 10, 690);
-    line(5, 630, 10, 630);
-    line(5, 570, 10, 570);
-    line(5, 510, 10, 510);
-    line(5, 450, 10, 450);
-    line(5, 390, 10, 390);
-    line(5, 330, 10, 330);
-    line(5, 270, 10, 270);
-    line(5, 210, 10, 210);
-    line(5, 150, 10, 150);
-    line(5, 90, 10, 90);
-    line(5, 30, 10, 30);
 
-
-    // markers between regions
-    line(230, 1300, 230, 1310);
-    line(310, 1300, 310, 1310);
-    line(550, 1300, 550, 1310);
-
-    // background tints to be done in Ai
-    // 0-50 = good
-    // 51-100 = moderate
-    // 101-150 = unhealthy for sensitive groups
-    // 151-200 = unhealthy
-    // 201-300 = very unhealthy
-    // 301-500 = hazardous
-
-
+/* Function to read csv data and plot data points for all median and max AQI values for a specific 
+state per column. Also plot the overall median per state as larger point.*/
 
 function plotData(state, colX, startR, endR) {
     strokeWeight(1);
     noFill();
+    // plot median values
     for (var r=startR; r<endR; r++){
         if (table.getString(r, 0) == state)
             var medianVal = (table.getNum(r, 4)*3);
-            console.log(medianVal);
-            stroke(127,184,177)
+            // console.log(medianVal);
+            stroke(127,184,177) // robin egg blue, #7FB8B1
             ellipse(colX, y - medianVal, regDia, regDia);
     };
-    // plot max value
+
+    // plot max values
     for (var r=startR; r<endR; r++){
         if (table.getString(r, 0) == state)
             var maxVal = (table.getNum(r, 3)*3);
-            console.log(maxVal);
-            stroke(227,84,43);
+            // console.log(maxVal);
+            stroke(6,42,120); // dark blue, #062A78
             ellipse(colX, y - maxVal, regDia, regDia);
     };
-    // plot overall median
-    // noStroke();
+
+    // plot overall averaged median per state
     for (var r=startR; r<startR+1; r++){
         stroke(75,139,167);
         strokeWeight(2);
         if (table.getString(r, 0) == state)
         var oaMed = (table.getNum(r, 6)*3);
-        console.log(oaMed);
-        fill(75,139,167,120);
+        // console.log(oaMed);
+        fill(75,139,167,120); // medium blue #4B8BA7
         ellipse(colX, y - oaMed, featureDia, featureDia);
     };
 }
@@ -137,6 +121,58 @@ plotData("Wisconsin", 540, 542, 570);
 
 // Southeast Region 4
 plotData("Alabama", 560, 570, 586);
+plotData("Arkansas", 580, 586, 599);
+plotData("Delaware", 600, 599, 602);
+plotData("District Of Columbia", 620, 602, 603);
+plotData("Florida", 640, 603, 642);
+plotData("Georgia", 660, 642, 670);
+plotData("Kentucky", 680, 670, 697);
+plotData("Louisiana", 700, 697, 720);
+plotData("Maryland", 720, 720, 737);
+plotData("Mississippi", 740, 737, 747);
+plotData("North Carolina", 760, 747, 784);
+plotData("South Carolina", 780, 784, 802);
+plotData("Tennessee", 800, 802, 825);
+plotData("Virginia", 820, 825, 859);
+plotData("West Virginia", 840, 859, 875);
 
+// Northeast Region 5
+plotData("Connecticut", 860, 875, 883);
+plotData("Maine", 880, 883, 893);
+plotData("Massachusetts", 900, 893, 906);
+plotData("New Hampshire", 920, 906, 913);
+plotData("New Jersey", 940, 913, 929);
+plotData("New York", 960, 929, 960);
+plotData("Pennsylvania", 980, 960, 1000);
+plotData("Rhode Island", 1000, 1000, 1003);
+plotData("Vermont", 1020, 1003, 1006);
+
+// Islands Region 6
+plotData("Puerto Rico", 1040, 1006, 1016);
+plotData("Virgin Islands", 1060, 1016, 1018);
+
+
+//   saveCanvas(c, 'scatter2019_AQI', 'png');
 }
 
+
+
+
+
+/* Detailed to be done in Adobe Illustrator 
+
+Transparent background tints:
+0-50 = good
+51-100 = moderate
+101-150 = unhealthy for sensitive groups
+151-200 = unhealthy
+201-300 = very unhealthy
+301-500 = hazardous
+
+Outlier notes: 394 in Archuleta, Colorado due to prescribed forest burning: 
+https://www.coloradoan.com/story/news/2019/10/17/air-quality-northern-colorado-compromised-due-elk-fire/4007261002/
+
+3852 in Mono California,  886 in Pinal Arizona, 630 in Dona Ana, New Mexico, and 617 in Luna, New Mexico 
+not plotted, add each with breaks in axis. Plot goes to 400 AQI. 
+
+*/
