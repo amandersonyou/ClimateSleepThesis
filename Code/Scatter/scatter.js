@@ -10,7 +10,8 @@ function preload() {
 }
 
 function setup() {
-    let c = createCanvas(1100, 1360)
+    // let c = createCanvas(1100, 1360) // original
+    let c = createCanvas(1100, 3060)
     // background('#e9e4e2');
     ellipseMode();
     stroke('#222323');
@@ -19,7 +20,8 @@ function setup() {
     var table = aqiData
     var regDia = 10;
     var featureDia = 15;
-    y = 1250
+    // y = 1250 // original
+    y = 3000
 
 // Draw plot lines
     //x axis
@@ -34,7 +36,7 @@ function setup() {
     // line(1030, y, 1030, y+5);
     
     // tick mark lines on y-axis:
-    for (i = 1; i < 22; i++) {
+    for (i = 1; i < 50; i++) {
         line(5, (y-(60*i)), 10, (y-(60*i)));
     }
 
