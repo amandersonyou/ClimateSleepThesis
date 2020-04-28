@@ -11,15 +11,14 @@ function preload() {
 
 function setup() {
     let c = createCanvas(1100, 1360)
-    background('#DBD3D1');
-    noLoop();
+    // background('#e9e4e2');
     ellipseMode();
-    stroke(75);
+    stroke('#222323');
     strokeWeight(.75);
 
     var table = aqiData
-    var regDia = 7;
-    var featureDia = 13;
+    var regDia = 10;
+    var featureDia = 15;
     y = 1250
 
 // Draw plot lines
@@ -28,11 +27,11 @@ function setup() {
     // y axis
     line(10, 10, 10, y);
     // markers between regions (changes based on year and states recorded in csv)
-    line(230, y, 230, y+20);
-    line(310, y, 310, y+20);
-    line(550, y, 550, y+20);
-    line(850, y, 850, y+20);
-    line(1030, y, 1030, y+20);
+    line(230, y, 230, y+5);
+    line(310, y, 310, y+5);
+    line(550, y, 550, y+5);
+    line(890, y, 890, y+5);
+    // line(1030, y, 1030, y+5);
     
     // tick mark lines on y-axis:
     for (i = 1; i < 22; i++) {
@@ -45,13 +44,20 @@ function setup() {
         line(i*20, y, i*20, 10);
     }
 
+    // background lines for sectioning AQI
+    line(10, (y-150), 1070, (y-150));// 0-50 = good
+    line(10, (y-300), 1070, (y-300)); // 51-100 = moderate
+    line(10, (y-450), 1070, (y-450)); // 101-150 = unhealthy for sensitive groups
+    line(10, (y-600), 1070, (y-600)); // 151-200 = unhealthy
+    line(10, (y-900), 1070, (y-900)); // 201-300 = very unhealthy
+    // beyond: 301 = hazardous
 
 
 /* Function to read csv data and plot data points for all median and max AQI values for a specific 
 state per column. Also plot the overall median per state as larger point.*/
 
 function plotData(state, colX, startR, endR) {
-    strokeWeight(1);
+    strokeWeight(1.5);
     noFill();
     // plot median values
     for (var r=startR; r<endR; r++){
@@ -67,7 +73,7 @@ function plotData(state, colX, startR, endR) {
         if (table.getString(r, 0) == state)
             var maxVal = (table.getNum(r, 3)*3);
             // console.log(maxVal);
-            stroke(6,42,120); // dark blue, #062A78
+            stroke(41,86,101); // #295665 dark teal
             ellipse(colX, y - maxVal, regDia, regDia);
     };
 
@@ -135,21 +141,20 @@ plotData("South Carolina", 780, 784, 802);
 plotData("Tennessee", 800, 802, 825);
 plotData("Virginia", 820, 825, 859);
 plotData("West Virginia", 840, 859, 875);
+plotData("Puerto Rico", 860, 1006, 1016);
+plotData("Virgin Islands", 880, 1016, 1018);
 
 // Northeast Region 5
-plotData("Connecticut", 860, 875, 883);
-plotData("Maine", 880, 883, 893);
-plotData("Massachusetts", 900, 893, 906);
-plotData("New Hampshire", 920, 906, 913);
-plotData("New Jersey", 940, 913, 929);
-plotData("New York", 960, 929, 960);
-plotData("Pennsylvania", 980, 960, 1000);
-plotData("Rhode Island", 1000, 1000, 1003);
-plotData("Vermont", 1020, 1003, 1006);
+plotData("Connecticut", 900, 875, 883);
+plotData("Maine", 920, 883, 893);
+plotData("Massachusetts", 940, 893, 906);
+plotData("New Hampshire", 960, 906, 913);
+plotData("New Jersey", 980, 913, 929);
+plotData("New York", 1000, 929, 960);
+plotData("Pennsylvania", 1020, 960, 1000);
+plotData("Rhode Island", 1040, 1000, 1003);
+plotData("Vermont", 1060, 1003, 1006);
 
-// Islands Region 6
-plotData("Puerto Rico", 1040, 1006, 1016);
-plotData("Virgin Islands", 1060, 1016, 1018);
 
 
 //   saveCanvas(c, 'scatter2019_AQI', 'png');
@@ -161,13 +166,7 @@ plotData("Virgin Islands", 1060, 1016, 1018);
 
 /* Detailed to be done in Adobe Illustrator 
 
-Transparent background tints:
-0-50 = good
-51-100 = moderate
-101-150 = unhealthy for sensitive groups
-151-200 = unhealthy
-201-300 = very unhealthy
-301-500 = hazardous
+Transparent background tints for AQI levels
 
 Outlier notes: 394 in Archuleta, Colorado due to prescribed forest burning: 
 https://www.coloradoan.com/story/news/2019/10/17/air-quality-northern-colorado-compromised-due-elk-fire/4007261002/
