@@ -12,7 +12,7 @@ function preload() {
 
 function setup() {
     let c = createCanvas(1100, 1360) // original
-    // let c = createCanvas(1100, 10060) // for full data set
+    // let c = createCanvas(1100, 15500) // for full data set
     background('#e9e4e2');
     ellipseMode();
     stroke('#222323');
@@ -22,7 +22,7 @@ function setup() {
     var regDia = 10;
     var featureDia = 15;
     y = 1250 // for majority data
-    // y = 13000 // for full data
+    // y = 15400 // for full data
 
 // Draw plot lines
     //x axis
@@ -43,7 +43,7 @@ function setup() {
 
     // vertical lines behind the data
     stroke(255);
-    for (i = 0; i < 54; i++) {
+    for (i = 0; i < 200; i++) {
         line(i*20, y, i*20, 10);
     }
 
@@ -107,6 +107,58 @@ plotData("Oregon", 160, 143, 167);
 plotData("Utah", 180, 167, 180);
 plotData("Washington", 200, 180, 210);
 plotData("Wyoming", 220, 210, 229);
+
+// Southwest Region 2
+plotData("Arizona", 240, 229, 242);
+plotData("New Mexico", 260, 242, 260);
+plotData("Oklahoma", 280, 260, 284);
+plotData("Texas", 300, 284, 329);
+
+// Midwest Region 3
+plotData("Illinois", 320, 329, 356);
+plotData("Indiana", 340, 356, 399);
+plotData("Iowa", 360, 399, 419);
+plotData("Kansas", 380, 419, 434);
+plotData("Michigan", 400, 434, 462);
+plotData("Minnesota", 420, 462, 483);
+plotData("Missouri", 440, 483, 504);
+plotData("Nebraska", 460, 504, 515);
+plotData("North Dakota", 480, 515, 525);
+plotData("Ohio", 500, 525, 569);
+plotData("South Dakota", 520, 569, 578);
+plotData("Wisconsin", 540, 578, 611);
+
+// Southeast Region 4
+plotData("Alabama", 560, 611, 630);
+plotData("Arkansas", 580, 630, 647);
+plotData("Delaware", 600, 647, 650);
+plotData("District Of Columbia", 620, 650, 651);
+plotData("Florida", 640, 651, 689);
+plotData("Georgia", 660, 689, 721);
+plotData("Kentucky", 680, 721, 753);
+plotData("Louisiana", 700, 753, 776);
+plotData("Maryland", 720, 776, 792);
+plotData("Mississippi", 740, 792, 805);
+plotData("North Carolina", 760, 805, 851);
+plotData("South Carolina", 780, 851, 871);
+plotData("Tennessee", 800, 871, 896);
+plotData("Virginia", 820, 896, 935);
+plotData("West Virginia", 840, 935, 951);
+plotData("Puerto Rico", 860, 1083, 1093);
+plotData("Virgin Islands", 880, 1093, 1095);
+
+// Northeast Region 5
+plotData("Connecticut", 900, 951, 959);
+plotData("Maine", 920, 959, 971);
+plotData("Massachusetts", 940, 971, 983);
+plotData("New Hampshire", 960, 983, 990);
+plotData("New Jersey", 980, 990, 1006);
+plotData("New York", 1000, 1006, 1040);
+plotData("Pennsylvania", 1020, 1040, 1077);
+plotData("Rhode Island", 1040, 1077, 1080);
+plotData("Vermont", 1060, 1080, 1083);
+
+//   saveCanvas(c, 'scatter2010_AQI', 'png');
 
 
 //////////// ************************ 2019 Data ************************ ////////////
