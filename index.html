@@ -79,10 +79,19 @@
             to fine particles in polluted air</b> that lead to many diseases such as stroke, heart disease, lung cancer, chronic obstructive 
             pulmonary diseases and respiratory infections, including pneumonia. The climate crisis will continue to worsen these existing 
             air pollution levels. </h3>
+            <h3>Observe decade annual reports from 1980 through 2019:</h3>
+            <button class="w3-button w3-black w3-display-left" onclick="plusDivs(-1)">&#10094;</button>
+            <button class="w3-button w3-black w3-display-right" onclick="plusDivs(1)">&#10095;</button>
       </div>
       <div class='visContainer'>
-        <!-- <h4>Pollutant: Ozone</h4> -->
-          <img src="Assets/Scatter2019.svg">
+        <!-- slideshow for all scatter plots, credit to w3schools code sample -->
+        <div class="w3-content w3-display-container">
+          <img class="mySlides" src="Assets/2019Scatter.svg" style="width:100%">
+          <img class="mySlides" src="Assets/2010Scatter.svg" style="width:100%">
+          <img class="mySlides" src="Assets/2000Scatter.svg" style="width:100%">
+          <img class="mySlides" src="Assets/1990Scatter.svg" style="width:100%">
+          <img class="mySlides" src="Assets/1980Scatter.svg" style="width:100%">
+        </div>
       </div>
       <div class='transition'>
           <h3>The frequency and severity of respiratory illnesses such as asthma are expected to increase as a result of the climate crisis. 
@@ -157,5 +166,24 @@
   <!-- <script src="script.js"></script> -->
   <script>initComparisons();</script>
   <script src="particles.js"></script>
+  <script>
+    var slideIndex = 1;
+    showDivs(slideIndex);
+    
+    function plusDivs(n) {
+      showDivs(slideIndex += n);
+    }
+    
+    function showDivs(n) {
+      var i;
+      var x = document.getElementsByClassName("mySlides");
+      if (n > x.length) {slideIndex = 1}
+      if (n < 1) {slideIndex = x.length}
+      for (i = 0; i < x.length; i++) {
+        x[i].style.display = "none";  
+      }
+      x[slideIndex-1].style.display = "block";  
+    }
+    </script>
 </body>
 </html>

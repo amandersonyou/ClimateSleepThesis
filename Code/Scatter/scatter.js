@@ -12,7 +12,7 @@ function preload() {
 
 function setup() {
     let c = createCanvas(1100, 1460) // original
-    // let c = createCanvas(1100, 15500) // for full data set
+    // let c = createCanvas(1100, 15500) // for large data set
     background('#e9e4e2');
     ellipseMode();
     stroke('#222323');
@@ -22,7 +22,7 @@ function setup() {
     var regDia = 10;
     var featureDia = 15;
     y = 1450 // for majority data
-    // y = 15400 // for full data
+    // y = 15400 // for large dataset
 
 // Draw plot lines
     //x axis
@@ -39,7 +39,6 @@ function setup() {
     // line(510, y, 510, y+5); // for 1980 only
     line(890, y, 890, y+5); // for all other years
     // line(830, y, 830, y+5);// for 1980 only
-    // line(1030, y, 1030, y+5);
     
 // tick mark lines on y-axis:
     for (i = 1; i < 200; i++) {
@@ -173,67 +172,67 @@ from csv file: start row value is actual row -2, end row value is one less than 
 //////////// ************************ 1990 Data ************************ ////////////
 
 // West Region 1
-plotData("Alaska", 20, 0, 7);
-plotData("California", 40, 7, 58);
-plotData("Colorado", 60, 58, 86);
-plotData("Hawaii", 80, 86, 90);
-plotData("Idaho", 100, 90, 102);
-plotData("Montana", 120, 102, 123);
-plotData("Nevada", 140, 123, 128);
-plotData("Oregon", 160, 128, 141);
-plotData("Utah", 180, 141, 149);
-plotData("Washington", 200, 149, 165);
-plotData("Wyoming", 220, 165, 172);
+// plotData("Alaska", 20, 0, 7);
+// plotData("California", 40, 7, 58);
+// plotData("Colorado", 60, 58, 86);
+// plotData("Hawaii", 80, 86, 90);
+// plotData("Idaho", 100, 90, 102);
+// plotData("Montana", 120, 102, 123);
+// plotData("Nevada", 140, 123, 128);
+// plotData("Oregon", 160, 128, 141);
+// plotData("Utah", 180, 141, 149);
+// plotData("Washington", 200, 149, 165);
+// plotData("Wyoming", 220, 165, 172);
 
-// Southwest Region 2
-plotData("Arizona", 240, 172, 184);
-plotData("New Mexico", 260, 184, 199);
-plotData("Oklahoma", 280, 199, 210);
-plotData("Texas", 300, 210, 239);
+// // Southwest Region 2
+// plotData("Arizona", 240, 172, 184);
+// plotData("New Mexico", 260, 184, 199);
+// plotData("Oklahoma", 280, 199, 210);
+// plotData("Texas", 300, 210, 239);
 
-// Midwest Region 3
-plotData("Illinois", 320, 239, 267);
-plotData("Indiana", 340, 267, 304);
-plotData("Iowa", 360, 304, 316);
-plotData("Kansas", 380, 316, 325);
-plotData("Michigan", 400, 325, 352);
-plotData("Minnesota", 420, 352, 365);
-plotData("Missouri", 440, 365, 379);
-plotData("Nebraska", 460, 379, 386);
-plotData("North Dakota", 480, 386, 398);
-plotData("Ohio", 500, 389, 442);
-plotData("South Dakota", 520, 442, 446);
-plotData("Wisconsin", 540, 446, 475);
+// // Midwest Region 3
+// plotData("Illinois", 320, 239, 267);
+// plotData("Indiana", 340, 267, 304);
+// plotData("Iowa", 360, 304, 316);
+// plotData("Kansas", 380, 316, 325);
+// plotData("Michigan", 400, 325, 352);
+// plotData("Minnesota", 420, 352, 365);
+// plotData("Missouri", 440, 365, 379);
+// plotData("Nebraska", 460, 379, 386);
+// plotData("North Dakota", 480, 386, 398);
+// plotData("Ohio", 500, 389, 442);
+// plotData("South Dakota", 520, 442, 446);
+// plotData("Wisconsin", 540, 446, 475);
 
-// Southeast Region 4
-plotData("Alabama", 560, 475, 498);
-plotData("Arkansas", 580, 498, 517);
-plotData("Delaware", 600, 517, 520);
-plotData("District Of Columbia", 620, 520, 521);
-plotData("Florida", 640, 521, 538);
-plotData("Georgia", 660, 538, 554);
-plotData("Kentucky", 680, 554, 577);
-plotData("Louisiana", 700, 577, 596);
-plotData("Maryland", 720, 596, 609);
-plotData("Mississippi", 740, 609, 621);
-plotData("North Carolina", 760, 621, 646);
-plotData("South Carolina", 780, 646, 665);
-plotData("Tennessee", 800, 665, 697);
-plotData("Virginia", 820, 697, 739);
-plotData("West Virginia", 840, 739, 751);
-plotData("Puerto Rico", 860, 877, 888);
-plotData("Virgin Islands", 880, 888, 890);
+// // Southeast Region 4
+// plotData("Alabama", 560, 475, 498);
+// plotData("Arkansas", 580, 498, 517);
+// plotData("Delaware", 600, 517, 520);
+// plotData("District Of Columbia", 620, 520, 521);
+// plotData("Florida", 640, 521, 538);
+// plotData("Georgia", 660, 538, 554);
+// plotData("Kentucky", 680, 554, 577);
+// plotData("Louisiana", 700, 577, 596);
+// plotData("Maryland", 720, 596, 609);
+// plotData("Mississippi", 740, 609, 621);
+// plotData("North Carolina", 760, 621, 646);
+// plotData("South Carolina", 780, 646, 665);
+// plotData("Tennessee", 800, 665, 697);
+// plotData("Virginia", 820, 697, 739);
+// plotData("West Virginia", 840, 739, 751);
+// plotData("Puerto Rico", 860, 877, 888);
+// plotData("Virgin Islands", 880, 888, 890);
 
-// Northeast Region 5
-plotData("Connecticut", 900, 751, 759);
-plotData("Maine", 920, 759, 772);
-plotData("Massachusetts", 940, 772, 783);
-plotData("New Hampshire", 960, 783, 791);
-plotData("New Jersey", 980, 791, 807);
-plotData("New York", 1000, 807, 840);
-plotData("Pennsylvania", 1020, 840, 870);
-plotData("Rhode Island", 1040, 870, 872);
-plotData("Vermont", 1060, 872, 877);
+// // Northeast Region 5
+// plotData("Connecticut", 900, 751, 759);
+// plotData("Maine", 920, 759, 772);
+// plotData("Massachusetts", 940, 772, 783);
+// plotData("New Hampshire", 960, 783, 791);
+// plotData("New Jersey", 980, 791, 807);
+// plotData("New York", 1000, 807, 840);
+// plotData("Pennsylvania", 1020, 840, 870);
+// plotData("Rhode Island", 1040, 870, 872);
+// plotData("Vermont", 1060, 872, 877);
 
 //   saveCanvas(c, 'scatter1990_AQI', 'png');
 

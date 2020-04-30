@@ -22,8 +22,8 @@ body {
     font-size: 70px;
     font-weight: bold;
     text-align: center;
-    margin-top: 500px;
-    margin-bottom: 500px;
+    margin-top: 300px;
+    margin-bottom: 400px;
   }
 
   .intro {
@@ -109,6 +109,7 @@ body {
     margin-left: 30px;
   }
 
+  .mySlides {display:none;}
 
   h5{
     font-family: 'Playfair Display', serif;
