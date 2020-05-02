@@ -1,4 +1,4 @@
-// 2019 Scatterplot for thesis project. Looks at county and state max and median AQI values from 1980-2019 at 10 year increments.
+// Scatterplot for thesis project. Looks at county and state max and median AQI values from 1980-2019 at 10 year increments.
 // Data Source: https://aqs.epa.gov/aqsweb/airdata/download_files.html#Annual
 // require https://cdnjs.cloudflare.com/ajax/libs/p5.js/0.5.14/p5.js
 
