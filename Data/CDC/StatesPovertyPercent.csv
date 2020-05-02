@@ -1,52 +1,38 @@
-stateFIPS,State,Year,Value,Data Comment
-1,Alabama,2017,16.90%,
-2,Alaska,2017,11.00%,
-4,Arizona,2017,14.90%,
-5,Arkansas,2017,16.30%,
-6,California,2017,13.30%,
-8,Colorado,2017,10.30%,
-9,Connecticut,2017,9.70%,
-10,Delaware,2017,13.00%,
-11,District of Columbia,2017,16.60%,
-12,Florida,2017,14.10%,
-13,Georgia,2017,15.10%,
-15,Hawaii,2017,9.50%,
-16,Idaho,2017,12.60%,
-17,Illinois,2017,12.50%,
-18,Indiana,2017,13.30%,
-19,Iowa,2017,10.80%,
-20,Kansas,2017,11.90%,
-21,Kentucky,2017,17.10%,
-22,Louisiana,2017,19.60%,
-23,Maine,2017,11.30%,
-24,Maryland,2017,9.40%,
-25,Massachusetts,2017,10.50%,
-26,Michigan,2017,14.10%,
-27,Minnesota,2017,9.50%,
-28,Mississippi,2017,19.90%,
-29,Missouri,2017,13.40%,
-30,Montana,2017,12.70%,
-31,Nebraska,2017,10.70%,
-32,Nevada,2017,13.30%,
-33,New Hampshire,2017,7.70%,
-34,New Jersey,2017,10.00%,
-35,New Mexico,2017,19.00%,
-36,New York,2017,14.10%,
-37,North Carolina,2017,14.70%,
-38,North Dakota,2017,10.20%,
-39,Ohio,2017,13.90%,
-40,Oklahoma,2017,15.80%,
-41,Oregon,2017,13.20%,
-42,Pennsylvania,2017,12.50%,
-44,Rhode Island,2017,12.30%,
-45,South Carolina,2017,15.40%,
-46,South Dakota,2017,12.80%,
-47,Tennessee,2017,15.00%,
-48,Texas,2017,14.70%,
-49,Utah,2017,9.70%,
-50,Vermont,2017,10.80%,
-51,Virginia,2017,10.70%,
-53,Washington,2017,11.00%,
-54,West Virginia,2017,18.50%,
-55,Wisconsin,2017,11.30%,
-56,Wyoming,2017,10.80%,
+stateFIPS,State,Year,Value,ValueNum,Region
+,,,,0,
+6,California,2017,13.30%,13.3,1
+32,Nevada,2017,13.30%,13.3,2
+49,Utah,2017,9.70%,9.7,3
+4,Arizona,2017,14.90%,14.9,4
+35,New Mexico,2017,19.00%,19,5
+40,Oklahoma,2017,15.80%,15.8,6
+48,Texas,2017,14.70%,14.7,7
+17,Illinois,2017,12.50%,12.5,8
+18,Indiana,2017,13.30%,13.3,9
+19,Iowa,2017,10.80%,10.8,10
+20,Kansas,2017,11.90%,11.9,11
+26,Michigan,2017,14.10%,14.1,12
+27,Minnesota,2017,9.50%,9.5,13
+29,Missouri,2017,13.40%,13.4,14
+31,Nebraska,2017,10.70%,10.7,15
+38,North Dakota,2017,10.20%,10.2,16
+39,Ohio,2017,13.90%,13.9,17
+46,South Dakota,2017,12.80%,12.8,18
+55,Wisconsin,2017,11.30%,11.3,19
+1,Alabama,2017,16.90%,16.9,20
+5,Arkansas,2017,16.30%,16.3,21
+10,Delaware,2017,13.00%,13,22
+12,Florida,2017,14.10%,14.1,23
+13,Georgia,2017,15.10%,15.1,24
+21,Kentucky,2017,17.10%,17.1,25
+22,Louisiana,2017,19.60%,19.6,26
+24,Maryland,2017,9.40%,9.4,27
+28,Mississippi,2017,19.90%,19.9,28
+37,North Carolina,2017,14.70%,14.7,29
+45,South Carolina,2017,15.40%,15.4,30
+47,Tennessee,2017,15.00%,15,31
+51,Virginia,2017,10.70%,10.7,32
+9,Connecticut,2017,9.70%,9.7,33
+34,New Jersey,2017,10.00%,10,34
+36,New York,2017,14.10%,14.1,35
+42,Pennsylvania,2017,12.50%,12.5,36

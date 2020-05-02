@@ -1605,6 +1605,7 @@ stateFIPS,State,countyFIPS,County,Year,Value,Region,Absolute Threshold,Emissions
 28,Mississippi,28159,Winston,2020,5,4,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
 28,Mississippi,28161,Yalobusha,2020,5,4,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
 28,Mississippi,28163,Yazoo,2020,16,4,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
+28,Mississippi,28075,Lauderdale,2020,5,4,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
 37,North Carolina,37001,Alamance,2020,3,4,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
 37,North Carolina,37007,Anson,2020,7,4,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
 37,North Carolina,37013,Beaufort,2020,15,4,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
@@ -1868,4 +1869,3 @@ stateFIPS,State,countyFIPS,County,Year,Value,Region,Absolute Threshold,Emissions
 42,Pennsylvania,42045,Delaware,2020,7,5,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
 42,Pennsylvania,42055,Franklin,2020,1,5,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
 42,Pennsylvania,42101,Philadelphia,2020,6,5,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
-28,Mississippi,28075,Lauderdale,2020,5,,Absolute Threshold: 75 degrees F,Emissions Scenario: Low Emissions (B1)
