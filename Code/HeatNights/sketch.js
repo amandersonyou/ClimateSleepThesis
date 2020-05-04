@@ -24,14 +24,10 @@ function preload() {
 }
 
 function setup() {
-    let c = createCanvas(2900, 4000) // original
-    // let c = createCanvas(1100, 15500) // for large data set
-    background('#e9e4e2');
+    let c = createCanvas(2700, 3700) // original
+    // let c = createCanvas(700, 600) // legend
+    // background('#e9e4e2');
     ellipseMode();
-    
-    // stroke('#222323');
-    // stroke(131, 131, 169);
-    // strokeWeight(.75);
 
     var tableNow = heatNow;
     var tableFuture = heatFuture;
@@ -43,32 +39,25 @@ function setup() {
     row = 100
 
 
-// lines for each state
+// Lines for each state
     stroke(255);
     for (i = 1; i < 37; i++) {
-        // line(i*20, y, i*20, 10);
-        line(x, i*lineSpacing, lineWidth, i*lineSpacing);
-    }
-
-    
+        line(50, i*lineSpacing, lineWidth, i*lineSpacing);
+        text("test");
+    }    
 
 
-
-// Plot 2020 data
+/////////////////////////// Plot 2020 data ///////////////////////////
 function plotData(state, startR, endR) {
-    stroke(255,99,47);
-    // noStroke();
+    stroke(250,114,104);
     x=150;
     spacing = 10;
     for (var r=startR; r<endR; r++){
         if (tableNow.getString(r, 1) == state)
-            fill(255, 99, 47, 100);
+            fill(250,114,104,100);
             var heatNVal = (tableNow.getNum(r, 5));
             ellipse(x, row, heatNVal, heatNVal);
-            // fill(131, 131, 169, 10);
-            // arc(x, row, heatNVal, heatNVal, 0, PI + QUARTER_PI-.79, CHORD);
             x+=spacing;
-            // console.log(heatNVal);
     }
     row += 100;
 
@@ -80,13 +69,11 @@ plotData("California", 0, 20);
 plotData("Nevada", 21, 23);
 plotData("Utah", 23, 26);
 
-
 // Southwest
 plotData("Arizona", 26, 36);
 plotData("New Mexico", 36, 41);
 plotData("Oklahoma", 41, 117);
 plotData("Texas", 117, 347);
-
 
 // Midwest
 plotData("Illinois", 347, 448);
@@ -101,7 +88,6 @@ plotData("North Dakota", 941, 945);
 plotData("Ohio", 945, 969);
 plotData("South Dakota", 969, 1008);
 plotData("Wisconsin", 1008, 1039);
-
 
 // Southeast
 plotData("Alabama", 1039, 1097);
@@ -118,7 +104,6 @@ plotData("South Carolina", 1677, 1720);
 plotData("Tennessee", 1720, 1761);
 plotData("Virginia", 1761, 1834);
 
-
 // Northeast
 plotData("Connecticut", 1835, 1838);
 plotData("New Jersey", 1839, 1855);
@@ -127,21 +112,19 @@ plotData("Pennsylvania", 1865, 1870);
 
 
 
-/////////////////////////// function to plot 2050 //////////////////////////
+// /////////////////////////// Plot 2050 data //////////////////////////
 row = 100
 function plotFuture(state, startR, endR) {
-    stroke(191, 13, 169);
+    stroke(230,30,80);
     // noStroke();
     x=150;
     spacing = 10;
     for (var r=startR; r<endR; r++){
         if (tableFuture.getString(r, 1) == state)
             var heatFVal = (tableFuture.getNum(r, 5));
-            // ellipse(x, row, heatNVal, heatNVal);
-            fill(191, 13, 169, 100);
+            fill(230,30,80, 100);
             arc(x, row, heatFVal, heatFVal, 0, PI + QUARTER_PI-.79, CHORD);
             x+=spacing;
-            // console.log(heatNVal);
     }
     row += 100;
 }
@@ -151,13 +134,11 @@ plotFuture("California", 0, 29);
 plotFuture("Nevada", 34, 38);
 plotFuture("Utah", 38, 43);
 
-
 // Southwest
 plotFuture("Arizona", 45, 58);
 plotFuture("New Mexico", 58, 69);
 plotFuture("Oklahoma", 69, 146);
 plotFuture("Texas", 146, 389);
-
 
 // Midwest
 plotFuture("Illinois", 389, 491);
@@ -172,7 +153,6 @@ plotFuture("North Dakota", 1059, 1064);
 plotFuture("Ohio", 1064, 1118);
 plotFuture("South Dakota", 1118, 1170);
 plotFuture("Wisconsin", 1170, 1216);
-
 
 // Southeast
 plotFuture("Alabama", 1216, 1281);
@@ -189,7 +169,6 @@ plotFuture("South Carolina", 1881, 1925);
 plotFuture("Tennessee", 1925, 1971);
 plotFuture("Virginia", 1971, 2062);
 
-
 // Northeast
 plotFuture("Connecticut", 2067, 2072);
 plotFuture("New Jersey", 2080, 2100);
@@ -197,28 +176,97 @@ plotFuture("New York", 2100, 2126);
 plotFuture("Pennsylvania", 2126, 2143);
 
 
-x= 100
-y = 100
-// bars for poverty
 
+x= 20
+y = 100
+// bars for percent of population in poverty
 for (i = 0; i < tablePov.getRowCount(); i++) {
     noStroke();
-    fill(111,212,60);
-    var povVal = (tablePov.getNum(i, 4));
-    rect(x-10, i*y, 10, povVal)
+    // fill(84,141,219, 230);
+    fill(72,186,145);
+    var povVal = (tablePov.getNum(i, 4)*2);
+    rect(x-10, (i*y), 10, -povVal)
     console.log(povVal);
 }
 
-
-// bars for 65+ age group
-
+// bars for percent of population 65+ years old
 for (i = 0; i < tableEld.getRowCount(); i++) {
     noStroke();
-    fill(19,94,8);
-    var eldVal = (tableEld.getNum(i, 7));
-    rect(x-20, (i*lineSpacing), 10, eldVal)
+    // fill(60,64,143,230); 
+    fill(28,74,58);
+    var eldVal = (tableEld.getNum(i, 7)*2);
+    rect(x, (i*y), 10, -eldVal)
 }
 
 
+
+
+
+//////////////// Legend Details ////////////////
+
+// values x2 
+//    noStroke();
+// //    fill("#222323");
+// fill(72,186,145);
+//    // for 5
+//    rect(145, 100, 10, -10);
+//    // for 10
+//    fill(60,64,143,230); 
+//    rect(130, 100, 10, -20);
+//    // for 20
+//    fill(72,186,145);
+//    rect(115, 100, 10, -40);
+
+
+
+
+   // 65 & older: max is 20.5, min ~11
+
+// fill(230,30,80, 100);
+// stroke(230,30,80)
+// arc(100, 100, 10, 10, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(100, 100, 30, 30, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(100, 100, 50, 50, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(100, 100, 70, 70, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(100, 100, 90, 90, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(100, 100, 110, 110, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(100, 100, 130, 130, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(100, 100, 150, 150, 0, PI + QUARTER_PI-.79, CHORD);
+
+
+// fill(230,30,80, 100);
+// stroke(230,30,80);
+// arc(10, 300, 10, 10, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(30, 300, 30, 30, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(70, 300, 50, 50, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(130, 300, 70, 70, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(210, 300, 90, 90, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(310, 300, 110, 110, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(430, 300, 130, 130, 0, PI + QUARTER_PI-.79, CHORD);
+// arc(570, 300, 150, 150, 0, PI + QUARTER_PI-.79, CHORD);
+
+// fill(250,114,104,100);
+// stroke(250,114,104);
+// ellipse(10, 500, 10, 10)
+// ellipse(30, 500, 30, 30);
+// ellipse(70, 500, 50, 50);
+// ellipse(130, 500, 70, 70);
+// ellipse(210, 500, 90, 90);
+// ellipse(310, 500, 110, 110);
+// ellipse(430, 500, 130, 130);
+// ellipse(570, 500, 150, 150);
+
+
+// ellipse(300, 100, 10, 10)
+// ellipse(300, 100, 30, 30);
+// ellipse(300, 100, 50, 50);
+// ellipse(300, 100, 70, 70);
+// ellipse(300, 100, 90, 90);
+// ellipse(300, 100, 110, 110);
+// ellipse(300, 100, 130, 130);
+// ellipse(300, 100, 150, 150);
+
+
+    // saveCanvas(c, 'HeatNights', 'png');
 
 }
