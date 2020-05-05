@@ -226,7 +226,7 @@ body {
     width: 50%;
   } */
   
-  /* button {
+button {
     margin-top: 30px;
     border: none;
     background-color: #222323;
@@ -236,6 +236,6 @@ body {
     font-size: 14px;
   } 
   
-  .disabledButton {
+  /* .disabledButton {
     background-color: #d8d8d8;
   } */ 
