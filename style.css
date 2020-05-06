@@ -61,7 +61,6 @@ body {
     font-size: 24px;
     font-weight: normal;
     text-align: left;
-    /* background-color: crimson */
   }
 
   .fullStretch {
@@ -71,38 +70,17 @@ body {
     margin-bottom: 200px;
   }
 
-  .legend {
-    position: sticky
-  }
-
-/* Asthma and Sleep visual description */
-.stickyDescrip{
+  .wideDescript {
     display:grid;
-    grid-template-columns: 1.5fr 2fr;
-    margin-right: 50px;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     grid-gap: 1em;
-    grid-auto-rows:minmax(100px, auto);
-    padding: 2em;
-    /* position: -webkit-sticky; */
-    position: sticky;
-    top: 10px;
-    margin-left: 3em;
-    /* background-color: fuchsia */
-  }
-
-  /* scrolling Asthma/Sleep visualization png */
-  .mainVisContainer {
-    display: grid;
-    grid-template-columns: 1.5fr 3fr;
-    padding: 2em;
-    text-align: right;
-    margin-right: 20px;
-    margin-left: 100px;
-    background-color: aliceblue
+    padding: 1em;
+    margin-left: 2em;
   }
 
   .description {
     margin-right: 30px;
+    position: sticky;
   }
 
   .visContainer {
@@ -152,82 +130,6 @@ body {
 
   }
 
-
-  /***************** SLIDER TOOL CONTAINERS *****************/
-
-  .img-comp-container {
-    position: relative;
-    height: 700px;
-    margin:0px;
-    /* display: grid */
-    /* width: 75%; */
-    margin-bottom: 40px;
-    /* margin-left: 300px; */
-  }
-
-  .img-comp-img {
-    position: absolute;
-    width: auto;
-    height: auto;
-    overflow:hidden;
-  }
-
-  .img-comp-img img {
-    display:block;
-    vertical-align: middle;
-    justify-items: center;
-    /* border-radius: 35px; */
-  }
-
-  .img-comp-slider {
-    position: absolute;
-    z-index:9;
-    cursor: ew-resize;
-    /*set the appearance of the slider:*/
-    width: 40px;
-    height: 40px;
-    background-color: #222323;
-    opacity: .8;
-    border-radius: 50%;
-  }
-  
-   /* .comparison {
-    display: grid;
-    grid-template-columns: 1fr 3fr;
-    grid-column-gap: 0px;
-    margin-top: 50px;
-    } */
-
-
-
-  /* .nav-bar {
-    background: linear-gradient(-90deg, #84CF6A, #16C0B0);
-    height: 60px;
-    margin-bottom: 15px;
-  } */
-
-  /* .product {
-    display: flex;
-    flex-flow: wrap;
-    padding: 1rem;
-  }
-
-  img {
-    border: 1px solid #d8d8d8;
-    width: 70%;
-    margin: 40px;
-    box-shadow: 0px .5px 1px #d8d8d8;
-  } */
-  
-  /* .product-image {
-    width: 80%;
-  }
-  
-  .product-image,
-  .product-info {
-    margin-top: 10px;
-    width: 50%;
-  } */
   
 button {
     margin-top: 30px;
@@ -238,7 +140,3 @@ button {
     width: 120px;
     font-size: 14px;
   } 
-  
-  /* .disabledButton {
-    background-color: #d8d8d8;
-  } */ 
