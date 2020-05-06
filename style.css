@@ -1,6 +1,6 @@
 body {
     font-family: 'Barlow', sans-serif;
-    font-size: 16px;
+    font-size: 20px;
     font-weight: normal;
     text-align: left;
     color:#222323;
@@ -50,7 +50,7 @@ body {
   /* paragraph text content */
   h3 {
     font-family: 'Barlow', sans-serif;
-    font-size: 18px;
+    font-size: 20px;
     font-weight: normal;
     text-align: left;
   }
@@ -66,8 +66,9 @@ body {
 
   .fullStretch {
     display: grid;
-    grid-template-columns: 1fr, 7fr;
-    padding: 5em;
+    grid-template-columns: 1fr;
+    padding: 3em;
+    margin-bottom: 200px;
   }
 
   .legend {
@@ -106,8 +107,9 @@ body {
 
   .visContainer {
     padding: 2em;
-    margin-top: 30px;
+    /* margin-top: 10px; */
     margin-left: 30px;
+    margin-bottom: 100px;
   }
 
   .mySlides {display:none;}
@@ -120,8 +122,8 @@ body {
   }
   
   .transition {
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 300px;
+    margin-bottom: 300px;
   }
 
   .factoid {
@@ -133,19 +135,20 @@ body {
     text-justify: center;
     margin-left: 100px;
     margin-right: 100px;
-    margin-top: 200px;
-    margin-bottom: 200px;
+    margin-top: 300px;
+    margin-bottom: 300px;
   }
 
   .methodology {
     display: grid;
-    grid-template-columns: 1fr 2fr 1fr;
+    grid-template-columns: 1fr;
     font-family: 'Barlow', sans-serif;
     font-size: 20px;
     font-weight: normal;
     text-align: center;
-    margin-top: 200px;
-    margin-bottom: 100px;
+    /* margin-top: 100px; */
+    /* margin-bottom: 100px; */
+    padding: 5em;
 
   }
 
