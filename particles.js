@@ -3,11 +3,11 @@
 let particles = [];
 
 function windowResized() {
-    resizeCanvas(windowWidth, 900);
+    resizeCanvas(windowWidth, 1080);
 }
 
 function setup() {
-    canvas = createCanvas(windowWidth, 900);
+    canvas = createCanvas(windowWidth, 1080);
     canvas.position(0,0);
     canvas.style('z-index', '-1');
     frameRate(35);
@@ -33,7 +33,7 @@ class Particle {
 
     constructor() {
         this.x = random(0, windowWidth);
-        this.y = 900;
+        this.y = 1080;
         this.vx = random(-1, 1);
         this.vy = random(-7, -1);
         this.alpha = 255;
