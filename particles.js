@@ -10,7 +10,7 @@ function setup() {
     canvas = createCanvas(windowWidth, 1080);
     canvas.position(0,0);
     canvas.style('z-index', '-1');
-    frameRate(35);
+    frameRate(30);
 }
 
 function draw() {
