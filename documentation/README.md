@@ -29,15 +29,15 @@ Climate & Sleep visualizes the impact the climate crisis has on one of our most 
 
 
 ### Visualizations:
-![Sleep Health](documentation/1.png "Sleep Health Risks")
+![Sleep Health](1.png "Sleep Health Risks")
 
-![Air Quality 1980-2019](documentation/2.png "Air Quality Scatterplot")
+![Air Quality 1980-2019](2.png "Air Quality Scatterplot")
 
-![Asthma and Sleep](documentation/3.png "Asthma and Sleep Prevelance")
+![Asthma and Sleep](3.png "Asthma and Sleep Prevelance")
 
-![Allergy Season](documentation/4.png "Ragweed Allergen Season")
+![Allergy Season](4.png "Ragweed Allergen Season")
 
-![Extreme Heat Nights 2020 & 2050](documentation/5.png "Extreme Heat Nights")
+![Extreme Heat Nights 2020 & 2050](5.png "Extreme Heat Nights")
 
 
 
