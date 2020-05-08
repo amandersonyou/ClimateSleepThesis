@@ -6,7 +6,7 @@ Masters Thesis in Data Visualization from Parsons School of Design, May 2020
 
 By: Amanda Anderson-You
 
-[Visualization Website](https://amandersonyou.github.io/ClimateSleepThesis)
+[Project Website](https://amandersonyou.github.io/ClimateSleepThesis)
 
 ![PreviewImage](preview.png "Project Preview")
 
@@ -18,12 +18,13 @@ Climate & Sleep focuses on the implications of the climate crisis on one of our 
 
 ### Data Sources: 
 
-[CDC Sleep & Sleep Disorders](https://www.cdc.gov/sleep/data_statistics.html)
-[EPA Air Quality Data](https://www.epa.gov/outdoor-air-quality-data)
-[CDC 500 Cities Data](https://www.cdc.gov/500cities/index.htm)
-[EPA Climate Change Indicators](https://www.epa.gov/climate-indicators/climate-change-indicators-ragweed-pollen-season)
-[CDC Population Health](https://ephtracking.cdc.gov/showPopulationData)
-[CDC Climate Change Tracking](https://ephtracking.cdc.gov/showClimateChangeTracking)
+- [CDC Sleep & Sleep Disorders](https://www.cdc.gov/sleep/data_statistics.html)
+- [EPA Air Quality Data](https://www.epa.gov/outdoor-air-quality-data)
+- [CDC 500 Cities Data](https://www.cdc.gov/500cities/index.htm)
+- [EPA Climate Change Indicators](https://www.epa.gov/climate-indicators/climate-change-indicators-ragweed-pollen-season)
+- [CDC Population Health](https://ephtracking.cdc.gov/showPopulationData)
+- [CDC Climate Change Tracking](https://ephtracking.cdc.gov/showClimateChangeTracking)
+
 
 
 
@@ -37,3 +38,10 @@ Climate & Sleep focuses on the implications of the climate crisis on one of our 
 ![Allergy Season](4.png "Ragweed Allergen Season")
 
 ![Extreme Heat Nights 2020 & 2050](5.png "Extreme Heat Nights")
+
+
+### Methodology:
+To come! 
+
+### Acknowledgements:
+Thank you to all of my fantastic professors at Parsons, specifically Daniel Sauter and Aaron Hill. Thank you also to my wonderfully talented 2020 MSDV cohort for their support, advice, and humor along the way. View all of the graduating students' projects [here](https://parsons.nyc/thesis-2020/).
